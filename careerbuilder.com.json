@@ -1,10 +1,20 @@
 {
   "entity_id": "96e943c1-6153-5e68-9b69-90ef8f7a3e4b",
   "name": "CareerBuilder",
-  "what_it_does": "Provides app.",
+  "what_it_does": "CareerBuilder is a job board that connects employers with job seekers.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
+  "keywords": [
+    "job board",
+    "career site",
+    "job search",
+    "recruitment",
+    "employment",
+    "job listings",
+    "resume database",
+    "candidate search"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/96e943c1-6153-5e68-9b69-90ef8f7a3e4b"
 }

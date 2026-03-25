@@ -1,10 +1,17 @@
 {
   "entity_id": "da132b3b-5a6f-5762-b643-49f596667101",
   "name": "Boeing",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Boeing designs, manufactures, and sells commercial airplanes, defense, space, and security systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "commercial airplanes",
+    "defense systems",
+    "space systems",
+    "security systems",
+    "aerospace"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/da132b3b-5a6f-5762-b643-49f596667101"
 }

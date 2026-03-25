@@ -1,10 +1,17 @@
 {
   "entity_id": "55c57dd5-be1e-5390-ad45-69cb5b05c08c",
   "name": "Givaudan",
-  "what_it_does": "Provides app, delivery, menu.",
+  "what_it_does": "Givaudan develops and manufactures flavors and fragrances for the food, beverage, consumer goods, and fragrance industries.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "flavors",
+    "fragrances",
+    "food",
+    "beverage",
+    "consumer goods"
+  ],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/55c57dd5-be1e-5390-ad45-69cb5b05c08c"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "39ce2b4f-065b-5b39-9fcf-712342c64e2e",
   "name": "Tamedia Publications romandes S.A.",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Tamedia Publications romandes S.A. publishes the Swiss newspaper *Tribune de Genève*.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "Tribune de Geneve",
+    "Swiss newspaper",
+    "Geneva news",
+    "news publication",
+    "print journalism",
+    "local news",
+    "Swiss media",
+    "regional newspaper"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/39ce2b4f-065b-5b39-9fcf-712342c64e2e"
 }

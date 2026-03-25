@@ -1,10 +1,20 @@
 {
   "entity_id": "40766234-e5a2-58c5-8202-0ac8002f6cf4",
   "name": "Learn to Code",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Codecademy is an online interactive platform that offers coding courses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "coding education",
+    "programming courses",
+    "interactive learning",
+    "skill development",
+    "code training",
+    "technical skills",
+    "web development courses",
+    "coding tutorials"
+  ],
   "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/40766234-e5a2-58c5-8202-0ac8002f6cf4"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "2dc2db58-06e8-5c80-a331-ce9761bf37bc",
   "name": "Éditions Nathan",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Éditions Nathan publishes educational books and resources.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
+  "keywords": [
+    "educational books",
+    "teaching resources",
+    "textbooks",
+    "children's books",
+    "educational materials",
+    "schoolbooks",
+    "French education",
+    "academic publishing"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2dc2db58-06e8-5c80-a331-ce9761bf37bc"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "17053f6f-7644-5979-b559-f8ecfe9256c4",
   "name": "Strategic Digital Assets",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Glovo provides a delivery platform for ordering various items from local businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "Multi-category delivery",
+    "Restaurant delivery",
+    "On-demand delivery",
+    "Grocery delivery",
+    "Courier ",
+    "Food delivery",
+    "Local delivery",
+    "Quick commerce"
+  ],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/17053f6f-7644-5979-b559-f8ecfe9256c4"
 }

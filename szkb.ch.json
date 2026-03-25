@@ -1,10 +1,14 @@
 {
   "entity_id": "e258340a-1faa-50e6-811b-c6ed66c3bf79",
   "name": "Schwyzer Kantonalbank",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "Schwyzer Kantonalbank is a cantonal bank providing financial services to residents and businesses in the Canton of Schwyz.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "banking",
+    "financial"
+  ],
   "aio_score": 29.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e258340a-1faa-50e6-811b-c6ed66c3bf79"
 }

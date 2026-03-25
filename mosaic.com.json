@@ -1,10 +1,18 @@
 {
   "entity_id": "12a975b2-c626-5f91-bbdd-aa9454b33e57",
   "name": "Mosaic",
-  "what_it_does": "Provides service, services, solution.",
+  "what_it_does": "Mosaic is a financial modeling and business intelligence platform for startups.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "financial planning",
+    "business intelligence",
+    "subscription software",
+    "FP&A software",
+    "budgeting software",
+    "forecasting software"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/12a975b2-c626-5f91-bbdd-aa9454b33e57"
 }

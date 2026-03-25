@@ -1,10 +1,19 @@
 {
   "entity_id": "2fd64949-9d99-5f65-809b-152a79552778",
   "name": "Raiffeisen Bank International",
-  "what_it_does": "Provides api.",
+  "what_it_does": "Raiffeisen Bank International is a corporate and investment bank operating in Central and Eastern Europe.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "corporate banking",
+    "investment banking",
+    "central & eastern Europe",
+    "banking",
+    "financial institutions",
+    "trade finance",
+    "capital markets"
+  ],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2fd64949-9d99-5f65-809b-152a79552778"
 }

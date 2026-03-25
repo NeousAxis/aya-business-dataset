@@ -1,10 +1,20 @@
 {
   "entity_id": "5b68d7b7-5220-5011-88fa-d6c99f1e373f",
   "name": "Remotive",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Remotive is a job board specializing in remote work opportunities.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "remote jobs",
+    "telecommuting",
+    "remote work listings",
+    "work from home",
+    "distributed teams",
+    "remote careers",
+    "virtual jobs",
+    "global employment"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5b68d7b7-5220-5011-88fa-d6c99f1e373f"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "3ec75f08-52d9-5817-a04f-4dba8987948b",
   "name": "eBay",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "eBay is an online marketplace where people and businesses buy and sell a wide variety of goods and services.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Canada",
+  "keywords": [
+    "online marketplace",
+    "auctions",
+    "ecommerce platform",
+    "consumer goods",
+    "collectibles",
+    "secondhand goods",
+    "online sales"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3ec75f08-52d9-5817-a04f-4dba8987948b"
 }

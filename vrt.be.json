@@ -1,10 +1,19 @@
 {
   "entity_id": "5b244ab8-0a2f-53cf-86c2-b0292093d958",
   "name": "VRT",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "VRT (Vlaamse Radio- en Televisieomroeporganisatie) is the public broadcasting organization of the Flemish Community of Belgium.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Belgium",
+  "keywords": [
+    "Flemish broadcaster",
+    "public broadcasting",
+    "television broadcasting",
+    "radio broadcasting",
+    "Flanders media",
+    "Belgian media",
+    "news broadcasting"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5b244ab8-0a2f-53cf-86c2-b0292093d958"
 }

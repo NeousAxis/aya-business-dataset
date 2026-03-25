@@ -1,10 +1,19 @@
 {
   "entity_id": "6111009a-8e88-5284-9230-e0b561b141cc",
   "name": "Armani",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Armani sells luxury clothing, accessories, and home goods.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
+  "keywords": [
+    "luxury apparel",
+    "designer clothing",
+    "high-end accessories",
+    "fashion retail",
+    "home furnishings",
+    "Armani brand",
+    "luxury goods"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6111009a-8e88-5284-9230-e0b561b141cc"
 }

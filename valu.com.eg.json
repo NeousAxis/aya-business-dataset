@@ -1,10 +1,20 @@
 {
   "entity_id": "676e6a06-96ff-5b1c-a77b-a328ca1789c9",
   "name": "Valu",
-  "what_it_does": "Provides app, application, consulting.",
+  "what_it_does": "Valu provides consumer finance and buy-now-pay-later services in Egypt.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "consumer finance",
+    "buy now pay later",
+    "installment payments",
+    "egypt fintech",
+    "retail finance",
+    "point of sale finance",
+    "e-commerce finance",
+    "BNPL services"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/676e6a06-96ff-5b1c-a77b-a328ca1789c9"
 }

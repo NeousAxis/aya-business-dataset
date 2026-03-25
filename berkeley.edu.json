@@ -1,10 +1,20 @@
 {
   "entity_id": "8b9f6a66-ae65-59d8-80f9-c318c78774ed",
   "name": "University of California, Berkeley",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "The University of California, Berkeley is a public research university offering undergraduate and graduate programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "public research university",
+    "undergraduate programs",
+    "graduate programs",
+    "higher education",
+    "liberal arts",
+    "engineering school",
+    "California university",
+    "academic research"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8b9f6a66-ae65-59d8-80f9-c318c78774ed"
 }

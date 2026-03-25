@@ -1,10 +1,18 @@
 {
   "entity_id": "2f50c6f0-d603-5ae5-9220-04c61ea9e999",
   "name": "Inflection AI",
-  "what_it_does": "Provides api, product, service.",
+  "what_it_does": "Inflection AI is an artificial intelligence research and development company focused on creating personal AI.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "generative AI models",
+    "artificial intelligence",
+    "AI research",
+    "machine learning",
+    "natural language processing",
+    "large language models"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2f50c6f0-d603-5ae5-9220-04c61ea9e999"
 }

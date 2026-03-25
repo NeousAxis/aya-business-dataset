@@ -1,10 +1,20 @@
 {
   "entity_id": "20273e6c-3b17-51fb-8df0-b67c327a025c",
   "name": "Shop Online",
-  "what_it_does": "Provides app, delivery, menu.",
+  "what_it_does": "Benetton sells clothing online in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss clothing",
+    "Benetton fashion",
+    "Italian apparel",
+    "e-commerce clothing",
+    "casual wear",
+    "online apparel retail",
+    "clothing Switzerland",
+    "fashion retail"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/20273e6c-3b17-51fb-8df0-b67c327a025c"
 }

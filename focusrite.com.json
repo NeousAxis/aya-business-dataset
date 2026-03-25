@@ -1,10 +1,19 @@
 {
   "entity_id": "8fb54861-104d-5aeb-a654-be44742cab7c",
   "name": "Focusrite",
-  "what_it_does": "Provides delivery, menu, product.",
+  "what_it_does": "Focusrite designs and manufactures audio interfaces and other music production equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "audio interfaces",
+    "music production equipment",
+    "recording equipment",
+    "audio hardware",
+    "studio monitors",
+    "microphone preamps",
+    "Focusrite audio"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8fb54861-104d-5aeb-a654-be44742cab7c"
 }

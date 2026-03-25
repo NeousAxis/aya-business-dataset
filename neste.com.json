@@ -1,10 +1,20 @@
 {
   "entity_id": "96440e76-fd77-52fd-8e13-647ef0d6c7f3",
   "name": "Neste Oyj",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "Neste produces renewable diesel, sustainable aviation fuel, and other renewable solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Finland",
+  "keywords": [
+    "renewable diesel",
+    "sustainable aviation fuel",
+    "biofuels",
+    "renewable fuels",
+    "fuel production",
+    "clean fuels",
+    "aviation fuel",
+    "diesel fuel"
+  ],
   "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/96440e76-fd77-52fd-8e13-647ef0d6c7f3"
 }

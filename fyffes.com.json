@@ -1,10 +1,18 @@
 {
   "entity_id": "f31f7df5-d54f-51a6-b83e-fa545fb9dac5",
   "name": "Fyffes",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Fyffes imports, markets, and distributes tropical produce, primarily bananas.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "tropical produce",
+    "banana production",
+    "fruit distribution",
+    "fresh produce",
+    "banana supplier",
+    "global produce"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f31f7df5-d54f-51a6-b83e-fa545fb9dac5"
 }

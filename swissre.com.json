@@ -1,10 +1,19 @@
 {
   "entity_id": "57bfd09d-a6ea-5beb-b59e-1714cabf9045",
   "name": "Swiss Re Group",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Swiss Re is a global reinsurance company.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "reinsurance solutions",
+    "risk transfer",
+    "insurance industry",
+    "financial risk mitigation",
+    "catastrophe bonds",
+    "mortality protection",
+    "property insurance"
+  ],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/57bfd09d-a6ea-5beb-b59e-1714cabf9045"
 }

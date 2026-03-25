@@ -1,10 +1,19 @@
 {
   "entity_id": "4c387123-bec6-5d16-b9f8-d0f4d6c0b0e5",
   "name": "Discovery",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Discovery is a South African financial services company offering insurance, investment, and wellness programs.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "South Africa",
+  "keywords": [
+    "financial",
+    "insurance",
+    "investment",
+    "wellness programs",
+    "South African insurance",
+    "health insurance",
+    "life insurance"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4c387123-bec6-5d16-b9f8-d0f4d6c0b0e5"
 }

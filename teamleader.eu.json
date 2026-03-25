@@ -1,10 +1,20 @@
 {
   "entity_id": "b84603ef-379a-51df-aa8d-79bf14202985",
   "name": "CRM, invoices, quotations and projects in one tool",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Teamleader provides a CRM platform that integrates invoicing, quotations, and project management tools.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Belgium",
+  "keywords": [
+    "CRM",
+    "invoicing software",
+    "quotation software",
+    "project tools",
+    "SME CRM",
+    "lead management",
+    "sales CRM",
+    "integrated CRM"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b84603ef-379a-51df-aa8d-79bf14202985"
 }

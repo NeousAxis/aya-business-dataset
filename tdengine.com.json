@@ -1,10 +1,19 @@
 {
   "entity_id": "880dc978-2e23-59f0-825a-16b1a5ff27a3",
   "name": "TDengine",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "TDengine develops a time-series database for IoT, energy, and industrial applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "time series database",
+    "database system",
+    "IoT data",
+    "industrial monitoring",
+    "data analytics",
+    "time series data",
+    "data storage"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/880dc978-2e23-59f0-825a-16b1a5ff27a3"
 }

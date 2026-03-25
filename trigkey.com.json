@@ -1,10 +1,19 @@
 {
   "entity_id": "9eb27f28-00de-5a21-9aa9-1f001cf50943",
   "name": "Trigkey",
-  "what_it_does": "Provides product, products.",
+  "what_it_does": "Trigkey sells mini PCs and related accessories online.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Kingdom",
+  "keywords": [
+    "Mini PCs",
+    "Desktop computers",
+    "Computer accessories",
+    "Online PC retail",
+    "Small form factor PCs",
+    "Home office computers",
+    "Gaming mini PCs"
+  ],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9eb27f28-00de-5a21-9aa9-1f001cf50943"
 }

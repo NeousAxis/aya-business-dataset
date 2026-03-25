@@ -1,10 +1,19 @@
 {
   "entity_id": "128e4120-a7d1-5a81-b487-3fbb52e1da25",
   "name": "Caixa Geral de Depósitos",
-  "what_it_does": "Provides api, app.",
+  "what_it_does": "Caixa Geral de Depósitos is a Portuguese state-owned bank offering financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Portugal",
+  "keywords": [
+    "Portuguese bank",
+    "public bank",
+    "financial institution",
+    "banking Portugal",
+    "retail banking",
+    "corporate banking",
+    "financial services"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/128e4120-a7d1-5a81-b487-3fbb52e1da25"
 }

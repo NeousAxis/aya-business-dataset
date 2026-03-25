@@ -1,10 +1,20 @@
 {
   "entity_id": "c44f27f8-fca7-5594-85e3-0f6a56ec18fe",
   "name": "Schweizerisches Nationalmuseum",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "Schweizerisches Nationalmuseum operates museums showcasing Swiss history and culture.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "swiss history",
+    "cultural heritage",
+    "museum exhibits",
+    "national museum",
+    "historical artifacts",
+    "swiss culture",
+    "art history",
+    "museum collections"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c44f27f8-fca7-5594-85e3-0f6a56ec18fe"
 }

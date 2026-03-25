@@ -1,10 +1,20 @@
 {
   "entity_id": "fb4a604e-c201-54e8-b460-24bfdd9a983c",
   "name": "Gravely Lawn Mowers",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Gravely sells and manufactures commercial and residential lawn mowers and outdoor power equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "lawn mowers",
+    "commercial mowers",
+    "residential mowers",
+    "outdoor power equipment",
+    "turf equipment",
+    "gravely",
+    "zero turn mowers",
+    "lawn care"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fb4a604e-c201-54e8-b460-24bfdd9a983c"
 }

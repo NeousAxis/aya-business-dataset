@@ -1,10 +1,20 @@
 {
   "entity_id": "49963680-3929-5f0f-870b-3954fbd5c55f",
   "name": "Spendesk",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Spendesk provides a spend management platform enabling businesses to control and track employee expenses.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "expense cards",
+    "spend control",
+    "budget tracking",
+    "employee expenses",
+    "finance automation",
+    "SME finance",
+    "expense reporting",
+    "AP automation"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/49963680-3929-5f0f-870b-3954fbd5c55f"
 }

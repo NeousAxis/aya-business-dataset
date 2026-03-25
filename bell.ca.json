@@ -1,10 +1,20 @@
 {
   "entity_id": "807d6b10-06f2-5cd3-8b0f-75760422041b",
   "name": "Bell Canada",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Bell Canada provides telecommunications services, including internet, television, and mobile phone services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Canada",
+  "keywords": [
+    "internet access",
+    "television services",
+    "telephone plans",
+    "telecommunications",
+    "cable tv",
+    "fiber internet",
+    "wireless communication",
+    "home phone"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/807d6b10-06f2-5cd3-8b0f-75760422041b"
 }

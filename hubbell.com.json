@@ -1,10 +1,20 @@
 {
   "entity_id": "4a246fad-10ea-505a-a1b8-39df260ba9d6",
   "name": "Hubbell Incorporated",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Hubbell Incorporated manufactures electrical and electronic products for various applications.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "electrical products",
+    "electronic components",
+    "power systems",
+    "lighting solutions",
+    "wiring devices",
+    "industrial electrical",
+    "utility solutions",
+    "construction products"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a246fad-10ea-505a-a1b8-39df260ba9d6"
 }

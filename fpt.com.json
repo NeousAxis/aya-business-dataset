@@ -1,10 +1,20 @@
 {
   "entity_id": "b92deed7-0b75-56d7-a058-0c1c9ac1b340",
   "name": "Tập đoàn FPT",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "FPT Corporation is a Vietnamese technology company providing IT services and solutions.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Vietnam",
+  "keywords": [
+    "IT services",
+    "software development",
+    "technology conglomerate",
+    "Vietnamese technology",
+    "systems integration",
+    "outsourcing services",
+    "digital transformation",
+    "FPT corporation"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b92deed7-0b75-56d7-a058-0c1c9ac1b340"
 }

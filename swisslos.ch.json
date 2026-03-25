@@ -1,10 +1,19 @@
 {
   "entity_id": "f09aae0a-7097-556f-8561-6bdf24614c1d",
   "name": "Unsere Lotterie",
-  "what_it_does": "Provides app.",
+  "what_it_does": "Unsere Lotterie (Swisslos) operates lotteries and other games of chance in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "swiss lottery",
+    "gambling",
+    "chance games",
+    "prize draws",
+    "lottery tickets",
+    "swisslos",
+    "regulated gaming"
+  ],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f09aae0a-7097-556f-8561-6bdf24614c1d"
 }

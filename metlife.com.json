@@ -1,10 +1,20 @@
 {
   "entity_id": "6866de3a-c5b0-5d11-8629-6e1d0f130259",
   "name": "MetLife",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "MetLife is a global insurance company providing life, accident, and health insurance and retirement and savings solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "life insurance",
+    "annuities",
+    "employee benefits",
+    "retirement planning",
+    "insurance products",
+    "financial protection",
+    "asset management",
+    "group benefits"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6866de3a-c5b0-5d11-8629-6e1d0f130259"
 }

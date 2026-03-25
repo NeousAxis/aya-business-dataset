@@ -1,10 +1,17 @@
 {
   "entity_id": "9056b8f1-1fc9-5d2e-b7e1-61583c39363a",
   "name": "DSV",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "DSV provides global transport and logistics solutions, including air, sea, and road freight.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "China",
+  "keywords": [
+    "global transport",
+    "logistics",
+    "air freight",
+    "sea freight",
+    "road freight"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9056b8f1-1fc9-5d2e-b7e1-61583c39363a"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "409663a5-551c-5215-919d-69ff2d1b4fea",
   "name": "Flights and vacation packages",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "WestJet provides passenger airline and vacation package services in Canada and internationally.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Canada",
+  "keywords": [
+    "airline travel",
+    "vacation packages",
+    "air transportation",
+    "canadian airline",
+    "flights",
+    "holiday travel",
+    "airfare",
+    "travel booking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/409663a5-551c-5215-919d-69ff2d1b4fea"
 }

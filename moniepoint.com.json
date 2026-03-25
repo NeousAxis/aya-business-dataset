@@ -1,10 +1,20 @@
 {
   "entity_id": "9f9039b9-57e6-5a7c-8017-c8d6560db6db",
   "name": "Moniepoint Inc",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Moniepoint provides a financial platform for businesses in emerging markets.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "financial inclusion",
+    "payment solutions",
+    "banking services",
+    "SME finance",
+    "Nigerian market",
+    "agent banking",
+    "point-of-sale",
+    "transaction processing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f9039b9-57e6-5a7c-8017-c8d6560db6db"
 }

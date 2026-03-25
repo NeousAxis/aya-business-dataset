@@ -1,10 +1,19 @@
 {
   "entity_id": "f4efffb2-ed1f-5d4e-b758-c687121beaeb",
   "name": "Trade Me",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Trade Me is an online auction and classifieds website in New Zealand.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "New Zealand",
+  "keywords": [
+    "online auctions",
+    "classified ads",
+    "New Zealand marketplace",
+    "secondhand goods",
+    "online bidding",
+    "e-commerce",
+    "local trading"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f4efffb2-ed1f-5d4e-b758-c687121beaeb"
 }

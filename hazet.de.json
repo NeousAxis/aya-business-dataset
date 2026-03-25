@@ -1,10 +1,20 @@
 {
   "entity_id": "05b1a5dd-eb61-5ac4-a211-c548805b1ff5",
   "name": "HAZET",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "HAZET manufactures hand tools, tool trolleys, and special automotive tools.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "France",
+  "keywords": [
+    "hand tools",
+    "workshop equipment",
+    "automotive tools",
+    "tool trolleys",
+    "tool manufacturing",
+    "automotive repair tools",
+    "industrial tools",
+    "pliers"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/05b1a5dd-eb61-5ac4-a211-c548805b1ff5"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "09a612eb-1409-549d-8137-7e885ac6d4e1",
   "name": "FNB",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "FNB (First National Bank) is a South African bank providing a range of financial services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "South Africa",
+  "keywords": [
+    "South African bank",
+    "financial services",
+    "banking products",
+    "personal banking",
+    "business banking",
+    "loans",
+    "investment products"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/09a612eb-1409-549d-8137-7e885ac6d4e1"
 }

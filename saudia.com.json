@@ -1,10 +1,19 @@
 {
   "entity_id": "b9880b8d-405d-5e27-928e-151fcac3c300",
   "name": "Pardon Our Interruption",
-  "what_it_does": "Provides app.",
+  "what_it_does": "Pardon Our Interruption seems to be the airline Saudia's (saudia.com) webpage message when there are technical issues.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "flight booking",
+    "airline travel",
+    "saudi arabian airlines",
+    "air travel information",
+    "saudia flights",
+    "travel reservations",
+    "flight schedules"
+  ],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b9880b8d-405d-5e27-928e-151fcac3c300"
 }

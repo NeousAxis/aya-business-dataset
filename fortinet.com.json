@@ -1,10 +1,20 @@
 {
   "entity_id": "ab5d8ca6-150c-5aa1-a291-683ada8d221b",
   "name": "Fortinet",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Fortinet develops and sells cybersecurity solutions, including firewalls and intrusion prevention systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "cybersecurity solutions",
+    "firewalls",
+    "intrusion prevention systems",
+    "network security",
+    "threat intelligence",
+    "security appliances",
+    "endpoint security",
+    "security management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab5d8ca6-150c-5aa1-a291-683ada8d221b"
 }

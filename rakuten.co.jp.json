@@ -1,10 +1,20 @@
 {
   "entity_id": "96470e9a-a735-5d5e-ab1a-32081de1ce11",
   "name": "Rakuten",
-  "what_it_does": "Industrie & Manufacturing organization.",
+  "what_it_does": "Rakuten is a Japanese conglomerate with businesses spanning e-commerce, fintech, digital content, and communications.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Japan",
+  "keywords": [
+    "ecommerce",
+    "fintech",
+    "digital content",
+    "internet services",
+    "Japan",
+    "retail",
+    "online marketplace",
+    "e-commerce platform"
+  ],
   "aio_score": 23.0,
   "certificate_url": "https://ai-visionary.com/aya/e/96470e9a-a735-5d5e-ab1a-32081de1ce11"
 }

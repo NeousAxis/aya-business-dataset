@@ -1,10 +1,17 @@
 {
   "entity_id": "b07a6f11-cf32-5f1d-a2e5-c00c3cfa53b7",
   "name": "Komatsu",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Komatsu manufactures construction, mining, forestry, and military equipment, as well as industrial machinery.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Canada",
+  "keywords": [
+    "construction equipment",
+    "mining equipment",
+    "forestry equipment",
+    "military equipment",
+    "industrial equipment"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b07a6f11-cf32-5f1d-a2e5-c00c3cfa53b7"
 }

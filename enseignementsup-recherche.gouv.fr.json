@@ -1,10 +1,19 @@
 {
   "entity_id": "cc9f1893-36f0-5ec6-aeb4-a0130b3af73e",
   "name": "enseignementsup-recherche.gouv.fr",
-  "what_it_does": "Provides api, menu, service.",
+  "what_it_does": "enseignementsup-recherche.gouv.fr is the website for the French Ministry of Higher Education, Research and Innovation.",
   "for_who": "Businesses and professionals.",
   "category": "Administration & Public",
   "location": "France",
+  "keywords": [
+    "higher education",
+    "research funding",
+    "french government",
+    "academic policy",
+    "research grants",
+    "student affairs",
+    "education administration"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cc9f1893-36f0-5ec6-aeb4-a0130b3af73e"
 }

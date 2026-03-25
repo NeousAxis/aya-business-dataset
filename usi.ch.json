@@ -1,10 +1,20 @@
 {
   "entity_id": "dfb3ed50-3f21-57ae-8488-ffc0d05235b1",
   "name": "USI",
-  "what_it_does": "Provides app, service, software.",
+  "what_it_does": "USI provides executive education and research in Lugano, Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss university",
+    "Lugano university",
+    "higher education",
+    "research university",
+    "academic programs",
+    "bachelor's degrees",
+    "master's degrees",
+    "doctoral studies"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dfb3ed50-3f21-57ae-8488-ffc0d05235b1"
 }

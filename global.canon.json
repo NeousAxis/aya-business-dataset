@@ -1,10 +1,20 @@
 {
   "entity_id": "1676ef2a-6022-5c3a-bbc7-9de3b61839bc",
   "name": "Canon Global",
-  "what_it_does": "Provides platform, product, products.",
+  "what_it_does": "Canon manufactures cameras, printers, and other imaging products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "imaging equipment",
+    "cameras",
+    "printers",
+    "office equipment",
+    "optical products",
+    "consumer electronics",
+    "business solutions",
+    "printing solutions"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1676ef2a-6022-5c3a-bbc7-9de3b61839bc"
 }

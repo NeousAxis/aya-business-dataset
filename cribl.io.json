@@ -1,10 +1,20 @@
 {
   "entity_id": "319be0ae-d29c-5ed0-b099-546a0f69d919",
   "name": "Cribl",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Cribl provides a data pipeline solution for observability and security data.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "data pipeline",
+    "observability pipeline",
+    "security data",
+    "data routing",
+    "data transformation",
+    "log management",
+    "SIEM integration",
+    "data enrichment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/319be0ae-d29c-5ed0-b099-546a0f69d919"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "392b4fcc-060b-5072-a88f-9514b979a440",
   "name": "Bang & Olufsen",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "Bang & Olufsen designs and manufactures high-end audio and video products.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Switzerland",
+  "keywords": [
+    "premium audio",
+    "high-end video",
+    "luxury electronics",
+    "sound systems",
+    "TVs",
+    "speakers",
+    "audio equipment",
+    "consumer electronics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/392b4fcc-060b-5072-a88f-9514b979a440"
 }

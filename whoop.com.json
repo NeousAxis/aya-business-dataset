@@ -1,10 +1,20 @@
 {
   "entity_id": "851c778c-a592-5f32-bbf2-86086ad370b6",
   "name": "WHOOP",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "WHOOP sells wearable fitness trackers and provides data-driven insights into athletic performance.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
+  "keywords": [
+    "wearable fitness tracker",
+    "fitness monitoring",
+    "performance tracking",
+    "physiological data",
+    "athletic performance",
+    "subscription fitness",
+    "wearable technology",
+    "health metrics"
+  ],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/851c778c-a592-5f32-bbf2-86086ad370b6"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "405dfb74-1501-5bde-8522-cb658522be37",
   "name": "Mumzworld",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Mumzworld is an online retailer selling products for mothers, babies, and children in the Middle East.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Saudi Arabia",
+  "keywords": [
+    "maternity products",
+    "baby products",
+    "children's products",
+    "Middle East retail",
+    "e-commerce",
+    "parenting supplies",
+    "infant care",
+    "kids fashion"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/405dfb74-1501-5bde-8522-cb658522be37"
 }

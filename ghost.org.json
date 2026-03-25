@@ -1,10 +1,18 @@
 {
   "entity_id": "36f20953-2b06-579e-9417-9cd33749d277",
   "name": "Ghost",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Ghost is an open-source platform for creating and publishing websites, blogs, and newsletters.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "open source publishing",
+    "blogging",
+    "newsletter platform",
+    "content management",
+    "website creation",
+    "headless CMS"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/36f20953-2b06-579e-9417-9cd33749d277"
 }

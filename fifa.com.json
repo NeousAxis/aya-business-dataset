@@ -1,10 +1,14 @@
 {
   "entity_id": "acba1374-205b-5990-a812-49a7790afe0a",
   "name": "Fifa",
-  "what_it_does": "Finance & Banque organization.",
+  "what_it_does": "FIFA governs international football and organizes major tournaments like the World Cup.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "football",
+    "tournaments"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/acba1374-205b-5990-a812-49a7790afe0a"
 }

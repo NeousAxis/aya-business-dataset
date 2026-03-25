@@ -1,10 +1,20 @@
 {
   "entity_id": "5d94b39b-1b30-5b91-b348-2fd3cabc11d2",
   "name": "RIGOL",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "RIGOL Technologies manufactures electronic test and measurement equipment such as oscilloscopes and signal generators.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "oscilloscopes",
+    "signal generators",
+    "electronic test equipment",
+    "measurement instruments",
+    "RIGOL Technologies",
+    "spectrum analyzers",
+    "laboratory equipment",
+    "electronic tools"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5d94b39b-1b30-5b91-b348-2fd3cabc11d2"
 }

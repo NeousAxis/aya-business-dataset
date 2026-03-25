@@ -1,10 +1,20 @@
 {
   "entity_id": "7b403f12-197b-598d-87b5-f61313c0755c",
   "name": "Quest Nutrition",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Quest Nutrition sells protein bars, chips, and other low-carb snacks.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "protein bars",
+    "low carb snacks",
+    "nutritional snacks",
+    "healthy food",
+    "fitness food",
+    "protein chips",
+    "weight loss snacks",
+    "high protein"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7b403f12-197b-598d-87b5-f61313c0755c"
 }

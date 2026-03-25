@@ -1,10 +1,19 @@
 {
   "entity_id": "814f597c-c2f2-5adb-a2ad-1af7c523d409",
   "name": "Mendix",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Mendix is a low-code application development platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "China",
+  "keywords": [
+    "low-code development",
+    "application development",
+    "visual modeling",
+    "enterprise applications",
+    "citizen development",
+    "application lifecycle",
+    "multi-experience apps"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/814f597c-c2f2-5adb-a2ad-1af7c523d409"
 }

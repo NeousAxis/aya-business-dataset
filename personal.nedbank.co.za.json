@@ -1,10 +1,20 @@
 {
   "entity_id": "c72dec35-d716-534e-957f-03e87111eb5d",
   "name": "Nedbank",
-  "what_it_does": "Provides app, application, service.",
+  "what_it_does": "Nedbank is a South African bank offering personal and business banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "South Africa",
+  "keywords": [
+    "banking services",
+    "financial products",
+    "personal banking",
+    "business banking",
+    "South African banking",
+    "retail banking",
+    "investment solutions",
+    "wealth management"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c72dec35-d716-534e-957f-03e87111eb5d"
 }

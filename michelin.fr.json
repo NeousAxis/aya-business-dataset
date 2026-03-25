@@ -1,10 +1,20 @@
 {
   "entity_id": "19ad9dac-69cc-556d-bbd0-cd4c5860fc86",
   "name": "MICHELIN",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "MICHELIN provides travel guides, maps and booking services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Belgium",
+  "keywords": [
+    "travel guides",
+    "travel maps",
+    "restaurant guides",
+    "hotel booking",
+    "travel planning",
+    "culinary tourism",
+    "road maps",
+    "travel information"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/19ad9dac-69cc-556d-bbd0-cd4c5860fc86"
 }

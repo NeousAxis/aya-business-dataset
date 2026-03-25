@@ -1,10 +1,20 @@
 {
   "entity_id": "a9b7b38f-b656-53bf-b35c-80010016315d",
   "name": "Sonos",
-  "what_it_does": "Provides app, menu, platform.",
+  "what_it_does": "Sonos designs and manufactures wireless home sound systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "wireless audio",
+    "home audio systems",
+    "multi-room audio",
+    "smart speakers",
+    "soundbars",
+    "audio streaming",
+    "home theater",
+    "premium audio"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a9b7b38f-b656-53bf-b35c-80010016315d"
 }

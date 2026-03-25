@@ -1,10 +1,19 @@
 {
   "entity_id": "8eeabe33-f622-542d-9fa5-0acb9ce6cc42",
   "name": "Kameleoon",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Kameleoon offers a platform for website personalization and experimentation.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "website personalization",
+    "A/B testing",
+    "experience optimization",
+    "web experimentation",
+    "conversion rate",
+    "customer journey",
+    "SaaS"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8eeabe33-f622-542d-9fa5-0acb9ce6cc42"
 }

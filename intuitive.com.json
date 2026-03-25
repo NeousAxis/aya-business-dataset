@@ -1,10 +1,19 @@
 {
   "entity_id": "4baed351-ff19-531f-be0e-f9e9d76cb38a",
   "name": "Intuitive",
-  "what_it_does": "Provides app, delivery, platform.",
+  "what_it_does": "Intuitive designs, manufactures, and markets robotic surgical systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "robotic surgery",
+    "surgical robots",
+    "minimally invasive surgery",
+    "robotic surgical systems",
+    "surgical solutions",
+    "precision surgery",
+    "medical robotics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4baed351-ff19-531f-be0e-f9e9d76cb38a"
 }

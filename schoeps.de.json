@@ -1,10 +1,20 @@
 {
   "entity_id": "4059d4c0-d8dd-5b00-acc7-d6bfd1096fb1",
   "name": "SCHOEPS Mikrofone",
-  "what_it_does": "Provides service, software.",
+  "what_it_does": "SCHOEPS Mikrofone manufactures professional microphones.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "professional microphones",
+    "high-quality microphones",
+    "audio recording",
+    "studio microphones",
+    "broadcast microphones",
+    "microphone manufacturer",
+    "german microphones",
+    "condenser microphones"
+  ],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4059d4c0-d8dd-5b00-acc7-d6bfd1096fb1"
 }

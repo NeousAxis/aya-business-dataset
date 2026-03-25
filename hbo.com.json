@@ -1,10 +1,20 @@
 {
   "entity_id": "9e52f5ae-e6e0-509a-9c5e-021b45e601e7",
   "name": "HBO",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "HBO offers subscription-based streaming of television series, movies, and documentaries.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "streaming tv",
+    "subscription video",
+    "hbo originals",
+    "movies",
+    "tv shows",
+    "entertainment",
+    "premium tv",
+    "documentaries"
+  ],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9e52f5ae-e6e0-509a-9c5e-021b45e601e7"
 }

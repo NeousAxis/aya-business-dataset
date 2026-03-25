@@ -1,10 +1,20 @@
 {
   "entity_id": "b78f940a-c6b2-54a8-bca4-0ed402e255df",
   "name": "Gute Leistungen für beste Güter",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Planzer provides transportation and logistics services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Germany",
+  "keywords": [
+    "transport logistics",
+    "freight forwarding",
+    "supply chain solutions",
+    "swiss logistics",
+    "goods transport",
+    "warehousing",
+    "distribution services",
+    "planzer logistics"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b78f940a-c6b2-54a8-bca4-0ed402e255df"
 }

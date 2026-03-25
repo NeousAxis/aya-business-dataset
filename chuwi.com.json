@@ -1,10 +1,19 @@
 {
   "entity_id": "65a54895-a4e1-5cf0-9706-f6923158bd1d",
   "name": "CHUWI",
-  "what_it_does": "Provides app, delivery, platform.",
+  "what_it_does": "CHUWI designs and manufactures affordable laptops, tablets, and mini-PCs.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "laptops",
+    "tablets",
+    "mini PCs",
+    "personal computing devices",
+    "consumer electronics",
+    "budget computers",
+    "portable computers"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/65a54895-a4e1-5cf0-9706-f6923158bd1d"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "2c70bb19-9653-5452-affc-689753e27cce",
   "name": "Matmut",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Matmut is a French mutual insurance company offering various financial and insurance products.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
+  "keywords": [
+    "mutual insurance",
+    "french insurance",
+    "auto insurance",
+    "home insurance",
+    "health insurance",
+    "life insurance",
+    "financial products",
+    "insurance services"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2c70bb19-9653-5452-affc-689753e27cce"
 }

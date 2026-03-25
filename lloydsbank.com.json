@@ -1,10 +1,20 @@
 {
   "entity_id": "9c6b80ff-11cf-5378-921e-906dc7dae612",
   "name": "Lloyds Bank",
-  "what_it_does": "Provides service.",
+  "what_it_does": "Lloyds Bank provides banking and financial services to individuals and businesses in the UK.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Kingdom",
+  "keywords": [
+    "retail banking",
+    "commercial banking",
+    "banking products",
+    "financial solutions",
+    "mortgages",
+    "loans",
+    "savings accounts",
+    "personal finance"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9c6b80ff-11cf-5378-921e-906dc7dae612"
 }

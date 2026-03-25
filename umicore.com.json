@@ -1,10 +1,20 @@
 {
   "entity_id": "10149a0a-3926-546e-8f3e-c0b2f2956e01",
   "name": "Umicore",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Umicore is a global materials technology and recycling group.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "materials technology",
+    "recycling",
+    "precious metals",
+    "battery materials",
+    "catalysis",
+    "electrochemistry",
+    "metal recycling",
+    "specialty materials"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/10149a0a-3926-546e-8f3e-c0b2f2956e01"
 }

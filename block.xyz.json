@@ -1,10 +1,20 @@
 {
   "entity_id": "fb4883b1-3c90-5c46-9453-e8eebf227066",
   "name": "Block",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Block is likely involved in media and communication, but the specific focus is unclear.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "blockchain services",
+    "decentralized applications",
+    "crypto solutions",
+    "distributed ledger",
+    "web3 development",
+    "blockchain consulting",
+    "NFT platforms",
+    "digital asset management"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fb4883b1-3c90-5c46-9453-e8eebf227066"
 }

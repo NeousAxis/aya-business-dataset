@@ -1,10 +1,20 @@
 {
   "entity_id": "bda99da8-e831-518b-b72f-e9080c27095e",
   "name": "VIVOTEK",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "VIVOTEK provides IP surveillance solutions including network cameras, video recorders, and video management software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "caméras de surveillance IP",
+    "systèmes de vidéosurveillance",
+    "gestion vidéo",
+    "sécurité",
+    "caméras réseau",
+    "surveillance à distance",
+    "IP cameras",
+    "video management software"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bda99da8-e831-518b-b72f-e9080c27095e"
 }

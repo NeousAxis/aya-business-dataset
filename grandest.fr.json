@@ -1,10 +1,20 @@
 {
   "entity_id": "23efc800-7d6b-5874-b83f-096d89858b60",
   "name": "GrandEst",
-  "what_it_does": "Provides app, menu, offre.",
+  "what_it_does": "GrandEst is the official website for the Grand Est region of France, providing information for residents and tourists.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
+  "keywords": [
+    "grand est region",
+    "french tourism",
+    "regional information",
+    "travel guide",
+    "resident information",
+    "tourism promotion",
+    "alsace lorraine champagne-ardenne",
+    "east france"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/23efc800-7d6b-5874-b83f-096d89858b60"
 }

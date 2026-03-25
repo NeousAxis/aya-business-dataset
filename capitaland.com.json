@@ -1,10 +1,19 @@
 {
   "entity_id": "eb2e6ef7-17bd-5c54-88e0-c85be34c7d6e",
   "name": "CapitaLand",
-  "what_it_does": "Provides api, menu, platform.",
+  "what_it_does": "CapitaLand is a real estate company that develops and manages properties.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "Real estate development",
+    "Property management",
+    "Commercial properties",
+    "Residential properties",
+    "Retail properties",
+    "Mixed-use developments",
+    "Singapore real estate"
+  ],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eb2e6ef7-17bd-5c54-88e0-c85be34c7d6e"
 }

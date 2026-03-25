@@ -1,10 +1,20 @@
 {
   "entity_id": "9e6fb480-6772-5b02-a55e-c8b00f747946",
   "name": "Standard Chartered Bank",
-  "what_it_does": "Provides app, menu, solution.",
+  "what_it_does": "Standard Chartered Bank is a multinational banking and financial services company.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "multinational banking",
+    "financial services",
+    "retail banking",
+    "corporate banking",
+    "investment banking",
+    "trade finance",
+    "emerging markets",
+    "international banking"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9e6fb480-6772-5b02-a55e-c8b00f747946"
 }

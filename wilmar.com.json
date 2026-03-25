@@ -1,10 +1,20 @@
 {
   "entity_id": "4f6ae93e-523e-5019-91e0-f2c2f73b7daa",
   "name": "HD Supply",
-  "what_it_does": "Provides app, delivery, product.",
+  "what_it_does": "HD Supply distributes maintenance, repair, and operations products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "MRO products",
+    "maintenance supplies",
+    "repair parts",
+    "operating supplies",
+    "facility maintenance",
+    "building maintenance",
+    "plumbing supplies",
+    "electrical supplies"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4f6ae93e-523e-5019-91e0-f2c2f73b7daa"
 }

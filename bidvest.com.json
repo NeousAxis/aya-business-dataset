@@ -1,10 +1,20 @@
 {
   "entity_id": "64d32003-3e86-50bb-8343-3c67e026b796",
   "name": "Bidvest Group",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Bidvest Group is a diversified industrial conglomerate.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "industrial conglomerate",
+    "diversified holdings",
+    "service sector",
+    "trading",
+    "distribution",
+    "Bidvest Group",
+    "industrial services",
+    "commercial products"
+  ],
   "aio_score": 29.0,
   "certificate_url": "https://ai-visionary.com/aya/e/64d32003-3e86-50bb-8343-3c67e026b796"
 }

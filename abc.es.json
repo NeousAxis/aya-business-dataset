@@ -1,10 +1,19 @@
 {
   "entity_id": "0905b973-41ed-51a9-b5e6-7ea61caaa758",
   "name": "ABC",
-  "what_it_does": "Provides app.",
+  "what_it_does": "ABC.es is a Spanish news and information website.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Spain",
+  "keywords": [
+    "Spanish news",
+    "Spain news",
+    "current events",
+    "breaking news",
+    "Spanish newspaper",
+    "news publication",
+    "informative content"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0905b973-41ed-51a9-b5e6-7ea61caaa758"
 }

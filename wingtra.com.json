@@ -1,10 +1,20 @@
 {
   "entity_id": "00655712-8ca3-5deb-a0c0-39b71bb83a41",
   "name": "Wingtra",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Wingtra develops and sells vertical take-off and landing (VTOL) drones for surveying and mapping.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "VTOL drones",
+    "drone surveying",
+    "aerial mapping",
+    "drone technology",
+    "mapping drones",
+    "Wingtra drones",
+    "vertical takeoff",
+    "drone solutions"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/00655712-8ca3-5deb-a0c0-39b71bb83a41"
 }

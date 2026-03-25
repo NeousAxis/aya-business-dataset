@@ -1,10 +1,20 @@
 {
   "entity_id": "3b993cb6-fc40-5558-8f40-aad10343bee5",
   "name": "Fransabank",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Fransabank is a Lebanese commercial bank offering retail and corporate banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "commercial bank",
+    "Lebanese bank",
+    "financial services",
+    "retail banking",
+    "corporate banking",
+    "loans",
+    "deposits",
+    "banking services"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b993cb6-fc40-5558-8f40-aad10343bee5"
 }

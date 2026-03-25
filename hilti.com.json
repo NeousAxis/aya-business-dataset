@@ -1,10 +1,20 @@
 {
   "entity_id": "cc1bf27b-b405-55d7-898f-605c3cea4876",
   "name": "Power Tools, Fasteners & Software for Construction",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Hilti manufactures and sells tools, fasteners, and software for the construction industry.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
+  "keywords": [
+    "construction tools",
+    "power fasteners",
+    "construction ",
+    "direct fastening",
+    "drilling & demolition",
+    "anchoring systems",
+    "construction chemicals",
+    "tool repair"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cc1bf27b-b405-55d7-898f-605c3cea4876"
 }

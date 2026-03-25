@@ -1,10 +1,18 @@
 {
   "entity_id": "4e7b9033-e3f0-5f29-b7e7-267f5001b279",
   "name": "RTT",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "RTT provides online training and certification programs, possibly in real estate.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
+  "keywords": [
+    "training programs",
+    "certification courses",
+    "online education",
+    "professional development",
+    "e-learning",
+    "real estate training"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4e7b9033-e3f0-5f29-b7e7-267f5001b279"
 }

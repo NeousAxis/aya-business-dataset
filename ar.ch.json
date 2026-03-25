@@ -1,10 +1,20 @@
 {
   "entity_id": "81d62c33-79cd-57b1-9832-06d2e95a7b87",
   "name": "Appenzell Ausserrhoden",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "Appenzell Ausserrhoden is a Swiss canton providing government services and information to its residents.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss canton",
+    "regional government",
+    "cantonal administration",
+    "public administration",
+    "government services",
+    "local services",
+    "Swiss government",
+    "Appenzell Ausserrhoden"
+  ],
   "aio_score": 23.0,
   "certificate_url": "https://ai-visionary.com/aya/e/81d62c33-79cd-57b1-9832-06d2e95a7b87"
 }

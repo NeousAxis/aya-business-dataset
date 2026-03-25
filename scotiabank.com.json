@@ -1,10 +1,20 @@
 {
   "entity_id": "53608867-ebee-5228-a884-7653a4c3443a",
   "name": "Scotiabank Global Site",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Scotiabank provides banking and financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Canada",
+  "keywords": [
+    "global banking",
+    "financial services",
+    "international banking",
+    "retail banking",
+    "investment banking",
+    "wealth ",
+    "commercial banking",
+    "Canadian bank"
+  ],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/53608867-ebee-5228-a884-7653a4c3443a"
 }

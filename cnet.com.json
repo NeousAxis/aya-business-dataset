@@ -1,10 +1,19 @@
 {
   "entity_id": "dec66f06-8df4-58a9-a9e2-7f3d4ea27b71",
   "name": "CNET",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "CNET publishes news, reviews, and how-to guides on consumer electronics and technology.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "consumer electronics news",
+    "tech reviews",
+    "product comparisons",
+    "tech how-to guides",
+    "gadget reviews",
+    "technology news",
+    "electronics advice"
+  ],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dec66f06-8df4-58a9-a9e2-7f3d4ea27b71"
 }

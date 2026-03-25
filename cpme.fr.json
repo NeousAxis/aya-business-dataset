@@ -1,10 +1,20 @@
 {
   "entity_id": "178feeef-1a75-5276-8b44-7a3dd7237003",
   "name": "CPME",
-  "what_it_does": "Provides api, app, offre.",
+  "what_it_does": "CPME likely represents and advocates for small and medium-sized enterprises in France.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
+  "keywords": [
+    "small and medium enterprises",
+    "french smes",
+    "employer federation",
+    "business advocacy",
+    "economic policy",
+    "french enterprises",
+    "business representation",
+    "trade association"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/178feeef-1a75-5276-8b44-7a3dd7237003"
 }

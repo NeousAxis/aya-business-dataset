@@ -1,10 +1,20 @@
 {
   "entity_id": "c6c5d2e5-bcf7-5726-a9da-4cc01990c974",
   "name": "illy",
-  "what_it_does": "Provides app, delivery, menu.",
+  "what_it_does": "illy sells coffee and coffee-related products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Belgium",
+  "keywords": [
+    "coffee beans",
+    "espresso",
+    "coffee machines",
+    "coffee products",
+    "caffe",
+    "home coffee",
+    "gourmet coffee",
+    "italian coffee"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c6c5d2e5-bcf7-5726-a9da-4cc01990c974"
 }

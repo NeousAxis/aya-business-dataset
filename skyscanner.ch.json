@@ -1,10 +1,20 @@
 {
   "entity_id": "a3598158-3a81-5b35-9c81-e2b416c06d1c",
   "name": "Skyscanner",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Skyscanner is a travel search engine comparing flight, hotel, and car rental prices.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
+  "keywords": [
+    "flight search",
+    "hotel search",
+    "car rental search",
+    "travel comparison",
+    "travel deals",
+    "Skyscanner flights",
+    "travel booking",
+    "budget travel"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a3598158-3a81-5b35-9c81-e2b416c06d1c"
 }

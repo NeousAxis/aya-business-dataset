@@ -1,10 +1,20 @@
 {
   "entity_id": "6c550559-04d4-5728-91ae-c2caddfb4377",
   "name": "Ciena Corporation",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Ciena Corporation supplies telecommunications networking equipment, software and services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "telecommunications equipment",
+    "network hardware",
+    "optical networking",
+    "telecom software",
+    "network automation",
+    "network infrastructure",
+    "communication networks",
+    "photonics"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6c550559-04d4-5728-91ae-c2caddfb4377"
 }

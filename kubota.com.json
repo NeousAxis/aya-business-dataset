@@ -1,10 +1,19 @@
 {
   "entity_id": "41a4135f-d3be-53ea-b8cf-4edde8fa88e8",
   "name": "Kubota Global Site",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Kubota manufactures agricultural machinery, construction equipment, engines, and other industrial products.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "agricultural machinery",
+    "construction equipment",
+    "engines",
+    "tractors",
+    "farming equipment",
+    "diesel engines",
+    "industrial equipment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/41a4135f-d3be-53ea-b8cf-4edde8fa88e8"
 }

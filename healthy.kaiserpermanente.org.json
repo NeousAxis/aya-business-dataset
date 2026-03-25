@@ -1,10 +1,20 @@
 {
   "entity_id": "186d61b8-64df-5f07-860a-6ee24ff8b2a6",
   "name": "Kaiser Permanente",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Kaiser Permanente is an integrated managed care consortium providing healthcare services and health insurance.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
+  "keywords": [
+    "managed healthcare",
+    "health insurance",
+    "medical services",
+    "hospital network",
+    "preventive care",
+    "integrated healthcare",
+    "patient care",
+    "health plans"
+  ],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/186d61b8-64df-5f07-860a-6ee24ff8b2a6"
 }

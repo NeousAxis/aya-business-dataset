@@ -1,10 +1,20 @@
 {
   "entity_id": "1c3508a9-218e-5377-820a-7e7ce4a6e64a",
   "name": "Workhorse",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Workhorse designs and manufactures electric vehicles and related technology, likely focused on delivery vans.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "electric vehicles",
+    "commercial trucks",
+    "last-mile delivery",
+    "zero-emission vehicles",
+    "EV technology",
+    "fleet electrification",
+    "sustainable transport",
+    "electric vans"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1c3508a9-218e-5377-820a-7e7ce4a6e64a"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "05b10ca1-477d-507e-b430-358b78b0bfd9",
   "name": "Nettoshop",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Nettoshop is an online retailer selling consumer electronics and household appliances in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
+  "keywords": [
+    "home appliances ",
+    "electronics ",
+    "Switzerland ",
+    "kitchen appliances",
+    "consumer electronics",
+    "online retail",
+    "household ",
+    "domestic appliances"
+  ],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/05b10ca1-477d-507e-b430-358b78b0bfd9"
 }

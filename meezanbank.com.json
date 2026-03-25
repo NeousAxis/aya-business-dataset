@@ -1,10 +1,19 @@
 {
   "entity_id": "ec7e3857-9d11-566f-a97e-5d67a0dd6fa8",
   "name": "Meezanbank",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Meezan Bank is a Pakistani Islamic bank offering Sharia-compliant banking products and services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "islamic banking",
+    "sharia compliant finance",
+    "pakistan banking",
+    "retail banking",
+    "corporate finance",
+    "investment banking",
+    "meezan bank"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec7e3857-9d11-566f-a97e-5d67a0dd6fa8"
 }

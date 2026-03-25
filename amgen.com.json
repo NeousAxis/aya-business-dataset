@@ -1,10 +1,20 @@
 {
   "entity_id": "dc81f8f6-258e-5f8b-8bae-b3ef37f1728e",
   "name": "Amgen",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Amgen is a biotechnology company focused on developing and manufacturing human therapeutics.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
+  "keywords": [
+    "biotechnology",
+    "human therapeutics",
+    "oncology drugs",
+    "cardiovascular drugs",
+    "bone health drugs",
+    "neurology therapeutics",
+    "biopharmaceutical manufacturing",
+    "innovative medicines"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dc81f8f6-258e-5f8b-8bae-b3ef37f1728e"
 }

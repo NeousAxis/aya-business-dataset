@@ -1,10 +1,20 @@
 {
   "entity_id": "86975767-e0d5-5f32-8bcb-fcae5de56d0d",
   "name": "Sunsweet Growers",
-  "what_it_does": "Provides app, delivery, product.",
+  "what_it_does": "Sunsweet Growers sells dried fruits, particularly prunes.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "dried plums",
+    "prune products",
+    "dried fruit snacks",
+    "fruit processing",
+    "grower cooperative",
+    "packaged fruit",
+    "healthy snacking",
+    "dried fruit"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/86975767-e0d5-5f32-8bcb-fcae5de56d0d"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "7092edf1-8302-561e-97ae-9148d3071336",
   "name": "Personal",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "TSB Bank is a UK retail bank offering a range of personal banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Kingdom",
+  "keywords": [
+    "retail banking",
+    "UK banking",
+    "personal banking",
+    "current accounts",
+    "savings accounts",
+    "mortgages",
+    "loan products",
+    "financial products"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7092edf1-8302-561e-97ae-9148d3071336"
 }

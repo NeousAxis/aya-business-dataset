@@ -1,10 +1,19 @@
 {
   "entity_id": "7d65b230-0ef0-5485-96a6-12bc898bb1f9",
   "name": "Liverpool FC",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Liverpool FC is the official website for the Liverpool Football Club, providing news, tickets, and merchandise.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "Liverpool Football Club",
+    "EPL",
+    "football merchandise",
+    "Premier League",
+    "soccer news",
+    "Anfield stadium",
+    "football tickets"
+  ],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7d65b230-0ef0-5485-96a6-12bc898bb1f9"
 }

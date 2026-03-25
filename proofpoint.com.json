@@ -1,10 +1,20 @@
 {
   "entity_id": "e258c533-aaa7-5f35-b9ba-52e5a95dbb8f",
   "name": "Proofpoint US",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Proofpoint provides cybersecurity solutions, including email security and threat intelligence.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "cybersecurity",
+    "email security",
+    "threat intelligence",
+    "security awareness training",
+    "phishing protection",
+    "data loss prevention",
+    "ransomware defense",
+    "email authentication"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e258c533-aaa7-5f35-b9ba-52e5a95dbb8f"
 }

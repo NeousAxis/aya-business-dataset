@@ -1,10 +1,19 @@
 {
   "entity_id": "47d82d9e-207d-5987-a295-8a14766e1402",
   "name": "New York University",
-  "what_it_does": "Provides app, menu, platform.",
+  "what_it_does": "New York University is a private research university located in New York City.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "private research university",
+    "New York City",
+    "higher education",
+    "undergraduate programs",
+    "graduate programs",
+    "academic research",
+    "global university"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/47d82d9e-207d-5987-a295-8a14766e1402"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "a863593b-a761-5c5a-8b88-6ee8b39a9e24",
   "name": "Zurich Schweiz",
-  "what_it_does": "Provides api, menu, service.",
+  "what_it_does": "Zurich.ch likely provides information and services related to tourism and travel in Zurich, Switzerland, targeted toward a Swiss audience.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
+  "keywords": [
+    "zurich tourism",
+    "swiss tourism",
+    "city travel",
+    "travel information",
+    "sightseeing tours",
+    "event tickets",
+    "hotel booking",
+    "tourist attractions"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a863593b-a761-5c5a-8b88-6ee8b39a9e24"
 }

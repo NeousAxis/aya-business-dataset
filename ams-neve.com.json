@@ -1,10 +1,19 @@
 {
   "entity_id": "6a1c7819-e3e3-5aaf-ba5b-19fe6983dcc3",
   "name": "Neve",
-  "what_it_does": "Provides menu, product, products.",
+  "what_it_does": "Neve manufactures professional audio recording and mixing consoles.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "consoles d'enregistrement",
+    "tables de mixage audio",
+    "équipement audio professionnel",
+    "ingénierie du son",
+    "studios d'enregistrement",
+    "matériel audio haut de gamme",
+    "préamplificateurs micro"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6a1c7819-e3e3-5aaf-ba5b-19fe6983dcc3"
 }

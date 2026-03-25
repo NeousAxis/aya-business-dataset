@@ -1,10 +1,20 @@
 {
   "entity_id": "1defb8b4-a277-520f-be19-e1a1f654c3b3",
   "name": "Log Management by Loggly",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Loggly provides a cloud-based log management and analytics platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "log analysis",
+    "log data",
+    "cloud log",
+    "logging platform",
+    "log monitoring",
+    "DevOps logging",
+    "application logs",
+    "log data insights"
+  ],
   "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1defb8b4-a277-520f-be19-e1a1f654c3b3"
 }

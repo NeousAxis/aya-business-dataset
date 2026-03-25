@@ -1,10 +1,19 @@
 {
   "entity_id": "5e1abd58-1e79-5365-91af-07fbd9eb5e89",
   "name": "DEKRA",
-  "what_it_does": "Provides app, consulting, product.",
+  "what_it_does": "DEKRA provides testing, inspection, and certification services.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "China",
+  "keywords": [
+    "testing services",
+    "inspection services",
+    "certification services",
+    "industrial safety",
+    "automotive testing",
+    "product testing",
+    "quality assurance"
+  ],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5e1abd58-1e79-5365-91af-07fbd9eb5e89"
 }

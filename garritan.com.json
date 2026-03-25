@@ -1,10 +1,19 @@
 {
   "entity_id": "4da62445-301a-5e61-9f5d-a6fb667ccffa",
   "name": "Garritan",
-  "what_it_does": "Provides product, products, software.",
+  "what_it_does": "Garritan produces virtual instruments and software for music composition and performance.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "virtual instruments",
+    "music software",
+    "orchestral sounds",
+    "sampled instruments",
+    "music education",
+    "audio plugins",
+    "sound libraries"
+  ],
   "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4da62445-301a-5e61-9f5d-a6fb667ccffa"
 }

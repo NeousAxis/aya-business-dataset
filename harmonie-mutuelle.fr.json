@@ -1,10 +1,20 @@
 {
   "entity_id": "0cc1e27f-1bce-5e20-a61f-d8093b466e8c",
   "name": "Harmonie Mutuelle",
-  "what_it_does": "Provides api, app, offre.",
+  "what_it_does": "Harmonie Mutuelle is a French mutual health insurance provider.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "France",
+  "keywords": [
+    "health insurance",
+    "mutual insurance",
+    "French health",
+    "supplemental health",
+    "healthcare coverage",
+    "member-owned insurer",
+    "France insurance",
+    "health plans"
+  ],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0cc1e27f-1bce-5e20-a61f-d8093b466e8c"
 }

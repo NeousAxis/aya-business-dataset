@@ -1,10 +1,20 @@
 {
   "entity_id": "de33049a-25d6-5198-9956-8549f360ea08",
   "name": "Petrol",
-  "what_it_does": "Provides api, platform.",
+  "what_it_does": "Petrol is a Slovenian company that operates gas stations and sells fuel and related products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "petroleum products",
+    "fuel distribution",
+    "gasoline",
+    "diesel fuel",
+    "retail fuel",
+    "fuel retailer",
+    "petrol stations",
+    "energy products"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/de33049a-25d6-5198-9956-8549f360ea08"
 }

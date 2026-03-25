@@ -1,10 +1,20 @@
 {
   "entity_id": "22d4b69c-9f52-50db-a2f7-20f493486df4",
   "name": "MarketMan",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "MarketMan provides restaurant inventory management and procurement software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "restaurant inventory",
+    "food procurement",
+    "inventory software",
+    "restaurant management",
+    "restaurant supplies",
+    "food cost control",
+    "supply chain solutions",
+    "restaurant operations"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/22d4b69c-9f52-50db-a2f7-20f493486df4"
 }

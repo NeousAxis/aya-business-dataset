@@ -1,10 +1,20 @@
 {
   "entity_id": "1a8cbd5a-00d8-577c-a8e8-5954745133f6",
   "name": "Target : Expect More. Pay Less.",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Target is a retail corporation operating a chain of discount department stores and online marketplace.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "discount retail",
+    "department store",
+    "consumer goods",
+    "home goods",
+    "clothing retailer",
+    "marketplace",
+    "online shopping",
+    "general merchandise"
+  ],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1a8cbd5a-00d8-577c-a8e8-5954745133f6"
 }

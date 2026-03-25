@@ -1,10 +1,19 @@
 {
   "entity_id": "0fb517f2-ace5-567e-be7e-730dbea210fa",
   "name": "8dio",
-  "what_it_does": "Provides cloud, product, service.",
+  "what_it_does": "8dio.com sells virtual instruments and sample libraries for music production.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "virtual instruments",
+    "sound libraries",
+    "music production",
+    "audio samples",
+    "instrument samples",
+    " Kontakt instruments",
+    "audio production tools"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0fb517f2-ace5-567e-be7e-730dbea210fa"
 }

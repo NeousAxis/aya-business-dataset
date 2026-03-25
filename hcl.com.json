@@ -1,10 +1,20 @@
 {
   "entity_id": "e5d0977d-bc15-5ac3-b168-9efae2e76bb8",
   "name": "HCL Group",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "HCL Group is a multinational conglomerate with interests in technology, healthcare, and talent management.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "India",
+  "keywords": [
+    "technology",
+    "healthcare",
+    "engineering",
+    "IT solutions",
+    "outsourcing",
+    "global conglomerate",
+    "infrastructure",
+    "product engineering"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e5d0977d-bc15-5ac3-b168-9efae2e76bb8"
 }

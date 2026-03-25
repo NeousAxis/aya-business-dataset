@@ -1,10 +1,17 @@
 {
   "entity_id": "a82ffbe5-4be2-5843-989d-331bb61fbb33",
   "name": "Blackstone",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Blackstone is a global investment firm specializing in private equity, real estate, credit, and hedge fund solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
+  "keywords": [
+    "private equity",
+    "real estate",
+    "credit",
+    "hedge funds",
+    "investment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a82ffbe5-4be2-5843-989d-331bb61fbb33"
 }

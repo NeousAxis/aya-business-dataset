@@ -1,10 +1,20 @@
 {
   "entity_id": "f52e4920-b945-5197-ad21-0c4daf42b9b4",
   "name": "Institut Pasteur",
-  "what_it_does": "Provides app, menu, offre.",
+  "what_it_does": "The Institut Pasteur is a French research institute dedicated to studying infectious diseases and developing vaccines.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
+  "keywords": [
+    "infectious disease research",
+    "vaccine development",
+    "microbiology",
+    "immunology",
+    "public health",
+    "biomedical research",
+    "disease prevention",
+    "virology"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f52e4920-b945-5197-ad21-0c4daf42b9b4"
 }

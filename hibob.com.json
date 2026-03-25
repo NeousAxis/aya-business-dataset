@@ -1,10 +1,20 @@
 {
   "entity_id": "bf2b9364-a073-5e66-bafa-c24042ea3aa1",
   "name": "Bob",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Bob provides a human resources management platform for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "HR platform",
+    "human resources information system",
+    "employee experience",
+    "workforce management",
+    "HR analytics",
+    "people operations",
+    "employee engagement",
+    "talent development"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bf2b9364-a073-5e66-bafa-c24042ea3aa1"
 }

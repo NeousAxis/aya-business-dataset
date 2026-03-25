@@ -1,10 +1,20 @@
 {
   "entity_id": "714532a0-1f71-5c5f-ba19-dbaa3c1cfc99",
   "name": "Banco de Chile",
-  "what_it_does": "Provides product.",
+  "what_it_does": "Banco de Chile is a Chilean bank offering financial services to individuals and businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "CL",
+  "keywords": [
+    "commercial banking",
+    "financial services",
+    "retail banking",
+    "corporate banking",
+    "Chilean banking",
+    "banking services",
+    "personal finance",
+    "business loans"
+  ],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/714532a0-1f71-5c5f-ba19-dbaa3c1cfc99"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "db1613f8-8840-5fe3-a4ac-8d212649160e",
   "name": "Obsidian",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Obsidian is a software application for creating and connecting notes in a personal knowledge base.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "markdown notes",
+    "knowledge base",
+    "note-taking",
+    "personal wiki",
+    "linked thinking",
+    "PKM",
+    "text editor"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/db1613f8-8840-5fe3-a4ac-8d212649160e"
 }

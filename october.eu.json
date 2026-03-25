@@ -1,10 +1,19 @@
 {
   "entity_id": "a746d23b-055c-5b06-aadc-c9734f95e7d0",
   "name": "October Europe",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "October Europe provides a platform for businesses to access loans from individual and institutional investors.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
+  "keywords": [
+    "SME lending",
+    "institutional investors",
+    "crowdlending",
+    "business loans",
+    "European loans",
+    "loan marketplace",
+    "debt financing"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a746d23b-055c-5b06-aadc-c9734f95e7d0"
 }

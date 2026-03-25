@@ -1,10 +1,19 @@
 {
   "entity_id": "b9707ccc-2f3a-539d-b749-337836d7e0f8",
   "name": "ottonova",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Ottonova provides digital health insurance services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "private health insurance",
+    "digital health",
+    "german insurance",
+    "health coverage",
+    "insurance technology",
+    "digital healthcare",
+    "mobile health"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b9707ccc-2f3a-539d-b749-337836d7e0f8"
 }

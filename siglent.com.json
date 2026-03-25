@@ -1,10 +1,20 @@
 {
   "entity_id": "c79a4764-8075-5ee8-ac29-6202149aa56e",
   "name": "Siglent Website",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "Siglent manufactures electronic test and measurement equipment such as oscilloscopes and signal generators.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Germany",
+  "keywords": [
+    "oscilloscopes",
+    "signal generators",
+    "electronic test equipment",
+    "measurement instruments",
+    "test and measurement",
+    "electronics manufacturing",
+    "laboratory equipment",
+    "power supplies"
+  ],
   "aio_score": 68.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c79a4764-8075-5ee8-ac29-6202149aa56e"
 }

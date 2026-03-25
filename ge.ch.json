@@ -1,10 +1,20 @@
 {
   "entity_id": "46c458df-ca6c-5494-b863-113bab973a6e",
   "name": "ge.ch",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Ge.ch is the official website for the Canton of Geneva, Switzerland, providing information and services to residents.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "canton of geneva",
+    "swiss government",
+    "local government",
+    "public information",
+    "geneva services",
+    "city services",
+    "regional information",
+    "geneva administration"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/46c458df-ca6c-5494-b863-113bab973a6e"
 }

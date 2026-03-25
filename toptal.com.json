@@ -1,10 +1,20 @@
 {
   "entity_id": "6a9b4349-7164-53ed-a93e-aba68d00cbdd",
   "name": "Toptal",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Toptal connects businesses with freelance software developers, designers, and finance experts.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "freelance developers",
+    "remote designers",
+    "finance experts",
+    "talent network",
+    "software development",
+    "on-demand talent",
+    "staff augmentation",
+    "project-based talent"
+  ],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6a9b4349-7164-53ed-a93e-aba68d00cbdd"
 }

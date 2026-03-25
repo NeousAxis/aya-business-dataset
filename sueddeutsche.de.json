@@ -1,10 +1,20 @@
 {
   "entity_id": "1ad5d247-64aa-5474-bc8e-2255e52a4949",
   "name": "Aktuelle Nachrichten und Kommentare",
-  "what_it_does": "Provides api, app, consulting.",
+  "what_it_does": "Süddeutsche Zeitung is a German-language daily newspaper.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "German newspaper",
+    "daily news",
+    "current events",
+    "political commentary",
+    "news reporting",
+    "investigative journalism",
+    "German news",
+    "national news"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1ad5d247-64aa-5474-bc8e-2255e52a4949"
 }

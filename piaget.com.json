@@ -1,10 +1,20 @@
 {
   "entity_id": "ae79b90b-d78e-5a03-94c9-d7dbfa59f607",
   "name": "Piaget",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Piaget is a luxury Swiss watchmaker and jeweler.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
+  "keywords": [
+    "luxury watches",
+    "high jewelry",
+    "swiss watches",
+    "fine jewelry",
+    "haute horlogerie",
+    "prestige jewelry",
+    "luxury goods",
+    "exclusive timepieces"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ae79b90b-d78e-5a03-94c9-d7dbfa59f607"
 }

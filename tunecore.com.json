@@ -1,10 +1,20 @@
 {
   "entity_id": "6cee2719-741b-52f9-9313-b28c3a18cd67",
   "name": "TuneCore",
-  "what_it_does": "Provides app, delivery, platform.",
+  "what_it_does": "TuneCore distributes artists' music to online music stores and streaming platforms.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "music distribution",
+    "independent artists",
+    "song publishing",
+    "music streaming",
+    "royalty collection",
+    "music licensing",
+    "digital music",
+    "artist promotion"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6cee2719-741b-52f9-9313-b28c3a18cd67"
 }

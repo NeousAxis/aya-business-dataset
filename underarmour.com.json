@@ -1,10 +1,20 @@
 {
   "entity_id": "5d9be1fd-a9a1-5d0e-981e-f541a150f39c",
   "name": "Under Armour",
-  "what_it_does": "Provides delivery, product.",
+  "what_it_does": "Under Armour manufactures and sells athletic apparel, footwear, and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "sportswear",
+    "athletic apparel",
+    "performance footwear",
+    "Under Armour",
+    "sports clothing",
+    "fitness gear",
+    "athletic accessories",
+    "training apparel"
+  ],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5d9be1fd-a9a1-5d0e-981e-f541a150f39c"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "04894a17-14ba-590e-9b9f-e4971faaba8b",
   "name": "Kerry Group",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Kerry Group produces ingredients and flavors for the food, beverage, and pharmaceutical industries.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
+  "keywords": [
+    "food ingredients",
+    "flavorings",
+    "taste solutions",
+    "food industry",
+    "beverage industry",
+    "pharmaceutical ingredients",
+    "nutritional ingredients",
+    "food science"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/04894a17-14ba-590e-9b9f-e4971faaba8b"
 }

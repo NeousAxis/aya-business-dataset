@@ -1,10 +1,20 @@
 {
   "entity_id": "6ca49e19-2bfd-5034-89c1-4b9a55780adc",
   "name": "Mega Millions",
-  "what_it_does": "Media & Communication organization.",
+  "what_it_does": "Mega Millions is a multi-state lottery game in the United States.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "lottery game",
+    "multi-state lottery",
+    "lottery tickets",
+    "drawing game",
+    "chance game",
+    "state lottery",
+    "prize money",
+    "lottery pool"
+  ],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6ca49e19-2bfd-5034-89c1-4b9a55780adc"
 }

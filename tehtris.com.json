@@ -1,10 +1,19 @@
 {
   "entity_id": "14e9797b-611e-5d1b-bffc-0bdda0f77786",
   "name": "TEHTRIS",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "TEHTRIS provides cybersecurity solutions for threat detection and neutralization.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
+  "keywords": [
+    "cybersecurity",
+    "threat detection",
+    "threat neutralization",
+    "endpoint protection",
+    "security incidents",
+    "vulnerability assessment",
+    "cyber defense"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/14e9797b-611e-5d1b-bffc-0bdda0f77786"
 }

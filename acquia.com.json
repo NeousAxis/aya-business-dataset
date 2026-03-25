@@ -1,10 +1,20 @@
 {
   "entity_id": "e40c3da3-5360-5d7f-922f-1bebec45b595",
   "name": "Acquia",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Acquia provides a digital experience platform built on Drupal for creating and managing websites and digital applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
+  "keywords": [
+    "drupal-plattform",
+    "digital-experience-platform",
+    "web-content-management",
+    "website-erstellung",
+    "headless-cms",
+    "acquia",
+    "customer-experience",
+    "open-source-cms"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e40c3da3-5360-5d7f-922f-1bebec45b595"
 }

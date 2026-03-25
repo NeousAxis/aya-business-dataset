@@ -1,10 +1,19 @@
 {
   "entity_id": "57770ba1-d1a0-536b-b955-e663e9fb52cc",
   "name": "CommScope",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "CommScope designs and manufactures infrastructure solutions for communications networks.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "Communication networks",
+    "Network infrastructure",
+    "Fiber optic solutions",
+    "Wireless networks",
+    "Broadband solutions",
+    "Telecommunications equipment",
+    "Data cables"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/57770ba1-d1a0-536b-b955-e663e9fb52cc"
 }

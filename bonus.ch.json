@@ -1,10 +1,19 @@
 {
   "entity_id": "f37ebcc0-55c9-5cd2-9a6a-f28aa7e654ff",
   "name": "bonus.ch",
-  "what_it_does": "Provides app.",
+  "what_it_does": "Bonus.ch is a Swiss website that compares insurance and financial products.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "insurance comparison",
+    "financial product comparison",
+    "Swiss insurance",
+    "mortgage comparison",
+    "credit comparison",
+    "health insurance comparison",
+    "car insurance comparison"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f37ebcc0-55c9-5cd2-9a6a-f28aa7e654ff"
 }

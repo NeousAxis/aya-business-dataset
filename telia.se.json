@@ -1,10 +1,20 @@
 {
   "entity_id": "9d7dad05-666f-5826-805b-42bedd01791d",
   "name": "Telia",
-  "what_it_does": "Provides app.",
+  "what_it_does": "Telia provides telecommunication services, including mobile, broadband, and television, in the Nordic and Baltic regions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Sweden",
+  "keywords": [
+    "telecommunications services",
+    "mobile ",
+    "broadband ",
+    "television ",
+    "nordic region",
+    "fixed-line ",
+    "communication ",
+    "data transmission"
+  ],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9d7dad05-666f-5826-805b-42bedd01791d"
 }

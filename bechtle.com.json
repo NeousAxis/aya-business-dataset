@@ -1,10 +1,20 @@
 {
   "entity_id": "c84ab28a-519c-543b-85d2-a9fbcdde7cfe",
   "name": "Bechtle AG",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Bechtle AG is an IT service provider that offers services including IT strategy consulting, hardware and software supply, and system integration.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
+  "keywords": [
+    "IT services",
+    "IT consulting",
+    "IT strategy",
+    "IT solutions",
+    "system integration",
+    "IT infrastructure",
+    "managed services",
+    "IT procurement"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c84ab28a-519c-543b-85d2-a9fbcdde7cfe"
 }

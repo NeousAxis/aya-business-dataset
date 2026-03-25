@@ -1,10 +1,19 @@
 {
   "entity_id": "bdf13575-cb0a-5f98-bea9-6f6f28649a64",
   "name": "Business Insider",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "Business Insider publishes financial, business, and technology news and analysis.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "financial news",
+    "business news",
+    "economic reporting",
+    "technology news",
+    "market analysis",
+    "investment news",
+    "global finance"
+  ],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bdf13575-cb0a-5f98-bea9-6f6f28649a64"
 }

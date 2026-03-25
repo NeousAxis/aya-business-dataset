@@ -1,10 +1,20 @@
 {
   "entity_id": "25fa0fcc-7d2c-5280-acd3-43fdee1d5848",
   "name": "SimpliSafe",
-  "what_it_does": "Provides app, cloud, product.",
+  "what_it_does": "SimpliSafe sells wireless home security systems.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "systèmes sécurité domestique",
+    "sécurité sans fil",
+    "alarme maison",
+    "surveillance résidentielle",
+    "dissuasion cambriolage",
+    "protection domicile",
+    "kits de sécurité",
+    "sécurité intelligente"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/25fa0fcc-7d2c-5280-acd3-43fdee1d5848"
 }

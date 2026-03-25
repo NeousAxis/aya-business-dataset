@@ -1,10 +1,20 @@
 {
   "entity_id": "e79e0cf1-cf8b-5981-b4f1-91e7709c80d4",
   "name": "Ellington Management Group",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Ellington Management Group is an asset management firm specializing in mortgage-backed securities and other credit-related investments.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "mortgage-backed securities",
+    "investment management",
+    "fixed income",
+    "credit investments",
+    "alternative investments",
+    "asset management",
+    "institutional investors",
+    "structured credit"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e79e0cf1-cf8b-5981-b4f1-91e7709c80d4"
 }

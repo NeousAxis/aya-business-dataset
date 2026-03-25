@@ -1,10 +1,20 @@
 {
   "entity_id": "859fb994-2bc4-56ad-9b13-a7c6dddac94e",
   "name": "La Coupole",
-  "what_it_does": "Provides menu, offre, produit.",
+  "what_it_does": "La Coupole is a restaurant located in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Switzerland",
+  "keywords": [
+    "swiss restaurant",
+    "fine dining",
+    "european cuisine",
+    "restaurant switzerland",
+    "culinary experience",
+    "gastronomy",
+    "local cuisine",
+    "dining establishment"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/859fb994-2bc4-56ad-9b13-a7c6dddac94e"
 }

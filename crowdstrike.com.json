@@ -1,10 +1,20 @@
 {
   "entity_id": "2b909a2c-edc4-59bb-8639-6eeaf50c5b4e",
   "name": "CrowdStrike",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "CrowdStrike offers cloud-delivered endpoint protection and threat intelligence services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "endpoint protection",
+    "threat intelligence",
+    "cybersecurity",
+    "cloud security",
+    "intrusion detection",
+    "managed security",
+    "incident response",
+    "endpoint detection"
+  ],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2b909a2c-edc4-59bb-8639-6eeaf50c5b4e"
 }

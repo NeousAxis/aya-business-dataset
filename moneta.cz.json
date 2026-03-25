@@ -1,10 +1,14 @@
 {
   "entity_id": "e041f282-9c41-58e1-be8f-eda749f4bfea",
   "name": "MONETA Bank",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "MONETA Bank is a Czech bank offering a range of financial services to individuals and businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Czech Republic",
+  "keywords": [
+    "banking",
+    "financial"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e041f282-9c41-58e1-be8f-eda749f4bfea"
 }

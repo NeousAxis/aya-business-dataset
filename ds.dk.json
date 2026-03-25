@@ -1,10 +1,20 @@
 {
   "entity_id": "de25f9c0-d838-5718-ba4b-903129984064",
   "name": "Dansk Standard",
-  "what_it_does": "Provides app, service, solution.",
+  "what_it_does": "Dansk Standard is the Danish standards organization, creating and selling standards and related publications.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Denmark",
+  "keywords": [
+    "Danish standards",
+    "standardization",
+    "technical standards",
+    "industry standards",
+    "Danish regulations",
+    "standards publications",
+    "norms",
+    "certification standards"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/de25f9c0-d838-5718-ba4b-903129984064"
 }

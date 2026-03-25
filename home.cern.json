@@ -1,10 +1,20 @@
 {
   "entity_id": "d0090fbf-b9b4-5dc7-8034-7a1a425df986",
   "name": "CERN",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "CERN operates the world's largest particle physics laboratory.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
+  "keywords": [
+    "particle physics",
+    "scientific research",
+    "high energy physics",
+    "accelerator physics",
+    "international research",
+    "scientific experiments",
+    "physics laboratory",
+    "fundamental science"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d0090fbf-b9b4-5dc7-8034-7a1a425df986"
 }

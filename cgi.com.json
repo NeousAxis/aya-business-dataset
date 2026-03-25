@@ -1,10 +1,19 @@
 {
   "entity_id": "c4d80260-f3a7-5b8f-91e1-d38d80ae05cc",
   "name": "IT and business consulting services",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "CGI provides IT and business consulting services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "IT advisory",
+    "business transformation",
+    "information technology",
+    "systems integration",
+    "outsourcing",
+    "technology implementation",
+    "process engineering"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c4d80260-f3a7-5b8f-91e1-d38d80ae05cc"
 }

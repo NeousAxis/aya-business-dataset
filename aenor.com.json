@@ -1,10 +1,20 @@
 {
   "entity_id": "01299939-ebe4-5101-bd20-43c037cc3638",
   "name": "AENOR",
-  "what_it_does": "Provides product, software.",
+  "what_it_does": "AENOR provides certification services and develops technical standards.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Spain",
+  "keywords": [
+    "certification services",
+    "technical standards",
+    "AENOR standards",
+    "quality certification",
+    "standard development",
+    "compliance standards",
+    "product certification",
+    "system certification"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/01299939-ebe4-5101-bd20-43c037cc3638"
 }

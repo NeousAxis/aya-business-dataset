@@ -1,10 +1,20 @@
 {
   "entity_id": "e844eb48-7de5-5dfa-b6ca-1f7eee55f3dd",
   "name": "EDF",
-  "what_it_does": "Provides menu, service, services.",
+  "what_it_does": "EDF likely provides food and beverage services in France.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "France",
+  "keywords": [
+    "French catering",
+    "food services",
+    "restaurant services",
+    "event catering",
+    "meal preparation",
+    "food delivery",
+    "corporate catering",
+    "catering solutions"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e844eb48-7de5-5dfa-b6ca-1f7eee55f3dd"
 }

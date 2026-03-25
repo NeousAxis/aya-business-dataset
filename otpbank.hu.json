@@ -1,10 +1,20 @@
 {
   "entity_id": "e69a870c-4927-57b8-afce-c6a244cda4da",
   "name": "OTP Bank",
-  "what_it_does": "Provides api.",
+  "what_it_does": "OTP Bank is a Hungarian commercial bank offering various financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "HU",
+  "keywords": [
+    "Hungarian banking",
+    "financial services",
+    "retail banking",
+    "corporate banking",
+    "investment banking",
+    "asset management",
+    "loans",
+    "mortgages"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e69a870c-4927-57b8-afce-c6a244cda4da"
 }

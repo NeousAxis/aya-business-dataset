@@ -1,10 +1,20 @@
 {
   "entity_id": "5a2de53a-41e1-500e-ac28-977e462d1e89",
   "name": "Universiteit van Amsterdam",
-  "what_it_does": "Provides app, menu, service.",
+  "what_it_does": "The Universiteit van Amsterdam is a public research university in the Netherlands.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Netherlands",
+  "keywords": [
+    "university",
+    "research university",
+    "public university",
+    "Netherlands university",
+    "higher education",
+    "academic research",
+    "Amsterdam university",
+    "Dutch university"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5a2de53a-41e1-500e-ac28-977e462d1e89"
 }

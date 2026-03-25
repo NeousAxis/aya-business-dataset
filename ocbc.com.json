@@ -1,10 +1,20 @@
 {
   "entity_id": "c5111d9c-6592-500a-a25c-318fa5690aec",
   "name": "OCBC",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "OCBC (Oversea-Chinese Banking Corporation) provides banking and financial services in Singapore and Southeast Asia.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Singapore",
+  "keywords": [
+    "banking",
+    "financial services",
+    "Singapore banking",
+    "Asian banking",
+    "wealth",
+    "investment banking",
+    "corporate finance",
+    "loan & mortgages"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c5111d9c-6592-500a-a25c-318fa5690aec"
 }

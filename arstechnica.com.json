@@ -1,10 +1,20 @@
 {
   "entity_id": "6c87fe6d-eff0-5c6e-932b-7721bf724028",
   "name": "Ars Technica",
-  "what_it_does": "Provides app, software.",
+  "what_it_does": "Ars Technica is a website providing news, reviews, and analysis of technology and science topics.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "technology news",
+    "science news",
+    "tech reviews",
+    "science articles",
+    "gadget reviews",
+    "technology culture",
+    "online journalism",
+    "tech journalism"
+  ],
   "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6c87fe6d-eff0-5c6e-932b-7721bf724028"
 }

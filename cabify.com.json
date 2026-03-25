@@ -1,10 +1,20 @@
 {
   "entity_id": "f1ed3020-9b73-5532-88ff-9d8fd31b4e02",
   "name": "Cabify",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Cabify provides a ride-hailing service.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Argentina",
+  "keywords": [
+    "ridesharing",
+    "private car",
+    "transportation network",
+    "urban mobility",
+    "ground transportation",
+    "ride hailing",
+    "VTC",
+    "mobile transportation"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f1ed3020-9b73-5532-88ff-9d8fd31b4e02"
 }

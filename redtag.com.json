@@ -1,10 +1,20 @@
 {
   "entity_id": "96d8c6b3-95c7-51e8-8a22-f0350f7476cc",
   "name": "RedTag",
-  "what_it_does": "Provides app, restaurant.",
+  "what_it_does": "RedTag.com is an online retailer that sells discounted clothing and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "discount clothing",
+    "online retailer",
+    "fashion apparel",
+    "clothing sales",
+    "accessory sales",
+    "affordable fashion",
+    "e-commerce fashion",
+    "discounted apparel"
+  ],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/96d8c6b3-95c7-51e8-8a22-f0350f7476cc"
 }

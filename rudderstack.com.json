@@ -1,10 +1,20 @@
 {
   "entity_id": "27dfb556-021a-5c20-a354-c3853e593668",
   "name": "RudderStack",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "RudderStack is a customer data platform for collecting and routing event data.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "customer data",
+    "data pipelines",
+    "event streaming",
+    "data governance",
+    "data warehousing",
+    "customer analytics",
+    "data integration",
+    "CDP"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/27dfb556-021a-5c20-a354-c3853e593668"
 }

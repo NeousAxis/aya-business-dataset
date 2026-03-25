@@ -1,10 +1,20 @@
 {
   "entity_id": "45629c8f-8cc8-5611-bd7c-e15b44e8f481",
   "name": "GetYourGuide",
-  "what_it_does": "Tourisme & Transport organization.",
+  "what_it_does": "GetYourGuide is an online platform for booking tours and activities.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Germany",
+  "keywords": [
+    "tours",
+    "travel activities",
+    "sightseeing",
+    "experiences",
+    "vacation bookings",
+    "attractions",
+    "day trips",
+    "guided tours"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/45629c8f-8cc8-5611-bd7c-e15b44e8f481"
 }

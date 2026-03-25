@@ -1,10 +1,20 @@
 {
   "entity_id": "8beb4526-6140-52ac-ad3d-9c03848d57c0",
   "name": "Coursera",
-  "what_it_does": "Provides app, platform, product.",
+  "what_it_does": "Coursera offers online courses, specializations, and degrees from universities and institutions worldwide.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "online courses",
+    "e-learning",
+    "university courses",
+    "MOOC",
+    "degree programs",
+    "skill development",
+    "professional education",
+    "remote learning"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8beb4526-6140-52ac-ad3d-9c03848d57c0"
 }

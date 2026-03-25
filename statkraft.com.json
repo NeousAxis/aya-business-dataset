@@ -1,10 +1,20 @@
 {
   "entity_id": "1d486f26-436e-5cd4-b759-524d3f7e48fd",
   "name": "Statkraft",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "Statkraft generates electricity primarily from hydropower, wind power, and gas power.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Norway",
+  "keywords": [
+    "hydroelectric power",
+    "renewable energy",
+    "power generation",
+    "energy trading",
+    "hydropower plants",
+    "Norway energy",
+    "clean energy",
+    "energy production"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1d486f26-436e-5cd4-b759-524d3f7e48fd"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "8466d69d-4726-591a-b438-5877c5ae811b",
   "name": "One of the World's Leading Reinsurers",
-  "what_it_does": "Media & Communication organization.",
+  "what_it_does": "Hannover Re is a global reinsurance company.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "reinsurance",
+    "risk transfer",
+    "global insurance",
+    "property reinsurance",
+    "life reinsurance",
+    "casualty reinsurance",
+    "financial risks"
+  ],
   "aio_score": 25.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8466d69d-4726-591a-b438-5877c5ae811b"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "813eecf7-4e20-5582-96f2-c0e5ae241d84",
   "name": "startupticker.ch News Startupticker.ch",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Startupticker.ch reports on and provides information about the Swiss startup ecosystem.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss startups",
+    "startup ecosystem",
+    "Swiss innovation",
+    "startup news",
+    "funding rounds",
+    "startup reports",
+    "Swiss venture capital",
+    "startup events"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/813eecf7-4e20-5582-96f2-c0e5ae241d84"
 }

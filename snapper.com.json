@@ -1,10 +1,19 @@
 {
   "entity_id": "d716cb24-1fca-5294-b58b-eaeb8cf20bc2",
   "name": "Snapper",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Snapper is a point of sale (POS) system designed to facilitate payments for retail businesses.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "point of sale systems",
+    "retail payments",
+    "transaction processing",
+    "payment solutions",
+    "snapper pos",
+    "retail software",
+    "sales transactions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d716cb24-1fca-5294-b58b-eaeb8cf20bc2"
 }

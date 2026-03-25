@@ -1,10 +1,20 @@
 {
   "entity_id": "8b79753b-2cf6-5fe8-bf90-a0b0b39f8e19",
   "name": "Imd",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "IMD (International Institute for Management Development) is a business school providing executive education.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
+  "keywords": [
+    "executive education",
+    "management training",
+    "leadership development",
+    "business school",
+    "international business",
+    "corporate learning",
+    "MBA programs",
+    "Switzerland education"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8b79753b-2cf6-5fe8-bf90-a0b0b39f8e19"
 }

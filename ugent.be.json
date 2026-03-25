@@ -1,10 +1,19 @@
 {
   "entity_id": "eaf0ee3a-520d-5a21-b05e-cc2eb54d5f66",
   "name": "Universiteit Gent",
-  "what_it_does": "Provides app, menu, restaurant.",
+  "what_it_does": "Universiteit Gent (UGent) is a public research university in Ghent, Belgium.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Belgium",
+  "keywords": [
+    "Belgian university",
+    "research university",
+    "higher education",
+    "Ghent university",
+    "academic research",
+    "university programs",
+    "Flanders education"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eaf0ee3a-520d-5a21-b05e-cc2eb54d5f66"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "fd4a7866-9160-59c6-a0f2-80b9f5094b21",
   "name": "Docebo",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Docebo is a learning management system (LMS) platform for corporate training.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
+  "keywords": [
+    "learning",
+    "training",
+    "LMS",
+    "elearning",
+    "corporate training",
+    "learning experience",
+    "employee training"
+  ],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fd4a7866-9160-59c6-a0f2-80b9f5094b21"
 }

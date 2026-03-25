@@ -1,10 +1,20 @@
 {
   "entity_id": "86e8da46-5c8f-59f2-84f1-6023949f1c17",
   "name": "JULES",
-  "what_it_does": "Provides api, app, offre.",
+  "what_it_does": "JULES is an online retailer based in Belgium.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Belgium",
+  "keywords": [
+    "men's fashion",
+    "men's clothing",
+    "Belgian retailer",
+    "e-commerce fashion",
+    "casual wear",
+    "menswear",
+    "online apparel",
+    "men's accessories"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/86e8da46-5c8f-59f2-84f1-6023949f1c17"
 }

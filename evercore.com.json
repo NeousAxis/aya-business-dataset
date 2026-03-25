@@ -1,10 +1,20 @@
 {
   "entity_id": "912dc93e-a78b-571a-9591-c7bee41347b0",
   "name": "Evercore",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Evercore is an independent investment banking advisory firm.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United States",
+  "keywords": [
+    "investment banking",
+    "financial advisory",
+    "mergers and acquisitions",
+    "restructuring advice",
+    "strategic advisory",
+    "private capital advisory",
+    "Evercore",
+    "financial institutions"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/912dc93e-a78b-571a-9591-c7bee41347b0"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "db547f0b-5233-5c44-9f23-251beabf7682",
   "name": "Northrop Grumman",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Northrop Grumman is an aerospace and defense technology company.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "aerospace systems",
+    "defense technology",
+    "aviation products",
+    "security solutions",
+    "space systems",
+    "military technology",
+    "cybersecurity",
+    "defense contracting"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/db547f0b-5233-5c44-9f23-251beabf7682"
 }

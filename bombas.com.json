@@ -1,10 +1,20 @@
 {
   "entity_id": "397ab9fa-50dd-5c11-9522-49a1a81be502",
   "name": "Bombas. Socks",
-  "what_it_does": "Provides app, product.",
+  "what_it_does": "Bombas sells socks and apparel, donating an item for every purchase.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "socks",
+    "apparel",
+    "e-commerce",
+    "clothing",
+    "donate socks",
+    "online retail",
+    "footwear",
+    "charitable giving"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/397ab9fa-50dd-5c11-9522-49a1a81be502"
 }

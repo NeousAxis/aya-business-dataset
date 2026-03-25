@@ -1,10 +1,20 @@
 {
   "entity_id": "d6d1d8d1-e970-5548-88c2-aca3b0eb5dab",
   "name": "Tom's Hardware: For The Hardcore PC Enthusiast",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Tom's Hardware publishes news, reviews, and tutorials for PC hardware enthusiasts.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
+  "keywords": [
+    "PC hardware reviews",
+    "PC gaming hardware",
+    "hardware tutorials",
+    "PC components",
+    "hardware news",
+    "computer building",
+    "overclocking",
+    "DIY PC"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6d1d8d1-e970-5548-88c2-aca3b0eb5dab"
 }

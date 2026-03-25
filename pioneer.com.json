@@ -1,10 +1,20 @@
 {
   "entity_id": "9fb06eda-636a-59cc-b17e-9be4df3dd978",
   "name": "Pioneer",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Pioneer manufactures in-car entertainment, DJ equipment, and related electronic products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
+  "keywords": [
+    "car audio",
+    "DJ equipment",
+    "in-car entertainment",
+    "audio systems",
+    "home audio",
+    "headphones",
+    "speakers",
+    "electronic components"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9fb06eda-636a-59cc-b17e-9be4df3dd978"
 }

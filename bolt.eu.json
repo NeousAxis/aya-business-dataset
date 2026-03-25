@@ -1,10 +1,19 @@
 {
   "entity_id": "7a446ab3-6d85-519b-89a4-f0a755e58ea9",
   "name": "Bolt",
-  "what_it_does": "Provides app, restaurant, service.",
+  "what_it_does": "Bolt provides ride-hailing and micro-mobility services in Europe and Africa.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Morocco",
+  "keywords": [
+    "ride hailing",
+    "taxi alternative",
+    "urban transportation",
+    "driver network",
+    "on-demand transport",
+    "mobility services",
+    "private hire"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7a446ab3-6d85-519b-89a4-f0a755e58ea9"
 }

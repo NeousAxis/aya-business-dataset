@@ -1,10 +1,19 @@
 {
   "entity_id": "d3710266-10f9-5014-aa00-63003dce756f",
   "name": "Ecamm Live",
-  "what_it_does": "Provides app, cloud, platform.",
+  "what_it_does": "Ecamm Live provides live streaming software for macOS.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "live streaming software",
+    "macOS software",
+    "video production",
+    "broadcasting tools",
+    "live video",
+    "video mixing",
+    "virtual cameras"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d3710266-10f9-5014-aa00-63003dce756f"
 }

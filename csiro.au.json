@@ -1,10 +1,20 @@
 {
   "entity_id": "5c7c3513-7c6d-5e61-94c3-ad7eb352ffa2",
   "name": "CSIRO",
-  "what_it_does": "Provides app, cloud, delivery.",
+  "what_it_does": "CSIRO is an Australian government agency dedicated to scientific research and innovation.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Australia",
+  "keywords": [
+    "scientific research",
+    "government research",
+    "Australian science",
+    "research & development",
+    "scientific innovation",
+    "national research",
+    "CSIRO research",
+    "environmental research"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5c7c3513-7c6d-5e61-94c3-ad7eb352ffa2"
 }

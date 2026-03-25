@@ -1,10 +1,20 @@
 {
   "entity_id": "aabd4c89-2742-5093-a3a1-da9dbbe5fdeb",
   "name": "LALIGA EA SPORTS",
-  "what_it_does": "Provides app.",
+  "what_it_does": "LALIGA EA SPORTS is the official professional football league in Spain.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "Spanish football league",
+    "professional soccer",
+    "La Liga",
+    "football games",
+    "sports entertainment",
+    "soccer league",
+    "soccer games",
+    "Spanish soccer"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aabd4c89-2742-5093-a3a1-da9dbbe5fdeb"
 }

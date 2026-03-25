@@ -1,10 +1,20 @@
 {
   "entity_id": "30b9ec5a-9019-5ed6-9fe7-c30451b5c238",
   "name": "Similarweb",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Similarweb provides website traffic analysis and marketing intelligence data.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
+  "keywords": [
+    "web traffic data",
+    "website analytics",
+    "market intelligence",
+    "competitive analysis",
+    "web ranking",
+    "website performance",
+    "keyword research",
+    "digital research"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/30b9ec5a-9019-5ed6-9fe7-c30451b5c238"
 }

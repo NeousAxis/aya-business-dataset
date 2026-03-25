@@ -1,10 +1,20 @@
 {
   "entity_id": "e569c92e-3d37-5510-9360-886b084bb969",
   "name": "L-Acoustics",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "L-Acoustics designs and manufactures professional sound reinforcement systems.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "professional audio systems",
+    "loudspeaker design",
+    "sound reinforcement",
+    "concert sound",
+    "audio equipment",
+    "speaker manufacturing",
+    "live sound",
+    "sound system rentals"
+  ],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e569c92e-3d37-5510-9360-886b084bb969"
 }

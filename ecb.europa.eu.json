@@ -1,10 +1,19 @@
 {
   "entity_id": "4608fe54-29ca-5896-bd5a-6b198eb79534",
   "name": "European Central Bank",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "The European Central Bank manages the euro and conducts monetary policy for the Eurozone.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "euro currency",
+    "monetary policy",
+    "eurozone",
+    "central banking",
+    "price stability",
+    "financial stability",
+    "european economy"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4608fe54-29ca-5896-bd5a-6b198eb79534"
 }

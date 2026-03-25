@@ -1,10 +1,20 @@
 {
   "entity_id": "ae764e87-02b8-5db8-930e-f8d401d85563",
   "name": "Backbase",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Backbase provides a digital banking platform for financial institutions.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "digital banking",
+    "core banking systems",
+    "omnichannel banking",
+    "customer engagement",
+    "fintech",
+    "banking software",
+    "financial institution technology",
+    "banking UX"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ae764e87-02b8-5db8-930e-f8d401d85563"
 }

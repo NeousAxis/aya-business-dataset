@@ -1,10 +1,19 @@
 {
   "entity_id": "c989e2bd-a18c-5a53-bbde-72ac9b5c4746",
   "name": "Astro",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Astro builds a web framework for building content-focused websites.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "web framework",
+    "content-focused websites",
+    "static site generator",
+    "javascript framework",
+    "front-end development",
+    "website performance",
+    "developer tools"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c989e2bd-a18c-5a53-bbde-72ac9b5c4746"
 }

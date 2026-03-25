@@ -1,10 +1,20 @@
 {
   "entity_id": "3a96189d-c7e4-5868-9ce2-f4d864f9edbe",
   "name": "Accueil Particuliers",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Malakoff Humanis offers insurance and financial services to individuals.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "insurance plans",
+    "financial products",
+    "retirement savings",
+    "health insurance",
+    "life insurance",
+    "personal finance",
+    "insurance coverage",
+    "investment products"
+  ],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3a96189d-c7e4-5868-9ce2-f4d864f9edbe"
 }

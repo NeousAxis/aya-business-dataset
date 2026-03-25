@@ -1,10 +1,20 @@
 {
   "entity_id": "0b912aa2-08ad-50d6-9108-de51c708fb0a",
   "name": "Typeform",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Typeform offers a platform for creating online forms, surveys, and quizzes.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Spain",
+  "keywords": [
+    "form builder",
+    "survey tools",
+    "quiz creation",
+    "data collection",
+    "customer feedback",
+    "form design",
+    "lead generation",
+    "online questionnaire"
+  ],
   "aio_score": 80.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0b912aa2-08ad-50d6-9108-de51c708fb0a"
 }

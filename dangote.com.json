@@ -1,10 +1,20 @@
 {
   "entity_id": "aedf07f8-7544-5735-aeae-75ab3f309752",
   "name": "Dangote Industries Limited",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Dangote Industries is a diversified conglomerate with interests in manufacturing, food processing, and cement production.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "African conglomerate",
+    "manufacturing",
+    "food processing",
+    "cement production",
+    "sugar refining",
+    "real estate",
+    "commodity trading",
+    "industrial products"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aedf07f8-7544-5735-aeae-75ab3f309752"
 }

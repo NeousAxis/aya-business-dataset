@@ -1,10 +1,19 @@
 {
   "entity_id": "7de5d479-cd3c-58e8-bdf5-c837f85d9bc4",
   "name": "EVGA",
-  "what_it_does": "Provides product, products, service.",
+  "what_it_does": "EVGA sells computer hardware components such as graphics cards and motherboards.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "graphics cards",
+    "computer hardware",
+    "power supplies",
+    "motherboards",
+    "gaming PCs",
+    "PC components",
+    "high-performance computing"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7de5d479-cd3c-58e8-bdf5-c837f85d9bc4"
 }

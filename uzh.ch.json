@@ -1,10 +1,19 @@
 {
   "entity_id": "f0da3bbd-fc8f-5bf9-bfd9-22b886af51d9",
   "name": "UZH",
-  "what_it_does": "Provides service, software.",
+  "what_it_does": "UZH (likely Universität Zürich) is the University of Zurich, a public research university.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
+  "keywords": [
+    "Zurich university",
+    "Swiss research university",
+    "public university",
+    "higher education",
+    "academic research",
+    "degree programs",
+    "scientific research"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f0da3bbd-fc8f-5bf9-bfd9-22b886af51d9"
 }

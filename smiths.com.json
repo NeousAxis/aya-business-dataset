@@ -1,10 +1,19 @@
 {
   "entity_id": "e89afd0b-2a40-5039-927b-99fd8933bd8c",
   "name": "Smiths Group",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "Smiths Group is an engineering company that manufactures a range of industrial products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
+  "keywords": [
+    "industrial products",
+    "engineered components",
+    "aerospace",
+    "medical devices",
+    "detection systems",
+    "smiths group",
+    "industrial engineering"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e89afd0b-2a40-5039-927b-99fd8933bd8c"
 }

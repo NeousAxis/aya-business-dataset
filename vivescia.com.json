@@ -1,10 +1,20 @@
 {
   "entity_id": "0a74f6fb-fa1a-56b4-9775-68e4d5c703ba",
   "name": "VIVESCIA",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "VIVESCIA is a cooperative group focusing on agriculture and food processing.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Global",
+  "keywords": [
+    "agricultural cooperative",
+    "grain processing",
+    "food transformation",
+    "farming",
+    "crop production",
+    "French agriculture",
+    "milling",
+    "malting"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0a74f6fb-fa1a-56b4-9775-68e4d5c703ba"
 }

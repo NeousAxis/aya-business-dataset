@@ -1,10 +1,20 @@
 {
   "entity_id": "2e6ced3c-f4d8-508f-b449-306dc95e5e89",
   "name": "Magicard Home",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Magicard manufactures ID card printers and related supplies.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United Kingdom",
+  "keywords": [
+    "ID card printers",
+    "card printing solutions",
+    "identification cards",
+    "badge printers",
+    "plastic card printers",
+    "card personalization",
+    "ID card supplies",
+    "security badges"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2e6ced3c-f4d8-508f-b449-306dc95e5e89"
 }

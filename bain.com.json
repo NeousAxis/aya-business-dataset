@@ -1,10 +1,19 @@
 {
   "entity_id": "306995ee-690e-5f1d-98e4-b461bb15c3db",
   "name": "Bain & Company",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Bain & Company is a global management consulting firm.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
+  "keywords": [
+    "management advisory",
+    "business strategy",
+    "corporate finance",
+    "mergers and acquisitions",
+    "performance improvement",
+    "global operations",
+    "business transformation"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/306995ee-690e-5f1d-98e4-b461bb15c3db"
 }

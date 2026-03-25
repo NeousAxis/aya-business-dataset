@@ -1,10 +1,19 @@
 {
   "entity_id": "e6caf93a-1f15-5d96-a5a3-db13f58ea9d2",
   "name": "iHeart",
-  "what_it_does": "Provides api, app.",
+  "what_it_does": "iHeartMedia operates a large network of radio stations and a digital audio platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "radio stations",
+    "digital audio",
+    "streaming radio",
+    "podcast distribution",
+    "audio entertainment",
+    "broadcast media",
+    "music streaming"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e6caf93a-1f15-5d96-a5a3-db13f58ea9d2"
 }

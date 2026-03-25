@@ -1,10 +1,20 @@
 {
   "entity_id": "87e4d19c-e001-57b1-bf62-dbabe3bbfc9a",
   "name": "MikroTik",
-  "what_it_does": "Provides app, platform, product.",
+  "what_it_does": "MikroTik manufactures networking hardware and software, including routers and wireless systems.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "network routers",
+    "wireless systems",
+    "network hardware",
+    "router boards",
+    "wireless ISP",
+    "embedded systems",
+    "network software",
+    "routing solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/87e4d19c-e001-57b1-bf62-dbabe3bbfc9a"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "098259b4-7556-51e4-ba89-c4e3aa15c408",
   "name": "News24",
-  "what_it_does": "Provides app, restaurant, service.",
+  "what_it_does": "News24 is a South African news website.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "South African news",
+    "breaking news South Africa",
+    "current affairs",
+    "SA news publication",
+    "political news",
+    "business news South Africa",
+    "regional news"
+  ],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/098259b4-7556-51e4-ba89-c4e3aa15c408"
 }

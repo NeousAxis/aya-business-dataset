@@ -1,10 +1,20 @@
 {
   "entity_id": "294c80fb-4df4-5a5f-9215-9aea8c10e76b",
   "name": "NAB",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "NAB (National Australia Bank) provides banking and financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Australia",
+  "keywords": [
+    "banking services",
+    "financial services",
+    "australian bank",
+    "retail banking",
+    "business banking",
+    "investment banking",
+    "wealth management",
+    "loans"
+  ],
   "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/294c80fb-4df4-5a5f-9215-9aea8c10e76b"
 }

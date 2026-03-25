@@ -1,10 +1,19 @@
 {
   "entity_id": "f4ae2ec3-3bb6-50ca-abeb-f5d6675aceb9",
   "name": "LHH",
-  "what_it_does": "Provides app, solution, solutions.",
+  "what_it_does": "LHH likely provides career transition and talent development services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
+  "keywords": [
+    "career transition",
+    "leadership development",
+    "talent solutions",
+    "outplacement",
+    "executive coaching",
+    "workforce transformation",
+    "talent mobility"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f4ae2ec3-3bb6-50ca-abeb-f5d6675aceb9"
 }

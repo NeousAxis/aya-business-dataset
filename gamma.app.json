@@ -1,10 +1,20 @@
 {
   "entity_id": "ead99591-a6d2-5eec-961d-ee3ff4114281",
   "name": "Gamma",
-  "what_it_does": "Technology & SaaS organization.",
+  "what_it_does": "Gamma is a collaborative presentation platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "presentation platform",
+    "collaborative presentations",
+    "deck creation",
+    "slide design",
+    "visual communication",
+    "presentation software",
+    "interactive presentations",
+    "content creation"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ead99591-a6d2-5eec-961d-ee3ff4114281"
 }

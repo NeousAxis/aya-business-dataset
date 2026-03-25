@@ -1,10 +1,19 @@
 {
   "entity_id": "f8cbd8c3-85ff-5bfd-b502-1b4d8316e7e2",
   "name": "Fly",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Fly.io is a platform for deploying and running applications globally.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "application deployment",
+    "edge computing",
+    "global infrastructure",
+    "serverless",
+    "application hosting",
+    "distributed systems",
+    "cloud compute"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f8cbd8c3-85ff-5bfd-b502-1b4d8316e7e2"
 }

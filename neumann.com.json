@@ -1,10 +1,20 @@
 {
   "entity_id": "ff84b285-e4b8-5cae-bfb3-bb27fa7756ae",
   "name": "Neumann",
-  "what_it_does": "Provides app, application, offre.",
+  "what_it_does": "Neumann manufactures professional studio microphones and recording equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Austria",
+  "keywords": [
+    "studio microphones",
+    "recording equipment",
+    "professional audio",
+    "microphone manufacturer",
+    "audio recording",
+    "sound engineering",
+    "broadcast equipment",
+    "high-end microphones"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ff84b285-e4b8-5cae-bfb3-bb27fa7756ae"
 }

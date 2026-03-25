@@ -1,10 +1,19 @@
 {
   "entity_id": "bffca3ee-2e64-5a3d-82c5-1871e8347153",
   "name": "Evonik",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Evonik is a specialty chemicals company.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "specialty chemicals",
+    "chemical manufacturing",
+    "performance materials",
+    "nutrition & care",
+    "smart materials",
+    "chemical products",
+    "advanced materials"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bffca3ee-2e64-5a3d-82c5-1871e8347153"
 }

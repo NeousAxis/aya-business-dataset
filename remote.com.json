@@ -1,10 +1,19 @@
 {
   "entity_id": "4f7747e8-8a14-5461-8782-0ef2ceaa97b3",
   "name": "Remote",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Remote provides a platform for managing international payroll, benefits, and compliance for remote employees.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
+  "keywords": [
+    "global payroll",
+    "international employment",
+    "employee benefits",
+    "compliance",
+    "HR automation",
+    "global workforce",
+    "employer of record"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4f7747e8-8a14-5461-8782-0ef2ceaa97b3"
 }

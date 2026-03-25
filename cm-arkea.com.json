@@ -1,10 +1,20 @@
 {
   "entity_id": "2ed15c4c-da6a-5c36-bdde-7ce6b0a1972a",
   "name": "Crédit Mutuel Arkéa",
-  "what_it_does": "Provides app, offre, produit.",
+  "what_it_does": "Crédit Mutuel Arkéa is a French cooperative banking group.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "French banking",
+    "cooperative bank",
+    "retail banking",
+    "financial",
+    "insurance products",
+    "mortgages",
+    "savings",
+    "credit"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2ed15c4c-da6a-5c36-bdde-7ce6b0a1972a"
 }

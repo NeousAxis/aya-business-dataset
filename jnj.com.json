@@ -1,10 +1,20 @@
 {
   "entity_id": "4a5e4411-ec1c-5b94-bcfa-136742755f74",
   "name": "Johnson & Johnson: Changing health for humanity",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Johnson & Johnson is a multinational corporation that manufactures pharmaceuticals, medical devices, and consumer packaged goods.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
+  "keywords": [
+    "pharmaceuticals",
+    "medical devices",
+    "consumer healthcare",
+    "healthcare products",
+    "pharmaceutical research",
+    "medical technology",
+    "OTC medications",
+    "wound care"
+  ],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a5e4411-ec1c-5b94-bcfa-136742755f74"
 }

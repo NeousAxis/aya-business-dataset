@@ -1,10 +1,20 @@
 {
   "entity_id": "ab9f94cd-970a-59e3-81fb-bc185871f355",
   "name": "Wistia",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Wistia provides video hosting and marketing tools for businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "video hosting",
+    "video analytics",
+    "video marketing",
+    "business video",
+    "video platform",
+    "video engagement",
+    "brand videos",
+    "video storage"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab9f94cd-970a-59e3-81fb-bc185871f355"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "c9fcb042-75d9-527f-982d-263c71b15b6d",
   "name": "Wärtsilä",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Wärtsilä provides technologies and lifecycle solutions for the marine and energy markets.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Finland",
+  "keywords": [
+    "marine power",
+    "energy solutions",
+    "ship design",
+    "power plants",
+    "lifecycle services",
+    "propulsion systems",
+    "electrical automation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c9fcb042-75d9-527f-982d-263c71b15b6d"
 }

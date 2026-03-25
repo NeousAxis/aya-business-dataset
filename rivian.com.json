@@ -1,10 +1,19 @@
 {
   "entity_id": "87f1cd0e-d32c-5a8c-8be7-0190c2b8dbb9",
   "name": "Rivian",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Rivian designs and manufactures electric adventure vehicles and related technology.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "electric vehicles",
+    "adventure vehicles",
+    "automotive manufacturing",
+    "EV technologies",
+    "sustainable transportation",
+    " Rivian trucks",
+    "Rivian SUVs"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/87f1cd0e-d32c-5a8c-8be7-0190c2b8dbb9"
 }

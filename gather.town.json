@@ -1,10 +1,20 @@
 {
   "entity_id": "964583e8-ce64-5116-a0c3-9fd5361c724a",
   "name": "Gather",
-  "what_it_does": "Provides app, cloud, menu.",
+  "what_it_does": "Gather is a video conferencing platform that allows users to interact in customizable virtual spaces.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
+  "keywords": [
+    "video conferencing",
+    "virtual spaces",
+    "collaboration",
+    "virtual meetings",
+    "remote work",
+    "virtual events",
+    "online collaboration",
+    "spatial video"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/964583e8-ce64-5116-a0c3-9fd5361c724a"
 }

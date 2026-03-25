@@ -1,10 +1,20 @@
 {
   "entity_id": "5edc23f7-5ff9-50c9-a41b-e559a104efd9",
   "name": "Help Scout",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Help Scout provides customer support software for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "customer support",
+    "help desk",
+    "shared inbox",
+    "customer communication",
+    "email support",
+    "customer success",
+    "knowledge base",
+    "customer messaging"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5edc23f7-5ff9-50c9-a41b-e559a104efd9"
 }

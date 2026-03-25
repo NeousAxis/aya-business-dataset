@@ -1,10 +1,20 @@
 {
   "entity_id": "25a14c5e-6adf-5251-8f35-2d91973de22e",
   "name": "Link in bio tool",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Linktree provides a service for creating a single landing page with multiple links for social media profiles.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "outil lien en bio",
+    "page de destination liens",
+    "agrégation de liens",
+    "profils médias sociaux",
+    "marketing d'influence",
+    "génération de trafic",
+    "optimisation de liens",
+    "bio Instagram"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/25a14c5e-6adf-5251-8f35-2d91973de22e"
 }

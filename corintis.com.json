@@ -1,10 +1,18 @@
 {
   "entity_id": "a6412d5e-db6a-5d60-aff3-4b9698f63466",
   "name": "Cooled by Corintis",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "I don't know what Corintis does, but they seemingly focus on cooling technology.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "cooling technology",
+    "thermal management",
+    "heat dissipation",
+    "electronics cooling",
+    "industrial cooling",
+    "advanced materials cooling"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a6412d5e-db6a-5d60-aff3-4b9698f63466"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "a95882f5-2105-5d88-9ea9-d94e7655aabf",
   "name": "Weights and Biases, Inc",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Weights & Biases provides a platform for machine learning experiment tracking and visualization.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "machine learning",
+    "experiment tracking",
+    "visualization",
+    "AI workflows",
+    "deep learning",
+    "model monitoring",
+    "MLOps platform",
+    "AI development"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a95882f5-2105-5d88-9ea9-d94e7655aabf"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "e4092ac5-34d2-5c9e-b4d5-ea1fdad4e4b3",
   "name": "Delta Air Lines",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "Delta Air Lines provides passenger and cargo air transportation services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "passenger airlines",
+    "air cargo",
+    "flight reservations",
+    "Delta",
+    "airline tickets",
+    "air travel",
+    "frequent flyer program",
+    "international flights"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e4092ac5-34d2-5c9e-b4d5-ea1fdad4e4b3"
 }

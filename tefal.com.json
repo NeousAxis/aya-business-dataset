@@ -1,10 +1,20 @@
 {
   "entity_id": "b0615e62-aef1-597e-8027-a79d03ace90b",
   "name": "Tefal",
-  "what_it_does": "Provides app, delivery, menu.",
+  "what_it_does": "Tefal manufactures cookware and small appliances.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "cookware",
+    "kitchen appliances",
+    "non-stick pans",
+    "small appliances",
+    "bakeware",
+    "kitchen gadgets",
+    "home cooking products",
+    "food preparation"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b0615e62-aef1-597e-8027-a79d03ace90b"
 }

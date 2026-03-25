@@ -1,10 +1,20 @@
 {
   "entity_id": "cf95bae9-8046-5dcb-8561-e3e13b32a383",
   "name": "Swapcard",
-  "what_it_does": "Provides api, app, consulting.",
+  "what_it_does": "Swapcard is a platform for virtual and hybrid events and conferences.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
+  "keywords": [
+    "virtual events",
+    "hybrid events",
+    "event networking",
+    "event management",
+    "conference platform",
+    "trade shows",
+    "event technology",
+    "meeting platform"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cf95bae9-8046-5dcb-8561-e3e13b32a383"
 }

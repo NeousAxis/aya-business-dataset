@@ -1,10 +1,20 @@
 {
   "entity_id": "d6172810-8c41-558c-ab7d-58f796206995",
   "name": "VWO",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "VWO offers a platform for website A/B testing and conversion optimization.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "A/B testing",
+    "website optimization",
+    "conversion optimization",
+    "website testing",
+    "user experience",
+    "landing page",
+    "split testing",
+    "CRO"
+  ],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6172810-8c41-558c-ab7d-58f796206995"
 }

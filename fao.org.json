@@ -1,10 +1,20 @@
 {
   "entity_id": "983c3a24-9f86-545f-b587-0313cac4f89b",
   "name": "Fao",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "FAO (Food and Agriculture Organization) is a United Nations agency leading international efforts to defeat hunger and improve nutrition and food security.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "food security",
+    "agriculture",
+    "global hunger",
+    "nutrition",
+    "sustainable agriculture",
+    "food policy",
+    "agricultural development",
+    "international organization"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/983c3a24-9f86-545f-b587-0313cac4f89b"
 }

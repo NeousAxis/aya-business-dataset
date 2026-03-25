@@ -1,10 +1,19 @@
 {
   "entity_id": "373edbe8-910f-50ca-b5c9-85c6d756b920",
   "name": "Roblox",
-  "what_it_does": "Provides app, platform, product.",
+  "what_it_does": "Roblox operates an online platform where users can create and play games.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "user-generated games",
+    "game creation",
+    "virtual worlds",
+    "social gaming",
+    "avatar-based games",
+    "MMO games",
+    "in-game purchases"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/373edbe8-910f-50ca-b5c9-85c6d756b920"
 }

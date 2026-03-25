@@ -1,10 +1,20 @@
 {
   "entity_id": "235fad39-1380-5e91-872f-cd992ad2bf83",
   "name": "We craft games, entertainment, joy.",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Rovio Entertainment is a game developer best known for the Angry Birds franchise.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "mobile games",
+    "casual games",
+    "angry birds franchise",
+    "entertainment",
+    "game development",
+    "IP-based games",
+    "character-based games",
+    "puzzle games"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/235fad39-1380-5e91-872f-cd992ad2bf83"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "c8d96960-b790-5f5c-aa13-032cf8ee436c",
   "name": "Steinberg",
-  "what_it_does": "Provides app, cloud, delivery.",
+  "what_it_does": "Steinberg develops and sells audio software and hardware for music production.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
+  "keywords": [
+    "music production",
+    "audio workstations",
+    "DAW software",
+    "audio software",
+    "music creation",
+    "audio engineering",
+    "virtual instruments",
+    "music composing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c8d96960-b790-5f5c-aa13-032cf8ee436c"
 }

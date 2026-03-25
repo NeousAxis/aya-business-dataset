@@ -1,10 +1,20 @@
 {
   "entity_id": "240302d7-b69c-52b4-beab-746a426b41ef",
   "name": "Leviton",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "Leviton manufactures electrical wiring devices, lighting energy management systems, and data networking solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "electrical wiring devices",
+    "lighting energy",
+    "lighting control",
+    "dimming systems",
+    "smart home",
+    "electrical solutions",
+    "network solutions",
+    "lighting management systems"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/240302d7-b69c-52b4-beab-746a426b41ef"
 }

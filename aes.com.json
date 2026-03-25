@@ -1,10 +1,20 @@
 {
   "entity_id": "9ac6e8c6-aa17-5456-b096-344af66d352b",
   "name": "AES",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "AES generates and distributes electrical power.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "electric power generation",
+    "energy distribution",
+    "renewable energy",
+    "power grids",
+    "energy solutions",
+    "electricity markets",
+    "utility services",
+    "power infrastructure"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9ac6e8c6-aa17-5456-b096-344af66d352b"
 }

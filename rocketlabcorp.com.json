@@ -1,10 +1,19 @@
 {
   "entity_id": "d8ca3bfb-c326-571c-b040-bda7d22e4fb2",
   "name": "Rocket Lab",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Rocket Lab provides launch services and space systems.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
+  "keywords": [
+    "launch services",
+    "small satellite launch",
+    "space systems",
+    "rocket development",
+    "spacecraft components",
+    "orbital launch",
+    "space transportation"
+  ],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d8ca3bfb-c326-571c-b040-bda7d22e4fb2"
 }

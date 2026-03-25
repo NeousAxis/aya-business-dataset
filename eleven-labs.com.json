@@ -1,10 +1,20 @@
 {
   "entity_id": "175bc7b0-c772-54a9-a72c-0f4ec8985919",
   "name": "Eleven-labs",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "ElevenLabs develops AI-powered speech synthesis and voice cloning technology.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "AI voice synthesis",
+    "Voice cloning",
+    "Text-to-speech",
+    "Speech generation",
+    "Artificial intelligence",
+    "Audio ",
+    "Voice ",
+    "AI audio"
+  ],
   "aio_score": 71.0,
   "certificate_url": "https://ai-visionary.com/aya/e/175bc7b0-c772-54a9-a72c-0f4ec8985919"
 }

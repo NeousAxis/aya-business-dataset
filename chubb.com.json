@@ -1,10 +1,20 @@
 {
   "entity_id": "e387caf5-c2b8-5eb8-b5dc-096418ead274",
   "name": "Chubb in der Schweiz",
-  "what_it_does": "Provides app, consulting, menu.",
+  "what_it_does": "Chubb in der Schweiz provides insurance products and services in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Switzerland",
+  "keywords": [
+    "insurance products",
+    "insurance services",
+    "Swiss insurance",
+    "property insurance",
+    "liability insurance",
+    "accident insurance",
+    "health insurance",
+    "business insurance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e387caf5-c2b8-5eb8-b5dc-096418ead274"
 }

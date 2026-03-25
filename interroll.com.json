@@ -1,10 +1,19 @@
 {
   "entity_id": "73b3ba08-efba-5dca-97d6-f350656a51b2",
   "name": "Interroll",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Interroll manufactures and supplies key products for internal logistics such as rollers, drives, and conveyor modules.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Switzerland",
+  "keywords": [
+    "convoyeur à rouleaux",
+    "entraînements",
+    "logistique interne",
+    "manutention",
+    "systèmes modulaires",
+    "flux de matériaux",
+    "solutions intralogistiques"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/73b3ba08-efba-5dca-97d6-f350656a51b2"
 }

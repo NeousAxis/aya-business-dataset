@@ -1,10 +1,20 @@
 {
   "entity_id": "de402616-2178-51ca-a789-627403b06a72",
   "name": "Arcadis. Improving quality of life",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Arcadis is a global design, engineering, and consultancy firm focused on sustainable solutions for the built and natural environment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
+  "keywords": [
+    "infrastructure projects",
+    "engineering design",
+    "water management",
+    "environmental consulting",
+    "sustainable solutions",
+    "built environment",
+    "infrastructure development",
+    "urban planning"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/de402616-2178-51ca-a789-627403b06a72"
 }

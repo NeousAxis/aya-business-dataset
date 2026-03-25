@@ -1,10 +1,20 @@
 {
   "entity_id": "da1f402a-2868-5644-8ee3-aebb35f9aefe",
   "name": "Startseite",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Finpension.ch provides digital solutions for Swiss pension and retirement planning.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss pension planning",
+    "retirement savings",
+    "investment solutions",
+    "online pension fund",
+    "financial planning",
+    "retirement accounts",
+    "pillar 3a",
+    "tax-advantaged savings"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/da1f402a-2868-5644-8ee3-aebb35f9aefe"
 }

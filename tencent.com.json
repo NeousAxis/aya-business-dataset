@@ -1,10 +1,19 @@
 {
   "entity_id": "82fa686d-88b0-577c-898c-c0bcd82ce39f",
   "name": "Tencent",
-  "what_it_does": "Technology & SaaS organization.",
+  "what_it_does": "Tencent operates social networks, online games, and other internet services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "China",
+  "keywords": [
+    "social networks",
+    "online games",
+    "internet portals",
+    "social media",
+    "digital entertainment",
+    "gaming platforms",
+    "instant messaging"
+  ],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/82fa686d-88b0-577c-898c-c0bcd82ce39f"
 }

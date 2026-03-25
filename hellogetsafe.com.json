@@ -1,10 +1,18 @@
 {
   "entity_id": "f996b595-5493-529b-bf0c-df4f7dbed63a",
   "name": "Getsafe",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Getsafe is likely an insurance provider, based on the domain name and comparison with Hellosafe.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Germany",
+  "keywords": [
+    "insurance provider",
+    "digital insurance",
+    "personal insurance",
+    "property insurance",
+    "liability coverage",
+    "insurance policies"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f996b595-5493-529b-bf0c-df4f7dbed63a"
 }

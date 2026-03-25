@@ -1,10 +1,17 @@
 {
   "entity_id": "bf09c43e-ee5e-506b-95f2-666083376dc4",
   "name": "Smithsonian Magazine",
-  "what_it_does": "Provides app, cloud, service.",
+  "what_it_does": "Smithsonian Magazine publishes articles on science, history, culture, and the arts.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "Science",
+    "History",
+    "Culture",
+    "Arts",
+    "Publishing"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bf09c43e-ee5e-506b-95f2-666083376dc4"
 }

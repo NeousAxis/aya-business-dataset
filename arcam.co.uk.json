@@ -1,10 +1,19 @@
 {
   "entity_id": "796769ca-15f6-5f78-9578-f83ab6ffcb2e",
   "name": "ARCAM",
-  "what_it_does": "Provides product, products, service.",
+  "what_it_does": "ARCAM is a company based in the UK specializing in audio equipment and technology.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Kingdom",
+  "keywords": [
+    "hi-fi equipment",
+    "audio components",
+    "stereo amplifiers",
+    "CD players",
+    "audio equipment design",
+    "high fidelity audio",
+    "audiophile products"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/796769ca-15f6-5f78-9578-f83ab6ffcb2e"
 }

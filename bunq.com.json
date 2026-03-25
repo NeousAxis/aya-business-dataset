@@ -1,10 +1,19 @@
 {
   "entity_id": "a6b1cc94-4306-5984-beaa-ec5c6c6ba669",
   "name": "Join bunq in 5 Minutes",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Bunq is a mobile-first bank offering personal and business banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Netherlands",
+  "keywords": [
+    "mobile banking",
+    "digital banking",
+    "personal finance",
+    "business banking",
+    "banking app",
+    "online banking",
+    "financial services"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a6b1cc94-4306-5984-beaa-ec5c6c6ba669"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "615f961b-3f74-51f8-9fb7-efa8a766e3cd",
   "name": "Apple",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Apple designs, develops, and sells consumer electronics, computer software, and online services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Arab Emirates",
+  "keywords": [
+    "consumer electronics",
+    "smartphone devices",
+    "computer hardware",
+    "tablet computers",
+    "wearable tech",
+    "digital services",
+    "apple ecosystem",
+    "electronic devices"
+  ],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/615f961b-3f74-51f8-9fb7-efa8a766e3cd"
 }

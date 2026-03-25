@@ -1,10 +1,20 @@
 {
   "entity_id": "43c42125-8df6-51e4-8512-dd0947910f19",
   "name": "Ubiquiti",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Ubiquiti sells networking and wireless communication products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "wireless networking",
+    "network equipment",
+    "wireless communication",
+    "routers",
+    "access points",
+    "network infrastructure",
+    "enterprise networking",
+    "wireless solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/43c42125-8df6-51e4-8512-dd0947910f19"
 }

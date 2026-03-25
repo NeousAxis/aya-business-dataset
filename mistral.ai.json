@@ -1,10 +1,20 @@
 {
   "entity_id": "25cac24c-f8de-5487-b54c-98c74b2e8e5a",
   "name": "Mistral AI",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Mistral AI develops and deploys artificial intelligence models.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "modèles d'intelligence artificielle",
+    "IA générative",
+    "recherche en IA",
+    "apprentissage automatique",
+    "innovation IA",
+    "développement IA",
+    "algorithmes IA",
+    "réseau neuronal"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/25cac24c-f8de-5487-b54c-98c74b2e8e5a"
 }

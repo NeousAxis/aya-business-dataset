@@ -1,10 +1,20 @@
 {
   "entity_id": "9af7c0e7-2d8b-5331-9cb8-4e563a0fc562",
   "name": "Le Parisien",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Le Parisien is a French daily newspaper covering local and national news (despite being classified as Tourisme & Transport).",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
+  "keywords": [
+    "French news",
+    "local news",
+    "national news",
+    "daily newspaper",
+    "news reporting",
+    "current events",
+    "French journalism",
+    "news media"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9af7c0e7-2d8b-5331-9cb8-4e563a0fc562"
 }

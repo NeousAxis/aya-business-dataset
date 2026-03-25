@@ -1,10 +1,20 @@
 {
   "entity_id": "62da22a6-5df5-50d4-9fbd-c700c7d25c99",
   "name": "Lusha",
-  "what_it_does": "Media & Communication organization.",
+  "what_it_does": "Lusha provides B2B contact information and sales intelligence data.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "B2B contact data",
+    "sales intelligence",
+    "business leads",
+    "contact information",
+    "lead generation",
+    "sales prospecting",
+    "email addresses",
+    "phone numbers"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/62da22a6-5df5-50d4-9fbd-c700c7d25c99"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "1db153fe-329d-40fb-804d-32ab0dd61ef2",
   "name": "Global Workflow",
-  "what_it_does": "Mobile application development (B2B and B2C) providing mobile app development, web platform development, ai integration.",
+  "what_it_does": "Global Workflow develops mobile applications for businesses and consumers.",
   "for_who": "entreprises B2B, utilisateurs privés B2C.",
   "category": "Mobile application development (B2B and B2C)",
   "location": "Switzerland",
+  "keywords": [
+    "mobile application development",
+    "business mobile applications",
+    "consumer mobile applications",
+    "app creation",
+    "iOS development",
+    "Android development",
+    "custom mobile apps",
+    "mobile solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1db153fe-329d-40fb-804d-32ab0dd61ef2"
 }

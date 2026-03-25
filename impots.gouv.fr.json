@@ -1,10 +1,19 @@
 {
   "entity_id": "f0ddc135-f1f8-5b5d-8fd3-9c0a0641bed8",
   "name": "Accueil impots.gouv.fr",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "impots.gouv.fr is the official website of the French tax administration.",
   "for_who": "Businesses and professionals.",
   "category": "Administration & Public",
   "location": "France",
+  "keywords": [
+    "french taxes",
+    "tax administration",
+    "tax returns",
+    "french government",
+    "tax information",
+    "fiscal policy",
+    "state revenue"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f0ddc135-f1f8-5b5d-8fd3-9c0a0641bed8"
 }

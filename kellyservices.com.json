@@ -1,10 +1,20 @@
 {
   "entity_id": "01379be7-5ade-54d6-9412-d669b0848b0f",
   "name": "Kelly Services",
-  "what_it_does": "Provides app, consulting, service.",
+  "what_it_does": "Kelly Services provides staffing and workforce management solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
+  "keywords": [
+    "recruitment",
+    "staffing",
+    "workforce management",
+    "talent acquisition",
+    "temporary employment",
+    "permanent placement",
+    "HR solutions",
+    "outsourcing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/01379be7-5ade-54d6-9412-d669b0848b0f"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "32ea2098-e526-5d11-9405-658ab5a05eb5",
   "name": "But",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "But is a French retailer specializing in furniture, appliances, and electronics.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
+  "keywords": [
+    "French furniture retailer",
+    "home appliances",
+    "electronics retailer",
+    "furniture sales",
+    "white goods",
+    "brown goods",
+    "household furniture",
+    "kitchen appliances"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/32ea2098-e526-5d11-9405-658ab5a05eb5"
 }

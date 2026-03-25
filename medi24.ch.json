@@ -1,10 +1,19 @@
 {
   "entity_id": "31f8987b-2cdc-5042-a80a-ab44d12d457d",
   "name": "Medi24",
-  "what_it_does": "Provides service.",
+  "what_it_does": "Medi24 provides telemedicine and medical advice services via phone and online in Switzerland.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
+  "keywords": [
+    "telemedicine",
+    "medical advice",
+    "telephone consultation",
+    "Swiss healthcare",
+    "medical helpline",
+    "remote medical consultation",
+    "doctor on call"
+  ],
   "aio_score": 25.0,
   "certificate_url": "https://ai-visionary.com/aya/e/31f8987b-2cdc-5042-a80a-ab44d12d457d"
 }

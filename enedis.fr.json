@@ -1,10 +1,20 @@
 {
   "entity_id": "70f84a4a-d61d-5af8-b9f6-f0ce22dac135",
   "name": "Enedis",
-  "what_it_does": "Provides api, app, offre.",
+  "what_it_does": "Enedis manages the public electricity distribution network in France.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
+  "keywords": [
+    "electricity distribution",
+    "power grid",
+    "energy network",
+    "electrical infrastructure",
+    "french electricity grid",
+    "power supply",
+    "public utility",
+    "energy distribution"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/70f84a4a-d61d-5af8-b9f6-f0ce22dac135"
 }

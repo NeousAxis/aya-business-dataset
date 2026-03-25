@@ -1,10 +1,17 @@
 {
   "entity_id": "018fea2e-8569-5d6e-9a9b-d7f7fb4090b8",
   "name": "Flowserve",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Flowserve manufactures pumps, valves, seals, and automation equipment for fluid motion control.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "pumps",
+    "valves",
+    "seals",
+    "automation equipment",
+    "fluid motion control"
+  ],
   "aio_score": 68.0,
   "certificate_url": "https://ai-visionary.com/aya/e/018fea2e-8569-5d6e-9a9b-d7f7fb4090b8"
 }

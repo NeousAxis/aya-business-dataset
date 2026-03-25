@@ -1,10 +1,17 @@
 {
   "entity_id": "369b95d0-f20d-581d-9eb3-176df14342db",
   "name": "Sportxx.ch",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Sportxx.ch likely provides financial or banking services related to sports, possibly including sports betting or investment.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "sports betting",
+    "financial services",
+    "sports-related banking",
+    "banking",
+    "investment"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/369b95d0-f20d-581d-9eb3-176df14342db"
 }

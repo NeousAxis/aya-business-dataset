@@ -1,10 +1,20 @@
 {
   "entity_id": "d40593a0-3b57-5e27-8ca8-2795e71fcc95",
   "name": "Comment accéder à mon espace client ?",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "AG2R La Mondiale is a French insurance and financial services company providing access to customer accounts.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
+  "keywords": [
+    "versicherungskonten",
+    "finanzdienstleistungen",
+    "kundenportal",
+    "versicherungsleistungen",
+    "altersvorsorge",
+    "ag2r-la-mondiale",
+    "krankenversicherung",
+    "kontozugang"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d40593a0-3b57-5e27-8ca8-2795e71fcc95"
 }

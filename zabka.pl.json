@@ -1,10 +1,19 @@
 {
   "entity_id": "cc5aa939-9355-5b4a-beb7-7c6faed3107f",
   "name": "Zabka",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Żabka is a convenience store chain in Poland.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Poland",
+  "keywords": [
+    "convenience stores",
+    "polish retailer",
+    "grocery items",
+    "daily essentials",
+    "food-to-go",
+    "retail chain",
+    "fast shopping"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cc5aa939-9355-5b4a-beb7-7c6faed3107f"
 }

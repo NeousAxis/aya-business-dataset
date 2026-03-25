@@ -1,10 +1,19 @@
 {
   "entity_id": "a7ccbc5a-b059-5713-ad43-2b8b1c6d49f6",
   "name": "Pinterest",
-  "what_it_does": "Provides product, products, service.",
+  "what_it_does": "Pinterest is a visual discovery platform where users can find and save ideas in the form of images and videos.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Argentina",
+  "keywords": [
+    "social media",
+    "image sharing",
+    "visual discovery",
+    "idea sharing",
+    "inspiration platform",
+    "photo bookmarking",
+    "content curation"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a7ccbc5a-b059-5713-ad43-2b8b1c6d49f6"
 }

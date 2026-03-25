@@ -1,10 +1,20 @@
 {
   "entity_id": "1e03cd1d-c499-5238-974b-8ecf8531e9ec",
   "name": "LINE",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "LINE provides a messaging and social networking application.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "messaging application",
+    "social network",
+    "mobile communication",
+    "instant messaging",
+    "social media",
+    "communication apps",
+    "LINE messaging",
+    "LINE social"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1e03cd1d-c499-5238-974b-8ecf8531e9ec"
 }

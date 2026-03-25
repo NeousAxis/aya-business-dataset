@@ -1,10 +1,20 @@
 {
   "entity_id": "47685a54-1e8f-5038-ac3b-fd9779b47995",
   "name": "Bitpanda",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Bitpanda operates a cryptocurrency investment platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "cryptocurrency exchange",
+    "digital asset trading",
+    "crypto investing",
+    "bitcoin",
+    "ethereum",
+    "blockchain assets",
+    "crypto portfolio",
+    "digital currency"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/47685a54-1e8f-5038-ac3b-fd9779b47995"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "c4f3a544-3dc9-50e8-aba6-34775c636ee4",
   "name": "REGO-FIX",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "REGO-FIX manufactures precision toolholding systems for machining.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "toolholding systems",
+    "precision toolholders",
+    "metal cutting tools",
+    "clamping technology",
+    "CNC tooling",
+    "Swiss tooling",
+    "machine tool accessories"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c4f3a544-3dc9-50e8-aba6-34775c636ee4"
 }

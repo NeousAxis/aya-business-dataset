@@ -1,10 +1,20 @@
 {
   "entity_id": "af4cff09-b0ef-5d17-bb72-4ea3dc442f4c",
   "name": "École polytechnique, école d'ingénieur",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "École Polytechnique is a French higher education and research institution specializing in science and engineering.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "French engineering school",
+    "higher education",
+    "scientific research",
+    "graduate programs",
+    "science education",
+    "engineering degrees",
+    "research institution",
+    "polytechnic education"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/af4cff09-b0ef-5d17-bb72-4ea3dc442f4c"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "912ee6b5-247f-59a7-9d1e-b062ae99284b",
   "name": "FabFilter",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "FabFilter develops professional audio processing software plugins.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "audio plugins",
+    "VST plugins",
+    "AU plugins",
+    "audio effects",
+    "mixing plugins",
+    "mastering plugins",
+    "sound design tools",
+    "audio processing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/912ee6b5-247f-59a7-9d1e-b062ae99284b"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "d2e1d925-ab91-50f8-ad29-e498c9d1579b",
   "name": "Wood",
-  "what_it_does": "Provides app, consulting, delivery.",
+  "what_it_does": "Wood is a global consulting and engineering company serving the energy and materials markets.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "engineering services",
+    "energy markets",
+    "materials markets",
+    "consulting engineering",
+    "asset life cycle",
+    "project management",
+    "technical solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d2e1d925-ab91-50f8-ad29-e498c9d1579b"
 }

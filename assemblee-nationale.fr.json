@@ -1,10 +1,20 @@
 {
   "entity_id": "cf13a799-0ae9-5cf9-92d3-b904acc3a185",
   "name": "Assemblée nationale ~ Les députés",
-  "what_it_does": "Provides app, application, service.",
+  "what_it_does": "The Assemblée nationale (French National Assembly) is the lower house of the French Parliament, and the website provides information about its members and activities.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
+  "keywords": [
+    "French parliament",
+    "national assembly",
+    "legislative information",
+    "member of parliament",
+    "French politics",
+    "government information",
+    "laws and legislation",
+    "parliamentary debates"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cf13a799-0ae9-5cf9-92d3-b904acc3a185"
 }

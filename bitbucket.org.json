@@ -1,10 +1,19 @@
 {
   "entity_id": "c57cea2f-612e-5e5f-bda6-9c571b69800f",
   "name": "Bitbucket",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Bitbucket provides a code hosting platform for version control using Git.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "Git repository hosting",
+    "code collaboration",
+    "source code management",
+    "version control",
+    "software development",
+    "development workflow",
+    "code sharing"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c57cea2f-612e-5e5f-bda6-9c571b69800f"
 }

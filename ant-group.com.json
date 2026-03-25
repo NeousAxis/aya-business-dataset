@@ -1,10 +1,20 @@
 {
   "entity_id": "b3a0f70d-6d9a-550a-9c6a-8a758613dde2",
   "name": "Ant Group",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "Ant Group provides digital payment and financial services, including Alipay.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United Kingdom",
+  "keywords": [
+    "digital payments",
+    "mobile payments",
+    "financial technology",
+    "Alipay",
+    "e-commerce payments",
+    "consumer finance",
+    "payment processing",
+    "financial services"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b3a0f70d-6d9a-550a-9c6a-8a758613dde2"
 }

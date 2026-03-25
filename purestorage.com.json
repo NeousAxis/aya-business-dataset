@@ -1,10 +1,20 @@
 {
   "entity_id": "f63b5b36-16a9-5a57-b573-7adc74fcd8cb",
   "name": "Everpure (formerly Pure Storage)",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Pure Storage sells all-flash data storage hardware and software.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "all-flash storage",
+    "data storage hardware",
+    "data storage",
+    "flash arrays",
+    "enterprise storage",
+    "data solutions",
+    "data center infrastructure",
+    "storage software"
+  ],
   "aio_score": 80.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f63b5b36-16a9-5a57-b573-7adc74fcd8cb"
 }

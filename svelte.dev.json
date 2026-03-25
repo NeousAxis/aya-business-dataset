@@ -1,10 +1,20 @@
 {
   "entity_id": "79630bc4-2d52-5d87-8325-4b6e4391cd84",
   "name": "Svelte • Web development for the rest of us",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Svelte is a compiler that turns declarative components into efficient JavaScript that surgically updates the DOM.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "web components",
+    "JavaScript compiler",
+    "UI framework",
+    "reactive programming",
+    "front-end development",
+    "open source",
+    "declarative components",
+    "UI compilation"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/79630bc4-2d52-5d87-8325-4b6e4391cd84"
 }

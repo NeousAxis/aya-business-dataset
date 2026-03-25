@@ -1,10 +1,20 @@
 {
   "entity_id": "db2074c0-f500-585b-bd5b-4ca6da0af59d",
   "name": "Khaleej Times",
-  "what_it_does": "Conseil & Services Pro organization.",
+  "what_it_does": "Khaleej Times is an English-language daily newspaper published in Dubai, UAE.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "United Arab Emirates",
+  "keywords": [
+    "UAE newspaper",
+    "news publication",
+    "Middle East news",
+    "Khaleej Times",
+    "daily newspaper",
+    "current events",
+    "gulf news",
+    "international news"
+  ],
   "aio_score": 29.0,
   "certificate_url": "https://ai-visionary.com/aya/e/db2074c0-f500-585b-bd5b-4ca6da0af59d"
 }

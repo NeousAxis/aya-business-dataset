@@ -1,10 +1,20 @@
 {
   "entity_id": "790260f7-f808-591c-804f-87d7571126aa",
   "name": "Cerebral",
-  "what_it_does": "Provides api, delivery, service.",
+  "what_it_does": "Cerebral provides online mental healthcare services, including diagnosis and prescription medication.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "mental health",
+    "teletherapy",
+    "online counseling",
+    "virtual psychiatry",
+    "prescription medication",
+    "behavioral health",
+    "anxiety treatment",
+    "depression treatment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/790260f7-f808-591c-804f-87d7571126aa"
 }

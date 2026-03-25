@@ -1,10 +1,19 @@
 {
   "entity_id": "883b1af8-8f10-5369-93a0-b3364ecd57b1",
   "name": "AXA Versicherungen AG",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "AXA Versicherungen AG is an insurance company based in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "insurance",
+    "Swiss insurance",
+    "property insurance",
+    "health insurance",
+    "life insurance",
+    "accident insurance",
+    "Swiss finance"
+  ],
   "aio_score": 80.0,
   "certificate_url": "https://ai-visionary.com/aya/e/883b1af8-8f10-5369-93a0-b3364ecd57b1"
 }

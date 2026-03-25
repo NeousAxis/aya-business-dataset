@@ -1,10 +1,20 @@
 {
   "entity_id": "b5adfd2e-ab9c-5264-8531-5f8005270e8a",
   "name": "Zürcher Kantonalbank",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Zürcher Kantonalbank (ZKB) is a cantonal bank providing financial services in the Canton of Zurich.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "cantonal bank",
+    "Zurich banking",
+    "financial services",
+    "mortgages",
+    "investment advice",
+    "private banking",
+    "SME banking",
+    "Swiss banking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b5adfd2e-ab9c-5264-8531-5f8005270e8a"
 }

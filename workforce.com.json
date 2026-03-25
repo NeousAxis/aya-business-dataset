@@ -1,10 +1,17 @@
 {
   "entity_id": "11352762-6a30-56ba-ad1f-58434637849a",
   "name": "Workforce.com",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Workforce.com is likely a platform providing workforce management solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "workforce management",
+    "scheduling",
+    "time tracking",
+    "attendance",
+    "labor optimization"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/11352762-6a30-56ba-ad1f-58434637849a"
 }

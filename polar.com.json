@@ -1,10 +1,20 @@
 {
   "entity_id": "2d23b109-ff12-5aad-afb6-847c98e36982",
   "name": "Polar Global",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "Polar Global manufactures wearable sports and fitness technology.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "wearable technology",
+    "sports trackers",
+    "fitness trackers",
+    "heart rate monitors",
+    "GPS watches",
+    "athletic performance",
+    "training analysis",
+    "sports electronics"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2d23b109-ff12-5aad-afb6-847c98e36982"
 }

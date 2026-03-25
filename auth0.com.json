@@ -1,10 +1,20 @@
 {
   "entity_id": "80d10e9f-ca25-5e6f-9fac-6728930cf974",
   "name": "Auth0",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Auth0 provides a platform for authentication and authorization as a service.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "authentication",
+    "authorization",
+    "identity management",
+    "SaaS",
+    "developer tools",
+    "access control",
+    "user authentication",
+    "API security"
+  ],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/80d10e9f-ca25-5e6f-9fac-6728930cf974"
 }

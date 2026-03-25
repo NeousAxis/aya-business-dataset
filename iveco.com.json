@@ -1,10 +1,20 @@
 {
   "entity_id": "4480781e-3041-5def-9880-6f192992eee9",
   "name": "IVECO",
-  "what_it_does": "Education & Training organization.",
+  "what_it_does": "IVECO manufactures commercial vehicles, including trucks, buses, and specialty vehicles.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "commercial vehicles",
+    "trucks",
+    "buses",
+    "specialty vehicles",
+    "transport solutions",
+    "heavy-duty vehicles",
+    "public transportation",
+    "diesel engines"
+  ],
   "aio_score": 22.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4480781e-3041-5def-9880-6f192992eee9"
 }

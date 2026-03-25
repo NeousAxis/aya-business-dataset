@@ -1,10 +1,19 @@
 {
   "entity_id": "d024d03f-8138-570b-b115-26e9df6a474f",
   "name": "University of Exeter",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "The University of Exeter is a public research university in Exeter, England.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
+  "keywords": [
+    "higher education",
+    "research university",
+    "undergraduate programs",
+    "postgraduate programs",
+    "academic research",
+    "exeter campus",
+    "UK university"
+  ],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d024d03f-8138-570b-b115-26e9df6a474f"
 }

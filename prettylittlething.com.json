@@ -1,10 +1,20 @@
 {
   "entity_id": "0869582c-e2db-5480-8109-05e0190d93eb",
   "name": "PrettyLittleThing",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "PrettyLittleThing is an online fashion retailer selling clothing, shoes, and accessories aimed at young women.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Kingdom",
+  "keywords": [
+    "fast fashion",
+    "women's clothing",
+    "online fashion retail",
+    "clothing",
+    "shoes",
+    "accessories",
+    "e-commerce",
+    "apparel"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0869582c-e2db-5480-8109-05e0190d93eb"
 }

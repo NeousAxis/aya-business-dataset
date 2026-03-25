@@ -1,10 +1,19 @@
 {
   "entity_id": "7c992d6b-51c4-5d46-9aca-f00f001e3584",
   "name": "Tamedia Espace AG",
-  "what_it_does": "Provides app, restaurant, service.",
+  "what_it_does": "Tamedia Espace AG publishes the Berner Zeitung newspaper.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "swiss newspaper",
+    "berner zeitung",
+    "local news",
+    "berne news",
+    "regional news",
+    "german-language media",
+    "news publishing"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7c992d6b-51c4-5d46-9aca-f00f001e3584"
 }

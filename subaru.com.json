@@ -1,10 +1,20 @@
 {
   "entity_id": "1c96d989-c186-5063-a6f5-c441f5a990d6",
   "name": "Subaru of America, Inc.",
-  "what_it_does": "Provides app, delivery, service.",
+  "what_it_does": "Subaru of America, Inc. distributes and markets Subaru vehicles in the United States.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
+  "keywords": [
+    "automobile distribution",
+    "Subaru vehicles",
+    "car sales",
+    "auto parts",
+    "US market",
+    "vehicle marketing",
+    "auto dealership",
+    "automotive services"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1c96d989-c186-5063-a6f5-c441f5a990d6"
 }

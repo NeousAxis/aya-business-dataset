@@ -1,10 +1,20 @@
 {
   "entity_id": "6fe1f914-e913-526e-bd16-04b1f3812672",
   "name": "CockroachDB",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "CockroachDB offers a distributed SQL database platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "distributed SQL database",
+    "scalable SQL",
+    "cloud native database",
+    "transactional database",
+    "geo-distributed data",
+    "resilient database",
+    "database replication",
+    "enterprise database"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6fe1f914-e913-526e-bd16-04b1f3812672"
 }

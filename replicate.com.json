@@ -1,10 +1,20 @@
 {
   "entity_id": "aa79d522-5329-5b77-9171-4030201a7238",
   "name": "Replicate",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Replicate allows users to run and share machine learning models.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "machine learning models",
+    "AI model deployment",
+    "ML model hosting",
+    "reproduce AI",
+    "AI model sharing",
+    "cloud compute",
+    "GPU compute",
+    "model execution"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aa79d522-5329-5b77-9171-4030201a7238"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "d1651d24-409c-56d7-a294-2167a2d63be6",
   "name": "Surgelés Picard",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Picard is a French frozen food retailer.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "France",
+  "keywords": [
+    "frozen food",
+    "French retailer",
+    "ready meals",
+    "frozen vegetables",
+    "frozen desserts",
+    "home delivery",
+    "grocery",
+    "chilled food"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d1651d24-409c-56d7-a294-2167a2d63be6"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "b5b20afb-0ff2-50db-9a70-05c9c6d81d4b",
   "name": "Zerodha",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Zerodha is an online discount stock brokerage platform.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "India",
+  "keywords": [
+    "stock brokerage",
+    "discount brokerage",
+    "online trading",
+    "equity trading",
+    "derivatives trading",
+    "Zerodha platform",
+    "Indian stock market",
+    "investment platform"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b5b20afb-0ff2-50db-9a70-05c9c6d81d4b"
 }

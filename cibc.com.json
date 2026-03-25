@@ -1,10 +1,19 @@
 {
   "entity_id": "5f5a3e6e-afed-5130-8edd-acf7994c6ac8",
   "name": "CIBC",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "CIBC is a Canadian multinational banking and financial services company.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Canada",
+  "keywords": [
+    "banking",
+    "financial services",
+    "commercial banking",
+    "personal banking",
+    "wealth management",
+    "investment banking",
+    "canadian banking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5f5a3e6e-afed-5130-8edd-acf7994c6ac8"
 }

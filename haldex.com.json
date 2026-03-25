@@ -1,10 +1,20 @@
 {
   "entity_id": "4b08788b-9520-5bbf-9a52-42aa3467e17d",
   "name": "Haldex",
-  "what_it_does": "Provides solution, solutions.",
+  "what_it_does": "Haldex develops and manufactures air brake and suspension systems for heavy vehicles.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "systèmes freinage pneumatique",
+    "suspension véhicules lourds",
+    "composants véhicules commerciaux",
+    "technologies de freinage",
+    "contrôle de mouvement",
+    "freins à disque",
+    "actionneurs",
+    "systèmes de suspension"
+  ],
   "aio_score": 23.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4b08788b-9520-5bbf-9a52-42aa3467e17d"
 }

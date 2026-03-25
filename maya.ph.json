@@ -1,10 +1,20 @@
 {
   "entity_id": "2c6b2bb6-598b-54e0-9921-001bad8c0502",
   "name": "Maya.ph",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Maya.ph offers an all-in-one digital payment platform and financial services in the Philippines.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "digital payments",
+    "financial technology",
+    "mobile wallet",
+    "Philippine fintech",
+    "online payments",
+    "Maya Philippines",
+    "payment solutions",
+    "financial services"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2c6b2bb6-598b-54e0-9921-001bad8c0502"
 }

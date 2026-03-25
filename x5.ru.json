@@ -1,10 +1,20 @@
 {
   "entity_id": "6c0ef72e-6ddd-5628-8754-ab4ce5fd3e91",
   "name": "X5",
-  "what_it_does": "Technology & SaaS organization.",
+  "what_it_does": "X5 Retail Group operates a chain of grocery stores in Russia.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "RU",
+  "keywords": [
+    "grocery chain",
+    "supermarkets",
+    "Russian retail",
+    "food retail",
+    "convenience stores",
+    "hypermarkets",
+    "fresh food",
+    "consumer goods"
+  ],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6c0ef72e-6ddd-5628-8754-ab4ce5fd3e91"
 }

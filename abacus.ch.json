@@ -1,10 +1,19 @@
 {
   "entity_id": "f925f661-6266-50c5-8e4d-80135ab6ffd0",
   "name": "abacus.ch",
-  "what_it_does": "Provides api, service, services.",
+  "what_it_does": "Abacus provides business software for accounting, ERP, and CRM.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
+  "keywords": [
+    "accounting software",
+    "erp systems",
+    "crm software",
+    "swiss market",
+    "business applications",
+    "enterprise resource planning",
+    "customer relationship"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f925f661-6266-50c5-8e4d-80135ab6ffd0"
 }

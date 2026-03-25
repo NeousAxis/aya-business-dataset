@@ -1,10 +1,20 @@
 {
   "entity_id": "eef1b839-9dfe-57e6-a393-d674661cecbb",
   "name": "Opendoor",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "Opendoor buys, renovates, and sells homes directly to consumers.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "United States",
+  "keywords": [
+    "real estate",
+    "home buying",
+    "home selling",
+    "iBuying",
+    "property renovation",
+    "Opendoor homes",
+    "real estate transactions",
+    "house flipping"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eef1b839-9dfe-57e6-a393-d674661cecbb"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "610503ca-1800-52bc-a1f9-f03ee84a9669",
   "name": "Freetrade",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Freetrade is a UK-based investment platform offering commission-free stock trading.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Kingdom",
+  "keywords": [
+    "UK stock trading",
+    "commission-free investing",
+    "retail investment",
+    "stocks and shares ISA",
+    "investment accounts",
+    "financial trading",
+    "mobile brokerage"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/610503ca-1800-52bc-a1f9-f03ee84a9669"
 }

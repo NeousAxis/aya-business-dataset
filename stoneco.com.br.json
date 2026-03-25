@@ -1,10 +1,19 @@
 {
   "entity_id": "83d980db-6fc7-5328-ac9b-61eabe8f6d1e",
   "name": "StoneCo",
-  "what_it_does": "Provides api, menu, software.",
+  "what_it_does": "StoneCo provides financial technology solutions, including payment processing, to merchants in Brazil.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Brazil",
+  "keywords": [
+    "payment processing",
+    "financial technology",
+    "merchant solutions",
+    "Brazilian market",
+    "acquiring",
+    "e-commerce payments",
+    "point of sale"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/83d980db-6fc7-5328-ac9b-61eabe8f6d1e"
 }

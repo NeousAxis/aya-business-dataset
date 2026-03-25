@@ -1,10 +1,20 @@
 {
   "entity_id": "c1b7bece-dff1-563f-ad95-12851e452e05",
   "name": "FutureLearn",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "FutureLearn provides a social learning platform offering online courses and degrees.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "social learning",
+    "online courses",
+    "online degrees",
+    "higher education",
+    "professional development",
+    "skill development",
+    "MOOCs",
+    "distance learning"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c1b7bece-dff1-563f-ad95-12851e452e05"
 }

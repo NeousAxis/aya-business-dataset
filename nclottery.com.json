@@ -1,10 +1,20 @@
 {
   "entity_id": "ab7c70e7-bfab-548b-92c0-a628be9fa5c3",
   "name": "NC Education Lottery",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "The NC Education Lottery operates lottery games in North Carolina, with proceeds benefiting education programs.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "lottery games",
+    "North Carolina lottery",
+    "NC lottery",
+    "education funding",
+    "state lottery",
+    "lottery drawings",
+    "scratch-off tickets",
+    "lottery revenue"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab7c70e7-bfab-548b-92c0-a628be9fa5c3"
 }

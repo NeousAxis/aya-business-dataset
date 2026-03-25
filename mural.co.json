@@ -1,10 +1,18 @@
 {
   "entity_id": "487d5d94-a4d7-5dcd-9583-cdc9f8296da6",
   "name": "Mural",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Mural offers a digital workspace for visual collaboration.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "visual collaboration",
+    "digital workspace",
+    "online whiteboard",
+    "remote collaboration",
+    "brainstorming",
+    "agile planning"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/487d5d94-a4d7-5dcd-9583-cdc9f8296da6"
 }

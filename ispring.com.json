@@ -1,10 +1,19 @@
 {
   "entity_id": "c9cc6cb4-4e76-57cd-bec3-94a89110ac80",
   "name": "iSpring Solutions, Inc.",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "iSpring Solutions develops e-learning software and tools.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "eLearning authoring",
+    "course creation",
+    "training software",
+    "presentation tools",
+    "online learning",
+    "instructional design",
+    "eLearning development"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c9cc6cb4-4e76-57cd-bec3-94a89110ac80"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "67f5498b-1f77-5d59-89f9-5b9b5c7952d7",
   "name": "Hex",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Hex is a collaborative data workspace for analytics and data science.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "data workspace",
+    "collaborative data",
+    "data science",
+    "data analysis",
+    "data notebooks",
+    "SQL editor",
+    "data visualization",
+    "analytics platform"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/67f5498b-1f77-5d59-89f9-5b9b5c7952d7"
 }

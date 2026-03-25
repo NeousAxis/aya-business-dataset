@@ -1,10 +1,20 @@
 {
   "entity_id": "35c1833d-72c2-5137-bc7f-d2ffbc0647f0",
   "name": "Dominion Energy",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Dominion Energy generates and distributes electricity and natural gas.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "electricity generation",
+    "natural gas distribution",
+    "energy production",
+    "power grid",
+    "energy transmission",
+    "utilities",
+    "energy infrastructure",
+    "power solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/35c1833d-72c2-5137-bc7f-d2ffbc0647f0"
 }

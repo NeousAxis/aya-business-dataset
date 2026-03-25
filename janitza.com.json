@@ -1,10 +1,19 @@
 {
   "entity_id": "7f1d372c-8920-59e6-92f1-52fa8da274f0",
   "name": "Energieanalyse und Lösungen für Branchen",
-  "what_it_does": "Provides service, software, solution.",
+  "what_it_does": "Janitza provides energy monitoring systems and solutions for industrial applications.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "energy analysis",
+    "power quality",
+    "industrial energy",
+    "energy monitoring",
+    "electrical measurement",
+    "power management",
+    "german manufacturer"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7f1d372c-8920-59e6-92f1-52fa8da274f0"
 }

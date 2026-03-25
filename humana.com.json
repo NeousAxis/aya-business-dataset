@@ -1,10 +1,20 @@
 {
   "entity_id": "70158b48-0d25-5ce5-b3a0-2a9f2b4c00d8",
   "name": "Live your best life with a Humana Medicare plan",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "Humana provides Medicare plans and health insurance coverage to individuals.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
+  "keywords": [
+    "Medicare plans",
+    "health insurance",
+    "Medicare Advantage",
+    "prescription drug coverage",
+    "senior healthcare",
+    "individual health plans",
+    "Medicare Part D",
+    "health maintenance organizations"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/70158b48-0d25-5ce5-b3a0-2a9f2b4c00d8"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "0d97a6ef-d1eb-5058-88cb-ad40e73b8144",
   "name": "Postman",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Postman is a platform for API development, testing, and collaboration.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "API testing",
+    "API development",
+    "API client",
+    "API collaboration",
+    "API debugging",
+    "API documentation",
+    "REST API",
+    "GraphQL API"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0d97a6ef-d1eb-5058-88cb-ad40e73b8144"
 }

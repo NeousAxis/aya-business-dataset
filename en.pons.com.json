@@ -1,10 +1,20 @@
 {
   "entity_id": "46482fc7-2cda-570c-b103-d872e7f54419",
   "name": "PONS dictionary",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "PONS offers online dictionaries and language learning resources.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "dictionaries",
+    "language learning",
+    "translation",
+    "language resources",
+    "online dictionaries",
+    "vocabulary",
+    "foreign language",
+    "grammar"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/46482fc7-2cda-570c-b103-d872e7f54419"
 }

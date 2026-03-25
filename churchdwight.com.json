@@ -1,10 +1,19 @@
 {
   "entity_id": "6a250243-f39b-5e28-8de7-8a5fed90dca4",
   "name": "Church and Dwight",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Church and Dwight manufactures and markets household products and personal care items.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "produits ménagers",
+    "soins personnels",
+    "bicarbonate de soude",
+    "détergents",
+    "hygiène bucco-dentaire",
+    "church & dwight",
+    "produits de lessive"
+  ],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6a250243-f39b-5e28-8de7-8a5fed90dca4"
 }

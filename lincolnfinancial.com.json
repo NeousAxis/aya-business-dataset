@@ -1,10 +1,19 @@
 {
   "entity_id": "b946b19f-188e-5a7b-846c-61ba68cb9912",
   "name": "Lincoln Financial",
-  "what_it_does": "Non détecté organization.",
+  "what_it_does": "Lincoln Financial Group offers financial products and services such as annuities, life insurance, and retirement planning.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
+  "keywords": [
+    "insurance products",
+    "annuities",
+    "retirement plans",
+    "investment management",
+    "financial planning",
+    "life insurance",
+    "wealth accumulation"
+  ],
   "aio_score": 22.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b946b19f-188e-5a7b-846c-61ba68cb9912"
 }

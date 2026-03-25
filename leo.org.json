@@ -1,10 +1,20 @@
 {
   "entity_id": "b700f49a-daa7-5ae3-acee-9ad061d1a4cd",
   "name": "Ihr Sprachangebot im Web",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "Leo.org offers online language dictionaries and learning resources.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "language dictionaries",
+    "online translation",
+    "language learning",
+    "vocabulary resources",
+    "German dictionary",
+    "English dictionary",
+    "French dictionary",
+    "Spanish dictionary"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b700f49a-daa7-5ae3-acee-9ad061d1a4cd"
 }

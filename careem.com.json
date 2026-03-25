@@ -1,10 +1,20 @@
 {
   "entity_id": "b83f4880-4e23-5db9-bc0c-25084fd63439",
   "name": "Careem",
-  "what_it_does": "Provides app, delivery, restaurant.",
+  "what_it_does": "Careem operates a ride-hailing and delivery service in the Middle East and Pakistan.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "ride hailing",
+    "car booking",
+    "taxi alternative",
+    "delivery service",
+    "mobile transportation",
+    "urban mobility",
+    "on-demand transport",
+    "courier delivery"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b83f4880-4e23-5db9-bc0c-25084fd63439"
 }

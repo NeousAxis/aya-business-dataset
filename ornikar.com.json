@@ -1,10 +1,19 @@
 {
   "entity_id": "a458cbc7-7318-50d0-bf1d-fd6523aa152d",
   "name": "Ornikar",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Ornikar offers online driver's education and driving school services.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "driving school",
+    "driver's education",
+    "online driving lessons",
+    "driving resources",
+    "road safety education",
+    "french driving license",
+    "theoretical driving test"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a458cbc7-7318-50d0-bf1d-fd6523aa152d"
 }

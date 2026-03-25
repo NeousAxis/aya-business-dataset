@@ -1,10 +1,20 @@
 {
   "entity_id": "50f32cd7-1678-5bbc-baf9-0b7b5b1f664d",
   "name": "Online supermarket Rohlik.cz",
-  "what_it_does": "Non détecté organization.",
+  "what_it_does": "Rohlik.cz operates an online supermarket.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Czech Republic",
+  "keywords": [
+    "Czech grocery delivery",
+    "food delivery",
+    "online supermarket",
+    "Rohlik",
+    "grocery e-commerce",
+    "home delivery",
+    "Czech Republic",
+    "online grocery"
+  ],
   "aio_score": 25.0,
   "certificate_url": "https://ai-visionary.com/aya/e/50f32cd7-1678-5bbc-baf9-0b7b5b1f664d"
 }

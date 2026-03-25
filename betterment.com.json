@@ -1,10 +1,20 @@
 {
   "entity_id": "44688774-ea55-55cd-88b3-48e4aa07e1f6",
   "name": "Betterment",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Betterment provides automated investing and financial advisory services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "automated investing",
+    "financial advisory",
+    "investment portfolios",
+    "robo-advisor",
+    "investment management",
+    "retirement planning",
+    "wealth accumulation",
+    "financial goal planning"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/44688774-ea55-55cd-88b3-48e4aa07e1f6"
 }

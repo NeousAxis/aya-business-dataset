@@ -1,10 +1,20 @@
 {
   "entity_id": "4a51f09f-2906-5afb-afc2-de00d8edb6ae",
   "name": "Degreed",
-  "what_it_does": "Provides app, platform, product.",
+  "what_it_does": "Degreed is a learning experience platform that helps individuals and organizations track and develop skills.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
+  "keywords": [
+    "learning experience",
+    "skills development",
+    "employee training",
+    "talent development",
+    "corporate learning",
+    "learning paths",
+    "skill tracking",
+    "career development"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a51f09f-2906-5afb-afc2-de00d8edb6ae"
 }

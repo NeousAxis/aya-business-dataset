@@ -1,10 +1,20 @@
 {
   "entity_id": "899aad08-69ff-5a3c-9a18-91f22691eb2a",
   "name": "JLL UK",
-  "what_it_does": "Provides api, menu, service.",
+  "what_it_does": "JLL provides commercial real estate services.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Canada",
+  "keywords": [
+    "commercial real estate",
+    "property management",
+    "investment properties",
+    "UK property market",
+    "tenant representation",
+    "corporate real estate",
+    "real estate valuations",
+    "facilities management"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/899aad08-69ff-5a3c-9a18-91f22691eb2a"
 }

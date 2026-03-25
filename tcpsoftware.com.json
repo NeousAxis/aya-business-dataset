@@ -1,10 +1,19 @@
 {
   "entity_id": "9f522f7c-6a67-5fd6-994a-7d6d672a9d2e",
   "name": "Employee Scheduling & Shift Planning Software",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "TCP Software provides software for employee scheduling and shift planning.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
+  "keywords": [
+    "employee scheduling ",
+    "workforce planning",
+    "shift management",
+    "time tracking",
+    "labor optimization",
+    "attendance tracking",
+    "staff scheduling"
+  ],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f522f7c-6a67-5fd6-994a-7d6d672a9d2e"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "72f2bc0b-0fc5-53a1-9a88-3eadb3488845",
   "name": "SwissBorg",
-  "what_it_does": "Provides app, platform, product.",
+  "what_it_does": "SwissBorg offers a cryptocurrency investment platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
+  "keywords": [
+    "cryptocurrency exchange",
+    "digital assets",
+    "crypto portfolio",
+    "blockchain finance",
+    "crypto investing",
+    "crypto wealth",
+    "bitcoin platform",
+    "Ethereum trading"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/72f2bc0b-0fc5-53a1-9a88-3eadb3488845"
 }

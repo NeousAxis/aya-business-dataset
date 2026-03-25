@@ -1,10 +1,20 @@
 {
   "entity_id": "54ea6f52-bea5-5a18-bbcd-ecb8cac033b9",
   "name": "Engelberg",
-  "what_it_does": "Provides app, restaurant, service.",
+  "what_it_does": "Engelberg is a Swiss municipality likely providing local government information and services online.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss municipality",
+    "local government",
+    "municipal services",
+    "government information",
+    "town services",
+    "local news",
+    "community services",
+    "public administration"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/54ea6f52-bea5-5a18-bbcd-ecb8cac033b9"
 }

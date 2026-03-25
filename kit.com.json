@@ -1,10 +1,18 @@
 {
   "entity_id": "697cb5db-ff65-5f34-8899-68791c97ddf2",
   "name": "Kit",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Kit.com was a platform where creators could curate and share lists of products (now defunct).",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "insurance broker",
+    "insurance products",
+    "health insurance",
+    "property insurance",
+    "auto insurance",
+    "assurance solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/697cb5db-ff65-5f34-8899-68791c97ddf2"
 }

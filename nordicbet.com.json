@@ -1,10 +1,20 @@
 {
   "entity_id": "e802efc9-d1c7-521c-a715-37603cb88259",
   "name": "Nordicbet",
-  "what_it_does": "Provides solution.",
+  "what_it_does": "Nordicbet is an online sports betting and casino platform.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "paris sportifs",
+    "casino en ligne",
+    "jeux d'argent",
+    "cotes sportives",
+    "poker en ligne",
+    "paris en direct",
+    "bookmaker",
+    "jeux de hasard"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e802efc9-d1c7-521c-a715-37603cb88259"
 }

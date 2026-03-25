@@ -1,10 +1,20 @@
 {
   "entity_id": "20ccf9a3-d4e6-5587-b7fc-6686df3de97c",
   "name": "CMU",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "CMU (Carnegie Mellon University) is a private research university offering undergraduate and graduate programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "research university",
+    "private university",
+    "higher education",
+    "undergraduate degrees",
+    "graduate degrees",
+    "academic programs",
+    "engineering programs",
+    "computer science"
+  ],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/20ccf9a3-d4e6-5587-b7fc-6686df3de97c"
 }

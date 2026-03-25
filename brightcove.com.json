@@ -1,10 +1,20 @@
 {
   "entity_id": "0ab48cd3-5308-5be1-a5c7-11cd1074d3dd",
   "name": "Brightcove",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Brightcove provides a platform for online video hosting and distribution.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
+  "keywords": [
+    "cloud video",
+    "video hosting",
+    "video distribution",
+    "video monetization",
+    "video streaming",
+    "OTT video",
+    "video content",
+    "video management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0ab48cd3-5308-5be1-a5c7-11cd1074d3dd"
 }

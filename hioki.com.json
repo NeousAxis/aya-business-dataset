@@ -1,10 +1,20 @@
 {
   "entity_id": "4348488b-b77a-5c53-a0f1-ade98d1c4115",
   "name": "Hioki",
-  "what_it_does": "Provides menu, product, products.",
+  "what_it_does": "Hioki designs and manufactures electrical measuring instruments and testing equipment.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Japan",
+  "keywords": [
+    "electrical instruments",
+    "testing equipment",
+    "measurement devices",
+    "electronic testing",
+    "power meters",
+    "data acquisition",
+    "field measuring",
+    "electronic components testing"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4348488b-b77a-5c53-a0f1-ade98d1c4115"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "304358f7-c989-526a-956a-6bf522458451",
   "name": "ISA",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "ISA likely offers technology or software as a service, inferred from the domain name.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "cloud technology",
+    "saas offerings",
+    "enterprise solutions",
+    "scalable infrastructure",
+    "automation tools",
+    "API integrations",
+    "software licensing"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/304358f7-c989-526a-956a-6bf522458451"
 }

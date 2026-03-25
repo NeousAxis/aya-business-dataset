@@ -1,10 +1,20 @@
 {
   "entity_id": "85e549cf-e294-5c29-8070-abd5f7815c62",
   "name": "Pakwheels",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Pakwheels is an online marketplace for buying and selling cars and motorcycles in Pakistan.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "pakistani car marketplace",
+    "pakistani motorcycle marketplace",
+    "used cars",
+    "new cars",
+    "auto classifieds",
+    "vehicle sales",
+    "online auto market",
+    "motorcycle sales"
+  ],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/85e549cf-e294-5c29-8070-abd5f7815c62"
 }

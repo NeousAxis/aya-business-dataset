@@ -1,10 +1,20 @@
 {
   "entity_id": "ea99c9c8-cbfd-5223-bcfe-cb94f1ad9492",
   "name": "Medicare Provider",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Clover Health is a Medicare Advantage insurer.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
+  "keywords": [
+    "Medicare Advantage",
+    "health insurance",
+    "seniors healthcare",
+    "managed care",
+    "healthcare plans",
+    "insurance provider",
+    "Medicare coverage",
+    "health benefits"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ea99c9c8-cbfd-5223-bcfe-cb94f1ad9492"
 }

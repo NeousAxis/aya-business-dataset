@@ -1,10 +1,20 @@
 {
   "entity_id": "07fad64b-ebe7-5633-8dc4-3ef3c0bd5b1b",
   "name": "Veolia",
-  "what_it_does": "Provides api, app, offre.",
+  "what_it_does": "Veolia provides environmental solutions in water, waste, and energy management.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "environmental solutions",
+    "water management",
+    "waste management",
+    "energy management",
+    "resource management",
+    "environmental services",
+    "sustainable solutions",
+    "water treatment"
+  ],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/07fad64b-ebe7-5633-8dc4-3ef3c0bd5b1b"
 }

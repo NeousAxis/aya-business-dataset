@@ -1,10 +1,20 @@
 {
   "entity_id": "648203dd-670f-5458-8aea-560dd02b4009",
   "name": "Amplitude",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Amplitude provides a product intelligence platform that helps companies understand user behavior and improve their digital products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "product analytics",
+    "mobile analytics",
+    "user behavior",
+    "conversion optimization",
+    "product intelligence",
+    "customer journey",
+    "usage analytics",
+    "digital analytics"
+  ],
   "aio_score": 68.0,
   "certificate_url": "https://ai-visionary.com/aya/e/648203dd-670f-5458-8aea-560dd02b4009"
 }

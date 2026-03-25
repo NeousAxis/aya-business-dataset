@@ -1,10 +1,19 @@
 {
   "entity_id": "a69b4621-5e58-5fe2-8c46-619a7faaa72e",
   "name": "Mr Green Services Unavailable in Your Location",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Mr Green is an online gambling operator offering casino games and sports betting.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
+  "keywords": [
+    "casino games",
+    "sports betting",
+    "gambling operator",
+    "online gaming",
+    "wagering",
+    "online casino",
+    "betting platform"
+  ],
   "aio_score": 21.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a69b4621-5e58-5fe2-8c46-619a7faaa72e"
 }

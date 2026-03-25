@@ -1,10 +1,20 @@
 {
   "entity_id": "7f9c9a21-4103-55e1-90e0-5eae991c1ed4",
   "name": "McDonald's",
-  "what_it_does": "Provides app, application, consulting.",
+  "what_it_does": "McDonald's is a global fast-food restaurant chain.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "fast food",
+    "hamburgers",
+    "french fries",
+    "chicken nuggets",
+    "McDonald's restaurants",
+    "global fast food",
+    "drive-thru",
+    "quick-serve restaurants"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7f9c9a21-4103-55e1-90e0-5eae991c1ed4"
 }

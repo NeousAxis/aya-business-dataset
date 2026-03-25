@@ -1,10 +1,20 @@
 {
   "entity_id": "e29b535d-44b4-502c-9f7c-67c45bef754f",
   "name": "Bunzl",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Bunzl distributes a range of non-food consumable products to businesses.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "verbrauchsgüter",
+    "non-food-produkte",
+    "hygieneartikel",
+    "verpackungsmaterialien",
+    "betriebsbedarf",
+    "gastronomiebedarf",
+    "bunzl",
+    "industriebedarf"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e29b535d-44b4-502c-9f7c-67c45bef754f"
 }

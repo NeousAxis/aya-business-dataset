@@ -1,10 +1,20 @@
 {
   "entity_id": "081d58c6-cdd1-5118-b6b2-ccb33bc42b32",
   "name": "State Street",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "State Street provides financial services including investment management and custody services to institutional investors.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Canada",
+  "keywords": [
+    "financial services",
+    "investment services",
+    "asset management",
+    "global investments",
+    "institutional investors",
+    "custody",
+    "investment banking",
+    "financial data"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/081d58c6-cdd1-5118-b6b2-ccb33bc42b32"
 }

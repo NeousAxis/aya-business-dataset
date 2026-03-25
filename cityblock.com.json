@@ -1,10 +1,20 @@
 {
   "entity_id": "5554c8e2-8feb-5511-8846-6dc441aaeec1",
   "name": "Cityblock",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Cityblock provides healthcare services and technology to underserved urban communities.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
+  "keywords": [
+    "primary care",
+    "mental health",
+    "healthcare services",
+    "personalized care",
+    "community health",
+    "urban health",
+    "preventive care",
+    "integrated healthcare"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5554c8e2-8feb-5511-8846-6dc441aaeec1"
 }

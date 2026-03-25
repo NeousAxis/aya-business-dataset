@@ -1,10 +1,19 @@
 {
   "entity_id": "93231e5d-5136-5948-9871-c3c81587d21d",
   "name": "Einride",
-  "what_it_does": "Provides app, menu, platform.",
+  "what_it_does": "Einride develops autonomous electric freight vehicles and related technologies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "autonomous vehicles",
+    "electric freight",
+    "freight transport",
+    "autonomous trucks",
+    "sustainable transport",
+    "electric vehicles",
+    "freight technology"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/93231e5d-5136-5948-9871-c3c81587d21d"
 }

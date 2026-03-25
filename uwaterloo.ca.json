@@ -1,10 +1,20 @@
 {
   "entity_id": "95125afb-9d12-577c-8b68-839bf0f9811f",
   "name": "Uwaterloo",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "The University of Waterloo is a public research university in Canada.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
+  "keywords": [
+    "research university",
+    "Canadian university",
+    "higher education",
+    "academic research",
+    "undergraduate studies",
+    "graduate studies",
+    "co-operative education",
+    "post-secondary education"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/95125afb-9d12-577c-8b68-839bf0f9811f"
 }

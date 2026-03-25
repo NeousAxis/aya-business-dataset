@@ -1,10 +1,19 @@
 {
   "entity_id": "fe280087-db3b-5884-a01c-0885422ace6c",
   "name": "Brigad",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Brigad connects freelance hospitality staff with businesses needing temporary workers.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United Kingdom",
+  "keywords": [
+    "hospitality staffing",
+    "freelance chefs",
+    "restaurant staff",
+    "temporary staffing",
+    "hotel staff",
+    "on-demand workers",
+    "catering staff"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fe280087-db3b-5884-a01c-0885422ace6c"
 }

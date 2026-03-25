@@ -1,10 +1,19 @@
 {
   "entity_id": "e18eb4f2-9c55-5cef-a0f2-d83a7fd45d76",
   "name": "FXpansion",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "FXpansion developed virtual instruments and audio effect plugins.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
+  "keywords": [
+    "virtual instruments",
+    "audio plugins",
+    "VST plugins",
+    "AU plugins",
+    "music production",
+    "audio effects",
+    "synthesizers"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e18eb4f2-9c55-5cef-a0f2-d83a7fd45d76"
 }

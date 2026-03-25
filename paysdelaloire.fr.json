@@ -1,10 +1,20 @@
 {
   "entity_id": "c92d3bef-ea02-5ae9-8e64-8fa485947e6d",
   "name": "Site du Conseil régional des Pays de la Loire",
-  "what_it_does": "Provides app, menu, offre.",
+  "what_it_does": "The Regional Council of Pays de la Loire promotes tourism and transportation initiatives within the Pays de la Loire region of France.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
+  "keywords": [
+    "regional tourism",
+    "transport initiatives",
+    "Loire Valley",
+    "travel promotion",
+    "regional development",
+    "sustainable transport",
+    "Pays de la Loire",
+    "French tourism"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c92d3bef-ea02-5ae9-8e64-8fa485947e6d"
 }

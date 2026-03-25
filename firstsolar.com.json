@@ -1,10 +1,19 @@
 {
   "entity_id": "bdc461ce-8ad4-507c-9ebe-becd2d58ad61",
   "name": "First Solar",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "First Solar manufactures photovoltaic solar panels and provides utility-scale solar power systems.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "thin-film solar panels",
+    "photovoltaic modules",
+    "solar energy",
+    "renewable energy",
+    "solar power generation",
+    "utility-scale solar",
+    "solar panel manufacturing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bdc461ce-8ad4-507c-9ebe-becd2d58ad61"
 }

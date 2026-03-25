@@ -1,10 +1,20 @@
 {
   "entity_id": "9b4aaca4-2ae3-5c68-8e3f-7db87208df8a",
   "name": "Fidelity Bank Plc",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Fidelity Bank Plc is a commercial bank operating in Nigeria.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "Nigerian banking",
+    "commercial banking",
+    "financial services",
+    "SME banking",
+    "retail banking",
+    "banking products",
+    "corporate finance",
+    "banking solutions"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9b4aaca4-2ae3-5c68-8e3f-7db87208df8a"
 }

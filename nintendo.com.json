@@ -1,10 +1,20 @@
 {
   "entity_id": "abbcb0cf-9cfb-5c1c-a66e-1a5f22b9efc4",
   "name": "Nintendo of Europe",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Nintendo of Europe is a distributor and marketer of Nintendo video game consoles and games.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "video game consoles",
+    "video games",
+    "game distribution",
+    "gaming merchandise",
+    "Nintendo games",
+    "European retail",
+    "game marketing",
+    "console sales"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/abbcb0cf-9cfb-5c1c-a66e-1a5f22b9efc4"
 }

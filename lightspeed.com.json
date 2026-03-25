@@ -1,10 +1,19 @@
 {
   "entity_id": "372e6de6-fe6a-5a7d-8937-fe49fb951b7b",
   "name": "Options",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Lightspeed provides cloud-based software and payments solutions for retail, restaurant, and e-commerce businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "retail point-of-sale",
+    "cloud POS",
+    "payment processing",
+    "retail management",
+    "e-commerce solutions",
+    "retail businesses",
+    "restaurant POS"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/372e6de6-fe6a-5a7d-8937-fe49fb951b7b"
 }

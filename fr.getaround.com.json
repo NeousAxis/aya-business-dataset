@@ -1,10 +1,20 @@
 {
   "entity_id": "8bb2fe4f-d3c0-55aa-b8a5-d8ef1bfb9837",
   "name": "Getaround",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Getaround is a carsharing platform where people can rent cars from other individuals.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
+  "keywords": [
+    "car sharing",
+    "peer-to-peer rental",
+    "car rental marketplace",
+    "vehicle rental",
+    "urban mobility",
+    "short-term car rental",
+    "on-demand vehicles",
+    "car sharing platform"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8bb2fe4f-d3c0-55aa-b8a5-d8ef1bfb9837"
 }

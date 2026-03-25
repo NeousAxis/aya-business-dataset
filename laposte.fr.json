@@ -1,10 +1,20 @@
 {
   "entity_id": "cbbe9bda-99f3-5a47-b954-640eddac027b",
   "name": "La Poste",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "La Poste is the French postal service, providing mail delivery, parcel services, and financial services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
+  "keywords": [
+    "postal services",
+    "mail delivery",
+    "parcel delivery",
+    "banking services",
+    "french post",
+    "financial products",
+    "express shipping",
+    "logistics"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cbbe9bda-99f3-5a47-b954-640eddac027b"
 }

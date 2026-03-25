@@ -1,10 +1,20 @@
 {
   "entity_id": "20403a3f-0003-55af-b3f3-d168fa2c2632",
   "name": "KAVAK",
-  "what_it_does": "Provides app, platform, service.",
+  "what_it_does": "KAVAK buys, refurbishes, and sells used cars online in Latin America.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Arab Emirates",
+  "keywords": [
+    "used cars",
+    "online auto sales",
+    "Latin American automotive",
+    "second-hand vehicles",
+    "car marketplace",
+    "automotive e-commerce",
+    "pre-owned cars",
+    "certified used cars"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/20403a3f-0003-55af-b3f3-d168fa2c2632"
 }

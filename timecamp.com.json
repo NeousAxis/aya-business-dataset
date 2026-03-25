@@ -1,10 +1,20 @@
 {
   "entity_id": "660e3e6b-a9ea-5309-a6a5-8e7bd387a9e8",
   "name": "Time Tracking Software",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "TimeCamp provides time tracking and project management software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "time tracking",
+    "project costing",
+    "employee monitoring",
+    "timesheet",
+    "project management",
+    "attendance tracking",
+    "productivity tracking",
+    "workforce analytics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/660e3e6b-a9ea-5309-a6a5-8e7bd387a9e8"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "75052226-bdf0-53a2-b305-6f1216eae673",
   "name": "Beiersdorf",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Beiersdorf manufactures and markets personal care products such as Nivea and Eucerin.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "skincare products",
+    "personal care",
+    "Nivea",
+    "Eucerin",
+    "La Prairie",
+    "cosmetics",
+    "dermatological skincare"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/75052226-bdf0-53a2-b305-6f1216eae673"
 }

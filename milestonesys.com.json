@@ -1,10 +1,20 @@
 {
   "entity_id": "58ae6e1d-d77e-53e1-b81a-652609eb08cf",
   "name": "Milestone Systems",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Milestone Systems develops video management software for IP network surveillance.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "video surveillance",
+    "IP cameras",
+    "video management",
+    "security systems",
+    "network video recorders",
+    "VMS software",
+    "surveillance solutions",
+    "video analytics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/58ae6e1d-d77e-53e1-b81a-652609eb08cf"
 }

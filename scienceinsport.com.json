@@ -1,10 +1,20 @@
 {
   "entity_id": "f988de78-d413-584f-a17a-5dd47a08c62f",
   "name": "SiS (Science in Sport) Limited",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "SiS (Science in Sport) Limited develops and manufactures sports nutrition products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Italy",
+  "keywords": [
+    "sports nutrition",
+    "endurance sports",
+    "energy gels",
+    "protein powders",
+    "hydration tablets",
+    "performance supplements",
+    "athlete nutrition",
+    "sports drinks"
+  ],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f988de78-d413-584f-a17a-5dd47a08c62f"
 }

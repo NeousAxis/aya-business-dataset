@@ -1,10 +1,19 @@
 {
   "entity_id": "fc754859-f308-56e4-a95d-cef5fcc5d8c9",
   "name": "Startseite",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "BVB.de is the official website for Borussia Dortmund, a German football club, providing news, merchandise, and ticketing.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "Borussia Dortmund",
+    "German football",
+    "soccer club",
+    "BVB",
+    "Bundesliga",
+    "football news",
+    "sports website"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fc754859-f308-56e4-a95d-cef5fcc5d8c9"
 }

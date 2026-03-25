@@ -1,10 +1,19 @@
 {
   "entity_id": "4e32afe4-8fe2-5cb7-bf73-3e2d40aa66c9",
   "name": "G4S Global",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "G4S provides security services and solutions globally.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
+  "keywords": [
+    "security services",
+    "security solutions",
+    "global security",
+    "risk management",
+    "security personnel",
+    "security technology",
+    "security systems"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4e32afe4-8fe2-5cb7-bf73-3e2d40aa66c9"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "252031e4-71e7-55fc-a6d1-bcc2a12a53f9",
   "name": "Elucidat",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Elucidat provides a platform for creating e-learning courses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "elearning authoring",
+    "course creation",
+    "learning experience",
+    "instructional design",
+    "training modules",
+    "rapid authoring",
+    "interactive learning",
+    "elearning platform"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/252031e4-71e7-55fc-a6d1-bcc2a12a53f9"
 }

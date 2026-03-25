@@ -1,10 +1,19 @@
 {
   "entity_id": "7c37ebb9-24e6-545b-83c9-af2c2f489020",
   "name": "Deyaar Properties",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Deyaar Properties is a real estate developer based in Dubai, UAE.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Arab Emirates",
+  "keywords": [
+    "dubai real estate",
+    "property development",
+    "real estate investment",
+    "UAE properties",
+    "residential property",
+    "commercial property",
+    "dubai properties"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7c37ebb9-24e6-545b-83c9-af2c2f489020"
 }

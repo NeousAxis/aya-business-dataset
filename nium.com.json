@@ -1,10 +1,20 @@
 {
   "entity_id": "6bfb3bf5-93db-5ccb-9fba-8091be1ea553",
   "name": "Global Real-Time Payments",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Nium provides cross-border payments infrastructure for businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "cross-border payments",
+    "payment infrastructure",
+    "international money transfers",
+    "API payments",
+    "global payments",
+    "remittance",
+    "enterprise payments",
+    "payment solutions"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6bfb3bf5-93db-5ccb-9fba-8091be1ea553"
 }

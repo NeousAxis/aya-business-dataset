@@ -1,10 +1,20 @@
 {
   "entity_id": "29e9b829-65ca-5a74-8799-6249ac81f03d",
   "name": "KKR",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "KKR is a global investment firm that manages multiple alternative asset classes, including private equity, energy, infrastructure, real estate and credit.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Japan",
+  "keywords": [
+    "global investment firm",
+    "alternative asset classes",
+    "private equity",
+    "real estate investments",
+    "credit investments",
+    "infrastructure investments",
+    "investment strategies",
+    "KKR investments"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/29e9b829-65ca-5a74-8799-6249ac81f03d"
 }

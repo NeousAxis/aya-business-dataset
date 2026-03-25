@@ -1,10 +1,19 @@
 {
   "entity_id": "bd6d7ff4-5d2b-59bb-a376-aaaa675bb0de",
   "name": "additiv",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "Additiv provides wealth management software and solutions for financial institutions.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "wealth management",
+    "financial institutions",
+    "investment advice",
+    "portfolio management",
+    "financial planning",
+    "banking software",
+    "client relationship"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bd6d7ff4-5d2b-59bb-a376-aaaa675bb0de"
 }

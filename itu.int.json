@@ -1,10 +1,20 @@
 {
   "entity_id": "5a28d293-ecc3-5c74-8f48-7d5f8254a324",
   "name": "ITU",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "The International Telecommunication Union (ITU) is a United Nations agency that regulates international telecommunications standards.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "telecommunication standards",
+    "international regulations",
+    "communication standards",
+    "frequency allocation",
+    "spectrum ",
+    "global communication",
+    "UN agency",
+    "telecom policy"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5a28d293-ecc3-5c74-8f48-7d5f8254a324"
 }

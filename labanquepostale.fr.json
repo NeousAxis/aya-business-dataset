@@ -1,10 +1,20 @@
 {
   "entity_id": "bbc65ff7-cdf2-5a72-9f77-1357cb54ef2f",
   "name": "Banque et Assurance",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "La Banque Postale is a French bank offering financial services including banking, insurance, and asset management.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
+  "keywords": [
+    "services bancaires",
+    "produits d'assurance",
+    "banque de détail française",
+    "assurance habitation",
+    "assurance automobile",
+    "prêts à la consommation",
+    "services financiers",
+    "comptes courants"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bbc65ff7-cdf2-5a72-9f77-1357cb54ef2f"
 }

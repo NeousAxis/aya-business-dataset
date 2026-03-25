@@ -1,10 +1,20 @@
 {
   "entity_id": "401033db-1f46-5f0a-a32e-7a3eb7e0ec13",
   "name": "Uganda National Bureau Of Standards",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "The Uganda National Bureau Of Standards develops and enforces national standards for products and services in Uganda.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "national standards",
+    "ugandan standards",
+    "product standards",
+    "quality assurance",
+    "standards development",
+    "certification services",
+    "uganda bureau of standards",
+    "national standards body"
+  ],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/401033db-1f46-5f0a-a32e-7a3eb7e0ec13"
 }

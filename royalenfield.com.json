@@ -1,10 +1,20 @@
 {
   "entity_id": "ae07493b-0ef5-5891-b4d8-f5b3686d9d94",
   "name": "Royal Enfield Motorräder",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Royal Enfield sells motorcycles.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
+  "keywords": [
+    "motorcycles",
+    "motorcycle manufacturer",
+    "classic motorcycles",
+    "adventure motorcycles",
+    "cruiser motorcycles",
+    "motorcycle parts",
+    "motorcycle accessories",
+    "vintage motorcycles"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ae07493b-0ef5-5891-b4d8-f5b3686d9d94"
 }

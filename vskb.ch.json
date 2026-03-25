@@ -1,10 +1,20 @@
 {
   "entity_id": "cfb91c59-b53b-528d-9074-30b6df695e56",
   "name": "UBCS",
-  "what_it_does": "Provides api, app, offre.",
+  "what_it_does": "VSKB (now UBS) was a Swiss cantonal bank.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss cantonal bank",
+    "regional banking",
+    "banking services",
+    "financial institution",
+    "Swiss banking",
+    "retail banking",
+    "commercial banking",
+    "local banking"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cfb91c59-b53b-528d-9074-30b6df695e56"
 }

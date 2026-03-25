@@ -1,10 +1,19 @@
 {
   "entity_id": "d7d04a77-6459-541c-a573-b5503a2ce7bc",
   "name": "Réponse immédiate",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Younited Credit (Réponse immédiate) offers online consumer loans.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
+  "keywords": [
+    "consumer loans",
+    "personal loans",
+    "online lending",
+    "credit",
+    "unsecured loans",
+    "loan origination",
+    "fintech"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d7d04a77-6459-541c-a573-b5503a2ce7bc"
 }

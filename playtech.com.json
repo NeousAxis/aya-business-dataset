@@ -1,10 +1,20 @@
 {
   "entity_id": "9d0613ce-9aed-5d10-a3c5-9791a76f79b1",
   "name": "Playtech",
-  "what_it_does": "Provides api, platform, product.",
+  "what_it_does": "Playtech develops software platforms and content for the online gambling industry.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "online gambling",
+    "casino content",
+    "gaming software",
+    "iGaming",
+    "casino platforms",
+    "gambling solutions",
+    "software development",
+    "gaming content"
+  ],
   "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9d0613ce-9aed-5d10-a3c5-9791a76f79b1"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "3a41efae-cc7d-567b-9d0a-e20feea7a676",
   "name": "hosting.com",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "hosting.com provides web hosting services and related infrastructure solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "BD",
+  "keywords": [
+    "web hosting",
+    "infrastructure solutions",
+    "dedicated servers",
+    "cloud hosting",
+    "managed services",
+    "data centers",
+    "IT infrastructure",
+    "colocation services"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3a41efae-cc7d-567b-9d0a-e20feea7a676"
 }

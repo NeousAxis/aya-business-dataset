@@ -1,10 +1,20 @@
 {
   "entity_id": "225cfdb6-4d3d-530d-a651-fd303f7fb9e6",
   "name": "Inserm, La science pour la santé",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Inserm is a French public research institute dedicated to health research.",
   "for_who": "Businesses and professionals.",
   "category": "Administration & Public",
   "location": "France",
+  "keywords": [
+    "medical research",
+    "health research",
+    "French research institute",
+    "public health",
+    "scientific research",
+    "biomedical research",
+    "health innovation",
+    "France research"
+  ],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/225cfdb6-4d3d-530d-a651-fd303f7fb9e6"
 }

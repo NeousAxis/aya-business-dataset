@@ -1,10 +1,19 @@
 {
   "entity_id": "521feff5-326d-53fb-8bd9-5ef474fa4119",
   "name": "Bahlsen",
-  "what_it_does": "Immobilier organization.",
+  "what_it_does": "Bahlsen is a German company that manufactures biscuits and other baked goods.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
+  "keywords": [
+    "biscuits",
+    "confectionery",
+    "baked goods",
+    "sweet snacks",
+    "European biscuits",
+    "cookie assortment",
+    "pastries"
+  ],
   "aio_score": 21.0,
   "certificate_url": "https://ai-visionary.com/aya/e/521feff5-326d-53fb-8bd9-5ef474fa4119"
 }

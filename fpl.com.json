@@ -1,10 +1,19 @@
 {
   "entity_id": "97950472-5b57-571b-b2fa-478bccddaa6e",
   "name": "FPL",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "FPL is likely Florida Power & Light, a utility company that generates and delivers electricity.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "electricity generation",
+    "power utility",
+    "electric power",
+    "energy distribution",
+    "renewable energy",
+    "electricity supply",
+    "florida energy"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/97950472-5b57-571b-b2fa-478bccddaa6e"
 }

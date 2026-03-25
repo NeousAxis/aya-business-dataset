@@ -1,10 +1,19 @@
 {
   "entity_id": "834c00be-1bf7-5c25-b47e-34cb38be991d",
   "name": "Ethiopian Airlines",
-  "what_it_does": "Provides app, cloud, menu.",
+  "what_it_does": "Ethiopian Airlines is the flag carrier airline of Ethiopia.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "Ethiopian flag carrier",
+    "African aviation",
+    "international air travel",
+    "passenger transport",
+    "cargo flights",
+    "airline services",
+    "East Africa airline"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/834c00be-1bf7-5c25-b47e-34cb38be991d"
 }

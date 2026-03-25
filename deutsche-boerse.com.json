@@ -1,10 +1,20 @@
 {
   "entity_id": "3f877f0c-78fb-5d80-8042-99b6972b6973",
   "name": "Deutsche Börse Group",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Deutsche Börse Group operates marketplaces for trading in securities and derivatives.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "securities trading",
+    "derivatives exchange",
+    "financial markets",
+    "stock exchange",
+    "trading infrastructure",
+    "capital markets",
+    "european exchange",
+    "securities clearing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3f877f0c-78fb-5d80-8042-99b6972b6973"
 }

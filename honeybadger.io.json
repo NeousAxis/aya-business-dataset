@@ -1,10 +1,18 @@
 {
   "entity_id": "12d339e1-a218-5c15-8d20-dcf1fb0c9e62",
   "name": "Honeybadger",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Honeybadger provides exception and error monitoring for software developers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "error tracking",
+    "exception monitoring",
+    "software debugging",
+    "developer tools",
+    "error reporting",
+    "software monitoring"
+  ],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/12d339e1-a218-5c15-8d20-dcf1fb0c9e62"
 }

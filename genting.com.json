@@ -1,10 +1,20 @@
 {
   "entity_id": "025f3662-5b0b-597f-b8cb-b75537391817",
   "name": "Genting Group",
-  "what_it_does": "Provides app, menu, platform.",
+  "what_it_does": "Genting Group operates casinos, resorts, and entertainment venues globally.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
+  "keywords": [
+    "casinos",
+    "resorts",
+    "entertainment venues",
+    "gaming",
+    "hospitality",
+    "theme parks",
+    "integrated resorts",
+    "leisure"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/025f3662-5b0b-597f-b8cb-b75537391817"
 }

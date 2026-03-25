@@ -1,10 +1,20 @@
 {
   "entity_id": "00b55266-ffa1-5b28-9dc7-d0f7f3ac02ef",
   "name": "Mondelez International",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Mondelez International manufactures and markets snack food and beverage products.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "snack foods",
+    "confectionery",
+    "biscuits",
+    "chocolate",
+    "gum",
+    "candy",
+    "beverages",
+    "food products"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/00b55266-ffa1-5b28-9dc7-d0f7f3ac02ef"
 }

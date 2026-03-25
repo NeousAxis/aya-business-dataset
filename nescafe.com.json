@@ -1,10 +1,20 @@
 {
   "entity_id": "258fdb5b-29c6-5fb0-a437-ac00f7593374",
   "name": "Nescafe",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Nescafe sells instant coffee products.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "café instantané",
+    "boissons au café",
+    "produits Nescafe",
+    "café soluble",
+    "préparation rapide du café",
+    "boissons chaudes",
+    "café en poudre",
+    "produits de consommation courante"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/258fdb5b-29c6-5fb0-a437-ac00f7593374"
 }

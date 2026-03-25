@@ -1,10 +1,20 @@
 {
   "entity_id": "c376adca-0015-51b9-a10a-1f05d5fa40bc",
   "name": "Trulia",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Trulia is an online real estate marketplace providing property listings and related information.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "real estate listings",
+    "property search",
+    "home values",
+    "real estate data",
+    "property information",
+    "housing market",
+    "residential real estate",
+    "real estate marketplace"
+  ],
   "aio_score": 66.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c376adca-0015-51b9-a10a-1f05d5fa40bc"
 }

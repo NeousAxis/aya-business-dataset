@@ -1,10 +1,20 @@
 {
   "entity_id": "ab40330a-2b77-51ac-b727-e4cc81b0c551",
   "name": "Azion Web Platform",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Azion provides edge computing platform services for web applications and media delivery.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
+  "keywords": [
+    "edge computing",
+    "web application delivery",
+    "media streaming",
+    "content delivery network",
+    "web performance",
+    "edge servers",
+    "application acceleration",
+    "serverless computing"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab40330a-2b77-51ac-b727-e4cc81b0c551"
 }

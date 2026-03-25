@@ -1,10 +1,20 @@
 {
   "entity_id": "cc1abf5a-d43b-5bc2-bfb3-46d1173cc573",
   "name": "Craftsman",
-  "what_it_does": "Provides product, products, solution.",
+  "what_it_does": "Craftsman sells tools, equipment, and work gear, likely marketing and publishing content related to these.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "tool sales",
+    "workwear",
+    "equipment retail",
+    "power tools",
+    "hand tools",
+    "tool storage",
+    "outdoor equipment",
+    "hardware products"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cc1abf5a-d43b-5bc2-bfb3-46d1173cc573"
 }

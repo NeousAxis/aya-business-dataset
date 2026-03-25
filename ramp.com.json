@@ -1,10 +1,20 @@
 {
   "entity_id": "d0c541eb-121b-5167-acf9-9db03b972025",
   "name": "Ramp",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Ramp provides corporate cards and expense management software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "corporate credit cards",
+    "expense management",
+    "finance automation",
+    "spend management",
+    "business credit",
+    "card payments",
+    "expense tracking",
+    "financial cards"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d0c541eb-121b-5167-acf9-9db03b972025"
 }

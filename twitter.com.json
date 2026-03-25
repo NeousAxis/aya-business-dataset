@@ -1,10 +1,20 @@
 {
   "entity_id": "3f71f558-19cb-563c-82b1-f8bbd2d83d65",
   "name": "X. It’s what’s happening",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "X (formerly Twitter) is a social media platform for real-time microblogging and social networking.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "FM",
+  "keywords": [
+    "social media",
+    "microblogging",
+    "real-time updates",
+    "social networking",
+    "news sharing",
+    "user-generated content",
+    "public conversation",
+    "social platform"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3f71f558-19cb-563c-82b1-f8bbd2d83d65"
 }

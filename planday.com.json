@@ -1,10 +1,19 @@
 {
   "entity_id": "fc846258-27cd-5382-a4e1-6c748374f1c4",
   "name": "Planday",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Planday offers employee scheduling and workforce management software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "employee scheduling",
+    "workforce management",
+    "shift planning",
+    "staff communication",
+    "time tracking",
+    "labor optimization",
+    "rota management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fc846258-27cd-5382-a4e1-6c748374f1c4"
 }

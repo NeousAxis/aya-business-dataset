@@ -1,10 +1,19 @@
 {
   "entity_id": "e6dc2639-9515-5f71-87b0-ba9c512fd891",
   "name": "Data Center Solutions and Facilities",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Flexential provides data center colocation, cloud, and network services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "data center colocation",
+    "cloud infrastructure",
+    "network services",
+    "managed IT",
+    "IT infrastructure",
+    "data storage",
+    "cloud solutions"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e6dc2639-9515-5f71-87b0-ba9c512fd891"
 }

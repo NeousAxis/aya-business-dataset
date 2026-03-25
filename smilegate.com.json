@@ -1,10 +1,19 @@
 {
   "entity_id": "1b381777-d98e-582c-9b14-ca4e47d1dba6",
   "name": "Smilegate",
-  "what_it_does": "Provides platform.",
+  "what_it_does": "Smilegate is a South Korean video game developer and publisher, known for games like Crossfire.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "video game development",
+    "game publishing",
+    "Korean games",
+    "Crossfire",
+    "online games",
+    "PC games",
+    "mobile games"
+  ],
   "aio_score": 24.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1b381777-d98e-582c-9b14-ca4e47d1dba6"
 }

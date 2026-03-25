@@ -1,10 +1,20 @@
 {
   "entity_id": "9cc6c3d0-521d-5885-aae5-50b975fb3058",
   "name": "25hours Hotels",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "25hours Hotels is a chain of hotels offering unique and design-focused accommodations.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
+  "keywords": [
+    "design hotels",
+    "boutique hotels",
+    "urban hotels",
+    "unique accommodations",
+    "hotel chain",
+    "themed hotels",
+    "city hotels",
+    "hotel stays"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9cc6c3d0-521d-5885-aae5-50b975fb3058"
 }

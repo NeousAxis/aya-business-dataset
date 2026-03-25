@@ -1,10 +1,20 @@
 {
   "entity_id": "2cb8fbc2-7de9-5f6b-9dea-bc24837365ed",
   "name": "Volvo CE",
-  "what_it_does": "Provides product, products, service.",
+  "what_it_does": "Volvo CE (Construction Equipment) manufactures construction equipment.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "construction equipment",
+    "excavators",
+    "wheel loaders",
+    "articulated haulers",
+    "road machinery",
+    "heavy equipment",
+    "earthmoving equipment",
+    "construction vehicles"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2cb8fbc2-7de9-5f6b-9dea-bc24837365ed"
 }

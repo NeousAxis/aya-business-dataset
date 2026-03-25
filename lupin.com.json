@@ -1,10 +1,20 @@
 {
   "entity_id": "daae0bb0-104c-5eac-ad9a-bd8736161550",
   "name": "Lupin",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Lupin manufactures and markets pharmaceutical products and active pharmaceutical ingredients.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "India",
+  "keywords": [
+    "pharmaceutical products",
+    "active pharmaceutical ingredients",
+    "generic drugs",
+    "branded formulations",
+    "Lupin pharma",
+    "drug manufacturing",
+    "pharmaceuticals",
+    "API manufacturing"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/daae0bb0-104c-5eac-ad9a-bd8736161550"
 }

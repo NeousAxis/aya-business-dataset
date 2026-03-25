@@ -1,10 +1,17 @@
 {
   "entity_id": "0f93d428-46fa-5fe1-9162-af59133b31a4",
   "name": "Con Edison",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Con Edison provides electricity, natural gas, and steam to customers in New York City and surrounding areas.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "electricity",
+    "natural gas",
+    "steam",
+    "energy",
+    "utilities"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0f93d428-46fa-5fe1-9162-af59133b31a4"
 }

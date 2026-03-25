@@ -1,10 +1,20 @@
 {
   "entity_id": "9a2e3bad-2448-5843-9d54-36f52fa61645",
   "name": "ASML",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "ASML provides lithography systems used in the manufacturing of integrated circuits (microchips).",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "lithography systems",
+    "semiconductor manufacturing",
+    "wafer fabrication",
+    "microchip production",
+    "DUV lithography",
+    "EUV lithography",
+    "semiconductor equipment",
+    "nanotechnology"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9a2e3bad-2448-5843-9d54-36f52fa61645"
 }

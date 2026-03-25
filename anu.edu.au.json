@@ -1,10 +1,19 @@
 {
   "entity_id": "bc9c4b12-fdbf-5767-add0-4b8ce5a81abc",
   "name": "Anu",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Anu (Australian National University) is a research university located in Canberra, Australia.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Australia",
+  "keywords": [
+    "research university",
+    "Australian university",
+    "higher education",
+    "Canberra university",
+    "postgraduate studies",
+    "undergraduate studies",
+    "academic research"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bc9c4b12-fdbf-5767-add0-4b8ce5a81abc"
 }

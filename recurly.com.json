@@ -1,10 +1,19 @@
 {
   "entity_id": "bfdf2cea-b94a-5dac-a714-5399b7f9f8a0",
   "name": "Recurly",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Recurly offers subscription management and recurring billing solutions for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "subscription management",
+    "recurring billing",
+    "subscription payments",
+    "subscription",
+    "revenue",
+    "SaaS billing",
+    "automated billing"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bfdf2cea-b94a-5dac-a714-5399b7f9f8a0"
 }

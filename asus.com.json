@@ -1,10 +1,20 @@
 {
   "entity_id": "0881b853-d46d-58ec-bd83-9cf03d3eac27",
   "name": "ASUS",
-  "what_it_does": "Provides app, product, software.",
+  "what_it_does": "ASUS manufactures computers, computer hardware, and consumer electronics.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Switzerland",
+  "keywords": [
+    "computers",
+    "computer hardware",
+    "gaming laptops",
+    "motherboards",
+    "PC components",
+    "electronics",
+    "consumer electronics",
+    "gaming hardware"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0881b853-d46d-58ec-bd83-9cf03d3eac27"
 }

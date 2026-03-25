@@ -1,10 +1,20 @@
 {
   "entity_id": "c90546ff-c828-5682-a9f4-62e17e634243",
   "name": "Built In",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Built In is an online platform connecting tech professionals with companies and providing tech industry news and resources.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "tech talent",
+    "recruiting platform",
+    "tech jobs",
+    "job board",
+    "career resources",
+    "company profiles",
+    "technology industry",
+    "talent marketplace"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c90546ff-c828-5682-a9f4-62e17e634243"
 }

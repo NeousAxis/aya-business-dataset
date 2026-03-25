@@ -1,10 +1,19 @@
 {
   "entity_id": "92a673ee-5123-5e62-8a41-a11a7d7ff72d",
   "name": "Cigna Healthcare",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Cigna Healthcare provides health insurance and related products and services.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
+  "keywords": [
+    "health insurance",
+    "healthcare benefits",
+    "medical plans",
+    "employee benefits",
+    "pharmacy benefits",
+    "wellness programs",
+    "health coverage"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/92a673ee-5123-5e62-8a41-a11a7d7ff72d"
 }

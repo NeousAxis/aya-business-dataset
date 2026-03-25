@@ -1,10 +1,17 @@
 {
   "entity_id": "8889d227-b72d-5270-9949-6107adc7ee8b",
   "name": "Cinesamples",
-  "what_it_does": "Provides product, products.",
+  "what_it_does": "Cinesamples sells virtual instruments and sample libraries for film, television, and game composers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "virtual instruments",
+    "sample libraries",
+    "film",
+    "television",
+    "game composers"
+  ],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8889d227-b72d-5270-9949-6107adc7ee8b"
 }

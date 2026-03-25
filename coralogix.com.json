@@ -1,10 +1,20 @@
 {
   "entity_id": "ddfd6387-8cff-5168-9935-f605194fa90d",
   "name": "Coralogix",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Coralogix offers a log analytics platform for monitoring and troubleshooting applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "log analytics",
+    "observability",
+    "application monitoring",
+    "log management",
+    "troubleshooting",
+    "APM",
+    "machine data analytics",
+    "data streaming"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ddfd6387-8cff-5168-9935-f605194fa90d"
 }

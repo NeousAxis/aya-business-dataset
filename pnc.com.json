@@ -1,10 +1,19 @@
 {
   "entity_id": "76a14a78-be44-52c6-87f4-bdfa325ffcf1",
   "name": "PNC Personal Banking",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "PNC is a bank providing personal and business banking services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "personal banking",
+    "retail banking",
+    "business banking",
+    "mortgages",
+    "loans",
+    "checking accounts",
+    "savings accounts"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/76a14a78-be44-52c6-87f4-bdfa325ffcf1"
 }

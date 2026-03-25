@@ -1,10 +1,20 @@
 {
   "entity_id": "44befffc-ec67-5e9e-a048-c90a26b95c73",
   "name": "Modern Business Intelligence",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Mode provides a collaborative platform for data analysis and business intelligence.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "collaborative analytics",
+    "business intelligence",
+    "data analysis",
+    "reporting tools",
+    "data visualization",
+    "BI platform",
+    "data insights",
+    "analytical dashboards"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/44befffc-ec67-5e9e-a048-c90a26b95c73"
 }

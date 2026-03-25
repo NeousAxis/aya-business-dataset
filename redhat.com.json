@@ -1,10 +1,20 @@
 {
   "entity_id": "cff327e5-54f0-51c2-b776-c9e66d4d527c",
   "name": "Ansible Collaborative",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Ansible is an open-source automation engine for configuration management, application deployment, and task automation managed by Red Hat.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "IT automation",
+    "configuration orchestration",
+    "application deployment",
+    "infrastructure code",
+    "open source automation",
+    "server automation",
+    "playbooks",
+    "agentless automation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cff327e5-54f0-51c2-b776-c9e66d4d527c"
 }

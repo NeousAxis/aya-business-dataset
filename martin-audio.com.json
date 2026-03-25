@@ -1,10 +1,20 @@
 {
   "entity_id": "00d7eac1-fad8-5639-8cba-4e5cd5c2bde1",
   "name": "Martin Audio",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Martin Audio designs and manufactures professional loudspeaker systems for live sound and installation.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "professional loudspeakers",
+    "touring sound systems",
+    "installed sound systems",
+    "concert audio",
+    "sound reinforcement",
+    "audio equipment",
+    "live sound",
+    "speaker systems"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/00d7eac1-fad8-5639-8cba-4e5cd5c2bde1"
 }

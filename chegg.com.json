@@ -1,10 +1,20 @@
 {
   "entity_id": "46e57c41-2689-544b-a75d-fc07b0da790b",
   "name": "Chegg",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Chegg is an online learning platform offering textbook rentals, homework help, and tutoring services to students.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "textbook rental",
+    "homework help",
+    "student assistance",
+    "online tutoring",
+    "college resources",
+    "academic support",
+    "study guides",
+    "scholarships"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/46e57c41-2689-544b-a75d-fc07b0da790b"
 }

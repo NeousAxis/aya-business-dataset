@@ -1,10 +1,20 @@
 {
   "entity_id": "2541e98b-0c5d-5992-bb9c-e60705daea0a",
   "name": "BANDAI NAMCO Holdings USA Inc.",
-  "what_it_does": "Provides platform, product, products.",
+  "what_it_does": "BANDAI NAMCO Holdings USA Inc. develops and publishes video games and related entertainment content.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "jeux vidéo",
+    "développement de jeux",
+    "édition de jeux",
+    "contenu de divertissement",
+    "jeux d'arcade",
+    "jeux console",
+    "jeux mobile",
+    "propriétés intellectuelles de jeux"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2541e98b-0c5d-5992-bb9c-e60705daea0a"
 }

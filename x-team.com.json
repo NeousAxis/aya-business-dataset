@@ -1,10 +1,20 @@
 {
   "entity_id": "77847412-5129-5e5e-baa8-7afe1e15bf24",
   "name": "X-Team",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "X-Team provides a global network of developers for hire, offering software development services to companies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "Software developers",
+    "Remote developers",
+    "On-demand teams",
+    "Global talent",
+    "Developer staffing",
+    "Software engineering",
+    "Extended teams",
+    "Tech teams"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/77847412-5129-5e5e-baa8-7afe1e15bf24"
 }

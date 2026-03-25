@@ -1,10 +1,20 @@
 {
   "entity_id": "c9300315-fe7c-5106-a255-f0467eb7ed64",
   "name": "Kuehne+Nagel",
-  "what_it_does": "Provides consulting, delivery, product.",
+  "what_it_does": "Kuehne+Nagel provides global logistics and transportation services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
+  "keywords": [
+    "global logistics",
+    "supply chain",
+    "freight forwarding",
+    "contract logistics",
+    "air freight",
+    "sea freight",
+    "road transport",
+    "warehouse management"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c9300315-fe7c-5106-a255-f0467eb7ed64"
 }

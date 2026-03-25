@@ -1,10 +1,20 @@
 {
   "entity_id": "cf0a09ee-9af4-57d1-a169-ef0940e144b8",
   "name": "Wix.com",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Wix.com provides a cloud-based website building platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "website builder",
+    "drag-and-drop editor",
+    "cloud-based web creation",
+    "website hosting",
+    "domain registration",
+    "web design tools",
+    "small website creation",
+    "DIY website"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cf0a09ee-9af4-57d1-a169-ef0940e144b8"
 }

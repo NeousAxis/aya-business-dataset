@@ -1,10 +1,19 @@
 {
   "entity_id": "29a0d572-a89b-538f-aa68-6b5cea183817",
   "name": "Cash flow management software",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Agicap provides cloud-based software for businesses to manage and forecast their cash flow.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
+  "keywords": [
+    "cash flow forecasting",
+    "treasury visibility",
+    "financial planning",
+    "corporate finance",
+    "cash flow management",
+    "financial forecasting",
+    "SME finance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/29a0d572-a89b-538f-aa68-6b5cea183817"
 }

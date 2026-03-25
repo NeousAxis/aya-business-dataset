@@ -1,10 +1,15 @@
 {
   "entity_id": "ce10a83d-d3cb-56e9-af3a-924e6d7961c8",
   "name": "Dsm-firmenich",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "DSM-Firmenich develops and manufactures products for health, nutrition, and beauty.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Germany",
+  "keywords": [
+    "health",
+    "nutrition",
+    "beauty"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ce10a83d-d3cb-56e9-af3a-924e6d7961c8"
 }

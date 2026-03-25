@@ -1,10 +1,20 @@
 {
   "entity_id": "8eec7e50-42ee-53e7-9be8-554136dd956c",
   "name": "Iterable",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Iterable provides a cross-channel marketing platform for businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United Kingdom",
+  "keywords": [
+    "cross-channel marketing",
+    "customer engagement",
+    "email marketing",
+    "marketing automation",
+    "customer data",
+    "personalized messaging",
+    "lifecycle marketing",
+    "marketing platform"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8eec7e50-42ee-53e7-9be8-554136dd956c"
 }

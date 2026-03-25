@@ -1,10 +1,20 @@
 {
   "entity_id": "58ab49f0-dd0d-5ffe-b762-5f9e5e3efcaf",
   "name": "General Atlantic",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "General Atlantic is a private equity firm that invests in growth companies.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "United States",
+  "keywords": [
+    "private equity",
+    "growth equity",
+    "investment firm",
+    "venture capital",
+    "growth companies",
+    "financial investments",
+    "global investments",
+    "equity investments"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/58ab49f0-dd0d-5ffe-b762-5f9e5e3efcaf"
 }

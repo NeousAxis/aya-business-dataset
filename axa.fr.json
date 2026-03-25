@@ -1,10 +1,20 @@
 {
   "entity_id": "4dedd06e-75fd-5692-af6a-cbec0e4fd3a7",
   "name": "AXA Assurance et Banque",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "AXA Assurance et Banque is an insurance and banking company operating in France.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
+  "keywords": [
+    "insurance",
+    "banking",
+    "French insurance",
+    "French bank",
+    "financial products",
+    "loans",
+    "investments",
+    "assurance"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4dedd06e-75fd-5692-af6a-cbec0e4fd3a7"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "16987551-c123-5018-9485-1bac410d9944",
   "name": "Finanzen selbstbestimmt",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Comdirect provides online brokerage and banking services to German customers.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "German online brokerage",
+    "Direct banking",
+    "Securities trading",
+    "Investment accounts",
+    "German financial services",
+    "Stock trading",
+    "Retail banking",
+    "Financial investments"
+  ],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/16987551-c123-5018-9485-1bac410d9944"
 }

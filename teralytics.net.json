@@ -1,10 +1,19 @@
 {
   "entity_id": "2ebdbcfb-967b-50b8-be07-a32952b34dba",
   "name": "Teralytics",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "Teralytics provides location intelligence by analyzing mobile phone data to understand movement patterns.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "mobility analytics",
+    "mobile network data",
+    "transportation",
+    "urban planning",
+    "location",
+    "traffic patterns",
+    "movement data"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2ebdbcfb-967b-50b8-be07-a32952b34dba"
 }

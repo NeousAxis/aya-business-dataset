@@ -1,10 +1,18 @@
 {
   "entity_id": "26e0f32e-10c2-52b0-a118-cf861ef7cb89",
   "name": "Sympany",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Sympany is a Swiss health insurance provider.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss health insurance",
+    "health insurer",
+    "medical insurance",
+    "healthcare coverage",
+    "insurance products",
+    "private health"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/26e0f32e-10c2-52b0-a118-cf861ef7cb89"
 }

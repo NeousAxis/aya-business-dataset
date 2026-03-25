@@ -1,10 +1,20 @@
 {
   "entity_id": "fc6150be-412a-5ef5-8fb5-cabd88914004",
   "name": "Kanton Solothurn",
-  "what_it_does": "Provides menu, service, services.",
+  "what_it_does": "Kanton Solothurn is the official website for the Canton of Solothurn, a governmental region in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "Solothurn canton",
+    "Swiss banking",
+    "cantonal finance",
+    "government finance",
+    "Soleure region",
+    "public finances",
+    "regional bank",
+    "Swiss government"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fc6150be-412a-5ef5-8fb5-cabd88914004"
 }

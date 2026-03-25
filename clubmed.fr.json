@@ -1,10 +1,19 @@
 {
   "entity_id": "dc33d3be-6749-569b-a875-a11424d1bbe3",
   "name": "Club Med",
-  "what_it_does": "Provides app, menu, offre.",
+  "what_it_does": "Club Med provides all-inclusive holiday packages at resort locations.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
+  "keywords": [
+    "all-inclusive vacations",
+    "holiday packages",
+    "resort vacations",
+    "family travel",
+    "international resorts",
+    "beach resorts",
+    "vacation villages"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dc33d3be-6749-569b-a875-a11424d1bbe3"
 }

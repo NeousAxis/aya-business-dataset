@@ -1,10 +1,20 @@
 {
   "entity_id": "6b6ec5d4-73de-5102-b10d-258e6d4d9704",
   "name": "Aspire",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Aspire likely offers a platform for influencer marketing or brand collaborations.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "influencer",
+    "content creator",
+    "marketing",
+    "brand partnerships",
+    "influencer marketing",
+    "creator",
+    "social media",
+    "content creation"
+  ],
   "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6b6ec5d4-73de-5102-b10d-258e6d4d9704"
 }

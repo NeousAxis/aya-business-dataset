@@ -1,10 +1,20 @@
 {
   "entity_id": "ab0f4639-cf97-503b-8ecc-2d0b898bb220",
   "name": "Groupe Michelin",
-  "what_it_does": "Provides api, app, produit.",
+  "what_it_does": "Groupe Michelin publishes content related to travel, maps and food guides.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "travel content",
+    "maps",
+    "gastronomic guides",
+    "Michelin guides",
+    "travel planning",
+    "culinary experiences",
+    "tourism information",
+    "road maps"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab0f4639-cf97-503b-8ecc-2d0b898bb220"
 }

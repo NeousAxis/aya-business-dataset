@@ -1,10 +1,20 @@
 {
   "entity_id": "786c1d4a-fafa-51db-9f92-27005f367820",
   "name": "Sciencespo",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Sciences Po is a university specializing in political science and international relations.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
+  "keywords": [
+    "Social Sciences",
+    "Political Science",
+    "International Relations",
+    "French University",
+    "Higher Education",
+    "Research University",
+    "Public Affairs",
+    "Graduate Studies"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/786c1d4a-fafa-51db-9f92-27005f367820"
 }

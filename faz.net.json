@@ -1,10 +1,19 @@
 {
   "entity_id": "710df990-3d32-5b16-9e25-96e7253ffa5c",
   "name": "FAZ",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "FAZ (Frankfurter Allgemeine Zeitung) publishes a German-language newspaper and online news platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "german newspaper",
+    "news publishing",
+    "frankfurter allgemeine",
+    "political news",
+    "economic news",
+    "business news",
+    "german news"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/710df990-3d32-5b16-9e25-96e7253ffa5c"
 }

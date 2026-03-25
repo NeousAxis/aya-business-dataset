@@ -1,10 +1,20 @@
 {
   "entity_id": "c6daf9db-9349-5e21-84e8-de16c2a9bfef",
   "name": "mydays",
-  "what_it_does": "Provides service.",
+  "what_it_does": "Mydays offers experience gifts and vouchers for various activities.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "experience gifts",
+    "adventure activities",
+    "unique gifts",
+    "gift experiences",
+    "leisure activities",
+    "present ideas",
+    "gift vouchers",
+    "special occasion gifts"
+  ],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c6daf9db-9349-5e21-84e8-de16c2a9bfef"
 }

@@ -1,10 +1,17 @@
 {
   "entity_id": "592851d5-b39a-501f-a571-5ad7ee2d59ff",
   "name": "Atoms for Peace and Development",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "IAEA is the International Atomic Energy Agency, which promotes the peaceful use of nuclear technology.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Austria",
+  "keywords": [
+    "nuclear technology",
+    "atomic energy",
+    "nuclear safety",
+    "nuclear proliferation",
+    "peaceful applications"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/592851d5-b39a-501f-a571-5ad7ee2d59ff"
 }

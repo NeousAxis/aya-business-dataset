@@ -1,10 +1,20 @@
 {
   "entity_id": "63e48c23-7f00-596f-8a4e-556f801256b4",
   "name": "10x Genomics",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "10xGenomics.com develops and sells instruments and reagents for genomic analysis.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "genomic analysis tools",
+    "single cell analysis",
+    "genomics instruments",
+    "genomics reagents",
+    "gene expression analysis",
+    "biological research",
+    "genomic sequencing",
+    "molecular biology"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/63e48c23-7f00-596f-8a4e-556f801256b4"
 }

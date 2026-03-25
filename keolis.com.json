@@ -1,10 +1,20 @@
 {
   "entity_id": "664d907a-7889-58e7-b4a2-a54c912766c3",
   "name": "Keolis",
-  "what_it_does": "Provides app, offre, prestation.",
+  "what_it_does": "Keolis is a public transport operator.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "public transport operator",
+    "bus networks",
+    "tram systems",
+    "rail transport",
+    "mobility solutions",
+    "passenger transportation",
+    "urban transport",
+    "transportation services"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/664d907a-7889-58e7-b4a2-a54c912766c3"
 }

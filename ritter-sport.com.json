@@ -1,10 +1,19 @@
 {
   "entity_id": "e9f64cac-2cef-54d7-8135-7a7535f6979a",
   "name": "RITTER SPORT",
-  "what_it_does": "Media & Communication organization.",
+  "what_it_does": "Ritter Sport manufactures square chocolate bars.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
+  "keywords": [
+    "square chocolate bars",
+    "chocolate confectionery",
+    "chocolate tablets",
+    "snack food",
+    "filled chocolate",
+    "European chocolate",
+    "German chocolate"
+  ],
   "aio_score": 20.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e9f64cac-2cef-54d7-8135-7a7535f6979a"
 }

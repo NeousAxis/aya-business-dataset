@@ -1,10 +1,20 @@
 {
   "entity_id": "800d2050-4232-50b2-b19e-862a2dda8829",
   "name": "BBC Home",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "BBC provides news, sports, and entertainment content on its website.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United Kingdom",
+  "keywords": [
+    "news content",
+    "sports coverage",
+    "entertainment programs",
+    "UK broadcasting",
+    "TV shows",
+    "radio programs",
+    "news provider",
+    "digital content"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/800d2050-4232-50b2-b19e-862a2dda8829"
 }

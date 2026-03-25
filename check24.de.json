@@ -1,10 +1,15 @@
 {
   "entity_id": "acbfd380-2b9f-55f7-a001-ccb5636a5c99",
   "name": "CHECK24",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "CHECK24 is a German comparison shopping website for insurance, travel, finance, and other products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "insurance",
+    "travel",
+    "finance"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/acbfd380-2b9f-55f7-a001-ccb5636a5c99"
 }

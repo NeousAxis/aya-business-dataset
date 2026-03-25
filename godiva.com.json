@@ -1,10 +1,19 @@
 {
   "entity_id": "3c68c38f-657d-534b-950d-091805978297",
   "name": "GODIVA Chocolatier, Inc.",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Godiva sells premium chocolate products online and in retail stores.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "premium chocolate",
+    "luxury confectionery",
+    "gourmet chocolate",
+    "chocolate gifts",
+    "online chocolate retailer",
+    "truffles",
+    "chocolatier"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3c68c38f-657d-534b-950d-091805978297"
 }

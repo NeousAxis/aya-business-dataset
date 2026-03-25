@@ -1,10 +1,20 @@
 {
   "entity_id": "6d7715cc-a292-59b0-9872-f630b6dc3223",
   "name": "Airtable",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Airtable is a low-code platform for building collaborative databases and applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "cloud database",
+    "spreadsheet software",
+    "relational database",
+    "data management",
+    "project tracking",
+    "workflow automation",
+    "collaborative database",
+    "cloud platform"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6d7715cc-a292-59b0-9872-f630b6dc3223"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "13b0db0c-417b-53f7-8a66-2b52b1ac2f70",
   "name": "Unsplash",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Unsplash provides a platform for photographers to share their work and users to download royalty-free images.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "stock photos",
+    "royalty-free images",
+    "photography community",
+    "high-resolution photos",
+    "image licensing",
+    "creative commons",
+    "visual content",
+    "photo sharing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/13b0db0c-417b-53f7-8a66-2b52b1ac2f70"
 }

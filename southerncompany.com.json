@@ -1,10 +1,20 @@
 {
   "entity_id": "251c1855-76ce-55c2-8903-0ed122fdb053",
   "name": "Southern Company",
-  "what_it_does": "Provides app, delivery, service.",
+  "what_it_does": "Southern Company is an electric and gas utility holding company.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "electric utilities",
+    "gas utilities",
+    "energy holding",
+    "power generation",
+    "energy distribution",
+    "retail energy",
+    "wholesale energy",
+    "energy infrastructure"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/251c1855-76ce-55c2-8903-0ed122fdb053"
 }

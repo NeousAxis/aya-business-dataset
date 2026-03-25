@@ -1,10 +1,19 @@
 {
   "entity_id": "123bcd9d-7f6c-5576-853d-2a3a96431fef",
   "name": "Xfinity",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "Xfinity provides cable television, internet, telephone, and wireless services to residential and commercial customers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "cable television",
+    "internet",
+    "phone",
+    "wireless residential",
+    "home internet",
+    "TV services",
+    "home phone"
+  ],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/123bcd9d-7f6c-5576-853d-2a3a96431fef"
 }

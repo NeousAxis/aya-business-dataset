@@ -1,10 +1,19 @@
 {
   "entity_id": "380ab03d-c52b-583d-b4ac-59a3442a4f3b",
   "name": "HIROSE Electric Group [Connector]",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "Hirose Electric Group manufactures electrical connectors.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "electrical connectors",
+    "electronic components",
+    "connector manufacturing",
+    "board-to-board connectors",
+    "coaxial connectors",
+    "circular connectors",
+    "connector solutions"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/380ab03d-c52b-583d-b4ac-59a3442a4f3b"
 }

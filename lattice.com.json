@@ -1,10 +1,19 @@
 {
   "entity_id": "d6c6faa4-2c59-579b-a998-ee1570df835c",
   "name": "Lattice",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Lattice provides a performance management and employee engagement platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "performance management",
+    "employee engagement",
+    "HR analytics",
+    "feedback",
+    "goal setting",
+    "employee development",
+    "OKR tracking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6c6faa4-2c59-579b-a998-ee1570df835c"
 }

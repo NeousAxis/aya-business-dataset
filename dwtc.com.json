@@ -1,10 +1,20 @@
 {
   "entity_id": "4fe184df-69d7-5037-be56-a3b244feef98",
   "name": "Dubai World Trade Centre",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Dubai World Trade Centre facilitates trade exhibitions and events in Dubai.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "trade exhibitions",
+    "event venue",
+    "conference center",
+    "business events",
+    "exhibition space",
+    "trade shows",
+    "Dubai events",
+    "event management"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4fe184df-69d7-5037-be56-a3b244feef98"
 }

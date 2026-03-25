@@ -1,10 +1,20 @@
 {
   "entity_id": "4209acf5-97dc-5e56-bdc3-911a7c4868f1",
   "name": "Postmates",
-  "what_it_does": "Provides delivery, restaurant.",
+  "what_it_does": "Postmates (now Uber Eats) was a food delivery service that connected customers with local restaurants and delivery drivers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "food delivery",
+    "merchandise delivery",
+    "courier services",
+    "on-demand delivery",
+    "local delivery",
+    "restaurant delivery",
+    "urban logistics",
+    "delivery network"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4209acf5-97dc-5e56-bdc3-911a7c4868f1"
 }

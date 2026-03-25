@@ -1,10 +1,20 @@
 {
   "entity_id": "d8758a89-826b-541c-a8a4-63deb39bb430",
   "name": "Corriere della Sera",
-  "what_it_does": "Provides api, app.",
+  "what_it_does": "Corriere della Sera is an Italian daily newspaper.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Italy",
+  "keywords": [
+    "italian newspaper",
+    "news publication",
+    "daily news",
+    "italian news",
+    "journalism",
+    "news media",
+    "current events",
+    "italy news"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d8758a89-826b-541c-a8a4-63deb39bb430"
 }

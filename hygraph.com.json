@@ -1,10 +1,19 @@
 {
   "entity_id": "e79a7291-9e7d-5bed-a19b-01836874d236",
   "name": "Hygraph",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Hygraph provides a federated GraphQL content platform for building digital experiences.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
+  "keywords": [
+    "GraphQL content",
+    "headless CMS",
+    "content federation",
+    "digital experience platform",
+    "API-first content",
+    "content management",
+    "structured content"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e79a7291-9e7d-5bed-a19b-01836874d236"
 }

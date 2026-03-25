@@ -1,10 +1,20 @@
 {
   "entity_id": "2a057d02-b2fc-5a37-b52b-a9410128f7fc",
   "name": "kununu",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Kununu is a platform where employees can rate their companies.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Austria",
+  "keywords": [
+    "employee reviews",
+    "employer ratings",
+    "workplace insights",
+    "job reviews",
+    "company culture",
+    "salary data",
+    "career feedback",
+    "employment platform"
+  ],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2a057d02-b2fc-5a37-b52b-a9410128f7fc"
 }

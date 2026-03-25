@@ -1,10 +1,18 @@
 {
   "entity_id": "36591755-4bb6-56df-a5fe-81ddd209f95a",
   "name": "Fotokite",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Fotokite develops tethered drone systems for live video streaming.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "tethered drones",
+    "aerial situational awareness",
+    "public safety drones",
+    "drone systems",
+    "persistent surveillance",
+    "aerial monitoring"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/36591755-4bb6-56df-a5fe-81ddd209f95a"
 }

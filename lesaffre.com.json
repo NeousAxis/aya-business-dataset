@@ -1,10 +1,20 @@
 {
   "entity_id": "bc3b2591-ffac-59d7-992b-62862627f93b",
   "name": "Lesaffre",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Lesaffre develops, manufactures, and markets yeast, baking ingredients, and fermentation solutions.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "yeast products",
+    "baking ingredients",
+    "fermentation solutions",
+    "bread improvers",
+    "bakery products",
+    "food fermentation",
+    "nutritional yeast",
+    "Lesaffre"
+  ],
   "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bc3b2591-ffac-59d7-992b-62862627f93b"
 }

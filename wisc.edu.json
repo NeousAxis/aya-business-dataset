@@ -1,10 +1,20 @@
 {
   "entity_id": "759b4ddd-090d-584b-a7ac-071fc2335384",
   "name": "University of Wisconsin-Madison",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "The University of Wisconsin-Madison is a public research university offering undergraduate and graduate programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "public research university",
+    "higher education",
+    "undergraduate programs",
+    "graduate programs",
+    "university education",
+    "research institution",
+    "Wisconsin university",
+    "academic research"
+  ],
   "aio_score": 68.0,
   "certificate_url": "https://ai-visionary.com/aya/e/759b4ddd-090d-584b-a7ac-071fc2335384"
 }

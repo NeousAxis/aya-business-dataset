@@ -1,10 +1,20 @@
 {
   "entity_id": "23833e55-0b51-5873-aefd-d159e3599cf3",
   "name": "Kayako",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Kayako provides customer service and help desk software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "customer support",
+    "help desk",
+    "ticketing systems",
+    "live chat",
+    "customer engagement",
+    "support automation",
+    "agent workspace",
+    "knowledge base"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/23833e55-0b51-5873-aefd-d159e3599cf3"
 }

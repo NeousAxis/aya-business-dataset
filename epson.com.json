@@ -1,10 +1,20 @@
 {
   "entity_id": "25395950-f936-58d0-af50-03e11243cde6",
   "name": "Epson Global Portal",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Epson manufactures and sells printers, projectors, and other electronic products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "imprimantes",
+    "projecteurs",
+    "produits électroniques",
+    "impression",
+    "imagerie",
+    "bureautique",
+    "matériel informatique",
+    "solutions d'impression"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/25395950-f936-58d0-af50-03e11243cde6"
 }

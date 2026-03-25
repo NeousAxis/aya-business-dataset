@@ -1,10 +1,20 @@
 {
   "entity_id": "58e7ff51-1890-5b53-aa17-489b44cfb7fc",
   "name": "Scandit",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Scandit provides barcode scanning software development kits (SDKs) for mobile devices and other platforms.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
+  "keywords": [
+    "barcode scanning SDK",
+    "mobile barcode reader",
+    "data capture",
+    "scan engines",
+    "computer vision",
+    "image processing",
+    "barcode recognition",
+    "mobile data entry"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/58e7ff51-1890-5b53-aa17-489b44cfb7fc"
 }

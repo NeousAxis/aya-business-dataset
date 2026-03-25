@@ -1,10 +1,20 @@
 {
   "entity_id": "a9cdbfbd-3e10-5c30-8c05-9d18dc41460d",
   "name": "Qlik Talend Cloud",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Talend provides a data integration and management platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
+  "keywords": [
+    "data integration",
+    "data management",
+    "cloud ETL",
+    "data quality",
+    "data governance",
+    "Talend cloud",
+    "data pipeline",
+    "ETL tools"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a9cdbfbd-3e10-5c30-8c05-9d18dc41460d"
 }

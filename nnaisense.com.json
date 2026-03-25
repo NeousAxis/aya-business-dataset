@@ -1,10 +1,20 @@
 {
   "entity_id": "c20f1aaf-bed8-57a2-9874-6324b6bf81a2",
   "name": "NNAISENSE",
-  "what_it_does": "Provides app, platform, solution.",
+  "what_it_does": "NNAISENSE is an artificial intelligence research company.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "Artificial Intelligence Research",
+    "AI Development",
+    "Machine Learning",
+    "Neural Networks",
+    "Deep learning",
+    "AI solutions",
+    "Cognitive computing",
+    "AI algorithms"
+  ],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c20f1aaf-bed8-57a2-9874-6324b6bf81a2"
 }

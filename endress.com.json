@@ -1,10 +1,20 @@
 {
   "entity_id": "190fe495-3d2e-5dde-be3b-2845552c849f",
   "name": "Endress+Hauser AG",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Endress+Hauser AG manufactures process and laboratory instrumentation and automation solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
+  "keywords": [
+    "process instrumentation",
+    "measurement technology",
+    "industrial automation",
+    "level measurement",
+    "flow measurement",
+    "pressure measurement",
+    "temperature measurement",
+    "liquid analysis"
+  ],
   "aio_score": 68.0,
   "certificate_url": "https://ai-visionary.com/aya/e/190fe495-3d2e-5dde-be3b-2845552c849f"
 }

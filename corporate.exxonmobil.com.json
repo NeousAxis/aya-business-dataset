@@ -1,10 +1,18 @@
 {
   "entity_id": "2773ff6f-b327-56fe-bb7c-66bfd5a35180",
   "name": "ExxonMobil Corporation",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "ExxonMobil is an oil and gas company involved in exploration, production, refining, and marketing.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "oil",
+    "gas",
+    "exploration",
+    "production",
+    "refining",
+    "marketing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2773ff6f-b327-56fe-bb7c-66bfd5a35180"
 }

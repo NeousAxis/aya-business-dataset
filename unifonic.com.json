@@ -1,10 +1,20 @@
 {
   "entity_id": "4831451d-4753-5043-afe7-b7ed5685c21d",
   "name": "Unifonic",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Unifonic provides cloud communication solutions.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "cloud communication",
+    "CPaaS",
+    "communication APIs",
+    "SMS messaging",
+    "voice communication",
+    "customer engagement",
+    "enterprise communication",
+    "cloud solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4831451d-4753-5043-afe7-b7ed5685c21d"
 }

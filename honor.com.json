@@ -1,10 +1,20 @@
 {
   "entity_id": "1cab891f-a0b8-5c4d-bbb9-f2762188508f",
   "name": "HONOR GLOBAL",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "HONOR is a global technology company that sells smartphones and other consumer electronics.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "MY",
+  "keywords": [
+    "smartphones",
+    "mobile devices",
+    "consumer electronics",
+    "portable technology",
+    "global tech",
+    "electronic gadgets",
+    "mobile phones",
+    "wearable tech"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1cab891f-a0b8-5c4d-bbb9-f2762188508f"
 }

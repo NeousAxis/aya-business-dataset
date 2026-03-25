@@ -1,10 +1,20 @@
 {
   "entity_id": "ee1f9135-1dda-5208-96be-51f2a5317814",
   "name": "Procter & Gamble",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Procter & Gamble manufactures and markets a wide range of consumer goods, including beauty, grooming, health care, and household products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Saudi Arabia",
+  "keywords": [
+    "produits de beauté",
+    "soins personnels",
+    "produits ménagers",
+    "biens de consommation",
+    "hygiène",
+    "santé",
+    "rasoirs",
+    "lessive"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ee1f9135-1dda-5208-96be-51f2a5317814"
 }

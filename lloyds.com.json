@@ -1,10 +1,20 @@
 {
   "entity_id": "068010c9-1996-56c0-bc1e-aa8f8418aca9",
   "name": "Lloyd's",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Lloyd's operates as an insurance market where multiple financial backers come together to pool risk.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "insurance market",
+    "risk management",
+    "specialist insurance",
+    "underwriting",
+    "insurance ",
+    "global insurance",
+    "commercial insurance",
+    "reinsurance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/068010c9-1996-56c0-bc1e-aa8f8418aca9"
 }

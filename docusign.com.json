@@ -1,10 +1,20 @@
 {
   "entity_id": "89b12fd2-b64b-50f3-902d-0e25db5b3429",
   "name": "Docusign",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "DocuSign provides electronic signature technology and digital transaction management services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
+  "keywords": [
+    "electronic signatures",
+    "digital transaction management",
+    "e-signature",
+    "document signing",
+    "workflow automation",
+    "contract management",
+    "cloud signatures",
+    "secure signatures"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/89b12fd2-b64b-50f3-902d-0e25db5b3429"
 }

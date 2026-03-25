@@ -1,10 +1,19 @@
 {
   "entity_id": "aed454b5-b98f-5f89-bb60-40e274f03dde",
   "name": "SEAT",
-  "what_it_does": "Provides service, services, software.",
+  "what_it_does": "SEAT likely publishes news and media related to the automotive industry.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Ireland",
+  "keywords": [
+    "Spanish automaker",
+    "car manufacturer",
+    "automotive industry",
+    "passenger vehicles",
+    "vehicle design",
+    "car sales",
+    "auto engineering"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aed454b5-b98f-5f89-bb60-40e274f03dde"
 }

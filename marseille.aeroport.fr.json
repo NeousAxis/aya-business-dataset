@@ -1,10 +1,19 @@
 {
   "entity_id": "f7558ddd-5d5f-59ad-b1d0-c4a8997fa43d",
   "name": "Aéroport Marseille Provence",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Aéroport Marseille Provence operates the Marseille Provence Airport.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
+  "keywords": [
+    "airport operations",
+    "air travel",
+    "passenger flights",
+    "cargo flights",
+    "Marseille airport",
+    "Provence airport",
+    "aviation services"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f7558ddd-5d5f-59ad-b1d0-c4a8997fa43d"
 }

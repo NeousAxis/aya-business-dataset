@@ -1,10 +1,19 @@
 {
   "entity_id": "12a917c4-f679-50af-9819-8c9a867f478c",
   "name": "Bern Welcome",
-  "what_it_does": "Provides restaurant, service.",
+  "what_it_does": "Bern Welcome provides tourism information and transportation services for the Bern region.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
+  "keywords": [
+    "Bern tourism",
+    "Switzerland tourism",
+    "city tours",
+    "Bern travel",
+    "tourist information",
+    "Bern attractions",
+    "Bern vacation"
+  ],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/12a917c4-f679-50af-9819-8c9a867f478c"
 }

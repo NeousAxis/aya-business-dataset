@@ -1,10 +1,20 @@
 {
   "entity_id": "2c36e53d-9581-50bf-8176-a233d43cf7c0",
   "name": "Bank Pekao S.A.",
-  "what_it_does": "Provides api, menu.",
+  "what_it_does": "Bank Pekao S.A. is a Polish commercial bank offering a range of financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Poland",
+  "keywords": [
+    "Polish bank",
+    "commercial banking",
+    "financial services Poland",
+    "retail banking Poland",
+    "corporate banking Poland",
+    "loans Poland",
+    "Bank Pekao",
+    "banking services"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2c36e53d-9581-50bf-8176-a233d43cf7c0"
 }

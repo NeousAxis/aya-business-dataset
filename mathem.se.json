@@ -1,10 +1,19 @@
 {
   "entity_id": "7b152bea-2f17-563d-915b-862c84a50ece",
   "name": "Mat och inspiration för en smidigare matvardag",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "Mathem is an online grocery store in Sweden offering home delivery.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Sweden",
+  "keywords": [
+    "Swedish grocery retailer",
+    "home delivery",
+    "food e-commerce",
+    "online supermarket",
+    "grocery delivery",
+    "Sweden food",
+    "direct to consumer groceries"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7b152bea-2f17-563d-915b-862c84a50ece"
 }

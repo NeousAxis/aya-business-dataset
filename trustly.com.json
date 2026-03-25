@@ -1,10 +1,19 @@
 {
   "entity_id": "c0ffc32c-9806-5fc0-85ec-409ec8d713ec",
   "name": "Smarter Payments with Trustly",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Trustly provides a payment platform for online bank transfers.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Netherlands",
+  "keywords": [
+    "payment platform",
+    "online banking",
+    "bank transfer",
+    "e-commerce payments",
+    "Trustly",
+    "account-to-account payments",
+    "online payments"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c0ffc32c-9806-5fc0-85ec-409ec8d713ec"
 }

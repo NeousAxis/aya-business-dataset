@@ -1,10 +1,20 @@
 {
   "entity_id": "30b685a1-7f00-5807-9ff9-d6557df9a436",
   "name": "Gymshark",
-  "what_it_does": "Provides app, delivery, product.",
+  "what_it_does": "Gymshark is an online retailer selling athletic apparel and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "activewear",
+    "fitness apparel",
+    "gym clothing",
+    "sports clothing",
+    "athletic wear",
+    "workout clothes",
+    "gym leggings",
+    "fitness accessories"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/30b685a1-7f00-5807-9ff9-d6557df9a436"
 }

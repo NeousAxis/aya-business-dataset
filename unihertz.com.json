@@ -1,10 +1,20 @@
 {
   "entity_id": "f2795d8c-02f6-5730-909b-0efd0f838ff0",
   "name": "Unihertz",
-  "what_it_does": "Provides app, product, service.",
+  "what_it_does": "Unihertz likely provides products or services related to a university or academic research.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Austria",
+  "keywords": [
+    "university",
+    "academic research",
+    "education",
+    "research and development",
+    "studies",
+    "student",
+    "higher learning",
+    "campus"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f2795d8c-02f6-5730-909b-0efd0f838ff0"
 }

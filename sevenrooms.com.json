@@ -1,10 +1,20 @@
 {
   "entity_id": "09ef8eed-a53e-5871-a297-41744307dd48",
   "name": "SevenRooms",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "SevenRooms provides a restaurant reservation, seating, and guest management platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "hospitality",
+    "guest experience",
+    "reservation",
+    "CRM",
+    "restaurant",
+    "hotel",
+    "operations",
+    "table management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/09ef8eed-a53e-5871-a297-41744307dd48"
 }

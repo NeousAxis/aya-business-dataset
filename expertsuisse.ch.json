@@ -1,10 +1,18 @@
 {
   "entity_id": "80ef5259-8cfe-51b6-8a2c-29b869aa499d",
   "name": "EXPERTsuisse",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "EXPERTsuisse is a Swiss expert association for audit, tax, and fiduciary matters, offering education and certification.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
+  "keywords": [
+    "certified accountants",
+    "auditors",
+    "Swiss accounting",
+    "professional association",
+    "financial experts",
+    "accounting standards"
+  ],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/80ef5259-8cfe-51b6-8a2c-29b869aa499d"
 }

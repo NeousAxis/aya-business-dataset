@@ -1,10 +1,19 @@
 {
   "entity_id": "fe04a492-10df-5528-a0a3-be63585f8651",
   "name": "Telenet",
-  "what_it_does": "Provides app, product, service.",
+  "what_it_does": "Telenet is a Belgian telecommunications company providing cable television, internet, and mobile phone services.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Belgium",
+  "keywords": [
+    "cable television",
+    "internet services",
+    "mobile communication",
+    "telecommunications",
+    "belgium",
+    "digital tv",
+    "fixed line telephony"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fe04a492-10df-5528-a0a3-be63585f8651"
 }

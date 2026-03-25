@@ -1,10 +1,19 @@
 {
   "entity_id": "9259556f-d0bf-5da4-8465-27ba6b1d14bc",
   "name": "Loopmasters",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Loopmasters sells royalty-free samples, loops, and sound libraries for music production.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "royalty-free samples",
+    "music loops",
+    "virtual instruments",
+    "audio production",
+    "sound design",
+    "music creation tools",
+    "sample libraries"
+  ],
   "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9259556f-d0bf-5da4-8465-27ba6b1d14bc"
 }

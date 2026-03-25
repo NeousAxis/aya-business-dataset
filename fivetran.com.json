@@ -1,10 +1,20 @@
 {
   "entity_id": "027cfd1f-3307-5123-b7e2-828194beab10",
   "name": "Fivetran",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Fivetran automates data pipeline creation to move data from various sources into a data warehouse.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "data pipelines",
+    "data integration",
+    "ELT",
+    "data warehousing",
+    "cloud data",
+    "data connectors",
+    "automated data transfer",
+    "data ingestion"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/027cfd1f-3307-5123-b7e2-828194beab10"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "d709851d-aaca-55be-9cb4-5b59f4c939d6",
   "name": "Vorsorge auf dem Punkt",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "pax.ch offers pension and insurance products.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "retirement planning",
+    "insurance products",
+    "financial security",
+    "annuities",
+    "life insurance",
+    "pension plans",
+    "swiss finance"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d709851d-aaca-55be-9cb4-5b59f4c939d6"
 }

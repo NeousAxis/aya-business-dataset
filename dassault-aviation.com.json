@@ -1,10 +1,20 @@
 {
   "entity_id": "95ce831a-361b-52d2-a5ae-2af3fec6b481",
   "name": "Dassault Aviation, a major player to aeronautics",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Dassault Aviation manufactures military and business aircraft.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
+  "keywords": [
+    "military aircraft",
+    "business jets",
+    "fighter jets",
+    "aviation manufacturing",
+    "aerospace engineering",
+    "aircraft design",
+    "defense aviation",
+    "executive jets"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/95ce831a-361b-52d2-a5ae-2af3fec6b481"
 }

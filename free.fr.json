@@ -1,10 +1,20 @@
 {
   "entity_id": "739f09cb-bc43-56ae-ae4c-205073f6c147",
   "name": "Free",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Free is a French internet service provider and mobile network operator.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
+  "keywords": [
+    "internet service provider",
+    "mobile network operator",
+    "French ISP",
+    "broadband internet",
+    "mobile plans",
+    "telecommunications",
+    "internet access",
+    "Freebox"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/739f09cb-bc43-56ae-ae4c-205073f6c147"
 }

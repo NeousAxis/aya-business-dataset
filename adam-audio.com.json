@@ -1,10 +1,20 @@
 {
   "entity_id": "f7fd6d2a-a09d-5883-9801-862181a8f115",
   "name": "ADAM Audio",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "ADAM Audio manufactures studio monitors and high-end loudspeakers.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "studio monitors",
+    "high-end loudspeakers",
+    "audio equipment",
+    "professional audio",
+    "music production",
+    "recording studios",
+    "audiophile speakers",
+    "sound engineering"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f7fd6d2a-a09d-5883-9801-862181a8f115"
 }

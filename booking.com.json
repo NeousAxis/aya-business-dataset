@@ -1,10 +1,20 @@
 {
   "entity_id": "4a8e7d2d-d5c9-5e44-86b5-32d0ef42e9af",
   "name": "Booking",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Booking.com operates an online travel agency for booking accommodations, flights, and other travel services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United Kingdom",
+  "keywords": [
+    "hotel booking",
+    "flight booking",
+    "accommodation booking",
+    "travel agency",
+    "vacation rentals",
+    "online travel",
+    "travel planning",
+    "holiday packages"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a8e7d2d-d5c9-5e44-86b5-32d0ef42e9af"
 }

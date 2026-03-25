@@ -1,10 +1,20 @@
 {
   "entity_id": "14388d91-b770-59a5-a0ba-82df9048b98d",
   "name": "Wyndham Hotels & Resorts",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Wyndham Hotels & Resorts operates a global chain of hotels and resorts.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "hotel franchising",
+    "hotel brands",
+    "lodging",
+    "hotel management",
+    "hotel properties",
+    "franchise hotels",
+    "resort properties",
+    "travel accommodations"
+  ],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/14388d91-b770-59a5-a0ba-82df9048b98d"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "d48b9edd-62dc-58ba-9e12-75fd9ddf4680",
   "name": "FLYERALARM",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "FLYERALARM is an online printing company.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "printing products",
+    "marketing materials",
+    "online printing",
+    "flyers",
+    "posters",
+    "business cards",
+    "large format printing",
+    "promotional items"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d48b9edd-62dc-58ba-9e12-75fd9ddf4680"
 }

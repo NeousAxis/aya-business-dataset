@@ -1,10 +1,20 @@
 {
   "entity_id": "67acfdd5-90bb-5906-99e5-a502a94f3f89",
   "name": "Rapyuta Robotics",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Rapyuta Robotics develops autonomous mobile robots and cloud robotics platforms.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "autonomous mobile robots",
+    "cloud robotics",
+    "robotics platforms",
+    "automation solutions",
+    "robot fleet",
+    "robotics development",
+    "SLAM navigation",
+    "edge computing"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/67acfdd5-90bb-5906-99e5-a502a94f3f89"
 }

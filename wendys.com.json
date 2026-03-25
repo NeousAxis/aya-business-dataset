@@ -1,10 +1,20 @@
 {
   "entity_id": "46f68653-3cb0-583a-9834-7d3df84a8e85",
   "name": "Wendy's",
-  "what_it_does": "Provides app, delivery, menu.",
+  "what_it_does": "Wendy's is a fast-food restaurant chain specializing in hamburgers and fries.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
+  "keywords": [
+    "fast food",
+    "hamburgers",
+    "french fries",
+    "quick service restaurant",
+    "burgers and fries",
+    "food chain",
+    "value meals",
+    "drive-thru"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/46f68653-3cb0-583a-9834-7d3df84a8e85"
 }

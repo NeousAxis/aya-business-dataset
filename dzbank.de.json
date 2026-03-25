@@ -1,10 +1,20 @@
 {
   "entity_id": "92419511-1460-5a90-b739-1022ce2ded92",
   "name": "DZ BANK AG",
-  "what_it_does": "Provides api, menu, service.",
+  "what_it_does": "DZ BANK AG is a German cooperative central bank.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Germany",
+  "keywords": [
+    "cooperative banking",
+    "german bank",
+    "corporate finance",
+    "investment banking",
+    "financial markets",
+    "transaction banking",
+    "institutional investors",
+    "retail banking"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/92419511-1460-5a90-b739-1022ce2ded92"
 }

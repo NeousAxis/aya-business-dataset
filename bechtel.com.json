@@ -1,10 +1,20 @@
 {
   "entity_id": "3fdcb41b-4e8e-5d6e-81e9-d218f6be986a",
   "name": "Bechtel",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Bechtel is an engineering, construction, and project management company.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "engineering projects",
+    "infrastructure construction",
+    "procurement construction",
+    "EPC projects",
+    "global construction",
+    "large-scale projects",
+    "construction services",
+    "heavy construction"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3fdcb41b-4e8e-5d6e-81e9-d218f6be986a"
 }

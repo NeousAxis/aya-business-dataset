@@ -1,10 +1,20 @@
 {
   "entity_id": "b42b91ce-7e64-5d80-98a8-a2feea8127af",
   "name": "GEA",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "GEA Group provides equipment and solutions for food processing and other industries.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "food processing equipment",
+    "dairy farming equipment",
+    "beverage processing",
+    "chemical processing",
+    "pharmaceutical equipment",
+    "cooling technology",
+    "separation technology",
+    "homogenization"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b42b91ce-7e64-5d80-98a8-a2feea8127af"
 }

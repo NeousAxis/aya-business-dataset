@@ -1,10 +1,20 @@
 {
   "entity_id": "d466055e-dc58-52b2-bae3-748f2656af47",
   "name": "NEFF international",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "NEFF manufactures and sells kitchen appliances.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "kitchen appliances",
+    "cooking appliances",
+    "built-in appliances",
+    "home appliances",
+    "ovens",
+    "cooktops",
+    "dishwashers",
+    "refrigerators"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d466055e-dc58-52b2-bae3-748f2656af47"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "8f891137-04d7-5257-9c33-9bc4ae515455",
   "name": "Svenska institutet för standarder, SIS",
-  "what_it_does": "Provides api, app.",
+  "what_it_does": "SIS develops and publishes Swedish and international standards.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Sweden",
+  "keywords": [
+    "Swedish standards",
+    "standardization",
+    "technical standards",
+    "SIS standards",
+    "industry standards",
+    "national standards body",
+    "normative documents"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8f891137-04d7-5257-9c33-9bc4ae515455"
 }

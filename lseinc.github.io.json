@@ -1,10 +1,20 @@
 {
   "entity_id": "47fc1432-b4ca-52bd-991a-029debcb5cd2",
   "name": "Lucas Software Engineering, Inc.",
-  "what_it_does": "Provides api, delivery, product.",
+  "what_it_does": "Lucas Software Engineering, Inc. likely showcases software engineering projects and expertise through its GitHub page.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "custom software",
+    "software development",
+    "software engineering",
+    "application development",
+    "programming projects",
+    "software solutions",
+    "web application",
+    "desktop application"
+  ],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/47fc1432-b4ca-52bd-991a-029debcb5cd2"
 }

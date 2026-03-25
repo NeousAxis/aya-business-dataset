@@ -1,10 +1,20 @@
 {
   "entity_id": "07e69854-f50f-51a7-8002-4106a1d5245d",
   "name": "OpenText",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "OpenText provides enterprise information management software.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Canada",
+  "keywords": [
+    "enterprise information",
+    "content services",
+    "information governance",
+    "digital transformation",
+    "document capture",
+    "process automation",
+    "content management",
+    "workflow automation"
+  ],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/07e69854-f50f-51a7-8002-4106a1d5245d"
 }

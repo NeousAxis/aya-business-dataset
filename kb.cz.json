@@ -1,10 +1,20 @@
 {
   "entity_id": "6cc95dd0-9ce6-5696-a944-c37015385936",
   "name": "Hlavní stránka",
-  "what_it_does": "Finance & Banque organization.",
+  "what_it_does": "KB is a Czech bank offering a range of financial services including personal and business banking.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Czech Republic",
+  "keywords": [
+    "Czech bank",
+    "financial services",
+    "retail banking",
+    "corporate banking",
+    "Czech Republic",
+    "banking services",
+    "loans and mortgages",
+    "investment products"
+  ],
   "aio_score": 25.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6cc95dd0-9ce6-5696-a944-c37015385936"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "d0fe0c23-d846-56f5-b40d-aa8b73d5dc6a",
   "name": "Stryker",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "Stryker develops and manufactures specialty surgical and medical equipment.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
+  "keywords": [
+    "medical devices",
+    "surgical equipment",
+    "orthopedic implants",
+    "medical technology",
+    "surgical instruments",
+    "joint replacement",
+    "spinal implants",
+    "healthcare solutions"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d0fe0c23-d846-56f5-b40d-aa8b73d5dc6a"
 }

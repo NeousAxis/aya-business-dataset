@@ -1,10 +1,20 @@
 {
   "entity_id": "b7ef1859-bbe6-5c11-872b-f2bca1e15803",
   "name": "Alan",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Alan is a French company that offers health insurance services.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "France",
+  "keywords": [
+    "health insurance",
+    "french insurance",
+    "supplemental health",
+    "employee benefits",
+    "alan insurance",
+    "healthcare coverage",
+    "insurance plans",
+    "digital health"
+  ],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b7ef1859-bbe6-5c11-872b-f2bca1e15803"
 }

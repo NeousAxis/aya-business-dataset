@@ -1,10 +1,20 @@
 {
   "entity_id": "2d113c54-fa90-56b7-9f05-6a90624baf51",
   "name": "Vonovia SE",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Vonovia SE is a German residential real estate company that owns and manages apartments.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "German residential real estate",
+    "property management",
+    "real estate development",
+    "rental apartments",
+    "housing market Germany",
+    "residential properties",
+    "real estate investment",
+    "apartment rentals"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2d113c54-fa90-56b7-9f05-6a90624baf51"
 }

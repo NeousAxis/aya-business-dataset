@@ -1,10 +1,20 @@
 {
   "entity_id": "6b8dc25a-91ce-5e8e-a9b7-3ecc2e6c5703",
   "name": "An Insurance Company For Your Car And More",
-  "what_it_does": "Provides app, delivery, menu.",
+  "what_it_does": "GEICO primarily sells auto insurance directly to consumers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "auto insurance",
+    "car insurance",
+    "insurance",
+    "GEICO insurance",
+    "direct insurance",
+    "vehicle insurance",
+    "automobile coverage",
+    "insurance policies"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6b8dc25a-91ce-5e8e-a9b7-3ecc2e6c5703"
 }

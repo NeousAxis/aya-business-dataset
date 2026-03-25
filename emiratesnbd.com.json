@@ -1,10 +1,17 @@
 {
   "entity_id": "94c60bf3-c626-5a25-8208-672efc787a18",
   "name": "Emirates NBD",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Emirates NBD likely provides digital or tech-enabled financial services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "fintech",
+    "banking",
+    "financial services",
+    "digital banking",
+    "online payments"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/94c60bf3-c626-5a25-8208-672efc787a18"
 }

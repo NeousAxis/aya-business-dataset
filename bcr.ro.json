@@ -1,10 +1,20 @@
 {
   "entity_id": "9bd2ca77-a451-57c9-8394-fef3100a1607",
   "name": "Banca Comerciala Romana",
-  "what_it_does": "Provides api.",
+  "what_it_does": "Banca Comerciala Romana probably offers banking or related technology solutions in Romania.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "Romanian banking",
+    "financial products",
+    "retail banking",
+    "corporate banking",
+    "loans",
+    "deposits",
+    "financial services",
+    "banking solutions"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9bd2ca77-a451-57c9-8394-fef3100a1607"
 }

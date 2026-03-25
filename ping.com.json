@@ -1,10 +1,20 @@
 {
   "entity_id": "5f18af62-ca4e-5db6-854c-77218214e856",
   "name": "PING",
-  "what_it_does": "Non détecté organization.",
+  "what_it_does": "PING sells golf equipment including clubs and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
+  "keywords": [
+    "golf clubs",
+    "golf equipment",
+    "golf apparel",
+    "golf accessories",
+    "golfing",
+    "custom golf clubs",
+    "performance golf",
+    "golf technology"
+  ],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5f18af62-ca4e-5db6-854c-77218214e856"
 }

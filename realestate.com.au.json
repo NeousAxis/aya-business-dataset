@@ -1,10 +1,19 @@
 {
   "entity_id": "608ec5de-f7f9-5e15-a3fc-61d0946f9106",
   "name": "Realestate",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "Realestate.com.au is an Australian online real estate portal for property listings.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Australia",
+  "keywords": [
+    "real estate listings",
+    "property search",
+    "Australian real estate",
+    "residential property",
+    "commercial property",
+    "property sales",
+    "property rentals"
+  ],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/608ec5de-f7f9-5e15-a3fc-61d0946f9106"
 }

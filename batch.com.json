@@ -1,10 +1,19 @@
 {
   "entity_id": "e62ae74a-53e7-56c1-9758-7d38f50907b6",
   "name": "Batch",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Batch likely offers software as a service, potentially related to data processing or automation.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
+  "keywords": [
+    "mobile push notifications",
+    "in-app messaging",
+    "user engagement",
+    "customer communication",
+    "marketing automation",
+    "mobile marketing",
+    "customer messaging"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e62ae74a-53e7-56c1-9758-7d38f50907b6"
 }

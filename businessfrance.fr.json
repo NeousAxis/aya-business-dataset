@@ -1,10 +1,20 @@
 {
   "entity_id": "5c28f48e-bab8-5fe4-94b0-a516a87e8398",
   "name": "Business France",
-  "what_it_does": "Provides app, menu, prestation.",
+  "what_it_does": "Business France is a French government agency that promotes French exports and international investment.",
   "for_who": "Businesses and professionals.",
   "category": "Administration & Public",
   "location": "France",
+  "keywords": [
+    "French exports",
+    "foreign investment",
+    "international trade",
+    "French government",
+    "export promotion",
+    "invest in France",
+    "business development",
+    "French economy"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5c28f48e-bab8-5fe4-94b0-a516a87e8398"
 }

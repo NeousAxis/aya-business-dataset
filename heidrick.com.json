@@ -1,10 +1,19 @@
 {
   "entity_id": "151e0f95-09b3-53e4-b444-0c078cfd488d",
   "name": "Heidrick & Struggles",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Heidrick & Struggles is an executive search and leadership consulting firm.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "executive search",
+    "leadership consulting",
+    "talent acquisition",
+    "board services",
+    "C-suite recruitment",
+    "leadership assessment",
+    "human capital"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/151e0f95-09b3-53e4-b444-0c078cfd488d"
 }

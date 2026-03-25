@@ -1,10 +1,20 @@
 {
   "entity_id": "9cf63a0f-cc97-5a22-b01f-7f3879f6a127",
   "name": "Raisin",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Raisin is a savings and investment platform connecting consumers with banks across Europe.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "savings marketplace",
+    "cross-border banking",
+    "deposit accounts",
+    "investment opportunities",
+    "savings products",
+    "interest rates",
+    "banking platform",
+    "financial investments"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9cf63a0f-cc97-5a22-b01f-7f3879f6a127"
 }

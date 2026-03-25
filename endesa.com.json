@@ -1,10 +1,20 @@
 {
   "entity_id": "b07e1983-ea85-5dfa-8309-4f70bb5e492f",
   "name": "Endesa",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Endesa is an electricity company involved in generation, distribution, and sales.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "electricity generation",
+    "power distribution",
+    "energy retail",
+    "renewable energy",
+    "energy supply",
+    "electricity trading",
+    "gas supply",
+    "energy solutions"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b07e1983-ea85-5dfa-8309-4f70bb5e492f"
 }

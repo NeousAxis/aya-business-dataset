@@ -1,10 +1,18 @@
 {
   "entity_id": "26ab084e-1fb5-51a4-adc9-f8d07dee7b98",
   "name": "WebOps Platform for Building High Impact Websites",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Pantheon provides a web operations platform for building and managing websites.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "web operations",
+    "website creation",
+    "website management",
+    "CMS hosting",
+    "development workflow",
+    "web hosting platform"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/26ab084e-1fb5-51a4-adc9-f8d07dee7b98"
 }

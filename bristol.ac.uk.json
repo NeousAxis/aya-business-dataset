@@ -1,10 +1,20 @@
 {
   "entity_id": "f8b6c341-1ccc-5b2b-88b9-81b3f81d45c5",
   "name": "University of Bristol",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "The University of Bristol is a higher education institution offering undergraduate and postgraduate degrees.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
+  "keywords": [
+    "UK public university",
+    "research university",
+    "higher education",
+    "academic degrees",
+    "student programs",
+    "research facilities",
+    "Bristol",
+    "university courses"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f8b6c341-1ccc-5b2b-88b9-81b3f81d45c5"
 }

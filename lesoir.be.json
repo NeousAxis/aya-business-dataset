@@ -1,10 +1,19 @@
 {
   "entity_id": "eb73c358-1fa3-5276-869c-d6cd2576ea74",
   "name": "La Une",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "La Une is a Belgian French-language public television channel.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
+  "keywords": [
+    "Belgian TV channel",
+    "French-language television",
+    "public broadcaster",
+    "news",
+    "entertainment programs",
+    "Belgian television",
+    "La Une"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eb73c358-1fa3-5276-869c-d6cd2576ea74"
 }

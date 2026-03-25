@@ -1,10 +1,20 @@
 {
   "entity_id": "add9a9a1-5605-5131-b551-9edab2eb754a",
   "name": "WWF",
-  "what_it_does": "Provides app, solution, solutions.",
+  "what_it_does": "WWF (World Wildlife Fund) is an international non-governmental organization working on wilderness preservation and the reduction of human impact on the environment.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "wildlife conservation",
+    "environmental protection",
+    "species preservation",
+    "habitat conservation",
+    "climate change",
+    "nature preservation",
+    "ecological sustainability",
+    "endangered species"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/add9a9a1-5605-5131-b551-9edab2eb754a"
 }

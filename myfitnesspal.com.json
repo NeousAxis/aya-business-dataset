@@ -1,10 +1,20 @@
 {
   "entity_id": "17441c03-476d-5ebe-9d95-2499362afc67",
   "name": "MyFitnessPal",
-  "what_it_does": "Provides api, app, restaurant.",
+  "what_it_does": "MyFitnessPal provides a platform for tracking diet and exercise to help users achieve weight management goals.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "China",
+  "keywords": [
+    "Diet tracking",
+    "Fitness tracking",
+    "Calorie counting",
+    "Nutrition ",
+    "Weight loss",
+    "Health tracking",
+    "Food database",
+    "Exercise logging"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/17441c03-476d-5ebe-9d95-2499362afc67"
 }

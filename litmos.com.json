@@ -1,10 +1,20 @@
 {
   "entity_id": "bb4d0b44-62eb-575a-8258-b9ccd72930cc",
   "name": "Litmos",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Litmos provides a cloud-based learning management system (LMS) for employee training.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "learning experience system",
+    "corporate training",
+    "employee learning",
+    "cloud LMS",
+    "e-learning",
+    "training courses",
+    "compliance training",
+    "skills development"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bb4d0b44-62eb-575a-8258-b9ccd72930cc"
 }

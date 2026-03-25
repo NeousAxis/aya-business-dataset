@@ -1,10 +1,20 @@
 {
   "entity_id": "2bf5de54-05e4-5deb-9f55-8c7703af13f9",
   "name": "About",
-  "what_it_does": "Provides api, platform, product.",
+  "what_it_does": "Enel is a multinational power company involved in electricity and gas generation and distribution.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "electricity generation",
+    "power distribution",
+    "energy ",
+    "renewable energy",
+    "gas distribution",
+    "energy market",
+    "power grid",
+    "utility"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2bf5de54-05e4-5deb-9f55-8c7703af13f9"
 }

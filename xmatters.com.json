@@ -1,10 +1,19 @@
 {
   "entity_id": "5a8f1ff6-03e2-5965-9dc4-6c6a7916686f",
   "name": "xMatters",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "xMatters provides a service reliability platform that automates incident resolution.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "incident resolution",
+    "service reliability",
+    "operations automation",
+    "alerting systems",
+    "on-call management",
+    "IT incident response",
+    "critical event management"
+  ],
   "aio_score": 71.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5a8f1ff6-03e2-5965-9dc4-6c6a7916686f"
 }

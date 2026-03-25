@@ -1,10 +1,20 @@
 {
   "entity_id": "737c1956-9bc9-567a-b984-587a303683c8",
   "name": "Heidelberg University",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "Heidelberg University is a German public research university.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Germany",
+  "keywords": [
+    "German university",
+    "research university",
+    "higher education",
+    "university research",
+    "academic research",
+    "graduate programs",
+    "undergraduate programs",
+    "Heidelberg academics"
+  ],
   "aio_score": 68.0,
   "certificate_url": "https://ai-visionary.com/aya/e/737c1956-9bc9-567a-b984-587a303683c8"
 }

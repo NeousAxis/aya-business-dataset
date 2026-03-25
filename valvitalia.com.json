@@ -1,10 +1,19 @@
 {
   "entity_id": "ff9b6397-df35-532c-b4c2-c8a7628539b1",
   "name": "Valvitalia Home page",
-  "what_it_does": "Provides app.",
+  "what_it_does": "Valvitalia manufactures industrial valves and related equipment for the oil and gas, power, and other industries.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "Industrial valves",
+    "Valve manufacturing",
+    "Oil and gas equipment",
+    "Energy sector valves",
+    "Pipeline valves",
+    "Actuated valves",
+    "Valve automation"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ff9b6397-df35-532c-b4c2-c8a7628539b1"
 }

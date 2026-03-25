@@ -1,10 +1,20 @@
 {
   "entity_id": "6444f21d-2ce8-5ec5-9ea1-21f05ae9bed3",
   "name": "Diodes",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Diodes Incorporated designs, manufactures, and supplies discrete, logic, analog, and mixed-signal semiconductors.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "electronic components",
+    "resistors",
+    "inductors",
+    "potentiometers",
+    "circuit protection",
+    "passive components",
+    "electronic devices",
+    "board protection"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6444f21d-2ce8-5ec5-9ea1-21f05ae9bed3"
 }

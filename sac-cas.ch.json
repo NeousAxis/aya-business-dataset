@@ -1,10 +1,20 @@
 {
   "entity_id": "8c5ad5b3-e7e0-5a94-aa8a-ebba717bb952",
   "name": "Schweizer Alpen-Club SAC",
-  "what_it_does": "Provides app, menu, service.",
+  "what_it_does": "SAC is a Swiss Alpine Club, an organization dedicated to mountaineering and alpine activities.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "alpine club",
+    "mountaineering",
+    "alpine activities",
+    "Swiss Alps",
+    "mountain sports",
+    "hiking",
+    "climbing",
+    "SAC"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8c5ad5b3-e7e0-5a94-aa8a-ebba717bb952"
 }

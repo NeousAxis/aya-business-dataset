@@ -1,10 +1,20 @@
 {
   "entity_id": "09562aa6-25eb-5450-a1ab-5d905bc57002",
   "name": "Site officiel du canton de Neuchâtel",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "ne.ch is the official website for the government of the Canton of Neuchâtel, Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Administration & Public",
   "location": "Switzerland",
+  "keywords": [
+    "canton Neuchâtel",
+    "Swiss government",
+    "regional administration",
+    "public sector",
+    "government portal",
+    "local services",
+    "state services",
+    "cantonal information"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/09562aa6-25eb-5450-a1ab-5d905bc57002"
 }

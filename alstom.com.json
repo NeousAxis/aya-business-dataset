@@ -1,10 +1,20 @@
 {
   "entity_id": "7ab2fcc8-b32f-53dd-951b-4ae3aa4d9085",
   "name": "Alstom",
-  "what_it_does": "Provides app, platform, product.",
+  "what_it_does": "Alstom designs and manufactures railway transportation systems and equipment.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "rail vehicles",
+    "rolling stock",
+    "railway equipment",
+    "train manufacturing",
+    "transit systems",
+    "rail transport",
+    "rail infrastructure",
+    "passenger trains"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7ab2fcc8-b32f-53dd-951b-4ae3aa4d9085"
 }

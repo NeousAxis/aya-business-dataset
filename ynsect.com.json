@@ -1,10 +1,20 @@
 {
   "entity_id": "02e4ab8f-618c-5ecf-abb1-7f8f866ef938",
   "name": "Ynsect",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Ynsect produces insect-based protein for animal feed and human consumption.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
+  "keywords": [
+    "insect protein",
+    "animal feed",
+    "human consumption",
+    "insect farming",
+    "sustainable protein",
+    "alternative protein",
+    "entomophagy",
+    "feed ingredients"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/02e4ab8f-618c-5ecf-abb1-7f8f866ef938"
 }

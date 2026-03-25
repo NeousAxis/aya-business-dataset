@@ -1,10 +1,20 @@
 {
   "entity_id": "25290231-3b42-54ef-af7a-2d3c4e41c4c6",
   "name": "AI Software As A Service",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Five9 provides cloud contact center software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "EN",
+  "keywords": [
+    "centre de contact cloud",
+    "logiciel de centre d'appel",
+    "IVR",
+    "ACD",
+    "gestion des interactions",
+    "automatisation du service client",
+    "engagement client",
+    "analyse de centre d'appel"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/25290231-3b42-54ef-af7a-2d3c4e41c4c6"
 }

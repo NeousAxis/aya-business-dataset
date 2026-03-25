@@ -1,10 +1,20 @@
 {
   "entity_id": "93eecb14-567a-5bfc-b780-e76555e69060",
   "name": "SWISSto12",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "SWISSto12 manufactures advanced waveguide and antenna products using 3D printing.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "waveguides",
+    "antennas",
+    "additive manufacturing",
+    "3D printed electronics",
+    "microwave components",
+    "aerospace applications",
+    "defense industry",
+    "telecommunications equipment"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/93eecb14-567a-5bfc-b780-e76555e69060"
 }

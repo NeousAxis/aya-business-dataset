@@ -1,10 +1,19 @@
 {
   "entity_id": "4ec8d7af-bfcf-5f04-b258-ead203b2c111",
   "name": "Hirslanden-Gruppe",
-  "what_it_does": "Provides app, application, service.",
+  "what_it_does": "Hirslanden-Gruppe operates a network of private hospitals and clinics in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "private hospitals",
+    "Swiss healthcare",
+    "hospital network",
+    "medical care",
+    "private clinics",
+    "inpatient care",
+    "outpatient care"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4ec8d7af-bfcf-5f04-b258-ead203b2c111"
 }

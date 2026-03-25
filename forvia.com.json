@@ -1,10 +1,20 @@
 {
   "entity_id": "1d5a787d-866d-500a-8ab7-13ef6f000b18",
   "name": "FORVIA",
-  "what_it_does": "Provides api, app, offre.",
+  "what_it_does": "FORVIA designs, develops, and manufactures automotive components and systems.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "automotive parts",
+    "automotive systems",
+    "vehicle components",
+    "automotive manufacturing",
+    "car interior",
+    "automotive technology",
+    "automotive engineering",
+    "auto parts design"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1d5a787d-866d-500a-8ab7-13ef6f000b18"
 }

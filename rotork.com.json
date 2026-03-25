@@ -1,10 +1,20 @@
 {
   "entity_id": "d1e4b63a-4f2c-5886-96f3-6bb82c75d86b",
   "name": "Rotork",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Rotork manufactures and provides flow control equipment and services, including actuators and valves.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "valve actuators",
+    "flow control",
+    "industrial actuators",
+    "valve automation",
+    "gearboxes",
+    "control valves",
+    "fluid control",
+    "process control"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d1e4b63a-4f2c-5886-96f3-6bb82c75d86b"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "7c3de7b1-1fc5-5eed-8c4c-42a91b476573",
   "name": "Home-GW Instek",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "GW Instek manufactures electronic test and measurement instruments.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "electronic test instruments",
+    "measurement equipment",
+    "oscilloscopes",
+    "signal generators",
+    "power supplies",
+    "testing solutions",
+    "electronic instruments"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7c3de7b1-1fc5-5eed-8c4c-42a91b476573"
 }

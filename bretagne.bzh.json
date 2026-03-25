@@ -1,10 +1,19 @@
 {
   "entity_id": "d6e48b13-3f52-5c24-b2cd-742d848fc0e1",
   "name": "Région Bretagne",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Région Bretagne is the official website for the Brittany region of France, providing information and services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "Brittany region",
+    "regional information",
+    "French region",
+    "local government",
+    "tourism",
+    "Brittany news",
+    "public services"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6e48b13-3f52-5c24-b2cd-742d848fc0e1"
 }

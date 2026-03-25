@@ -1,10 +1,20 @@
 {
   "entity_id": "0de66ef6-4a99-5ae5-ac88-c1bd92242ae5",
   "name": "Nordzucker",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Nordzucker produces and sells sugar products.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "sugar products",
+    "sugar beet processing",
+    "refined sugar",
+    "industrial sugar",
+    "food ingredients",
+    "European sugar",
+    "sugar manufacturing",
+    "sugar distribution"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0de66ef6-4a99-5ae5-ac88-c1bd92242ae5"
 }

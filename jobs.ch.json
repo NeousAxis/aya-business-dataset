@@ -1,10 +1,19 @@
 {
   "entity_id": "d5526947-5452-551e-b1eb-dc5c4a758b3c",
   "name": "Jobs",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Jobs.ch is a Swiss job board that connects employers and job seekers.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss job board",
+    "employment listings",
+    "job vacancies",
+    "recruitment",
+    "job search",
+    "career opportunities",
+    "Swiss employment"
+  ],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d5526947-5452-551e-b1eb-dc5c4a758b3c"
 }

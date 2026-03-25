@@ -1,10 +1,20 @@
 {
   "entity_id": "25d9e264-c415-506d-8655-fb709e5ec6c9",
   "name": "Café du Soleil",
-  "what_it_does": "Provides app, menu, offre.",
+  "what_it_does": "Café du Soleil is a school in Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
+  "keywords": [
+    "école",
+    "cours",
+    "formation",
+    "apprentissage",
+    "éducation",
+    "Suisse",
+    "centre de formation",
+    "développement personnel"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/25d9e264-c415-506d-8655-fb709e5ec6c9"
 }

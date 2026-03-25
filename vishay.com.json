@@ -1,10 +1,20 @@
 {
   "entity_id": "07fcfe1e-39f7-5305-94fa-817fd87572f9",
   "name": "Vishay Intertechnology",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "Vishay Intertechnology manufactures discrete semiconductors and passive electronic components.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "discrete semiconductors",
+    "passive components",
+    "electronic components",
+    "resistors",
+    "capacitors",
+    "inductors",
+    "diodes",
+    "semiconductor devices"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/07fcfe1e-39f7-5305-94fa-817fd87572f9"
 }

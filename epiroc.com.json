@@ -1,10 +1,20 @@
 {
   "entity_id": "755700c2-0efb-5b6b-91cd-aa0110de1d1b",
   "name": "Epiroc in your region",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "Epiroc manufactures equipment for the mining and infrastructure industries.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "mining equipment",
+    "construction equipment",
+    "infrastructure equipment",
+    "drilling equipment",
+    "rock excavation",
+    "material handling",
+    "surface drilling",
+    "underground mining"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/755700c2-0efb-5b6b-91cd-aa0110de1d1b"
 }

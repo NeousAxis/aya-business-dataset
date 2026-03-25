@@ -1,10 +1,19 @@
 {
   "entity_id": "a51ac8a9-ed1b-5171-a4e4-3b2c50c9253c",
   "name": "Caltech Homepage",
-  "what_it_does": "Provides app, menu, service.",
+  "what_it_does": "Caltech is a world-renowned science and engineering institute for education and research.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "science education",
+    "engineering education",
+    "research university",
+    "graduate programs",
+    "undergraduate programs",
+    "scientific research",
+    "higher education"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a51ac8a9-ed1b-5171-a4e4-3b2c50c9253c"
 }

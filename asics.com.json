@@ -1,10 +1,20 @@
 {
   "entity_id": "0317a56b-a3ce-5e3a-a5c1-6517f7680555",
   "name": "Asics",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "Asics sells athletic footwear, apparel, and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "athletic footwear",
+    "sports apparel",
+    "running shoes",
+    "performance wear",
+    "sporting goods",
+    "athletic gear",
+    "sports accessories",
+    "tennis shoes"
+  ],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0317a56b-a3ce-5e3a-a5c1-6517f7680555"
 }

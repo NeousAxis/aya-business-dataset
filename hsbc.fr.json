@@ -1,10 +1,19 @@
 {
   "entity_id": "5b115ecc-e972-564a-b11f-4d8bd43c4154",
   "name": "HSBC en France",
-  "what_it_does": "Provides app, menu, produit.",
+  "what_it_does": "HSBC en France provides banking and financial services to individuals and businesses in France.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "France",
+  "keywords": [
+    "French banking",
+    "retail banking",
+    "corporate banking",
+    "financial solutions",
+    "France financial",
+    "HSBC France",
+    "business banking"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5b115ecc-e972-564a-b11f-4d8bd43c4154"
 }

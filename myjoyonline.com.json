@@ -1,10 +1,20 @@
 {
   "entity_id": "5375c50c-db50-5435-b88b-9e210a0d777d",
   "name": "MyJoyOnline",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "MyJoyOnline likely provides news and media content online.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "Ghanaian news",
+    "Ghana media",
+    "current affairs",
+    "news portal",
+    "breaking news",
+    "multimedia content",
+    "African news",
+    "Ghana information"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5375c50c-db50-5435-b88b-9e210a0d777d"
 }

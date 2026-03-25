@@ -1,10 +1,19 @@
 {
   "entity_id": "3802c090-4c14-5128-9821-6977bc8bb264",
   "name": "CUPRA",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "CUPRA is likely related to automotive technology or electric vehicles (inferred from general industry trends).",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "automotive technology",
+    "electric vehicles",
+    "performance cars",
+    "car design",
+    "vehicle engineering",
+    "automotive innovation",
+    "EV vehicles"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3802c090-4c14-5128-9821-6977bc8bb264"
 }

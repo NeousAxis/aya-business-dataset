@@ -1,10 +1,20 @@
 {
   "entity_id": "29d1403a-3d21-5649-9ff5-3619a5c11f99",
   "name": "Swiss Post",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Swiss Post provides postal and logistics services in Switzerland, including mail delivery, parcel services, and financial services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
+  "keywords": [
+    "postal services",
+    "logistics",
+    "communication services",
+    "financial services",
+    "Swiss Post",
+    "mail delivery",
+    "package delivery",
+    "Switzerland"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/29d1403a-3d21-5649-9ff5-3619a5c11f99"
 }

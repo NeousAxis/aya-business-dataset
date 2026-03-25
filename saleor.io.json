@@ -1,10 +1,19 @@
 {
   "entity_id": "d9631e9b-fb0a-5bce-b28b-1762de18fb54",
   "name": "Saleor Commerce",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Saleor Commerce offers a headless, API-first e-commerce platform for building customized online stores.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "commerce électronique headless",
+    "API commerce",
+    "boutiques en ligne",
+    "Saleor Commerce",
+    "e-commerce",
+    "vente en ligne",
+    "plateforme e-commerce"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d9631e9b-fb0a-5bce-b28b-1762de18fb54"
 }

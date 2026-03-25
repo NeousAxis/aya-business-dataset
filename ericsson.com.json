@@ -1,10 +1,20 @@
 {
   "entity_id": "ab9bc2cf-a3d2-5b40-bfbc-6beabbb489d8",
   "name": "Telefonaktiebolaget LM Ericsson",
-  "what_it_does": "Technology & SaaS organization.",
+  "what_it_does": "Telefonaktiebolaget LM Ericsson (Ericsson) provides telecommunications equipment and services to network operators.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "telecommunications equipment",
+    "telecom services",
+    "network infrastructure",
+    "wireless networks",
+    "5G technology",
+    "mobile broadband",
+    "communication networks",
+    "telecom operators"
+  ],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab9bc2cf-a3d2-5b40-bfbc-6beabbb489d8"
 }

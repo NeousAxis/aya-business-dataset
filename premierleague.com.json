@@ -1,10 +1,20 @@
 {
   "entity_id": "0aa28e81-f2d0-563d-bc4e-0ba9b32ec346",
   "name": "Premierleague",
-  "what_it_does": "Provides app, cloud, consulting.",
+  "what_it_does": "Premierleague.com is the official website for the English Premier League football competition, providing news, scores, and standings.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "English football",
+    "soccer league",
+    "sports news",
+    "football scores",
+    "match highlights",
+    "football results",
+    "UK soccer",
+    "premier league"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0aa28e81-f2d0-563d-bc4e-0ba9b32ec346"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "4b2773c2-a247-560b-aa4e-0e8877789596",
   "name": "Lottiefiles",
-  "what_it_does": "Technology & SaaS organization.",
+  "what_it_does": "Lottiefiles is a platform for creating, sharing, and using Lottie animations.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "animations Lottie",
+    "animations vectorielles",
+    "création d'animations",
+    "animations mobiles",
+    "bibliothèque d'animations",
+    "ressources d'animation",
+    "outils d'animation",
+    "design d'interface"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4b2773c2-a247-560b-aa4e-0e8877789596"
 }

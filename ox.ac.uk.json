@@ -1,10 +1,20 @@
 {
   "entity_id": "a208440c-d5fd-5d3e-a4fe-9cb1c0e7e2c5",
   "name": "University of Oxford",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "The University of Oxford is a collegiate research university in Oxford, England.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
+  "keywords": [
+    "higher education",
+    "collegiate research",
+    "undergraduate studies",
+    "graduate programs",
+    "Oxford colleges",
+    "UK university",
+    "academic research",
+    "humanities courses"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a208440c-d5fd-5d3e-a4fe-9cb1c0e7e2c5"
 }

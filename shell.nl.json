@@ -1,10 +1,19 @@
 {
   "entity_id": "76ceddbf-ade2-5dd8-9cb9-5f823c2c4a96",
   "name": "Shell Nederland",
-  "what_it_does": "Non détecté organization.",
+  "what_it_does": "Shell Nederland is the Dutch branch of Shell, involved in the oil and gas industry.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Netherlands",
+  "keywords": [
+    "petroleum exploration",
+    "gas production",
+    "Dutch energy market",
+    "fuel retail",
+    "oil refining",
+    "Netherlands energy",
+    "energy trading"
+  ],
   "aio_score": 23.0,
   "certificate_url": "https://ai-visionary.com/aya/e/76ceddbf-ade2-5dd8-9cb9-5f823c2c4a96"
 }

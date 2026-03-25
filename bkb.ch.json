@@ -1,10 +1,20 @@
 {
   "entity_id": "15e0f17c-44a4-505d-b8a2-acc1862a4a50",
   "name": "Basler Kantonalbank",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Basler Kantonalbank is a cantonal bank in Basel, Switzerland, offering retail and commercial banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "swiss bank",
+    "cantonal bank",
+    "financial services",
+    "retail banking",
+    "corporate banking",
+    "private banking",
+    "basel region",
+    "mortgages"
+  ],
   "aio_score": 29.0,
   "certificate_url": "https://ai-visionary.com/aya/e/15e0f17c-44a4-505d-b8a2-acc1862a4a50"
 }

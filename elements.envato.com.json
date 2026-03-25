@@ -1,10 +1,20 @@
 {
   "entity_id": "ecb5ec37-cd0b-59b0-b877-5b8a586f78b4",
   "name": "Elements",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Elements by Envato offers a subscription-based platform for creative assets like graphics, templates, and fonts.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Czech Republic",
+  "keywords": [
+    "creative assets",
+    "stock photos",
+    "video templates",
+    "graphic templates",
+    "design resources",
+    "royalty-free images",
+    "subscription service",
+    "multimedia content"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ecb5ec37-cd0b-59b0-b877-5b8a586f78b4"
 }

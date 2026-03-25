@@ -1,10 +1,19 @@
 {
   "entity_id": "8867451f-9ed0-5897-8df4-5df42a35a728",
   "name": "Lori Anne Wardi",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "Lori.co is likely the online portfolio or website for Lori Anne Wardi.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "media professional",
+    "communications expert",
+    "public relations",
+    "content creation",
+    "media relations",
+    "brand communication",
+    "digital media"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8867451f-9ed0-5897-8df4-5df42a35a728"
 }

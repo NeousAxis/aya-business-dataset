@@ -1,10 +1,20 @@
 {
   "entity_id": "478c44b6-108e-547e-a2b2-92e21299734b",
   "name": "KUKA",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "KUKA is a robotics and automation company providing robotic systems, software, and services for industrial applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Belgium",
+  "keywords": [
+    "industrial robots",
+    "automation systems",
+    "robotics engineering",
+    "manufacturing automation",
+    "robotic arms",
+    "factory automation",
+    "process automation",
+    "KUKA robots"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/478c44b6-108e-547e-a2b2-92e21299734b"
 }

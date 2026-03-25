@@ -1,10 +1,20 @@
 {
   "entity_id": "b679275b-9abb-5187-a09b-1808146a5590",
   "name": "Lutron",
-  "what_it_does": "Provides product, service, services.",
+  "what_it_does": "Lutron manufactures lighting control systems, shades, and automated lighting solutions.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Canada",
+  "keywords": [
+    "lighting control",
+    "automated shades",
+    "lighting solutions",
+    "residential lighting",
+    "commercial lighting",
+    "lighting dimmers",
+    "smart lighting",
+    "lighting systems"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b679275b-9abb-5187-a09b-1808146a5590"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "1aaa2e05-38bf-5edf-a11c-e7423bfe2cc3",
   "name": "LEWITT",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "LEWITT sells professional microphones and audio equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Austria",
+  "keywords": [
+    "professional microphones",
+    "studio microphones",
+    "recording equipment",
+    "audio interfaces",
+    "microphone accessories",
+    "live sound",
+    "vocal microphones",
+    "instrument microphones"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1aaa2e05-38bf-5edf-a11c-e7423bfe2cc3"
 }

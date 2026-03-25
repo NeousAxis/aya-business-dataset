@@ -1,10 +1,20 @@
 {
   "entity_id": "8ba996ce-e13e-5663-947c-cd17a971e500",
   "name": "Synchrony",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Synchrony provides consumer financial services, including credit cards and installment loans.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "consumer finance",
+    "retail credit",
+    "payment solutions",
+    "credit cards",
+    "financial products",
+    "financing programs",
+    "point of sale finance",
+    "consumer lending"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8ba996ce-e13e-5663-947c-cd17a971e500"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "4e5af728-ec39-50d4-9159-336d0816daba",
   "name": "La Repubblica",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "La Repubblica is an Italian daily newspaper.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Italy",
+  "keywords": [
+    "italian newspaper",
+    "news publishing",
+    "current affairs",
+    "italian politics",
+    "international news",
+    "digital journalism",
+    "print media"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4e5af728-ec39-50d4-9159-336d0816daba"
 }

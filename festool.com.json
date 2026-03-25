@@ -1,10 +1,19 @@
 {
   "entity_id": "c6f78403-862c-5343-a1c4-6c36004a5266",
   "name": "Festool Worldwide",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Festool manufactures power tools for professional users in woodworking and related trades.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "power tools",
+    "woodworking tools",
+    "construction tools",
+    "professional tools",
+    "sanding machines",
+    "sawing machines",
+    "drilling machines"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c6f78403-862c-5343-a1c4-6c36004a5266"
 }

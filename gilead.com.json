@@ -1,10 +1,19 @@
 {
   "entity_id": "5216101a-afc4-59b7-acb6-c78c8eeb632a",
   "name": "Gilead Sciences, Inc.",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Gilead Sciences is a biopharmaceutical company that researches, develops, and commercializes drugs.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "United States",
+  "keywords": [
+    "biopharmaceutical research",
+    "drug commercialization",
+    "antiviral medications",
+    "therapeutic drugs",
+    "clinical research",
+    "pharmaceuticals",
+    "disease treatment"
+  ],
   "aio_score": 80.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5216101a-afc4-59b7-acb6-c78c8eeb632a"
 }

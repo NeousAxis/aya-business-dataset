@@ -1,10 +1,20 @@
 {
   "entity_id": "f98135a6-5091-5d18-8841-0386225f377d",
   "name": "Palo Alto Networks",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Palo Alto Networks provides cybersecurity solutions, including firewalls and cloud security.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
+  "keywords": [
+    "cybersecurity solutions",
+    "network security",
+    "firewalls",
+    "cloud security",
+    "threat prevention",
+    "security automation",
+    "enterprise security",
+    "endpoint protection"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f98135a6-5091-5d18-8841-0386225f377d"
 }

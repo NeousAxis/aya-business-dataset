@@ -1,10 +1,20 @@
 {
   "entity_id": "82c2799e-3dcc-5cfc-ac50-621ffbd5b808",
   "name": "Universität Basel",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Unibas.ch is the website for the University of Basel, a Swiss higher education institution.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss university",
+    "higher education",
+    "research university",
+    "academic programs",
+    "student education",
+    "university studies",
+    "bachelor's degree",
+    "master's degree"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/82c2799e-3dcc-5cfc-ac50-621ffbd5b808"
 }

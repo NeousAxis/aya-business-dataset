@@ -1,10 +1,19 @@
 {
   "entity_id": "73fb35af-9419-5bec-b18a-43ff98ef6b1e",
   "name": "The Conversation",
-  "what_it_does": "Provides api, app, restaurant.",
+  "what_it_does": "The Conversation is a news website that publishes articles written by academics and researchers.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "actualités académiques",
+    "articles d'analyse",
+    "recherche universitaire",
+    "journalisme scientifique",
+    "experts universitaires",
+    "nouvelles factuelles",
+    "enseignement supérieur"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/73fb35af-9419-5bec-b18a-43ff98ef6b1e"
 }

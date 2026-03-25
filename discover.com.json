@@ -1,10 +1,15 @@
 {
   "entity_id": "f6423b26-cf84-5828-b3f9-bb917034ec8b",
   "name": "Discover",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Discover offers credit cards, banking, and payment services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "credit cards",
+    "banking",
+    "payment"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f6423b26-cf84-5828-b3f9-bb917034ec8b"
 }

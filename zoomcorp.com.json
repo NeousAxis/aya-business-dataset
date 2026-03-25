@@ -1,10 +1,17 @@
 {
   "entity_id": "3b8c68dc-81a0-5272-a746-c4f59a692b93",
   "name": "ZOOM Corporation",
-  "what_it_does": "Provides menu, product, products.",
+  "what_it_does": "ZOOM Corporation designs, manufactures, and sells audio recording equipment, multi-effects processors, and related musical instruments.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
+  "keywords": [
+    "audio recording equipment",
+    "multi-effects processors",
+    "musical instruments",
+    "audio equipment",
+    "audio interfaces"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b8c68dc-81a0-5272-a746-c4f59a692b93"
 }

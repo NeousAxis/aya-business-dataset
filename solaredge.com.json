@@ -1,10 +1,17 @@
 {
   "entity_id": "d29fed57-234b-5d5f-8cab-2b3a97dbd808",
   "name": "SolarEdge",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "SolarEdge develops and sells solar power optimizers, inverters, and monitoring systems for photovoltaic arrays.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Israel",
+  "keywords": [
+    "solar power",
+    "photovoltaics",
+    "inverters",
+    "optimizers",
+    "monitoring"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d29fed57-234b-5d5f-8cab-2b3a97dbd808"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "95e371a3-00ae-5788-968f-d0cecee2518f",
   "name": "Italiano",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Italiano provides telecommunications services and products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Italy",
+  "keywords": [
+    "telecommunications products",
+    "telecommunications",
+    "Italian telecom",
+    "network products",
+    "voice products",
+    "data products",
+    "connectivity solutions",
+    "Italy telecommunications"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/95e371a3-00ae-5788-968f-d0cecee2518f"
 }

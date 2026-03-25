@@ -1,10 +1,19 @@
 {
   "entity_id": "b16369db-5796-548b-b810-73bc36b21cbf",
   "name": "Coforge Corporate Showcase Video",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Coforge provides information technology and business process outsourcing services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "information technology",
+    "business process outsourcing",
+    "it solutions",
+    "application development",
+    "infrastructure",
+    "cloud services",
+    "digital transformation"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b16369db-5796-548b-b810-73bc36b21cbf"
 }

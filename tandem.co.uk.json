@@ -1,10 +1,19 @@
 {
   "entity_id": "160db2ff-d31d-569d-9806-6ba1bef97524",
   "name": "Tandem Bank",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "Tandem Bank is a UK-based digital bank offering savings accounts, credit cards, and personal loans.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Kingdom",
+  "keywords": [
+    "digital banking",
+    "savings accounts",
+    "personal loans",
+    "credit cards",
+    "consumer finance",
+    "mobile banking",
+    "UK banking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/160db2ff-d31d-569d-9806-6ba1bef97524"
 }

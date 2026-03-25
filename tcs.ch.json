@@ -1,10 +1,20 @@
 {
   "entity_id": "42a7172e-8d14-55c8-8ee7-a8a15d92a71b",
   "name": "Touring Club Schweiz",
-  "what_it_does": "Provides app, application, offre.",
+  "what_it_does": "Touring Club Schweiz (TCS) is a Swiss automobile club providing roadside assistance, travel services, and driving-related services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
+  "keywords": [
+    "roadside assistance",
+    "travel services",
+    "automobile club",
+    "Swiss automobile",
+    "vehicle breakdown",
+    "travel insurance",
+    "driving courses",
+    "motoring assistance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/42a7172e-8d14-55c8-8ee7-a8a15d92a71b"
 }

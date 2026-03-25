@@ -1,10 +1,19 @@
 {
   "entity_id": "97c92840-ee5d-5bfd-95f0-13898bc82882",
   "name": "Apollo Global Management",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Apollo Global Management is a private equity firm investing in various industries.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
+  "keywords": [
+    "private equity investments",
+    "alternative investments",
+    "credit investments",
+    "real estate investments",
+    "asset management",
+    "investment funds",
+    "institutional investors"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/97c92840-ee5d-5bfd-95f0-13898bc82882"
 }

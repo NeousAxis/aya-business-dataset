@@ -1,10 +1,19 @@
 {
   "entity_id": "1fe8ced9-2f27-5c5f-a758-72af8737f477",
   "name": "Moelis & Company",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Moelis & Company is an investment bank that provides financial advisory services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "investment banking",
+    "financial advisory",
+    "mergers and acquisitions",
+    "restructuring",
+    "capital markets",
+    "financial consulting",
+    "strategic advisory"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1fe8ced9-2f27-5c5f-a758-72af8737f477"
 }

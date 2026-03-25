@@ -1,10 +1,20 @@
 {
   "entity_id": "7f666204-b258-597e-8071-13559a2bab09",
   "name": "Cognizant",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Cognizant provides IT services, including consulting, application development, and business process outsourcing.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "IT outsourcing",
+    "application development",
+    "IT consulting",
+    "systems integration",
+    "enterprise solutions",
+    "managed infrastructure",
+    "business process",
+    "digital transformation"
+  ],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7f666204-b258-597e-8071-13559a2bab09"
 }

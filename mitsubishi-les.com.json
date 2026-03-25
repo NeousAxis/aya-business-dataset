@@ -1,10 +1,19 @@
 {
   "entity_id": "f95a2691-31a1-5850-970b-bd35de0fccb0",
   "name": "Ihr Hersteller fürs Kühlen, Heizen & Lüften",
-  "what_it_does": "Provides cloud, product, products.",
+  "what_it_does": "Mitsubishi Electric offers cooling, heating, and ventilation products and systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "cooling systems",
+    "heating systems",
+    "ventilation systems",
+    "HVAC systems",
+    "climate control",
+    "air conditioning",
+    "air source heat pumps"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f95a2691-31a1-5850-970b-bd35de0fccb0"
 }

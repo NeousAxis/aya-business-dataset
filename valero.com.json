@@ -1,10 +1,20 @@
 {
   "entity_id": "4fb79fe7-b59d-5262-9454-ca90ab6d33c0",
   "name": "Valero",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Valero Energy Corporation manufactures and markets transportation fuels and petrochemical products.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
+  "keywords": [
+    "transportation fuels",
+    "petrochemicals",
+    "fuel manufacturing",
+    "gasoline",
+    "diesel",
+    "refinery operations",
+    "petroleum products",
+    "fuel distribution"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4fb79fe7-b59d-5262-9454-ca90ab6d33c0"
 }

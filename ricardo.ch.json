@@ -1,10 +1,20 @@
 {
   "entity_id": "a8d8afac-ad6d-5832-8fdb-18342777d419",
   "name": "Ricardo",
-  "what_it_does": "Provides api, app, software.",
+  "what_it_does": "Ricardo is a Swiss online marketplace for buying and selling new and used goods.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "online auctions",
+    "marketplace",
+    "Swiss marketplace",
+    "online bidding",
+    "e-commerce",
+    "second-hand goods",
+    "auction ",
+    "online sales"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a8d8afac-ad6d-5832-8fdb-18342777d419"
 }

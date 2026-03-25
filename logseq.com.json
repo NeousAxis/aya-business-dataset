@@ -1,10 +1,19 @@
 {
   "entity_id": "12520558-09a3-51f0-bb88-5a76c1f2c7b1",
   "name": "A privacy-first, open-source knowledge base",
-  "what_it_does": "Non détecté organization.",
+  "what_it_does": "Logseq offers a privacy-first, open-source platform for knowledge management and note-taking.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
+  "keywords": [
+    "knowledge base",
+    "Markdown editor",
+    "Git integration",
+    "local storage",
+    "note-taking",
+    "personal knowledge management",
+    "open-source software"
+  ],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/12520558-09a3-51f0-bb88-5a76c1f2c7b1"
 }

@@ -1,10 +1,18 @@
 {
   "entity_id": "26383220-0c6d-537b-9808-589af974a0d3",
   "name": "emplois cadres",
-  "what_it_does": "Provides app, menu, offre.",
+  "what_it_does": "Expectra is a French recruitment firm specializing in executive positions.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "France",
+  "keywords": [
+    "executive recruitment",
+    "recruitment firm",
+    "French recruitment",
+    "talent acquisition",
+    "headhunting",
+    "managerial positions"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/26383220-0c6d-537b-9808-589af974a0d3"
 }

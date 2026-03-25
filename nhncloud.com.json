@@ -1,10 +1,20 @@
 {
   "entity_id": "7509994d-94cf-5df3-8ac1-d2787fbf92b3",
   "name": "NHN Cloud",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "NHN Cloud offers cloud computing services, including infrastructure, platform, and software solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "cloud infrastructure",
+    "cloud platform",
+    "cloud computing",
+    "IaaS",
+    "PaaS",
+    "cloud solutions",
+    "IT infrastructure",
+    "enterprise cloud"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7509994d-94cf-5df3-8ac1-d2787fbf92b3"
 }

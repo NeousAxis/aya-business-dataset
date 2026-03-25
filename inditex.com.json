@@ -1,10 +1,20 @@
 {
   "entity_id": "d112e327-6e5a-50cf-ba88-afe2fe463113",
   "name": "INDITEX",
-  "what_it_does": "Provides app, delivery, platform.",
+  "what_it_does": "INDITEX is a global fashion retailer with brands like Zara, Pull&Bear, and Massimo Dutti.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "AF",
+  "keywords": [
+    "fashion retailer",
+    "apparel retail",
+    "clothing",
+    "textiles",
+    "Zara",
+    "womenswear",
+    "menswear",
+    "accessories"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d112e327-6e5a-50cf-ba88-afe2fe463113"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "217312d5-999c-589d-a0ec-de5453b100b8",
   "name": "Gildan",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Gildan manufactures and sells branded apparel, including activewear and underwear.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Canada",
+  "keywords": [
+    "apparel manufacturing",
+    "sportswear",
+    "underwear",
+    "clothing distribution",
+    "branded apparel",
+    "wholesale clothing",
+    "activewear",
+    "basic apparel"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/217312d5-999c-589d-a0ec-de5453b100b8"
 }

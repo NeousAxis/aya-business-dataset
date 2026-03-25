@@ -1,10 +1,20 @@
 {
   "entity_id": "bee2aa93-5591-5bd9-b8fe-1b3a6971b346",
   "name": "Dw",
-  "what_it_does": "Provides app, cloud, menu.",
+  "what_it_does": "DW (Deutsche Welle) is a German international broadcaster providing news and information in multiple languages.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "international news",
+    "German broadcaster",
+    "global affairs",
+    "news programming",
+    "multilingual news",
+    "current events",
+    "foreign news",
+    "worldwide broadcasting"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bee2aa93-5591-5bd9-b8fe-1b3a6971b346"
 }

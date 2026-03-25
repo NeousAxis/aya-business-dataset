@@ -1,10 +1,18 @@
 {
   "entity_id": "26109293-add6-5847-9669-9a84bdea43f4",
   "name": "Deskree",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Deskree provides a low-code platform to build backends and APIs.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "low-code platform",
+    "backend development",
+    "API creation",
+    "application development",
+    "no-code",
+    "SaaS platform"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/26109293-add6-5847-9669-9a84bdea43f4"
 }

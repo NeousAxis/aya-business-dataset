@@ -1,10 +1,20 @@
 {
   "entity_id": "e98464c0-65de-585f-9926-07d9aa1db816",
   "name": "Crossover",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Crossover helps companies hire and manage remote software engineers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "remote software engineers",
+    "global talent acquisition",
+    "distributed software teams",
+    "IT recruitment",
+    "technical hiring",
+    "remote engineering jobs",
+    "offshore development",
+    "software development"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e98464c0-65de-585f-9926-07d9aa1db816"
 }

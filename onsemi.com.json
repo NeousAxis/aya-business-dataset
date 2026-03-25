@@ -1,10 +1,20 @@
 {
   "entity_id": "bedcdf7d-8a89-5450-9c1c-fc1bf6fc2301",
   "name": "onsemi",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "onsemi manufactures semiconductor components and solutions.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "semiconductors",
+    "discrete components",
+    "power solutions",
+    "analog devices",
+    "sensor products",
+    "automotive semiconductors",
+    "industrial automation",
+    "embedded systems"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bedcdf7d-8a89-5450-9c1c-fc1bf6fc2301"
 }

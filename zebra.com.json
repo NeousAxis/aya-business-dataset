@@ -1,10 +1,20 @@
 {
   "entity_id": "9beab5c4-9cee-59f2-9802-709215f162ed",
   "name": "Zebra Technologies",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Zebra Technologies provides barcode printers, scanners, and mobile computers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Spain",
+  "keywords": [
+    "barcode printers",
+    "barcode scanners",
+    "mobile computers",
+    "RFID solutions",
+    "label printers",
+    "data capture",
+    "identification solutions",
+    "printing solutions"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9beab5c4-9cee-59f2-9802-709215f162ed"
 }

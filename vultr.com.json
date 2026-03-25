@@ -1,10 +1,19 @@
 {
   "entity_id": "4ef320fc-9278-52a5-a6b2-d6e8898db76b",
   "name": "SSD VPS Servers, Cloud Servers and Cloud Hosting",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Vultr provides cloud computing infrastructure, including virtual private servers and cloud hosting.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "cloud servers",
+    "SSD VPS",
+    "cloud hosting",
+    "virtual private servers",
+    "IaaS",
+    "cloud infrastructure",
+    "developer cloud"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4ef320fc-9278-52a5-a6b2-d6e8898db76b"
 }

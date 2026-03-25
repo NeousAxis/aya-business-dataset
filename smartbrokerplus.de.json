@@ -1,10 +1,19 @@
 {
   "entity_id": "92cd0c1c-107f-5dd0-a1af-51ea0148b478",
   "name": "Dein günstiger Online Broker für Web und als App",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Smartbroker Plus is a German online brokerage platform for trading stocks and other financial instruments.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Germany",
+  "keywords": [
+    "stock trading",
+    "online brokerage",
+    "german broker",
+    "securities trading",
+    "financial instruments",
+    "web trading",
+    "investment platform"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/92cd0c1c-107f-5dd0-a1af-51ea0148b478"
 }

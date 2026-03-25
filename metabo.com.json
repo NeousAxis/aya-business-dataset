@@ -1,10 +1,20 @@
 {
   "entity_id": "0736a7d7-20cf-5b04-8752-bce8d100f565",
   "name": "Metabo",
-  "what_it_does": "Provides service.",
+  "what_it_does": "Metabo designs, manufactures and sells power tools for professional users.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "power tools",
+    "cordless tools",
+    "drills",
+    "grinders",
+    "metalworking tools",
+    "woodworking tools",
+    "construction tools",
+    "professional users"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0736a7d7-20cf-5b04-8752-bce8d100f565"
 }

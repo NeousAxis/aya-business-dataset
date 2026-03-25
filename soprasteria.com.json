@@ -1,10 +1,19 @@
 {
   "entity_id": "f3a4c92b-0577-59ac-8bd6-965043e569d5",
   "name": "Sopra Steria",
-  "what_it_does": "Provides api, app, consulting.",
+  "what_it_does": "Sopra Steria is a European consulting, technology services and digital transformation company.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "IT consulting",
+    "technology services",
+    "digital transformation",
+    "systems integration",
+    "european consulting",
+    "managed services",
+    "business consulting"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f3a4c92b-0577-59ac-8bd6-965043e569d5"
 }

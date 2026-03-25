@@ -1,10 +1,20 @@
 {
   "entity_id": "6d7dd3d9-e5a3-5ff9-902b-a2eb7e44ef59",
   "name": "ELLE",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "ELLE is a global fashion and lifestyle magazine and website.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
+  "keywords": [
+    "fashion magazine",
+    "women's lifestyle",
+    "style trends",
+    "beauty tips",
+    "celebrity fashion",
+    "fashion news",
+    "luxury fashion",
+    "women's interest"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6d7dd3d9-e5a3-5ff9-902b-a2eb7e44ef59"
 }

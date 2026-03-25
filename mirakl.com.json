@@ -1,10 +1,20 @@
 {
   "entity_id": "6ca4e5dc-65ed-5823-bcca-812001f13399",
   "name": "Mirakl",
-  "what_it_does": "Provides api, platform, product.",
+  "what_it_does": "Mirakl provides a platform for businesses to launch and operate online marketplaces.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "marketplace platform",
+    "e-commerce enablement",
+    "multi-vendor marketplaces",
+    "enterprise marketplace",
+    "online retail",
+    "vendor management",
+    "marketplace operators",
+    "SaaS commerce"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6ca4e5dc-65ed-5823-bcca-812001f13399"
 }

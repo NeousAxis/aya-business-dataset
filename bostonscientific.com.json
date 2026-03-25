@@ -1,10 +1,20 @@
 {
   "entity_id": "6c5aaa3f-a011-576b-bab7-a58c1215e788",
   "name": "Advancing Science for Life",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Boston Scientific manufactures medical devices and technologies.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
+  "keywords": [
+    "medical devices",
+    "medical technologies",
+    "cardiovascular devices",
+    "endoscopy",
+    "urology devices",
+    "neuromodulation",
+    "medical equipment",
+    "healthcare solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6c5aaa3f-a011-576b-bab7-a58c1215e788"
 }

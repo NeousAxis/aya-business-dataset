@@ -1,10 +1,20 @@
 {
   "entity_id": "51d2ab68-b966-5e80-809f-95a4c039baed",
   "name": "Richemont",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Richemont is a luxury goods holding company with brands in jewelry, watches and writing instruments.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
+  "keywords": [
+    "luxury goods",
+    "jewelry brands",
+    "watchmaking",
+    "writing instruments",
+    "luxury products",
+    "richemont brands",
+    "luxury jewelry",
+    "haute horlogerie"
+  ],
   "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/51d2ab68-b966-5e80-809f-95a4c039baed"
 }

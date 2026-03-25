@@ -1,10 +1,20 @@
 {
   "entity_id": "119a0750-043f-5601-810e-369d3548a83b",
   "name": "Robertet",
-  "what_it_does": "Provides api, app, offre.",
+  "what_it_does": "Robertet is likely involved in media or communication (inferred from domain and industry).",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
+  "keywords": [
+    "fragrance ingredients",
+    "flavor ingredients",
+    "natural ingredients",
+    "raw materials",
+    "perfume creation",
+    "aroma chemicals",
+    "essential oils",
+    "fragrance compounds"
+  ],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/119a0750-043f-5601-810e-369d3548a83b"
 }

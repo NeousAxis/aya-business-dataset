@@ -1,10 +1,20 @@
 {
   "entity_id": "c85b0741-0687-5e7a-93db-7187598d0240",
   "name": "Trend Micro",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Trend Micro develops and sells cybersecurity software and services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "cybersecurity",
+    "antivirus",
+    "endpoint security",
+    "threat detection",
+    "vulnerability assessment",
+    "cloud security",
+    "network security",
+    "data protection"
+  ],
   "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c85b0741-0687-5e7a-93db-7187598d0240"
 }

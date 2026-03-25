@@ -1,10 +1,20 @@
 {
   "entity_id": "e558ace1-b966-5536-9176-bed68e36bec5",
   "name": "PORTER-CABLE",
-  "what_it_does": "Provides product, products, service.",
+  "what_it_does": "PORTER-CABLE manufactures portable power tools and related accessories.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "power tools",
+    "woodworking tools",
+    "construction tools",
+    "cordless drills",
+    "sanders",
+    "saws",
+    "tool accessories",
+    "DIY tools"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e558ace1-b966-5536-9176-bed68e36bec5"
 }

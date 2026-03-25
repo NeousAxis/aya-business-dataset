@@ -1,10 +1,20 @@
 {
   "entity_id": "b481f6d8-1253-5718-8056-f142db27a92a",
   "name": "CECIL Online-Shop (Schweiz)",
-  "what_it_does": "Provides service.",
+  "what_it_does": "Cecil.ch is an online store selling Cecil brand women's clothing.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "women's clothing",
+    "Swiss fashion",
+    "apparel retailer",
+    "e-commerce",
+    "CECEL brand",
+    "Swiss online shop",
+    "ladies wear",
+    "fashion apparel"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b481f6d8-1253-5718-8056-f142db27a92a"
 }

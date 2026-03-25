@@ -1,10 +1,20 @@
 {
   "entity_id": "58633393-54fa-5a96-bdb4-4c8efa350798",
   "name": "Carrefour",
-  "what_it_does": "Restauration & Alimentation organization.",
+  "what_it_does": "Carrefour operates a chain of hypermarkets and supermarkets.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "France",
+  "keywords": [
+    "hypermarkets",
+    "supermarkets",
+    "grocery retail",
+    "food products",
+    "consumer goods",
+    "retail chain",
+    "French retailer",
+    "convenience stores"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/58633393-54fa-5a96-bdb4-4c8efa350798"
 }

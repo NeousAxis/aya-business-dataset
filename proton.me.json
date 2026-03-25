@@ -1,10 +1,20 @@
 {
   "entity_id": "2b34eb9c-5e82-5f6a-ac02-513eb2f9889c",
   "name": "Proton",
-  "what_it_does": "Media & Communication organization.",
+  "what_it_does": "Proton provides encrypted email, VPN, and other privacy-focused services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "encrypted email",
+    "privacy VPN",
+    "secure storage",
+    "privacy focused services",
+    "end-to-end encryption",
+    "secure communications",
+    "data protection",
+    "private email"
+  ],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2b34eb9c-5e82-5f6a-ac02-513eb2f9889c"
 }

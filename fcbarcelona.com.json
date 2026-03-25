@@ -1,10 +1,20 @@
 {
   "entity_id": "51248433-fe3e-5cc7-b6bb-aa51e0d1412c",
   "name": "FC Barcelona",
-  "what_it_does": "Provides app, menu, platform.",
+  "what_it_does": "FC Barcelona is a professional football club based in Barcelona, Spain.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "professional football club",
+    "Barcelona football",
+    "Spanish football league",
+    "Camp Nou stadium",
+    "football games",
+    "sports entertainment",
+    "soccer club",
+    "Barca fans"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/51248433-fe3e-5cc7-b6bb-aa51e0d1412c"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "a2956f31-2fd0-56e2-ab2c-51ebdb1e59f5",
   "name": "Toyota Schweiz",
-  "what_it_does": "Provides app, menu, service.",
+  "what_it_does": "Toyota Schweiz is the Swiss branch of Toyota, selling and servicing vehicles.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "toyota vehicles",
+    "car sales",
+    "vehicle maintenance",
+    "automotive sales",
+    "swiss automotive",
+    "car dealership",
+    "vehicle repair",
+    "new cars"
+  ],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a2956f31-2fd0-56e2-ab2c-51ebdb1e59f5"
 }

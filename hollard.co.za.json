@@ -1,10 +1,19 @@
 {
   "entity_id": "9e6fc857-cae4-53d3-9586-944006e482ce",
   "name": "Hollard",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Hollard provides insurance products and services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "South Africa",
+  "keywords": [
+    "insurance products",
+    "short-term insurance",
+    "life insurance",
+    "financial planning",
+    "risk solutions",
+    "insurance brokerage",
+    "South Africa insurance"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9e6fc857-cae4-53d3-9586-944006e482ce"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "1f95eb39-bf27-5c10-816a-4b1df9644f37",
   "name": "Mafell AG",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Mafell manufactures professional power tools for woodworking.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "power tools",
+    "woodworking machinery",
+    "carpentry tools",
+    "drilling machines",
+    "planers",
+    "mortisers",
+    "sawing machines"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1f95eb39-bf27-5c10-816a-4b1df9644f37"
 }

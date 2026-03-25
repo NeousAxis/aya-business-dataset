@@ -1,10 +1,20 @@
 {
   "entity_id": "16fc63c3-a6f7-5252-937d-da330498d298",
   "name": "MDLBEAST",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "MDLBEAST is a Saudi Arabian company focused on music culture and entertainment experiences.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Saudi Arabia",
+  "keywords": [
+    "Saudi Arabian music festivals",
+    "Music events",
+    "Entertainment",
+    "Live music",
+    "Middle East entertainment",
+    "Music promotion",
+    "Event production",
+    "Arabian concerts"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/16fc63c3-a6f7-5252-937d-da330498d298"
 }

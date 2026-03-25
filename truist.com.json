@@ -1,10 +1,20 @@
 {
   "entity_id": "7ada1abf-f2d5-5f1b-b4b1-3a150376fa51",
   "name": "Truist Bank",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Truist Bank is a US bank offering a range of financial services including banking, lending, and wealth management.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United States",
+  "keywords": [
+    "banking",
+    "financial",
+    "retail banking",
+    "commercial lending",
+    "wealth",
+    "investment",
+    "mortgage",
+    "personal finance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7ada1abf-f2d5-5f1b-b4b1-3a150376fa51"
 }

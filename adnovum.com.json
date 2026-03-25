@@ -1,10 +1,20 @@
 {
   "entity_id": "8744a867-5e7e-50e1-a657-428468a40e97",
   "name": "Adnovum",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Adnovum develops and implements custom software solutions for various industries.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Singapore",
+  "keywords": [
+    "custom solutions",
+    "Swiss IT",
+    "software engineering",
+    "application development",
+    "digital transformation",
+    "bespoke systems",
+    "IT consulting",
+    "software integration"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8744a867-5e7e-50e1-a657-428468a40e97"
 }

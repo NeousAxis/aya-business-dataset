@@ -1,10 +1,19 @@
 {
   "entity_id": "8673210d-19cb-5d3b-ad64-82fa563025d7",
   "name": "Butterfly",
-  "what_it_does": "Provides app, platform, product.",
+  "what_it_does": "Butterfly.ai likely provides employee engagement and analytics software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "employee engagement",
+    "employee feedback",
+    "HR analytics",
+    "employee surveys",
+    "workplace insights",
+    "employee experience",
+    "HR technology"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8673210d-19cb-5d3b-ad64-82fa563025d7"
 }

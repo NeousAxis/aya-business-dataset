@@ -1,10 +1,19 @@
 {
   "entity_id": "d245d303-74d3-5df6-a04f-7934c596dae3",
   "name": "Shipa",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "Shipa provides a platform for managing and automating cloud-native application deployments.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "cloud deployment automation",
+    "application delivery",
+    "Kubernetes platform",
+    "multi-cloud management",
+    "CI/CD pipelines",
+    "container orchestration",
+    "cloud native applications"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d245d303-74d3-5df6-a04f-7934c596dae3"
 }

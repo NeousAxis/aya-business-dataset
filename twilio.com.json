@@ -1,10 +1,20 @@
 {
   "entity_id": "5562933d-d94b-576c-9909-4b7d77dea6a0",
   "name": "Twilio",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Twilio provides a cloud communications platform for building voice and messaging applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "cloud communication",
+    "communication APIs",
+    "voice APIs",
+    "messaging APIs",
+    "SMS API",
+    "programmable voice",
+    "programmable messaging",
+    "communication platform"
+  ],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5562933d-d94b-576c-9909-4b7d77dea6a0"
 }

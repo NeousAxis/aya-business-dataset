@@ -1,10 +1,20 @@
 {
   "entity_id": "656b45e0-e6a1-5692-b9fc-1ca98fd926ee",
   "name": "Starbucks Coffee Company",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Starbucks operates coffeehouses and sells coffee, tea, and related products globally.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
+  "keywords": [
+    "coffeehouses",
+    "specialty coffee",
+    "tea",
+    "coffee beverages",
+    "cafe",
+    "retail coffee",
+    "coffee drinks",
+    "global coffee chain"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/656b45e0-e6a1-5692-b9fc-1ca98fd926ee"
 }

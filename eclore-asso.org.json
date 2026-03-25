@@ -1,10 +1,17 @@
 {
   "entity_id": "f4bbbde8-5520-448b-8dc7-78a86af2e0ce",
   "name": "Association Éclore | Transition écologique",
-  "what_it_does": "Bureau Conseil en Imagination Collective et Prospective Sociale & Environnementale providing ateliers de la transition, rencontres de la transition, ateliers de la coopération, accompagnement pour con",
+  "what_it_does": "Association Éclore is a consultancy in Switzerland specializing in collective imagination, social and environmental foresight.",
   "for_who": "Entreprises, Communes, Administrations, Habitants.",
   "category": "Bureau Conseil en Imagination Collective et Prospective Sociale & Environnementale",
   "location": "Switzerland",
+  "keywords": [
+    "collective imagination",
+    "prospective",
+    "social",
+    "environmental",
+    "consultancy"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f4bbbde8-5520-448b-8dc7-78a86af2e0ce"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "5b69129d-0281-5f99-b293-88052a9bf030",
   "name": "Crunchyroll",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "Crunchyroll streams anime and manga content online.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "anime streaming",
+    "manga distribution",
+    "japanese animation",
+    "asian comics",
+    "anime videos",
+    "subscription anime",
+    "online anime",
+    "anime community"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5b69129d-0281-5f99-b293-88052a9bf030"
 }

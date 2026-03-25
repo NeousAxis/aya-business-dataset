@@ -1,10 +1,20 @@
 {
   "entity_id": "2d5657a0-e30d-54e5-b73e-251abf1f1d1b",
   "name": "Worldpay",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Worldpay provides payment processing solutions for businesses of all sizes.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "payment processing",
+    "merchant services",
+    "transaction processing",
+    "payment gateway",
+    "e-commerce payments",
+    "point of sale systems",
+    "card payments",
+    "business payments"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2d5657a0-e30d-54e5-b73e-251abf1f1d1b"
 }

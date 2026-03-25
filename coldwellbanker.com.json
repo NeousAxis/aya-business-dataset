@@ -1,10 +1,20 @@
 {
   "entity_id": "aac4764f-480c-5941-b475-e43b143412af",
   "name": "Coldwell Banker",
-  "what_it_does": "Provides app, product, service.",
+  "what_it_does": "Coldwell Banker is a real estate franchise company facilitating the buying and selling of properties.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "real estate franchise",
+    "property sales",
+    "home buying",
+    "home selling",
+    "real estate agents",
+    "residential properties",
+    "commercial properties",
+    "property listings"
+  ],
   "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aac4764f-480c-5941-b475-e43b143412af"
 }

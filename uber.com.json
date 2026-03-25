@@ -1,10 +1,19 @@
 {
   "entity_id": "c90951c0-2618-558a-93c8-ce7a207d608a",
   "name": "Explore the Uber Platform",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Uber operates a ride-hailing and delivery platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "India",
+  "keywords": [
+    "Ride hailing",
+    "Transportation network",
+    "Food delivery",
+    "On-demand transport",
+    "Taxi alternative",
+    "Gig economy",
+    "Mobility solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c90951c0-2618-558a-93c8-ce7a207d608a"
 }

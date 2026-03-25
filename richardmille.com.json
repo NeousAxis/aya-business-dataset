@@ -1,10 +1,19 @@
 {
   "entity_id": "b1905e62-615d-5e29-8499-99d65c56f35f",
   "name": "Richard Mille",
-  "what_it_does": "Provides app, menu, platform.",
+  "what_it_does": "Richard Mille produces high-end, luxury timepieces with complex mechanical movements and distinctive designs.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "luxury watches",
+    "haute horlogerie",
+    "mechanical movements",
+    "high-end timepieces",
+    "Swiss watches",
+    "exclusive watches",
+    "luxury goods"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b1905e62-615d-5e29-8499-99d65c56f35f"
 }

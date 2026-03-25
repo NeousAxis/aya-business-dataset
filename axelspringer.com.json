@@ -1,10 +1,19 @@
 {
   "entity_id": "cedde34f-64bd-573d-a86e-9b58109b2abc",
   "name": "Axelspringer",
-  "what_it_does": "Provides app.",
+  "what_it_does": "Axel Springer is a media company focusing on digital news and classifieds.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "digital media",
+    "news media",
+    "digital classifieds",
+    "news publishing",
+    "media investments",
+    "Axel Springer",
+    "journalism"
+  ],
   "aio_score": 21.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cedde34f-64bd-573d-a86e-9b58109b2abc"
 }

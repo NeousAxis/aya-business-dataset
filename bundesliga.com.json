@@ -1,10 +1,20 @@
 {
   "entity_id": "1a2cfaf2-81ba-56d5-b8e4-eed5ef805fdd",
   "name": "Bundesliga",
-  "what_it_does": "Provides app.",
+  "what_it_does": "Bundesliga operates the professional football league in Germany.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "german football",
+    "soccer league",
+    "football news",
+    "sports scores",
+    "soccer information",
+    "league standings",
+    "match highlights",
+    "sports updates"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1a2cfaf2-81ba-56d5-b8e4-eed5ef805fdd"
 }

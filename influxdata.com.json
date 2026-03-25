@@ -1,10 +1,20 @@
 {
   "entity_id": "4506a383-49e1-52c9-883b-c674dc076edb",
   "name": "InfluxData",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "InfluxData provides a time series database platform for developers and organizations.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "time series data",
+    "data platform",
+    "database",
+    "monitoring solutions",
+    "metrics storage",
+    "IoT data",
+    "real-time analytics",
+    "observability"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4506a383-49e1-52c9-883b-c674dc076edb"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "5c3b30e3-3b6b-5a21-8f53-2ac3afcddfe7",
   "name": "Bilanz",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Bilanz is a Swiss business magazine.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss finance",
+    "business magazine",
+    "financial analysis",
+    "investment advice",
+    "Swiss economy",
+    "Bilanz magazine",
+    "business news",
+    "financial markets"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5c3b30e3-3b6b-5a21-8f53-2ac3afcddfe7"
 }

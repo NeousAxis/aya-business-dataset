@@ -1,10 +1,20 @@
 {
   "entity_id": "6cb2e14c-dc7c-522c-9102-27d35bc91643",
   "name": "LG Electronics CH_DE",
-  "what_it_does": "Provides app, product, service.",
+  "what_it_does": "LG.com sells consumer electronics, home appliances, and mobile devices.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "consumer electronics",
+    "home appliances",
+    "mobile devices",
+    "TVs",
+    "audio products",
+    "kitchen appliances",
+    "Swiss market",
+    "German market"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6cb2e14c-dc7c-522c-9102-27d35bc91643"
 }

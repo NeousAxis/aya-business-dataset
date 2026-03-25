@@ -1,10 +1,20 @@
 {
   "entity_id": "de49b7d4-3061-5c2d-a917-af96151dac5e",
   "name": "Julius Bär",
-  "what_it_does": "Provides service, services, solution.",
+  "what_it_does": "Julius Bär is a Swiss private banking group offering wealth management services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "private banking",
+    "wealth management",
+    "asset management",
+    "investment advisory",
+    "private clients",
+    "portfolio management",
+    "wealth planning",
+    "Swiss banking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/de49b7d4-3061-5c2d-a917-af96151dac5e"
 }

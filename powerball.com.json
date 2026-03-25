@@ -1,10 +1,19 @@
 {
   "entity_id": "56ef7274-676f-5399-ad02-03c2895ec644",
   "name": "Powerball",
-  "what_it_does": "Conseil & Services Pro organization.",
+  "what_it_does": "Powerball is a multi-state lottery game where players purchase tickets for a chance to win a jackpot.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "United States",
+  "keywords": [
+    "Multi-state lottery",
+    "Lottery tickets",
+    "Jackpot prizes",
+    "Chance games",
+    "Drawing games",
+    "Cash prizes",
+    "Lottery winners"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/56ef7274-676f-5399-ad02-03c2895ec644"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "13124e45-3e7e-5165-97a4-e2b41792e44b",
   "name": "Contractbook",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "Contractbook offers a platform for creating, signing, and managing legal contracts.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Norway",
+  "keywords": [
+    "contract lifecycle",
+    "contract creation",
+    "legal agreements",
+    "contract signing",
+    "contract repository",
+    "legal contracts",
+    "contract workflow"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/13124e45-3e7e-5165-97a4-e2b41792e44b"
 }

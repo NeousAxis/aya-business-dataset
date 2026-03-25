@@ -1,10 +1,20 @@
 {
   "entity_id": "a23a3862-7ada-5cb4-be7f-1083fce33ec6",
   "name": "Outbrain Direct Response to Maximize Your ROI",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Outbrain provides a content recommendation platform for publishers and advertisers.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "content recommendation",
+    "native advertising",
+    "content marketing",
+    "publisher solutions",
+    "advertiser solutions",
+    "ROI optimization",
+    "content discovery",
+    "online advertising"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a23a3862-7ada-5cb4-be7f-1083fce33ec6"
 }

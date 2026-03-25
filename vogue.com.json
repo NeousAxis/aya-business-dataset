@@ -1,10 +1,20 @@
 {
   "entity_id": "e8685322-d646-506e-8beb-70c54b2071b3",
   "name": "Vogue",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Vogue is a fashion and lifestyle magazine.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "fashion magazine",
+    "style magazine",
+    "lifestyle magazine",
+    "high fashion",
+    "fashion trends",
+    "beauty",
+    "culture",
+    "celebrity news"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e8685322-d646-506e-8beb-70c54b2071b3"
 }

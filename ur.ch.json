@@ -1,10 +1,20 @@
 {
   "entity_id": "cb6199fa-b0ee-5c39-8a4a-e66bd04ee3cd",
   "name": "Kanton Uri",
-  "what_it_does": "Provides menu, service.",
+  "what_it_does": "Kanton Uri is a Swiss canton providing government services and promoting tourism within the region.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss canton",
+    "government services",
+    "tourism promotion",
+    "regional development",
+    "Uri",
+    "Swiss Alps",
+    "public administration",
+    "cantonal administration"
+  ],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cb6199fa-b0ee-5c39-8a4a-e66bd04ee3cd"
 }

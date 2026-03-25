@@ -1,10 +1,20 @@
 {
   "entity_id": "2383a678-b32d-541c-a4b2-84d1e54e089c",
   "name": "NotCo",
-  "what_it_does": "Provides api, delivery, platform.",
+  "what_it_does": "NotCo uses AI to create plant-based alternatives to animal products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "plant-based food",
+    "food alternatives",
+    "vegan products",
+    "ai-powered food",
+    "sustainable food",
+    "food innovation",
+    "dairy-free",
+    "egg alternatives"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2383a678-b32d-541c-a4b2-84d1e54e089c"
 }

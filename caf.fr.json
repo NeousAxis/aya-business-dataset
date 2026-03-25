@@ -1,10 +1,20 @@
 {
   "entity_id": "4d16495c-8eba-5ee0-b3b2-3a5788543e29",
   "name": "CAF",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "CAF provides family allowance services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
+  "keywords": [
+    "family allowance",
+    "financial aid",
+    "social benefits",
+    "family support",
+    "French social security",
+    "government assistance",
+    "welfare payments",
+    "child support"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4d16495c-8eba-5ee0-b3b2-3a5788543e29"
 }

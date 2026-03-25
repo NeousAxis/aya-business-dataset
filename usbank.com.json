@@ -1,10 +1,20 @@
 {
   "entity_id": "b78f192c-1917-53f2-9618-b0138f33e357",
   "name": "Personal Banking, Credit Cards, Loans & Investing",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "US Bank provides retail banking, credit cards, loans, and investment services to individuals and businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United States",
+  "keywords": [
+    "retail banking",
+    "credit cards",
+    "personal loans",
+    "investment services",
+    "us banking",
+    "consumer finance",
+    "mortgage lending",
+    "financial products"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b78f192c-1917-53f2-9618-b0138f33e357"
 }

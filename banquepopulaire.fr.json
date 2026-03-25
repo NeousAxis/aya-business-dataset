@@ -1,10 +1,20 @@
 {
   "entity_id": "d02f9374-f491-5a4b-898e-4d69d6c170cb",
   "name": "votre site Banque Populaire",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "Banque Populaire is a French cooperative bank offering financial services to individuals and businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
+  "keywords": [
+    "cooperative banking",
+    "French bank",
+    "retail banking",
+    "business banking",
+    "financial",
+    "loans",
+    "savings accounts",
+    "payment solutions"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d02f9374-f491-5a4b-898e-4d69d6c170cb"
 }

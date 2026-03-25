@@ -1,10 +1,19 @@
 {
   "entity_id": "2fc83f83-71e7-5ac5-a547-3467368a3156",
   "name": "Home page",
-  "what_it_does": "Provides app, menu, service.",
+  "what_it_does": "IUCN is an international organization dedicated to nature conservation and sustainable use of natural resources.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "nature conservation",
+    "biodiversity",
+    "environmental protection",
+    "sustainable resource use",
+    "conservation organization",
+    "ecological research",
+    "global conservation"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2fc83f83-71e7-5ac5-a547-3467368a3156"
 }

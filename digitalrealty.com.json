@@ -1,10 +1,19 @@
 {
   "entity_id": "e73416e3-cd78-5cbd-9d9d-4cb57f4d3e7f",
   "name": "Digital Realty",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Digital Realty provides data center solutions including colocation and interconnection services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "data centers",
+    "colocation",
+    "interconnection",
+    "data storage",
+    "IT infrastructure",
+    "cloud infrastructure",
+    "server hosting"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e73416e3-cd78-5cbd-9d9d-4cb57f4d3e7f"
 }

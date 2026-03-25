@@ -1,10 +1,20 @@
 {
   "entity_id": "c53225af-1210-5cd8-9b09-9d94f582e62d",
   "name": "Palantir",
-  "what_it_does": "Provides platform.",
+  "what_it_does": "Palantir develops data integration and analysis software platforms for government and commercial organizations.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "data analysis",
+    "government solutions",
+    "enterprise data",
+    "data integration",
+    "intelligence analysis",
+    "investigative data",
+    "risk",
+    "financial data software"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c53225af-1210-5cd8-9b09-9d94f582e62d"
 }

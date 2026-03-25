@@ -1,10 +1,20 @@
 {
   "entity_id": "1cae75d2-a812-5cb1-b71c-a45ddf48cad3",
   "name": "Virtual Beauty Studio",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "Maybelline sells cosmetics and beauty products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "cosmetics",
+    "beauty products",
+    "makeup",
+    "eye makeup",
+    "face makeup",
+    "lip makeup",
+    "beauty trends",
+    "cosmetic retail"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1cae75d2-a812-5cb1-b71c-a45ddf48cad3"
 }

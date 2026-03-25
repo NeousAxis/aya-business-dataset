@@ -1,10 +1,20 @@
 {
   "entity_id": "5ce23bad-470a-58a7-a13a-2d25ef5ec8e6",
   "name": "Sourcegraph",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Sourcegraph provides a code search and intelligence platform for developers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "code search",
+    "code intelligence",
+    "developer tools",
+    "software engineering",
+    "code analysis",
+    "source code",
+    "code understanding",
+    "developer productivity"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5ce23bad-470a-58a7-a13a-2d25ef5ec8e6"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "e8e7de61-4e7e-503d-94ca-c1e340b475fc",
   "name": "Embotech",
-  "what_it_does": "Provides platform, product, solution.",
+  "what_it_does": "Embotech develops optimization software for advanced driver assistance systems (ADAS) and automated driving.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "optimization",
+    "autonomous systems",
+    "advanced control",
+    "embedded optimization",
+    "motion planning",
+    "robotics",
+    "control algorithms"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e8e7de61-4e7e-503d-94ca-c1e340b475fc"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "80e999e1-d549-5b84-a4f7-77efd4f7b706",
   "name": "Agences Immobilières CENTURY 21",
-  "what_it_does": "Provides app, offre, service.",
+  "what_it_does": "Agences Immobilières CENTURY 21 is a network of real estate agencies operating in France.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "France",
+  "keywords": [
+    "real estate agency",
+    "property sales",
+    "property rentals",
+    "residential properties",
+    "commercial properties",
+    "France real estate",
+    "real estate listings",
+    "house hunting"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/80e999e1-d549-5b84-a4f7-77efd4f7b706"
 }

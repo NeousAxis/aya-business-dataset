@@ -1,10 +1,20 @@
 {
   "entity_id": "54f3493b-5453-5945-8bb7-b13f6a89d26a",
   "name": "Saab",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Saab is a Swedish aerospace and defense company.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Sweden",
+  "keywords": [
+    "aerospace",
+    "defense",
+    "military technology",
+    "aircraft",
+    "weapon systems",
+    "surveillance systems",
+    "security solutions",
+    "Swedish defense"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/54f3493b-5453-5945-8bb7-b13f6a89d26a"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "8e0f7b19-6c4b-5999-9f3a-c702928efd14",
   "name": "Dave",
-  "what_it_does": "Provides app, application, consulting.",
+  "what_it_does": "Dave provides financial tools and services, including overdraft protection and budgeting, to help users manage their finances.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "overdraft protection",
+    "budgeting tools",
+    "financial services",
+    "mobile banking",
+    "personal finance",
+    "cash advances",
+    "banking app"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8e0f7b19-6c4b-5999-9f3a-c702928efd14"
 }

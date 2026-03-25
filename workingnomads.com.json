@@ -1,10 +1,19 @@
 {
   "entity_id": "ea380c2f-b33a-5d1f-9586-cef037fa95e2",
   "name": "Working Nomads",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Working Nomads aggregates remote job postings across various industries.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "remote jobs",
+    "telecommuting positions",
+    "distributed work",
+    "remote careers",
+    "work from home",
+    "virtual jobs",
+    "freelance opportunities"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ea380c2f-b33a-5d1f-9586-cef037fa95e2"
 }

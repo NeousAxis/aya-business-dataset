@@ -1,10 +1,20 @@
 {
   "entity_id": "493401c8-0dfc-5301-9567-51403eb03ca0",
   "name": "Giving People A Healthier Tomorrow",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "HCA Healthcare operates hospitals and healthcare facilities.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
+  "keywords": [
+    "hospital",
+    "healthcare",
+    "medical facilities",
+    "patient care",
+    "acute care",
+    "surgical procedures",
+    "emergency care",
+    "medical services"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/493401c8-0dfc-5301-9567-51403eb03ca0"
 }

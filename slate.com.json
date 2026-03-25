@@ -1,10 +1,20 @@
 {
   "entity_id": "db449d0e-d3a1-5947-8390-1e24969675da",
   "name": "Slate Magazine",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Slate Magazine publishes online news, politics, culture, and opinion articles.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "news articles",
+    "political commentary",
+    "cultural analysis",
+    "opinion pieces",
+    "current affairs",
+    "US news",
+    "online magazine",
+    "social issues"
+  ],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/db449d0e-d3a1-5947-8390-1e24969675da"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "97eaf5cb-5f91-5f37-8ffa-068a34ce0be8",
   "name": "Veracode",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Veracode provides application security testing solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
+  "keywords": [
+    "application security testing",
+    "security vulnerability assessment",
+    "software security",
+    "application scanning",
+    "code analysis",
+    "security testing",
+    "DevSecOps"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/97eaf5cb-5f91-5f37-8ffa-068a34ce0be8"
 }

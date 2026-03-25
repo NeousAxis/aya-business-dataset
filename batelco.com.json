@@ -1,10 +1,20 @@
 {
   "entity_id": "bd5955b7-d936-55be-a544-7019c37bfc82",
   "name": "Batelco",
-  "what_it_does": "Provides app, cloud, menu.",
+  "what_it_does": "Batelco is a telecommunications company providing internet, mobile, and fixed-line services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "Bahrain telecommunications",
+    "internet provider",
+    "mobile network",
+    "fixed-line",
+    "data",
+    "voice",
+    "ICT",
+    "Batelco"
+  ],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bd5955b7-d936-55be-a544-7019c37bfc82"
 }

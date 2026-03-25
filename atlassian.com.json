@@ -1,10 +1,19 @@
 {
   "entity_id": "2981448a-7e50-5ffa-947c-f6e64cb87516",
   "name": "Atlassian",
-  "what_it_does": "Technology & SaaS organization.",
+  "what_it_does": "Atlassian develops software collaboration and project management tools.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
+  "keywords": [
+    "collaboration tools",
+    "project tracking",
+    "issue tracking",
+    "team collaboration",
+    "agile development",
+    "software development tools",
+    "project management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2981448a-7e50-5ffa-947c-f6e64cb87516"
 }

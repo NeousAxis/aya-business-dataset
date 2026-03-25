@@ -1,10 +1,19 @@
 {
   "entity_id": "3d2877b9-6efe-5ea0-b550-d8aa31d7875c",
   "name": "cyon",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "cyon provides web hosting and domain registration services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "web hosting Switzerland",
+    "Swiss domain registration",
+    "Swiss web services",
+    "hosting",
+    "domain names",
+    "web servers",
+    "web solutions"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3d2877b9-6efe-5ea0-b550-d8aa31d7875c"
 }

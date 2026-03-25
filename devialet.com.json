@@ -1,10 +1,20 @@
 {
   "entity_id": "5cba6504-daa3-5227-97d9-54b8bdeb90d8",
   "name": "Devialet",
-  "what_it_does": "Provides app, product, service.",
+  "what_it_does": "Devialet designs and manufactures high-end audio equipment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "high-end audio equipment",
+    "premium speakers",
+    "audio engineering",
+    "sound systems",
+    "audio technology",
+    "speaker design",
+    "acoustic innovation",
+    "audiophile products"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5cba6504-daa3-5227-97d9-54b8bdeb90d8"
 }

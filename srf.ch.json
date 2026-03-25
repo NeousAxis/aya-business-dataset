@@ -1,10 +1,20 @@
 {
   "entity_id": "4d35689f-f2e9-5a6d-ba6e-22c3a24b5842",
   "name": "Schweizer Radio und Fernsehen (SRF)",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "Schweizer Radio und Fernsehen (SRF) is a Swiss public broadcaster that produces radio and television programming.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "schweizer-radio",
+    "schweizer-fernsehen",
+    "öffentlich-rechtlicher-rundfunk",
+    "radiosendungen",
+    "fernsehsendungen",
+    "nachrichtensendungen",
+    "srf",
+    "schweiz"
+  ],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4d35689f-f2e9-5a6d-ba6e-22c3a24b5842"
 }

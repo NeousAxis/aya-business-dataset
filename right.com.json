@@ -1,10 +1,19 @@
 {
   "entity_id": "21a7e44a-c1b0-5548-ac14-d875ffcc46d4",
   "name": "Right Management",
-  "what_it_does": "Provides platform, service, services.",
+  "what_it_does": "Right Management provides career transition and talent management consulting services.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
+  "keywords": [
+    "career transition",
+    "workforce solutions",
+    "leadership development",
+    "outplacement",
+    "talent management",
+    "career coaching",
+    "employee assessment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/21a7e44a-c1b0-5548-ac14-d875ffcc46d4"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "a88345cc-6ce0-5d50-bb7f-8576bf6e37c2",
   "name": "Ally",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "Ally Financial Inc. offers banking and auto financing services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "auto financing",
+    "banking",
+    "financial ",
+    "loans",
+    "mortgages",
+    "online banking",
+    "consumer banking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a88345cc-6ce0-5d50-bb7f-8576bf6e37c2"
 }

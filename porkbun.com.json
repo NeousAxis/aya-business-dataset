@@ -1,10 +1,20 @@
 {
   "entity_id": "10ec180d-91da-561e-8ca8-69106a0e5d4f",
   "name": "An oddly satisfying experience.",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Porkbun is a domain name registrar.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "domain registration",
+    "domain name registrar",
+    "icann accredited registrar",
+    "ssl certificates",
+    "web hosting",
+    "email hosting",
+    "domain privacy",
+    "dns management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/10ec180d-91da-561e-8ca8-69106a0e5d4f"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "66be814b-2455-5152-92bf-47e8d7805da7",
   "name": "AssemblyAI",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "AssemblyAI provides an API for transcribing audio and video files using artificial intelligence.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "AI transcription",
+    "audio transcription API",
+    "video transcription API",
+    "speech-to-text",
+    "artificial intelligence",
+    "machine learning",
+    "audio analysis",
+    "video analysis"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/66be814b-2455-5152-92bf-47e8d7805da7"
 }

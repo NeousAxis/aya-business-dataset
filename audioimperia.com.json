@@ -1,10 +1,20 @@
 {
   "entity_id": "4060d90e-5480-5d58-b4da-7cc1f6b96ef9",
   "name": "Audio Imperia",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Audio Imperia sells virtual instruments and sample libraries for music production.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "virtual instruments",
+    "sample libraries",
+    "music production",
+    "audio tools",
+    "sound design",
+    "composer tools",
+    "music software",
+    "orchestral samples"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4060d90e-5480-5d58-b4da-7cc1f6b96ef9"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "65c37ade-4d0e-5db7-85c9-01dd8ebdf065",
   "name": "Mobileye",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Mobileye develops advanced driver-assistance systems (ADAS) and autonomous driving technologies.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "ADAS",
+    "advanced driver-assistance systems",
+    "autonomous driving",
+    "computer vision",
+    "automotive safety",
+    "self-driving technology",
+    "driverless cars",
+    "collision avoidance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/65c37ade-4d0e-5db7-85c9-01dd8ebdf065"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "31b5000d-c5d1-5518-b680-dd82a967416e",
   "name": "Generali",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Generali France offers insurance products and services in the French market.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "France",
+  "keywords": [
+    "insurance products",
+    "assurance",
+    "French market",
+    "property insurance",
+    "liability insurance",
+    "life insurance",
+    "health insurance"
+  ],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/31b5000d-c5d1-5518-b680-dd82a967416e"
 }

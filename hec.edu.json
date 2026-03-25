@@ -1,10 +1,20 @@
 {
   "entity_id": "44ee1a9e-8324-5ab6-8ff7-966c6f6fbfa6",
   "name": "HEC Paris",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "HEC Paris is a leading French business school offering management education programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
+  "keywords": [
+    "business school",
+    "management education",
+    "executive education",
+    "MBA programs",
+    "master's programs",
+    "business administration",
+    "Paris business school",
+    "management training"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/44ee1a9e-8324-5ab6-8ff7-966c6f6fbfa6"
 }

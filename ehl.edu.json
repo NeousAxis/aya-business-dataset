@@ -1,10 +1,19 @@
 {
   "entity_id": "df194b1a-beec-5fa3-9981-b45e0de745f7",
   "name": "EHL Ecole hôtelière de Lausanne",
-  "what_it_does": "Provides app, consulting, menu.",
+  "what_it_does": "EHL Ecole hôtelière de Lausanne is a hospitality management school.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
+  "keywords": [
+    "hospitality education",
+    "hotel management school",
+    "culinary arts",
+    "restaurant management",
+    "tourism management",
+    "hospitality degrees",
+    "Lausanne"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/df194b1a-beec-5fa3-9981-b45e0de745f7"
 }

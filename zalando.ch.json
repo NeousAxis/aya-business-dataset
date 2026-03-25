@@ -1,10 +1,19 @@
 {
   "entity_id": "f8e29d93-1e1f-59b0-9606-1393bbefb472",
   "name": "ZALANDO",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "Zalando is an online retailer selling clothing, shoes, and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Austria",
+  "keywords": [
+    "fashion retail",
+    "apparel",
+    "shoes",
+    "accessories",
+    "e-commerce",
+    "clothing retailer",
+    "Swiss fashion"
+  ],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f8e29d93-1e1f-59b0-9606-1393bbefb472"
 }

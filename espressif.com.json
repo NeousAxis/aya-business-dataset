@@ -1,10 +1,20 @@
 {
   "entity_id": "99e7d27b-9572-5ea9-89d1-8fc817d04644",
   "name": "Espressif Systems",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Espressif Systems develops and sells low-power Wi-Fi and Bluetooth chips and modules.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "Wi-Fi chips",
+    "Bluetooth chips",
+    "low-power chips",
+    "wireless modules",
+    "IoT solutions",
+    "microcontrollers",
+    "connectivity solutions",
+    "embedded systems"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/99e7d27b-9572-5ea9-89d1-8fc817d04644"
 }

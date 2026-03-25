@@ -1,10 +1,19 @@
 {
   "entity_id": "413c1dbd-16cb-592c-aabf-f0c6565617dd",
   "name": "Lindt & Sprüngli",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Lindt & Sprüngli manufactures and sells chocolate products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Netherlands",
+  "keywords": [
+    "chocolate products",
+    "premium chocolate",
+    "confectionery",
+    "chocolate manufacturing",
+    "retail chocolate",
+    "global chocolate brand",
+    "Swiss chocolate"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/413c1dbd-16cb-592c-aabf-f0c6565617dd"
 }

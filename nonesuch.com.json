@@ -1,10 +1,20 @@
 {
   "entity_id": "7818d48e-b43b-5062-87a7-fe47081aa405",
   "name": "Nonesuch Records Official Website",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Nonesuch Records is a record label specializing in classical, jazz, and world music.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "record label",
+    "classical music",
+    "jazz music",
+    "world music",
+    "music recording",
+    "music production",
+    "album releases",
+    "artists"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7818d48e-b43b-5062-87a7-fe47081aa405"
 }

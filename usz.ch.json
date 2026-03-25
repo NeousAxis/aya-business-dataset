@@ -1,10 +1,19 @@
 {
   "entity_id": "7dc0b6b3-9018-562b-95bd-5aab89978a49",
   "name": "USZ",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "USZ (likely Universitätsspital Zürich) is a university hospital in Zurich, Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "university hospital Zurich",
+    "Swiss healthcare",
+    "medical treatments",
+    "hospital services",
+    "clinical research",
+    "specialized medicine",
+    "Zurich medical center"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7dc0b6b3-9018-562b-95bd-5aab89978a49"
 }

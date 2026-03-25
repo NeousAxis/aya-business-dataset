@@ -1,10 +1,20 @@
 {
   "entity_id": "ce780ed3-bbf2-5d73-ba89-c06494cd3458",
   "name": "ALDI Grocery Stores",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "ALDI operates discount grocery stores in the United States.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "discount groceries",
+    "grocery retail",
+    "private label brands",
+    "affordable food",
+    "US supermarkets",
+    "grocery stores",
+    "food market",
+    "budget grocery"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ce780ed3-bbf2-5d73-ba89-c06494cd3458"
 }

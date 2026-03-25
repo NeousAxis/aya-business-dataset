@@ -1,10 +1,17 @@
 {
   "entity_id": "fd0b1845-1660-58ec-a01e-3a1c14e1ffae",
   "name": "New energy for a better planet",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Acciona Energia develops and manages renewable energy projects and provides clean energy solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Spain",
+  "keywords": [
+    "renewable energy",
+    "clean energy",
+    "wind power",
+    "solar power",
+    "energy projects"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fd0b1845-1660-58ec-a01e-3a1c14e1ffae"
 }

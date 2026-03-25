@@ -1,10 +1,20 @@
 {
   "entity_id": "d41e0756-5855-50fb-aaed-5dbfcccae67a",
   "name": "Masdar",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Masdar is a renewable energy company focused on sustainable urban development and clean energy technologies.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "renewable energy projects",
+    "sustainable urban development",
+    "clean energy investments",
+    "solar energy",
+    "wind energy",
+    "sustainable technologies",
+    "urban planning",
+    "green building"
+  ],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d41e0756-5855-50fb-aaed-5dbfcccae67a"
 }

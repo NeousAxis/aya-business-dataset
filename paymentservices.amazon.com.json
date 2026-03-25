@@ -1,10 +1,19 @@
 {
   "entity_id": "e2eaa44d-e52b-550b-b90a-9cb7e13cd7c8",
   "name": "Local Payment Gateway Provider",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Local Payment Gateway Provider enables Amazon customers to pay using local payment methods, such as bank transfers and e-wallets, rather than only credit cards.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "payment gateway",
+    "local payments",
+    "alternative payment methods",
+    "global payments",
+    "e-commerce payments",
+    "payment processing",
+    "transaction processing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e2eaa44d-e52b-550b-b90a-9cb7e13cd7c8"
 }

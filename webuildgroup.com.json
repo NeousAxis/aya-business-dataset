@@ -1,10 +1,19 @@
 {
   "entity_id": "88d3594e-1938-5cbb-a9f2-453df7da94ca",
   "name": "Webuild Group",
-  "what_it_does": "Provides api, app.",
+  "what_it_does": "Webuild Group is an Italian construction and engineering company specializing in large infrastructure projects.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Italy",
+  "keywords": [
+    "construction",
+    "engineering",
+    "infrastructure projects",
+    "civil engineering",
+    "building construction",
+    "Italian construction",
+    "large-scale projects"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/88d3594e-1938-5cbb-a9f2-453df7da94ca"
 }

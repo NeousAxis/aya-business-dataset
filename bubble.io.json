@@ -1,10 +1,20 @@
 {
   "entity_id": "3f2cd3cf-ec87-5d3f-9e27-96f13007f6ce",
   "name": "Bubble",
-  "what_it_does": "Provides app.",
+  "what_it_does": "Bubble is a no-code platform for building web applications without programming.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "United States",
+  "keywords": [
+    "no-code development",
+    "web app builder",
+    "visual programming",
+    "drag-and-drop apps",
+    "citizen development",
+    "web application creation",
+    "codeless apps",
+    "no-code platform"
+  ],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3f2cd3cf-ec87-5d3f-9e27-96f13007f6ce"
 }

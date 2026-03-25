@@ -1,10 +1,13 @@
 {
   "entity_id": "ac99bf3a-7a91-5cda-87a8-1982a1c4171c",
   "name": "Vtb",
-  "what_it_does": "Provides app.",
+  "what_it_does": "VTB is a Russian state-owned bank.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "RU",
+  "keywords": [
+    "banking"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ac99bf3a-7a91-5cda-87a8-1982a1c4171c"
 }

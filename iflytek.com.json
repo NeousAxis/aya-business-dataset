@@ -1,10 +1,20 @@
 {
   "entity_id": "282a0ab5-cbe0-5b44-94d6-1870bce2afaa",
   "name": "iFLYTEK",
-  "what_it_does": "Provides app, platform, product.",
+  "what_it_does": "iFLYTEK is a Chinese artificial intelligence company specializing in speech recognition technology.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "artificial intelligence",
+    "speech recognition",
+    "voice technology",
+    "natural language processing",
+    "Chinese AI",
+    "AI research",
+    "intelligent speech",
+    "machine translation"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/282a0ab5-cbe0-5b44-94d6-1870bce2afaa"
 }

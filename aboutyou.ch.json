@@ -1,10 +1,20 @@
 {
   "entity_id": "e16726df-9d05-5431-ba65-63aa064bd6a2",
   "name": "ABOUT YOU",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "ABOUT YOU is an online fashion retailer operating in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "fashion",
+    "e-commerce",
+    "clothing",
+    "apparel",
+    "Switzerland",
+    "online shopping",
+    "retail",
+    "accessories"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e16726df-9d05-5431-ba65-63aa064bd6a2"
 }

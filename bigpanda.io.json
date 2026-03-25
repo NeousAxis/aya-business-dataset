@@ -1,10 +1,20 @@
 {
   "entity_id": "a5eee273-a74d-5106-9312-7ea5afb254a8",
   "name": "BigPanda",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "BigPanda provides an AI-powered platform for IT incident management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "AI incident",
+    "IT incident",
+    "incident management",
+    "AIOps",
+    "root cause analysis",
+    "event correlation",
+    "alert fatigue",
+    "IT operations"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a5eee273-a74d-5106-9312-7ea5afb254a8"
 }

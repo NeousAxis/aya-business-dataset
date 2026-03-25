@@ -1,10 +1,19 @@
 {
   "entity_id": "9e947d7f-1e9e-5018-8a62-93204d716dcb",
   "name": "KONE Corporation",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "KONE manufactures and services elevators, escalators, and automatic building doors.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "Elevators",
+    "Escalators",
+    "Automatic doors",
+    "Building transportation",
+    "Vertical transportation",
+    "Equipment maintenance",
+    "Access control"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9e947d7f-1e9e-5018-8a62-93204d716dcb"
 }

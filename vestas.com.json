@@ -1,10 +1,20 @@
 {
   "entity_id": "52f4f513-5614-51e1-891b-05e7206c1662",
   "name": "Vestas",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Vestas manufactures, sells, installs, and services wind turbines.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "wind turbines",
+    "renewable energy",
+    "wind power",
+    "turbine manufacturing",
+    "wind energy solutions",
+    "sustainable energy",
+    "Vestas turbines",
+    "wind farm technology"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/52f4f513-5614-51e1-891b-05e7206c1662"
 }

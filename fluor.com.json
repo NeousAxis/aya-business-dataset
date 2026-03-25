@@ -1,10 +1,19 @@
 {
   "entity_id": "7bc8ab76-87d3-5fac-a09a-5e86bcbb9944",
   "name": "Fluor",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Fluor provides engineering, procurement, and construction services for large-scale industrial projects.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "engineering procurement construction",
+    "EPC projects",
+    "industrial construction",
+    "capital projects",
+    "construction services",
+    "engineering solutions",
+    "project management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7bc8ab76-87d3-5fac-a09a-5e86bcbb9944"
 }

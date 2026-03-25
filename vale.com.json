@@ -1,10 +1,19 @@
 {
   "entity_id": "f7e4eaa6-1309-5d6c-b805-2f23c5372720",
   "name": "Vale",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Vale is a Spanish transport company, possibly focused on rail travel.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Spain",
+  "keywords": [
+    "Spanish transportation",
+    "rail transportation",
+    "train travel",
+    "passenger transport",
+    "railway company",
+    "freight transport",
+    "logistics services"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f7e4eaa6-1309-5d6c-b805-2f23c5372720"
 }

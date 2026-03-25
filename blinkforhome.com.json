@@ -1,10 +1,20 @@
 {
   "entity_id": "46b4ab5b-b409-5c7d-97b8-6f5a807ee8a1",
   "name": "Blink Smart Security",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Blink Smart Security sells wireless, battery-powered home security cameras and systems.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "wireless security cameras",
+    "home security systems",
+    "battery-powered cameras",
+    "DIY security",
+    "smart home devices",
+    "video surveillance",
+    "motion detection",
+    "security equipment"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/46b4ab5b-b409-5c7d-97b8-6f5a807ee8a1"
 }

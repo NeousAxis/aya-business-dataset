@@ -1,10 +1,20 @@
 {
   "entity_id": "ac677b84-6a1e-5335-a6d1-ab9fb2f24828",
   "name": "DER SPIEGEL",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "Spiegel.de is the online presence of the German news magazine Der Spiegel, providing news and analysis.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "german news",
+    "news magazine",
+    "political news",
+    "current affairs",
+    "investigative journalism",
+    "international news",
+    "german politics",
+    "news analysis"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ac677b84-6a1e-5335-a6d1-ab9fb2f24828"
 }

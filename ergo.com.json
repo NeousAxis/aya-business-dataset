@@ -1,10 +1,19 @@
 {
   "entity_id": "62d1e2a8-b57a-5a66-8790-5a2dfacd77de",
   "name": "ERGO Group AG",
-  "what_it_does": "Provides app, menu, platform.",
+  "what_it_does": "ERGO Group AG is a German insurance company offering a range of insurance products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "insurance products",
+    "german insurer",
+    "property insurance",
+    "life insurance",
+    "health insurance",
+    "casualty insurance",
+    "legal protection"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/62d1e2a8-b57a-5a66-8790-5a2dfacd77de"
 }

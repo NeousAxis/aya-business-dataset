@@ -1,10 +1,20 @@
 {
   "entity_id": "a8c1f484-6a90-5cfb-b217-e43880a5ac60",
   "name": "Tamara",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Tamara is a buy-now-pay-later platform for online shopping in the Middle East.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Saudi Arabia",
+  "keywords": [
+    "buy now pay later",
+    "BNPL",
+    "installment payments",
+    "e-commerce",
+    "retail finance",
+    "point of sale finance",
+    "consumer finance",
+    "deferred payments"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a8c1f484-6a90-5cfb-b217-e43880a5ac60"
 }

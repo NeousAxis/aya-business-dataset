@@ -1,10 +1,19 @@
 {
   "entity_id": "b197b86d-a4fe-57f7-b6b3-179d72a89710",
   "name": "Groupe InVivo",
-  "what_it_does": "Provides app, menu, offre.",
+  "what_it_does": "Groupe InVivo is a French agricultural cooperative group involved in areas like agriculture, animal health, and retail.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "French agriculture",
+    "agricultural cooperatives",
+    "animal health",
+    "crop production",
+    "farming solutions",
+    "agribusiness",
+    "plant nutrition"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b197b86d-a4fe-57f7-b6b3-179d72a89710"
 }

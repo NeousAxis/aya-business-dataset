@@ -1,10 +1,19 @@
 {
   "entity_id": "892193d8-1237-5466-939c-433ed76c6237",
   "name": "Chandos Records Classical Music CDs",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Chandos Records sells classical music CDs.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
+  "keywords": [
+    "classical music",
+    "classical CDs",
+    "music recordings",
+    "orchestral music",
+    "chamber music",
+    "choral music",
+    "classical albums"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/892193d8-1237-5466-939c-433ed76c6237"
 }

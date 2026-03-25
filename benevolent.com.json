@@ -1,10 +1,19 @@
 {
   "entity_id": "b208ff1e-c1e3-5ae8-91fa-b04e4b2312a3",
   "name": "BenevolentAI",
-  "what_it_does": "Provides platform, service.",
+  "what_it_does": "BenevolentAI uses artificial intelligence to accelerate drug discovery and development.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "Australian banking",
+    "personal banking",
+    "home loans",
+    "credit cards",
+    "savings accounts",
+    "financial services",
+    "Australia finance"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b208ff1e-c1e3-5ae8-91fa-b04e4b2312a3"
 }

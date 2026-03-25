@@ -1,10 +1,20 @@
 {
   "entity_id": "31585c53-6035-5d26-ab21-601e63a39d2e",
   "name": "Rippling",
-  "what_it_does": "Technology & SaaS organization.",
+  "what_it_does": "Rippling provides a platform for managing employee data, payroll, benefits, and HR functions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "{\"@type\":\"Country\",\"name\":\"US\"}",
+  "keywords": [
+    "employee data",
+    "HR functions",
+    "payroll processing",
+    "benefits administration",
+    "workforce data",
+    "employee lifecycle",
+    "human capital",
+    "HR data"
+  ],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/31585c53-6035-5d26-ab21-601e63a39d2e"
 }

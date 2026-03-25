@@ -1,10 +1,20 @@
 {
   "entity_id": "4506026c-bf09-5977-b511-4f35d431dbc6",
   "name": "Yandex",
-  "what_it_does": "Provides app, cloud, service.",
+  "what_it_does": "Yandex operates a search engine, online advertising platform, and various other internet services in Russia and internationally.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "RU",
+  "keywords": [
+    "search engine",
+    "online advertising",
+    "internet services",
+    "Russian search",
+    "search marketing",
+    "digital advertising",
+    "search technology",
+    "Russian internet"
+  ],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4506026c-bf09-5977-b511-4f35d431dbc6"
 }

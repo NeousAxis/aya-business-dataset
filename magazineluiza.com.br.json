@@ -1,10 +1,20 @@
 {
   "entity_id": "58b0e152-6b09-57c8-ab89-b82aee24f64a",
   "name": "Magazine Luiza",
-  "what_it_does": "Provides app.",
+  "what_it_does": "Magazine Luiza is a Brazilian retail company selling electronics, furniture, and appliances online and in physical stores.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Brazil",
+  "keywords": [
+    "Brazilian retail",
+    "electronics sales",
+    "furniture retail",
+    "home appliances",
+    "department store",
+    "consumer goods",
+    "e-commerce Brazil",
+    "retail chain"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/58b0e152-6b09-57c8-ab89-b82aee24f64a"
 }

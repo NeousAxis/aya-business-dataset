@@ -1,10 +1,19 @@
 {
   "entity_id": "8ea0fb5b-bbb2-57f7-ab62-6c7d23f028bf",
   "name": "Genesys Cloud",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Genesys Cloud provides cloud-based contact center software and services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Australia",
+  "keywords": [
+    "cloud contact centers",
+    "call center",
+    "customer experience",
+    "cloud communication",
+    "omnichannel engagement",
+    "contact center software",
+    "customer communication"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8ea0fb5b-bbb2-57f7-ab62-6c7d23f028bf"
 }

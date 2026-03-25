@@ -1,10 +1,19 @@
 {
   "entity_id": "5b4e69a8-5e20-582e-a010-ba17a29e5252",
   "name": "Sorbonne Université",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Sorbonne Université is a public research university located in Paris, France.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
+  "keywords": [
+    "French university",
+    "Paris university",
+    "research institution",
+    "higher learning",
+    "scientific research",
+    "academic programs",
+    "public university"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5b4e69a8-5e20-582e-a010-ba17a29e5252"
 }

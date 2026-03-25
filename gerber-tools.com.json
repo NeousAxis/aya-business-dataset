@@ -1,10 +1,18 @@
 {
   "entity_id": "1224d5b4-f3ed-560a-a58d-f05dbe68888b",
   "name": "Two Point Enterprise, LLC",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Two Point Enterprise, LLC manufactures and sells Gerber brand multi-tools and knives.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "hand tools",
+    "Gerber tools",
+    "tool sales",
+    "manual tools",
+    "construction tools",
+    "DIY tools"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1224d5b4-f3ed-560a-a58d-f05dbe68888b"
 }

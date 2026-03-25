@@ -1,10 +1,20 @@
 {
   "entity_id": "dda37622-efd7-51ad-9cc7-399a392870cd",
   "name": "IBM Cloud",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "IBM Cloud provides cloud computing platforms and services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Saudi Arabia",
+  "keywords": [
+    "cloud computing",
+    "cloud services",
+    "cloud infrastructure",
+    "enterprise cloud",
+    "cloud solutions",
+    "IaaS",
+    "PaaS",
+    "hybrid cloud"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dda37622-efd7-51ad-9cc7-399a392870cd"
 }

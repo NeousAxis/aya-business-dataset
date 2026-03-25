@@ -1,10 +1,20 @@
 {
   "entity_id": "b556e971-73c1-543b-92a1-91a5165a0b86",
   "name": "Appenzell Innerrhoden",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "Appenzell Innerrhoden is a Swiss canton that provides governmental services and information.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss canton",
+    "regional information",
+    "government",
+    "local services",
+    "Appenzell Innerrhoden",
+    "cantonal administration",
+    "public",
+    "Switzerland"
+  ],
   "aio_score": 29.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b556e971-73c1-543b-92a1-91a5165a0b86"
 }

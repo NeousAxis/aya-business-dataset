@@ -1,10 +1,20 @@
 {
   "entity_id": "f01b030c-0fe3-5071-b2e7-9529da24c083",
   "name": "AmerisourceBergen",
-  "what_it_does": "Provides consulting, menu, platform.",
+  "what_it_does": "AmerisourceBergen distributes pharmaceutical products and provides healthcare solutions to providers and pharmacies.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
+  "keywords": [
+    "pharmaceutical distribution",
+    "healthcare solutions",
+    "drug distribution",
+    "pharmacy services",
+    "healthcare providers",
+    "pharmaceutical supply chain",
+    "drug wholesale",
+    "specialty pharmaceuticals"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f01b030c-0fe3-5071-b2e7-9529da24c083"
 }

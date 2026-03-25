@@ -1,10 +1,20 @@
 {
   "entity_id": "a1d9306f-0447-53b8-9671-b3cd4bb969fd",
   "name": "MoneyLion Official Site",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "MoneyLion offers mobile banking and financial membership services, including credit-builder loans and cash advances.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "mobile banking",
+    "financial membership",
+    "credit builder loans",
+    "financial wellness",
+    "mobile finance",
+    "banking services",
+    "loan products",
+    "credit improvement"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a1d9306f-0447-53b8-9671-b3cd4bb969fd"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "20ae5d82-e75d-5239-80cf-80b3ab4673f6",
   "name": "NBA",
-  "what_it_does": "Provides app, menu.",
+  "what_it_does": "The NBA is a professional basketball league in North America.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "professional basketball",
+    "sports league",
+    "north american basketball",
+    "basketball games",
+    "sports entertainment",
+    "basketball teams",
+    "game statistics",
+    "player profiles"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/20ae5d82-e75d-5239-80cf-80b3ab4673f6"
 }

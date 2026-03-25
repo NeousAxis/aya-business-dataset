@@ -1,10 +1,20 @@
 {
   "entity_id": "aae00532-8522-5951-9794-0de9c04e53b4",
   "name": "Fiit",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Fiit offers subscription-based digital fitness classes and training programs.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "digital fitness classes",
+    "subscription fitness",
+    "workout programs",
+    "online fitness",
+    "home workouts",
+    "fitness training",
+    "virtual fitness",
+    "exercise videos"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aae00532-8522-5951-9794-0de9c04e53b4"
 }

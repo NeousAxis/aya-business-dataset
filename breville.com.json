@@ -1,10 +1,19 @@
 {
   "entity_id": "f1933384-ee81-545a-b00f-6ea159be79c6",
   "name": "Breville",
-  "what_it_does": "Provides product, products.",
+  "what_it_does": "Breville manufactures and sells small kitchen appliances.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "kitchen appliances",
+    "small appliances",
+    "food preparation",
+    "cooking appliances",
+    "coffee machines",
+    "breville",
+    "countertop appliances"
+  ],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f1933384-ee81-545a-b00f-6ea159be79c6"
 }

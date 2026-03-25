@@ -1,10 +1,20 @@
 {
   "entity_id": "57853cc7-e190-585b-86b5-aed7c1578263",
   "name": "Hugging Face",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Hugging Face is a platform for developing and deploying machine learning models.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "Machine learning models",
+    "AI development",
+    "Natural language processing",
+    "AI platform",
+    "Model training",
+    "AI deployment",
+    "Transformers library",
+    "Open source AI"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/57853cc7-e190-585b-86b5-aed7c1578263"
 }

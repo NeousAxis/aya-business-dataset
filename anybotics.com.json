@@ -1,10 +1,20 @@
 {
   "entity_id": "d67d3bad-3d92-5727-9899-2e5f2beda42f",
   "name": "ANYbotics",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "ANYbotics develops autonomous legged robots for inspection and maintenance in industrial environments.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "legged robots",
+    "autonomous robots",
+    "inspection robots",
+    "mobile manipulation",
+    "robotics",
+    "industrial robotics",
+    "automation",
+    "quadruped robots"
+  ],
   "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d67d3bad-3d92-5727-9899-2e5f2beda42f"
 }

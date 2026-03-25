@@ -1,10 +1,19 @@
 {
   "entity_id": "7be54f53-cb0e-54f0-97f3-b06c6962ec78",
   "name": "Livraison de surgelés et retrait magasins Thiriet",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Thiriet delivers frozen food products and operates retail stores.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Belgium",
+  "keywords": [
+    "frozen food delivery",
+    "frozen meals",
+    "home freezer",
+    "retail frozen food",
+    "grocery frozen",
+    "frozen products",
+    "thiriet stores"
+  ],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7be54f53-cb0e-54f0-97f3-b06c6962ec78"
 }

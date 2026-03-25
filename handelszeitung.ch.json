@@ -1,10 +1,20 @@
 {
   "entity_id": "48215c69-ee57-5e4f-9958-afe080205c49",
   "name": "Handelszeitung",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "Handelszeitung is a Swiss business and financial newspaper.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss business newspaper",
+    "financial news",
+    "business journalism",
+    "Swiss economy",
+    "financial markets",
+    "investment news",
+    "business analysis",
+    "economic reporting"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/48215c69-ee57-5e4f-9958-afe080205c49"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "e30460ca-6ad9-555d-a2d3-f5750e7598ab",
   "name": "AppFolio",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "AppFolio provides cloud-based property management software for real estate businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "property ",
+    "rental property ",
+    "resident ",
+    "investment property ",
+    "real estate portfolio",
+    "community associations",
+    "property accounting",
+    "property leasing"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e30460ca-6ad9-555d-a2d3-f5750e7598ab"
 }

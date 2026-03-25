@@ -1,10 +1,20 @@
 {
   "entity_id": "4c7c18ef-289b-5d1f-9dbd-5daca94a3f5e",
   "name": "TBS",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "TBS likely provides educational resources or training programs, possibly related to Tanzania.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "Tanzania standards",
+    "standards body",
+    "quality control",
+    "regulatory",
+    "testing",
+    "compliance",
+    "product standards",
+    "TBS"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4c7c18ef-289b-5d1f-9dbd-5daca94a3f5e"
 }

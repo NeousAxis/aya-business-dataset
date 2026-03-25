@@ -1,10 +1,19 @@
 {
   "entity_id": "3743f924-be74-5cb1-920f-a4853e682109",
   "name": "Perrett Laver",
-  "what_it_does": "Provides api, app, consulting.",
+  "what_it_does": "Perrett Laver is an executive search firm specializing in the education sector.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
+  "keywords": [
+    "executive search",
+    "education recruitment",
+    "leadership appointments",
+    "higher education",
+    "academic search",
+    "vice-chancellor recruitment",
+    "university leadership"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3743f924-be74-5cb1-920f-a4853e682109"
 }

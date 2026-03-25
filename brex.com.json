@@ -1,10 +1,20 @@
 {
   "entity_id": "d27604da-a923-5c17-8cae-03cf2b8bedc9",
   "name": "Brex",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Brex provides financial services, including corporate credit cards and cash management, for startups and businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "corporate credit cards",
+    "startup finance",
+    "business expenses",
+    "venture-backed companies",
+    "financial services",
+    "expense management",
+    "company cards",
+    "business banking"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d27604da-a923-5c17-8cae-03cf2b8bedc9"
 }

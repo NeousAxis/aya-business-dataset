@@ -1,10 +1,20 @@
 {
   "entity_id": "f269f78e-d633-5e61-a2fc-db7a19bfe1c4",
   "name": "Montreux Jazz Festival",
-  "what_it_does": "Provides menu, offre, product.",
+  "what_it_does": "The Montreux Jazz Festival organizes and promotes the annual Montreux Jazz Festival.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "jazz festival",
+    "music festival",
+    "live music",
+    "annual event",
+    "music promotion",
+    "cultural events",
+    "Swiss festival",
+    "jazz music"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f269f78e-d633-5e61-a2fc-db7a19bfe1c4"
 }

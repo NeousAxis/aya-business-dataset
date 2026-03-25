@@ -1,10 +1,20 @@
 {
   "entity_id": "f5e7b1b2-6a06-5cb6-a5bb-da371d7da4a8",
   "name": "news.ORF.at",
-  "what_it_does": "Provides app.",
+  "what_it_does": "news.ORF.at is the online news platform of the Austrian Broadcasting Corporation.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Austria",
+  "keywords": [
+    "Austrian news",
+    "ORF news",
+    "news articles",
+    "current events Austria",
+    "public broadcasting news",
+    "breaking news",
+    "news website",
+    "local news"
+  ],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f5e7b1b2-6a06-5cb6-a5bb-da371d7da4a8"
 }

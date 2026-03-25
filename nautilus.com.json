@@ -1,10 +1,20 @@
 {
   "entity_id": "633e4517-c945-56cd-a393-35180886bb94",
   "name": "Nautilus",
-  "what_it_does": "Provides product, products, solution.",
+  "what_it_does": "Nautilus sells fitness equipment and related products directly to consumers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "home fitness equipment",
+    "exercise machines",
+    "cardio equipment",
+    "strength training",
+    "fitness gear",
+    "direct-to-consumer fitness",
+    "treadmills",
+    "ellipticals"
+  ],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/633e4517-c945-56cd-a393-35180886bb94"
 }

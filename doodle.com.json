@@ -1,10 +1,18 @@
 {
   "entity_id": "a9feaeaf-e0d1-546e-aa38-67c5b1c70a67",
   "name": "Doodle",
-  "what_it_does": "Provides app, product.",
+  "what_it_does": "Doodle provides online scheduling and meeting coordination tools.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "scheduling tools",
+    "meeting coordination",
+    "appointment booking",
+    "group polls",
+    "event planning",
+    "time management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a9feaeaf-e0d1-546e-aa38-67c5b1c70a67"
 }

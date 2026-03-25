@@ -1,10 +1,19 @@
 {
   "entity_id": "de02b313-c69b-56d4-8f26-ba98482296b9",
   "name": "Epik",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Epik is a domain name registrar and web hosting provider.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "domain name registration",
+    "web hosting",
+    "domain services",
+    "internet infrastructure",
+    "domain marketplace",
+    "website hosting",
+    "domain transfers"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/de02b313-c69b-56d4-8f26-ba98482296b9"
 }

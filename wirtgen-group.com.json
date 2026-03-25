@@ -1,10 +1,20 @@
 {
   "entity_id": "add23d62-8f01-5a2e-aaa3-d6cd2c7cb6a1",
   "name": "Wirtgen Group",
-  "what_it_does": "Provides product, products.",
+  "what_it_does": "Wirtgen Group manufactures road construction equipment.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "road construction machines",
+    "mining equipment",
+    "surface miners",
+    "cold milling machines",
+    "asphalt pavers",
+    "soil stabilizers",
+    "recyclers",
+    "Wirtgen"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/add23d62-8f01-5a2e-aaa3-d6cd2c7cb6a1"
 }

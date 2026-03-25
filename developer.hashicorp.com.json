@@ -1,10 +1,20 @@
 {
   "entity_id": "f34d6770-9457-5ed5-afcb-485dc96204a1",
   "name": "HashiCorp Developer",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "HashiCorp Developer provides infrastructure-as-code (IaC) tools and services for developers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "infrastructure as code",
+    "IaC tools",
+    "developer tools",
+    "cloud infrastructure",
+    "DevOps tooling",
+    "infrastructure automation",
+    "multi-cloud",
+    "Terraform"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f34d6770-9457-5ed5-afcb-485dc96204a1"
 }

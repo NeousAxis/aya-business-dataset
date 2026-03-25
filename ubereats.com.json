@@ -1,10 +1,20 @@
 {
   "entity_id": "6587804f-af19-5763-9550-89b2a6366782",
   "name": "Uber Eats",
-  "what_it_does": "Provides delivery, restaurant.",
+  "what_it_does": "Uber Eats provides a platform for ordering food delivery from local restaurants.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Global",
+  "keywords": [
+    "food delivery",
+    "restaurant delivery",
+    "local restaurants",
+    "meal delivery",
+    "delivery platform",
+    "restaurant takeout",
+    "food ordering",
+    "courier delivery"
+  ],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6587804f-af19-5763-9550-89b2a6366782"
 }

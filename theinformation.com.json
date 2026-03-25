@@ -1,10 +1,20 @@
 {
   "entity_id": "507e9c93-d54e-5402-b06e-ab39cff185cf",
   "name": "Theinformation",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "The Information is a subscription-based news website focused on technology business reporting.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "technology news",
+    "business reporting",
+    "subscription news",
+    "financial news",
+    "tech industry",
+    "economic reporting",
+    "venture capital",
+    "tech journalism"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/507e9c93-d54e-5402-b06e-ab39cff185cf"
 }

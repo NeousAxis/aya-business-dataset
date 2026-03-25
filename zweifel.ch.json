@@ -1,10 +1,20 @@
 {
   "entity_id": "ff467889-26e0-5815-a12c-a83352ebd3a9",
   "name": "Zweifel Chips & Snacks",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Zweifel Chips & Snacks manufactures and sells potato chips and snack foods.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
+  "keywords": [
+    "potato chips",
+    "salty snacks",
+    "snack foods",
+    "crisps production",
+    "confectionery",
+    "Swiss food",
+    "snack distribution",
+    "food manufacturing"
+  ],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ff467889-26e0-5815-a12c-a83352ebd3a9"
 }

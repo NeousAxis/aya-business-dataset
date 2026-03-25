@@ -1,10 +1,20 @@
 {
   "entity_id": "7dc10a1b-b486-5ca5-868a-0d171cfec955",
   "name": "Graphcore",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Graphcore designs and manufactures intelligence processing units (IPUs) for artificial intelligence compute.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "intelligence processing units",
+    "ai accelerators",
+    "machine learning hardware",
+    "artificial intelligence",
+    "ipu systems",
+    "data center",
+    "compute architecture",
+    "neural networks"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7dc10a1b-b486-5ca5-868a-0d171cfec955"
 }

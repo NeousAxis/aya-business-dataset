@@ -1,10 +1,20 @@
 {
   "entity_id": "d0d329ed-6820-5870-8b72-168e3f4ec2b4",
   "name": "Casper Sleep",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Casper Sleep sells mattresses and other sleep products directly to consumers online.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "mattresses",
+    "sleep products",
+    "bedding",
+    "e-commerce mattresses",
+    "direct-to-consumer",
+    "sleep accessories",
+    "foam mattresses",
+    "online mattress retailer"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d0d329ed-6820-5870-8b72-168e3f4ec2b4"
 }

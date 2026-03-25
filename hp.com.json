@@ -1,10 +1,20 @@
 {
   "entity_id": "019ed01e-3fc5-53fa-a344-05403c897001",
   "name": "HP",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "HP develops and sells personal computers, printers, and related supplies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "personal computers",
+    "printers",
+    "computer hardware",
+    "printing solutions",
+    "laptop computers",
+    "desktop computers",
+    "printer supplies",
+    "imaging products"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/019ed01e-3fc5-53fa-a344-05403c897001"
 }

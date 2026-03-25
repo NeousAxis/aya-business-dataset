@@ -1,10 +1,20 @@
 {
   "entity_id": "404dd6c0-c833-589e-91e5-9e1c2cf444b5",
   "name": "Raffles Hotels & Resorts",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Raffles Hotels & Resorts is a luxury hotel brand.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
+  "keywords": [
+    "luxury hotels",
+    "luxury resorts",
+    "hotel brand",
+    "hospitality",
+    "premium accommodations",
+    "exclusive hotels",
+    "high-end travel",
+    "global hotels"
+  ],
   "aio_score": 69.0,
   "certificate_url": "https://ai-visionary.com/aya/e/404dd6c0-c833-589e-91e5-9e1c2cf444b5"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "d10ecffe-ef23-575d-ba2a-41671089d823",
   "name": "LINX",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "LINX is a member-owned Internet Exchange Point (IXP) providing peering services for networks.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
+  "keywords": [
+    "internet exchange",
+    "network peering",
+    "IP transit",
+    "London internet",
+    "network infrastructure",
+    "bandwidth solutions",
+    "data exchange",
+    "IXP services"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d10ecffe-ef23-575d-ba2a-41671089d823"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "ee51c977-d9c0-5681-a10a-709fb865d39c",
   "name": "DeWalt",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "DeWalt sells power tools, hand tools, and accessories, probably with related media content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "power tools",
+    "hand tools",
+    "construction tools",
+    "dewalt tools",
+    "tool accessories",
+    "jobsite equipment",
+    "cordless tools",
+    "woodworking tools"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ee51c977-d9c0-5681-a10a-709fb865d39c"
 }

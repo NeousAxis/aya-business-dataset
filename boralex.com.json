@@ -1,10 +1,17 @@
 {
   "entity_id": "b4ae37cc-d11e-501c-a9e5-8270233579bd",
   "name": "Boralex",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Boralex generates electricity from renewable energy sources like wind, solar, and hydro.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Canada",
+  "keywords": [
+    "renewable energy",
+    "wind",
+    "solar",
+    "hydro",
+    "electricity generation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b4ae37cc-d11e-501c-a9e5-8270233579bd"
 }

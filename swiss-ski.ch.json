@@ -1,10 +1,20 @@
 {
   "entity_id": "996211d5-ea56-50d5-a3ba-b3848f956b35",
   "name": "Swiss Ski",
-  "what_it_does": "Provides menu.",
+  "what_it_does": "Swiss-Ski is the national governing body for skiing and snowboarding in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "skiing",
+    "snowboarding",
+    "Swiss skiing",
+    "Swiss snowboarding",
+    "national ski federation",
+    "winter sports",
+    "alpine sports",
+    "Nordic skiing"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/996211d5-ea56-50d5-a3ba-b3848f956b35"
 }

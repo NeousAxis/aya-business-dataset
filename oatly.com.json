@@ -1,10 +1,20 @@
 {
   "entity_id": "7b434323-ec84-5720-9c74-04e8cfa82e65",
   "name": "Oatly",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Oatly produces and sells oat-based dairy alternative products like oat milk.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
+  "keywords": [
+    "oat milk",
+    "dairy alternatives",
+    "plant-based beverages",
+    "vegan food",
+    "oat based products",
+    "lactose-free",
+    "oat yogurt",
+    "oat cream"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7b434323-ec84-5720-9c74-04e8cfa82e65"
 }

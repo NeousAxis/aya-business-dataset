@@ -1,10 +1,18 @@
 {
   "entity_id": "666ed607-68d0-5788-b823-6e0a12fd8d48",
   "name": "KSA",
-  "what_it_does": "Media & Communication organization.",
+  "what_it_does": "KSA is likely a communications agency in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss media",
+    "communication solutions",
+    "Swiss communications",
+    "media production",
+    "public relations",
+    "media marketing"
+  ],
   "aio_score": 20.0,
   "certificate_url": "https://ai-visionary.com/aya/e/666ed607-68d0-5788-b823-6e0a12fd8d48"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "179fbb61-27ab-5058-9ab5-e2bad092f68d",
   "name": "Teva",
-  "what_it_does": "Provides service.",
+  "what_it_does": "Teva Pharmaceutical Industries develops, manufactures, and markets generic and specialty pharmaceuticals.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "Generic pharmaceuticals",
+    "Specialty medicines",
+    "Pharmaceutical manufacturing",
+    "Drug development",
+    "Healthcare",
+    "Pharmaceuticals",
+    "Medications",
+    "Generic drugs"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/179fbb61-27ab-5058-9ab5-e2bad092f68d"
 }

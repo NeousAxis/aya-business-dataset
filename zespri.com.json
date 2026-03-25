@@ -1,10 +1,20 @@
 {
   "entity_id": "656928b3-0172-5d29-af87-7f153a644138",
   "name": "Zespri",
-  "what_it_does": "Provides product, products.",
+  "what_it_does": "Zespri is a global marketer of kiwifruit.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Belgium",
+  "keywords": [
+    "kiwi fruit",
+    "global fruit marketing",
+    "kiwi export",
+    "horticulture",
+    "fruit distribution",
+    "fresh fruit",
+    "New Zealand kiwis",
+    "kiwi brand"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/656928b3-0172-5d29-af87-7f153a644138"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "f8aa097e-c4bf-5eff-a039-107cdd5bb59d",
   "name": "Trimble",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Trimble provides hardware, software, and services for industries such as agriculture, construction, geospatial, and transportation.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
+  "keywords": [
+    "construction equipment",
+    "agriculture hardware",
+    "surveying instruments",
+    "mapping systems",
+    "global positioning",
+    "site positioning",
+    "laser scanning",
+    "3D modeling"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f8aa097e-c4bf-5eff-a039-107cdd5bb59d"
 }

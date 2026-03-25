@@ -1,10 +1,20 @@
 {
   "entity_id": "8d27a306-ade6-5faa-8932-fa337624168e",
   "name": "Handelsblatt",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "Handelsblatt is a German-language business and financial newspaper.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "German business newspaper",
+    "financial news",
+    "economic news",
+    "business journalism",
+    "German economy",
+    "stock market news",
+    "financial analysis",
+    "corporate news"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8d27a306-ade6-5faa-8932-fa337624168e"
 }

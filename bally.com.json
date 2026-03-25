@@ -1,10 +1,20 @@
 {
   "entity_id": "549d4b5c-1144-5a1f-9898-bdd3d809f5dc",
   "name": "Bally Global",
-  "what_it_does": "Provides delivery, menu, product.",
+  "what_it_does": "Bally Global operates casinos and resorts.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
+  "keywords": [
+    "casinos",
+    "resorts",
+    "gaming",
+    "hospitality",
+    "entertainment",
+    "gambling",
+    "casino hotels",
+    "casino management"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/549d4b5c-1144-5a1f-9898-bdd3d809f5dc"
 }

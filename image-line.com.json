@@ -1,10 +1,19 @@
 {
   "entity_id": "7ea26869-78c6-5e0d-bb09-973afd5ebed1",
   "name": "FL Studio by Image-Line",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Image-Line develops and sells FL Studio, a digital audio workstation software.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "digital audio workstation",
+    "music production",
+    "audio recording",
+    "MIDI sequencing",
+    "virtual instruments",
+    "music creation",
+    "audio software"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7ea26869-78c6-5e0d-bb09-973afd5ebed1"
 }

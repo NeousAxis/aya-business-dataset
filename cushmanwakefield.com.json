@@ -1,10 +1,19 @@
 {
   "entity_id": "1aa466e7-93fe-5ab0-8393-9994bf8dcba0",
   "name": "Cushman & Wakefield",
-  "what_it_does": "Provides api, menu, product.",
+  "what_it_does": "Cushman & Wakefield is a commercial real estate services firm.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
+  "keywords": [
+    "commercial real estate",
+    "property management",
+    "real estate brokerage",
+    "tenant representation",
+    "investment management",
+    "corporate real estate",
+    "valuation advisory"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1aa466e7-93fe-5ab0-8393-9994bf8dcba0"
 }

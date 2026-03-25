@@ -1,10 +1,20 @@
 {
   "entity_id": "a020bae7-3082-5492-b116-2d06de3d5cf5",
   "name": "Sun Life",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Sun Life provides insurance, wealth management, and asset management solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "insurance",
+    "wealth management",
+    "financial planning",
+    "life insurance",
+    "retirement planning",
+    "asset management",
+    "employee benefits",
+    "investment products"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a020bae7-3082-5492-b116-2d06de3d5cf5"
 }

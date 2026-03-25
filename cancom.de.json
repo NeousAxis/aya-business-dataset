@@ -1,10 +1,18 @@
 {
   "entity_id": "952fac56-f5d4-5b98-a90c-c1dd733fcdda",
   "name": "CANCOM",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "CANCOM provides IT solutions and services, including cloud, infrastructure, and security solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
+  "keywords": [
+    "IT solutions",
+    "cloud infrastructure",
+    "IT security",
+    "managed IT",
+    "IT consulting",
+    "enterprise IT"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/952fac56-f5d4-5b98-a90c-c1dd733fcdda"
 }

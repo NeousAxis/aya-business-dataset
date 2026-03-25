@@ -1,10 +1,19 @@
 {
   "entity_id": "ca1e8285-c372-53ef-9164-8353051e0bcc",
   "name": "Generali Group",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Generali Group is a global insurance and asset management company.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "global insurance",
+    "asset management",
+    "financial products",
+    "insurance policies",
+    "risk management",
+    "investment strategies",
+    "financial services"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ca1e8285-c372-53ef-9164-8353051e0bcc"
 }

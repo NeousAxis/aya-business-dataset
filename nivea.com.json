@@ -1,10 +1,14 @@
 {
   "entity_id": "ad72d1b5-85e3-5260-8e9e-6731a05a9b7a",
   "name": "NIVEA",
-  "what_it_does": "Non détecté organization.",
+  "what_it_does": "NIVEA manufactures and sells skincare and personal care products.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
+  "keywords": [
+    "skincare",
+    "personal care"
+  ],
   "aio_score": 25.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ad72d1b5-85e3-5260-8e9e-6731a05a9b7a"
 }

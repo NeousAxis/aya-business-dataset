@@ -1,10 +1,19 @@
 {
   "entity_id": "f67d35cc-339b-5db9-85e4-cc4433cb2b17",
   "name": "ADP Official Site",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "ADP provides human resources management software and services, including payroll processing and benefits administration.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
+  "keywords": [
+    "human capital",
+    "payroll",
+    "HR",
+    "talent",
+    "benefits",
+    "workforce",
+    "compliance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f67d35cc-339b-5db9-85e4-cc4433cb2b17"
 }

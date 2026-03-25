@@ -1,10 +1,20 @@
 {
   "entity_id": "4932607d-da21-55d2-a94b-8cb898f42f02",
   "name": "Icom Inc.",
-  "what_it_does": "Non détecté organization.",
+  "what_it_does": "Icom Inc. manufactures two-way radio communication equipment.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Japan",
+  "keywords": [
+    "two-way radios",
+    "radio communication equipment",
+    "land mobile radio",
+    "marine radios",
+    "amateur radio",
+    "wireless communication",
+    "radio transceivers",
+    "communication devices"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4932607d-da21-55d2-a94b-8cb898f42f02"
 }

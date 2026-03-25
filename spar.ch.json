@@ -1,10 +1,20 @@
 {
   "entity_id": "132ff61f-fba1-5b25-9189-b0b557da0f84",
   "name": "SPAR Handels AG",
-  "what_it_does": "Provides app.",
+  "what_it_does": "SPAR Handels AG is a Swiss retail company operating SPAR supermarkets and convenience stores, focused on retail trade.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "swiss supermarkets",
+    "convenience stores",
+    "grocery retail",
+    "food products",
+    "retail chain",
+    "consumer goods",
+    "spar stores",
+    "swiss retail"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/132ff61f-fba1-5b25-9189-b0b557da0f84"
 }

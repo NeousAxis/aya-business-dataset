@@ -1,10 +1,13 @@
 {
   "entity_id": "ad8d75c4-b017-5638-a74e-100c8ea65127",
   "name": "Genève Aéroport",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Genève Aéroport manages and operates the Geneva Airport.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
+  "keywords": [
+    "airport"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ad8d75c4-b017-5638-a74e-100c8ea65127"
 }

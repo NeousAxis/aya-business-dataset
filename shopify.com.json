@@ -1,10 +1,20 @@
 {
   "entity_id": "de1269e6-009f-5c09-81b9-0f9ad8a6244d",
   "name": "Shopify",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Shopify provides a platform for businesses to build and manage online stores.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Belgium",
+  "keywords": [
+    "e-commerce platform",
+    "storefront builder",
+    "shopping carts",
+    "payment gateways",
+    "e-commerce tools",
+    "merchant solutions",
+    "small retail",
+    "subscription commerce"
+  ],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/de1269e6-009f-5c09-81b9-0f9ad8a6244d"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "984dd523-6e2e-50af-bd12-17714471afe4",
   "name": "JCDecaux",
-  "what_it_does": "Provides menu, service, services.",
+  "what_it_does": "JCDecaux provides outdoor advertising solutions, including billboards and street furniture.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "outdoor advertising",
+    "billboards",
+    "street furniture",
+    "transit advertising",
+    "advertising displays",
+    "urban communication",
+    "out-of-home media",
+    "advertising spaces"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/984dd523-6e2e-50af-bd12-17714471afe4"
 }

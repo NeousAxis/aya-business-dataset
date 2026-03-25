@@ -1,10 +1,19 @@
 {
   "entity_id": "3549e423-8e4b-51b3-94b6-7a878f969a92",
   "name": "ZKTeco",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "ZKTeco manufactures biometric identification and security products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "biometric identification",
+    "access control",
+    "security products",
+    "time attendance",
+    "facial recognition",
+    "fingerprint scanners",
+    "security solutions"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3549e423-8e4b-51b3-94b6-7a878f969a92"
 }

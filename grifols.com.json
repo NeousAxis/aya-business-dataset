@@ -1,10 +1,19 @@
 {
   "entity_id": "76bfc1dd-b96a-5d9b-83d2-c5b9e780becb",
   "name": "Grifols",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Grifols is a global healthcare company that produces plasma-derived medicines and provides hospital pharmacy solutions.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Spain",
+  "keywords": [
+    "plasma-derived therapies",
+    "healthcare",
+    "pharmaceuticals",
+    "intravenous solutions",
+    "biopharmaceuticals",
+    "albumin",
+    "immunoglobulins"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/76bfc1dd-b96a-5d9b-83d2-c5b9e780becb"
 }

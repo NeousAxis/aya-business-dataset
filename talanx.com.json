@@ -1,10 +1,20 @@
 {
   "entity_id": "d4467969-935e-54e2-9bb4-695e726cad19",
   "name": "Talanx",
-  "what_it_does": "Provides api, service.",
+  "what_it_does": "Talanx is an insurance group offering a range of insurance products and services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "property insurance",
+    "casualty insurance",
+    "life insurance",
+    "health insurance",
+    "risk coverage",
+    "insurance group",
+    "financial services",
+    "insurance solutions"
+  ],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d4467969-935e-54e2-9bb4-695e726cad19"
 }

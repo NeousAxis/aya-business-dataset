@@ -1,10 +1,20 @@
 {
   "entity_id": "af247740-8ba3-55af-a09f-40fbc9f7c590",
   "name": "Official EA Site",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Electronic Arts develops and publishes video games for consoles, PCs, and mobile devices.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "video games",
+    "game development",
+    "console games",
+    "PC games",
+    "mobile games",
+    "interactive entertainment",
+    "gaming industry",
+    "entertainment software"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/af247740-8ba3-55af-a09f-40fbc9f7c590"
 }

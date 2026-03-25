@@ -1,10 +1,20 @@
 {
   "entity_id": "ed357b6a-c532-5e9b-ae6c-2625ccef145a",
   "name": "Amazon",
-  "what_it_does": "Provides app, cloud, delivery.",
+  "what_it_does": "Amazon is a global e-commerce and cloud computing company offering a vast range of products and services.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
+  "keywords": [
+    "retail marketplace",
+    "ecommerce",
+    "consumer goods",
+    "online retail",
+    "apparel",
+    "accessories",
+    "luxury goods",
+    "fashion"
+  ],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ed357b6a-c532-5e9b-ae6c-2625ccef145a"
 }

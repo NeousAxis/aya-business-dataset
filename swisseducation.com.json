@@ -1,10 +1,20 @@
 {
   "entity_id": "8a8d895b-fce8-5f74-a468-3c2753261083",
   "name": "SEG",
-  "what_it_does": "Provides app, solution, solutions.",
+  "what_it_does": "SEG provides education and training in hospitality and culinary arts through a network of Swiss hospitality schools.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
+  "keywords": [
+    "hospitality education",
+    "hotel management schools",
+    "Swiss hospitality",
+    "culinary arts",
+    "tourism management",
+    "hotel operations",
+    "business degrees",
+    "swiss education group"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8a8d895b-fce8-5f74-a468-3c2753261083"
 }

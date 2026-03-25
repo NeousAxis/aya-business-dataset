@@ -1,10 +1,20 @@
 {
   "entity_id": "f45980b7-a24f-5ef9-89f4-5d0bc1d18b5e",
   "name": "Grandstream Networks",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Grandstream Networks manufactures IP voice, video, data and mobility solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "IP phones",
+    "video conferencing",
+    "VoIP solutions",
+    "communication endpoints",
+    "network devices",
+    "unified communications",
+    "business communications",
+    "IP PBX systems"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f45980b7-a24f-5ef9-89f4-5d0bc1d18b5e"
 }

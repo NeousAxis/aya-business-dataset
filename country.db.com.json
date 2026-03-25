@@ -1,10 +1,20 @@
 {
   "entity_id": "940524c5-2f7d-5098-a74e-0b3eee34c119",
   "name": "Country",
-  "what_it_does": "Provides app, offre, produit.",
+  "what_it_does": "Country is Deutsche Bank's platform for financial services in France.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
+  "keywords": [
+    "French financial services",
+    "Deutsche Bank",
+    "banking services",
+    "investment products",
+    "financial solutions",
+    "corporate banking",
+    "wealth management",
+    "France banking"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/940524c5-2f7d-5098-a74e-0b3eee34c119"
 }

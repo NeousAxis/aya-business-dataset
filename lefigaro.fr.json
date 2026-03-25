@@ -1,10 +1,20 @@
 {
   "entity_id": "231e9e0b-ab8c-5030-8f91-842dec3625d4",
   "name": "Le Figaro",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Le Figaro is a French daily newspaper.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
+  "keywords": [
+    "french newspaper",
+    "news publication",
+    "current events",
+    "political news",
+    "cultural news",
+    "france news",
+    "daily newspaper",
+    "breaking news"
+  ],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/231e9e0b-ab8c-5030-8f91-842dec3625d4"
 }

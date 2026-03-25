@@ -1,10 +1,20 @@
 {
   "entity_id": "7062db04-d309-5425-a290-78f166d48e5e",
   "name": "Axis Max Life Insurance",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Axis Max Life Insurance offers life insurance products in India.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "India",
+  "keywords": [
+    "life insurance",
+    "insurance products",
+    "term life insurance",
+    "ULIPs",
+    "savings plans",
+    "India insurance",
+    "retirement planning",
+    "protection plans"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7062db04-d309-5425-a290-78f166d48e5e"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "0c02de99-ba29-5a33-ad38-1ab81ffad72d",
   "name": "OMV Aktiengesellschaft",
-  "what_it_does": "Provides app, menu, platform.",
+  "what_it_does": "OMV Aktiengesellschaft is an integrated oil, gas, and chemical company.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "integrated oil",
+    "natural gas",
+    "petrochemicals",
+    "crude oil",
+    "fuel products",
+    "plastic products",
+    "energy exploration",
+    "gas stations"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0c02de99-ba29-5a33-ad38-1ab81ffad72d"
 }

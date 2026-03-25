@@ -1,10 +1,18 @@
 {
   "entity_id": "03378944-7cc5-5413-b226-35a0fa3b02b3",
   "name": "Imperial College London",
-  "what_it_does": "Provides app, menu, service.",
+  "what_it_does": "Imperial College London is a public research university focusing on science, engineering, medicine and business.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
+  "keywords": [
+    "research",
+    "university",
+    "science",
+    "engineering",
+    "medicine",
+    "education"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/03378944-7cc5-5413-b226-35a0fa3b02b3"
 }

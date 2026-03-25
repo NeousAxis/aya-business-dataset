@@ -1,10 +1,18 @@
 {
   "entity_id": "a925e453-1127-565b-9fc6-716d6e6ffaa9",
   "name": "KLESIA",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "KLESIA is a French group that provides services related to supplementary social protection for companies and individuals.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "France",
+  "keywords": [
+    "French social protection",
+    "supplementary health insurance",
+    "employee benefits",
+    "group insurance",
+    "retirement planning",
+    "KLESIA France"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a925e453-1127-565b-9fc6-716d6e6ffaa9"
 }

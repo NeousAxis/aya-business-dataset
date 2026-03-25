@@ -1,10 +1,20 @@
 {
   "entity_id": "58165507-67ba-50ad-92fc-a2d2e0245d16",
   "name": "CRED. not everyone gets it.",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "CRED is a platform that offers rewards and benefits for users who pay their credit card bills through the app.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "credit card rewards",
+    "bill payment rewards",
+    "credit card benefits",
+    "financial rewards",
+    "premium credit cards",
+    "exclusive offers",
+    "credit score",
+    "payment platform"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/58165507-67ba-50ad-92fc-a2d2e0245d16"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "f8bddd58-cf7b-55fa-bf09-ec462a16992d",
   "name": "GROHE",
-  "what_it_does": "Provides product, products, service.",
+  "what_it_does": "GROHE manufactures and sells sanitary fittings and kitchen faucets.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "bathroom faucets",
+    "kitchen faucets",
+    "sanitary fittings",
+    "bathroom fixtures",
+    "kitchen fixtures",
+    "plumbing products",
+    "shower systems",
+    "water taps"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f8bddd58-cf7b-55fa-bf09-ec462a16992d"
 }

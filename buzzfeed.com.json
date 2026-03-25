@@ -1,10 +1,20 @@
 {
   "entity_id": "8a81202f-c030-57cc-8980-e8e00f99ad18",
   "name": "BuzzFeed",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "BuzzFeed publishes news, entertainment, and lifestyle content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Australia",
+  "keywords": [
+    "news articles",
+    "viral content",
+    "entertainment news",
+    "online quizzes",
+    "internet memes",
+    "social media news",
+    "digital media",
+    "trending stories"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8a81202f-c030-57cc-8980-e8e00f99ad18"
 }

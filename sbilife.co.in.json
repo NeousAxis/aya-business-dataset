@@ -1,10 +1,19 @@
 {
   "entity_id": "08d1a218-4b84-5c79-97aa-f3d76346ceb5",
   "name": "SBI Life",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "SBI Life provides life insurance products in India.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "India",
+  "keywords": [
+    "life insurance products",
+    "insurance policies",
+    "term insurance",
+    "endowment plans",
+    "retirement plans",
+    "India insurance",
+    "life cover"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/08d1a218-4b84-5c79-97aa-f3d76346ceb5"
 }

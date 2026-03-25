@@ -1,10 +1,19 @@
 {
   "entity_id": "6f5c1ffb-74a5-5c6a-bab5-4018cef87d08",
   "name": "Commercetools",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Commercetools provides a cloud-based, headless commerce platform for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
+  "keywords": [
+    "headless commerce",
+    "cloud commerce",
+    "API commerce",
+    "composable commerce",
+    "e-commerce",
+    "digital commerce",
+    "commerce infrastructure"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6f5c1ffb-74a5-5c6a-bab5-4018cef87d08"
 }

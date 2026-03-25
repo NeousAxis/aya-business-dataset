@@ -1,10 +1,18 @@
 {
   "entity_id": "9f33f115-6ce0-5b33-a9ae-47e14fa2baaa",
   "name": "Consiglio Nazionale degli Ingegneri",
-  "what_it_does": "Provides app.",
+  "what_it_does": "I don't know what Consiglio Nazionale degli Ingegneri does.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Italy",
+  "keywords": [
+    "Italian engineers",
+    "engineering standards",
+    "professional engineers",
+    "engineering regulation",
+    "Italy engineering",
+    "engineer certification"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f33f115-6ce0-5b33-a9ae-47e14fa2baaa"
 }

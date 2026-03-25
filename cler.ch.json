@@ -1,10 +1,18 @@
 {
   "entity_id": "3667f280-e89b-5775-abff-c4a0b1f3715f",
   "name": "Bank Cler",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Bank Cler is a Swiss retail bank.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss banking",
+    "retail banking",
+    "corporate banking",
+    "financial institution",
+    "banking services",
+    "personal finance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3667f280-e89b-5775-abff-c4a0b1f3715f"
 }

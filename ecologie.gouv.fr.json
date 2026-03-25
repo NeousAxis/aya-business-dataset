@@ -1,10 +1,20 @@
 {
   "entity_id": "8e3a5c55-dc5d-5e02-978c-660d0e16ecbe",
   "name": "Ecologie",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Ecologie (Ministère de la Transition écologique) is the French ministry responsible for ecological transition.",
   "for_who": "Businesses and professionals.",
   "category": "Administration & Public",
   "location": "France",
+  "keywords": [
+    "ecological transition",
+    "environmental policy",
+    "sustainable development",
+    "French government",
+    "climate change",
+    "environmental protection",
+    "energy transition",
+    "biodiversity conservation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8e3a5c55-dc5d-5e02-978c-660d0e16ecbe"
 }

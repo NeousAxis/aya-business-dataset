@@ -1,10 +1,17 @@
 {
   "entity_id": "81531238-cf82-5e27-ad57-2a01755ba296",
   "name": "ENI",
-  "what_it_does": "Provides api, app, offre.",
+  "what_it_does": "ENI is a multinational oil and gas company involved in exploration, production, and distribution.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "oil",
+    "gas",
+    "exploration",
+    "production",
+    "distribution"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/81531238-cf82-5e27-ad57-2a01755ba296"
 }

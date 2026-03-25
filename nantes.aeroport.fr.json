@@ -1,10 +1,20 @@
 {
   "entity_id": "197dd390-796a-533f-ae3e-ff6769c4852c",
   "name": "Aéroport Nantes Atlantique",
-  "what_it_does": "Provides api, offre, restaurant.",
+  "what_it_does": "Aéroport Nantes Atlantique manages and operates the Nantes Atlantique Airport in France.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
+  "keywords": [
+    "airport operations",
+    "air travel",
+    "passenger flights",
+    "air cargo",
+    "airport management",
+    "aviation services",
+    "Nantes France",
+    "airport infrastructure"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/197dd390-796a-533f-ae3e-ff6769c4852c"
 }

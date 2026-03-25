@@ -1,10 +1,18 @@
 {
   "entity_id": "3e953349-3491-52c2-9329-d131b372cc63",
   "name": "Université Paris Cité",
-  "what_it_does": "Provides app, offre, product.",
+  "what_it_does": "Université Paris Cité is a public research university in Paris, France.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
+  "keywords": [
+    "Paris university",
+    "French university",
+    "public research",
+    "higher learning",
+    "academic institution",
+    "research university"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3e953349-3491-52c2-9329-d131b372cc63"
 }

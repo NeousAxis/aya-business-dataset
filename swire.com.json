@@ -1,10 +1,20 @@
 {
   "entity_id": "e70ee189-9360-569b-a75c-5b41f318cb93",
   "name": "Swire",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "Swire is a diversified multinational conglomerate with interests in property, aviation, beverages, and marine services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "diversified conglomerate",
+    "property development",
+    "aviation",
+    "beverages",
+    "marine services",
+    "trading & industrial",
+    "agribusiness",
+    "retail"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e70ee189-9360-569b-a75c-5b41f318cb93"
 }

@@ -1,10 +1,18 @@
 {
   "entity_id": "2669a089-ee7f-5824-88c2-5aa562b5fb3e",
   "name": "Unctad",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "UNCTAD is a United Nations agency dealing with trade, investment, and development issues.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "trade and development",
+    "United Nations agency",
+    "investment promotion",
+    "economic development",
+    "international trade",
+    "global economics"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2669a089-ee7f-5824-88c2-5aa562b5fb3e"
 }

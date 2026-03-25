@@ -1,10 +1,20 @@
 {
   "entity_id": "89ab5cb0-02bb-52e9-a120-5b8f5f8f7e21",
   "name": "CT Lottery Official Web Site",
-  "what_it_does": "Provides app, menu.",
+  "what_it_does": "The CT Lottery operates and manages lottery games in the state of Connecticut.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "Connecticut lottery games",
+    "lottery drawings",
+    "scratch tickets",
+    "CT Lottery results",
+    "state lottery",
+    "lotto games",
+    "gambling",
+    "prize payouts"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/89ab5cb0-02bb-52e9-a120-5b8f5f8f7e21"
 }

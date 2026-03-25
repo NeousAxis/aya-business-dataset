@@ -1,10 +1,19 @@
 {
   "entity_id": "fd9256d2-b8f9-5248-8182-7bb9fadf9f93",
   "name": "SK hynix",
-  "what_it_does": "Provides product, products, solution.",
+  "what_it_does": "SK hynix manufactures semiconductor memory products like DRAM and NAND flash.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "South Korea",
+  "keywords": [
+    "semiconductor memory",
+    "DRAM",
+    "NAND flash",
+    "memory chips",
+    "integrated circuits",
+    "data storage",
+    "electronics components"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fd9256d2-b8f9-5248-8182-7bb9fadf9f93"
 }

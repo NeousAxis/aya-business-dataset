@@ -1,10 +1,20 @@
 {
   "entity_id": "387a2bd4-7fdf-5016-80d6-96b8f7a17580",
   "name": "SIXT",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "SIXT is a car rental company.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Belgium",
+  "keywords": [
+    "car rentals",
+    "rental cars",
+    "vehicle hire",
+    "airport rentals",
+    "car leasing",
+    "mobility solutions",
+    "vehicle rental services",
+    "automotive rentals"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/387a2bd4-7fdf-5016-80d6-96b8f7a17580"
 }

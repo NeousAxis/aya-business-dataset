@@ -1,10 +1,20 @@
 {
   "entity_id": "ec0f4b7e-5dbd-5b64-887e-79256bb32cf1",
   "name": "Midea global",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Midea manufactures and sells a range of consumer appliances and HVAC systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Canada",
+  "keywords": [
+    "home appliances",
+    "air conditioners",
+    "refrigerators",
+    "washing machines",
+    "kitchen appliances",
+    "consumer electronics",
+    "Midea products",
+    "cooling appliances"
+  ],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec0f4b7e-5dbd-5b64-887e-79256bb32cf1"
 }

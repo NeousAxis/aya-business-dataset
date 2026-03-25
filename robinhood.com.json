@@ -1,10 +1,20 @@
 {
   "entity_id": "07c1cab5-33cb-5a03-9ea9-4c5eb07f59cc",
   "name": "Robinhood",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Robinhood offers a commission-free stock trading and investment platform.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United States",
+  "keywords": [
+    "stock trading",
+    "options trading",
+    "cryptocurrency trading",
+    "commission-free trading",
+    "brokerage",
+    "investment platform",
+    "retail investors",
+    "financial markets"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/07c1cab5-33cb-5a03-9ea9-4c5eb07f59cc"
 }

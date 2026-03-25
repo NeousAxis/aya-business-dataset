@@ -1,10 +1,20 @@
 {
   "entity_id": "bef751ca-500c-59bf-a2ed-8e3a87598ae4",
   "name": "Audemars Piguet",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Audemars Piguet is a Swiss manufacturer of luxury mechanical watches.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
+  "keywords": [
+    "Swiss watches",
+    "luxury timepieces",
+    "mechanical watches",
+    "haute horlogerie",
+    "fine watchmaking",
+    "luxury goods",
+    "prestige watches",
+    "collector watches"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bef751ca-500c-59bf-a2ed-8e3a87598ae4"
 }

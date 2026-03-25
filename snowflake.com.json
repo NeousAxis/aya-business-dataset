@@ -1,10 +1,17 @@
 {
   "entity_id": "33d65995-3fbb-55da-a0ec-e309f1ca08ef",
   "name": "Mobilize Data, Apps, and AI",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Snowflake provides a cloud-based data warehousing platform for data storage, processing, and analytics.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
+  "keywords": [
+    "cloud",
+    "data warehousing",
+    "data storage",
+    "processing",
+    "analytics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/33d65995-3fbb-55da-a0ec-e309f1ca08ef"
 }

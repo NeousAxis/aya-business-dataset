@@ -1,10 +1,19 @@
 {
   "entity_id": "61ed0346-627c-58b0-a9be-0df8cef576e9",
   "name": "Ministère de la Culture",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "The Ministère de la Culture is the French government ministry responsible for arts and culture.",
   "for_who": "Businesses and professionals.",
   "category": "Administration & Public",
   "location": "France",
+  "keywords": [
+    "French arts",
+    "cultural heritage",
+    "art promotion",
+    "cultural policy",
+    "French culture",
+    "art preservation",
+    "cultural affairs"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/61ed0346-627c-58b0-a9be-0df8cef576e9"
 }

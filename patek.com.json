@@ -1,10 +1,20 @@
 {
   "entity_id": "2b718bd3-1f41-5cfe-964e-cffa217f1b05",
   "name": "Patek Philippe Official Site",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Patek Philippe manufactures and sells luxury watches.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
+  "keywords": [
+    "luxury watches",
+    "Swiss watches",
+    "haute horlogerie",
+    "prestige timepieces",
+    "mechanical watches",
+    "watchmaking",
+    "expensive watches",
+    "men's watches"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2b718bd3-1f41-5cfe-964e-cffa217f1b05"
 }

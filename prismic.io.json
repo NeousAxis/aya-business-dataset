@@ -1,10 +1,20 @@
 {
   "entity_id": "0e39fba1-e637-5785-992a-d3332e4acfe6",
   "name": "Prismic",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "Prismic provides a headless content management system for building websites and applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "headless CMS",
+    "content management",
+    "website builder",
+    "content creation",
+    "digital experience",
+    "developer tools",
+    "API-first CMS",
+    "content repository"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0e39fba1-e637-5785-992a-d3332e4acfe6"
 }

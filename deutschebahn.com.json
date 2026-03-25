@@ -1,10 +1,20 @@
 {
   "entity_id": "a5384699-8a9a-5ee9-a86f-40e9af041734",
   "name": "DB Konzern",
-  "what_it_does": "Provides app, consulting, service.",
+  "what_it_does": "Deutsche Bahn (DB) Konzern operates railway transport and logistics services in Germany and internationally.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
+  "keywords": [
+    "German railway",
+    "rail freight",
+    "passenger transport Germany",
+    "logistics solutions",
+    "international transport",
+    "rail network",
+    "transportation services",
+    "intercity travel"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a5384699-8a9a-5ee9-a86f-40e9af041734"
 }

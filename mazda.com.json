@@ -1,10 +1,20 @@
 {
   "entity_id": "9611f283-b5f0-5ed7-9312-920b183b5550",
   "name": "MAZDA MOTOR CORPORATION GLOBAL WEBSITE",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Mazda Motor Corporation designs, manufactures, and sells automobiles.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
+  "keywords": [
+    "automobile manufacturing",
+    "car design",
+    "vehicle sales",
+    "automotive engineering",
+    "motor vehicles",
+    "auto industry",
+    "car production",
+    "vehicle technology"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9611f283-b5f0-5ed7-9312-920b183b5550"
 }

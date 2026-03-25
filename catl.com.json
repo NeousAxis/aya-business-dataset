@@ -1,10 +1,19 @@
 {
   "entity_id": "2f44a12c-1187-5eaa-b7c9-ee8dcd327937",
   "name": "CATL",
-  "what_it_does": "Non détecté organization.",
+  "what_it_does": "CATL (Contemporary Amperex Technology Co. Limited) develops and manufactures lithium-ion batteries for electric vehicles and energy storage systems.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "China",
+  "keywords": [
+    "lithium-ion batteries",
+    "electric vehicle batteries",
+    "battery manufacturer",
+    "energy storage",
+    "battery systems",
+    "automotive batteries",
+    "ev components"
+  ],
   "aio_score": 25.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2f44a12c-1187-5eaa-b7c9-ee8dcd327937"
 }

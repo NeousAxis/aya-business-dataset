@@ -1,10 +1,19 @@
 {
   "entity_id": "d64738c8-0a54-5127-812d-882192bab079",
   "name": "SIGNAL IDUNA",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "SIGNAL IDUNA is a German insurance and financial services company.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Germany",
+  "keywords": [
+    "health insurance",
+    "life insurance",
+    "property insurance",
+    "financial planning",
+    "German insurance",
+    "retirement plans",
+    "asset accumulation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d64738c8-0a54-5127-812d-882192bab079"
 }

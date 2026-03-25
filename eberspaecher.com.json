@@ -1,10 +1,19 @@
 {
   "entity_id": "5ae5b325-8d79-5f6f-9960-beaf5d10b6a4",
   "name": "Eberspächer Gruppe",
-  "what_it_does": "Provides service, services, solution.",
+  "what_it_does": "Eberspächer Group develops and manufactures exhaust technology, vehicle heaters, and automotive electronics.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "automotive exhaust technology",
+    "vehicle heating systems",
+    "automotive electronics",
+    "emission control",
+    "automotive components",
+    "exhaust systems",
+    "thermal management"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5ae5b325-8d79-5f6f-9960-beaf5d10b6a4"
 }

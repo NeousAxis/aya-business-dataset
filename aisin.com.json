@@ -1,10 +1,19 @@
 {
   "entity_id": "151e4b03-2ff9-5b8c-826f-4573c78a2177",
   "name": "AISIN CORPORATION Global Website",
-  "what_it_does": "Provides menu, product, products.",
+  "what_it_does": "AISIN Corporation manufactures and supplies automotive parts and systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "automotive parts",
+    "automotive systems",
+    "vehicle components",
+    "powertrain products",
+    "chassis systems",
+    "body systems",
+    "electronics for cars"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/151e4b03-2ff9-5b8c-826f-4573c78a2177"
 }

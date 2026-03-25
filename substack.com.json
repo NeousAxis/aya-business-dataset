@@ -1,10 +1,20 @@
 {
   "entity_id": "2c355353-6d4a-5761-8063-c2fedacc6742",
   "name": "Substack",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Substack is a platform for independent writers to publish and monetize newsletters.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "independent writers",
+    "newsletter publishing",
+    "paid subscriptions",
+    "email newsletters",
+    "content monetization",
+    "writer platform",
+    "subscription newsletters",
+    "editorial tools"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2c355353-6d4a-5761-8063-c2fedacc6742"
 }

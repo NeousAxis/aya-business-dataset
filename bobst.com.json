@@ -1,10 +1,19 @@
 {
   "entity_id": "faea2a2c-a925-5e01-8939-9bda6483bcc8",
   "name": "BOBST",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "BOBST manufactures printing and packaging equipment.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "printing equipment",
+    "packaging machinery",
+    "labeling",
+    "folding",
+    "gluing",
+    "die-cutting",
+    "converting equipment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/faea2a2c-a925-5e01-8939-9bda6483bcc8"
 }

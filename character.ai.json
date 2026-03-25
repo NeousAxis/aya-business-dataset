@@ -1,10 +1,20 @@
 {
   "entity_id": "d1cef533-4407-5eee-9034-f44aae2a8283",
   "name": "Character",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Character.ai develops AI-powered chatbots and virtual characters.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "IA characters",
+    "AI chatbots",
+    "conversational AI",
+    "neural language models",
+    "character creation",
+    "AI personalities",
+    "virtual companions",
+    "artificial intelligence"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d1cef533-4407-5eee-9034-f44aae2a8283"
 }

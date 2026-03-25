@@ -1,10 +1,20 @@
 {
   "entity_id": "cbeb2898-f7a6-5109-8db9-064c441b29d2",
   "name": "Teamtailor",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Teamtailor provides a cloud-based applicant tracking system and recruitment platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "applicant tracking",
+    "recruitment",
+    "ATS",
+    "candidate sourcing",
+    "talent acquisition",
+    "recruiting tools",
+    "cloud recruitment",
+    "hiring software"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cbeb2898-f7a6-5109-8db9-064c441b29d2"
 }

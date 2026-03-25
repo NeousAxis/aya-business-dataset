@@ -1,10 +1,19 @@
 {
   "entity_id": "71a04250-4ea7-56c3-a3a8-e0ce182fc880",
   "name": "Helaba",
-  "what_it_does": "Provides api, service.",
+  "what_it_does": "Helaba is a commercial bank providing financial services to businesses, institutional investors, and the public sector.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "corporate banking",
+    "financial services",
+    "institutional investment",
+    "commercial finance",
+    "asset management",
+    "investment banking",
+    "real estate finance"
+  ],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/71a04250-4ea7-56c3-a3a8-e0ce182fc880"
 }

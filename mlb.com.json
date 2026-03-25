@@ -1,10 +1,20 @@
 {
   "entity_id": "c240a75c-8c8a-5981-91d4-b525e9493827",
   "name": "MLB.com",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "MLB.com provides news, scores, statistics, and official content for Major League Baseball.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "baseball",
+    "ligue majeure de baseball",
+    "actualités sportives",
+    "scores",
+    "statistiques baseball",
+    "MLB",
+    "sports",
+    "baseball américain"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c240a75c-8c8a-5981-91d4-b525e9493827"
 }

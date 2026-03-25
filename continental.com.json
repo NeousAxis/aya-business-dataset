@@ -1,10 +1,20 @@
 {
   "entity_id": "b1ee960b-20e6-53bb-8e90-2ac699611e2d",
   "name": "Continental",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Continental manufactures tires, automotive components, and industrial products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "tire manufacturing",
+    "automotive components",
+    "industrial products",
+    "rubber products",
+    "vehicle parts",
+    "automotive industry",
+    "automotive engineering",
+    "braking systems"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b1ee960b-20e6-53bb-8e90-2ac699611e2d"
 }

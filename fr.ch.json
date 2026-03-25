@@ -1,10 +1,20 @@
 {
   "entity_id": "6b356af7-d3be-5d8c-a4d0-a453bcb9c39b",
   "name": "Site officiel de l'Etat de Fribourg",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "The official website of the State of Fribourg provides information and services for residents and businesses in the Swiss canton of Fribourg.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "cantonal government",
+    "public administration",
+    "government",
+    "Fribourg canton",
+    "state services",
+    "citizen services",
+    "regional government",
+    "public information"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6b356af7-d3be-5d8c-a4d0-a453bcb9c39b"
 }

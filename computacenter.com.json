@@ -1,10 +1,20 @@
 {
   "entity_id": "0193f06d-8227-58aa-ad9c-2f54a43c5db2",
   "name": "Challenges in Cloud Migration",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Computacenter provides IT infrastructure and services to businesses.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Netherlands",
+  "keywords": [
+    "IT infrastructure",
+    "IT services",
+    "enterprise IT",
+    "managed IT",
+    "cloud solutions",
+    "data center",
+    "IT consulting",
+    "workplace solutions"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0193f06d-8227-58aa-ad9c-2f54a43c5db2"
 }

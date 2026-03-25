@@ -1,10 +1,20 @@
 {
   "entity_id": "a07dcc6a-4583-5262-addc-04a01d898fe4",
   "name": "Walgreens",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Walgreens is a retail pharmacy chain that sells prescription drugs, health and wellness products, and other consumer goods.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "pharmacy chain",
+    "prescription drugs",
+    "health products",
+    "beauty products",
+    "retail pharmacy",
+    "drugstore",
+    "over-the-counter medications",
+    "wellness products"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a07dcc6a-4583-5262-addc-04a01d898fe4"
 }

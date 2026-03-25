@@ -1,10 +1,20 @@
 {
   "entity_id": "317f6736-4ab9-58be-a072-9f4880a94168",
   "name": "Ivalua",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Ivalua provides a cloud-based spend management platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "spend management",
+    "cloud procurement",
+    "e-procurement",
+    "source-to-pay",
+    "supplier relationship management",
+    "contract lifecycle",
+    "financial spend control",
+    "purchasing workflows"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/317f6736-4ab9-58be-a072-9f4880a94168"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "adb7b903-fb21-5279-a5c1-c8ec05c3cfa6",
   "name": "Jabra",
-  "what_it_does": "Provides app, delivery, platform.",
+  "what_it_does": "Jabra designs, develops, and markets audio and video solutions, including headsets, speakerphones, and earbuds.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Belgium",
+  "keywords": [
+    "audio equipment",
+    "video equipment",
+    "earphones",
+    "headsets",
+    "speakerphones",
+    "enterprise audio",
+    "consumer electronics",
+    "unified communications"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/adb7b903-fb21-5279-a5c1-c8ec05c3cfa6"
 }

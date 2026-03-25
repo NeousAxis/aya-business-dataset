@@ -1,10 +1,20 @@
 {
   "entity_id": "1d07e1fc-4c9a-5094-839e-2fb8aa997b6c",
   "name": "dormakaba Sverige",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "dormakaba provides access control and security solutions, including door hardware, locks, and access management systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
+  "keywords": [
+    "access control",
+    "security solutions",
+    "door hardware",
+    "electronic locks",
+    "entrance systems",
+    "building security",
+    "Sweden access",
+    "Sverige security"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1d07e1fc-4c9a-5094-839e-2fb8aa997b6c"
 }

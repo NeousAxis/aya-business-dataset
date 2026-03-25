@@ -1,10 +1,19 @@
 {
   "entity_id": "4193157e-2b03-521b-ab98-c4a220518132",
   "name": "design contest",
-  "what_it_does": "Provides app, menu, platform.",
+  "what_it_does": "DesignCrowd is a marketplace where businesses can outsource graphic design work to freelance designers.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Australia",
+  "keywords": [
+    "graphic design outsourcing",
+    "crowdsourced design",
+    "logo design",
+    "web design",
+    "marketing design",
+    "freelance designers",
+    "design marketplace"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4193157e-2b03-521b-ab98-c4a220518132"
 }

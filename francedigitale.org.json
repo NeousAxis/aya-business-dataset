@@ -1,10 +1,20 @@
 {
   "entity_id": "9610d308-3824-5e65-8322-99c0861007df",
   "name": "France Digitale",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "France Digitale is an association representing startups and venture capital funds in France.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "French startups",
+    "venture capital",
+    "startup advocacy",
+    "France",
+    "funding",
+    "tech ecosystem",
+    "innovation",
+    "French tech"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9610d308-3824-5e65-8322-99c0861007df"
 }

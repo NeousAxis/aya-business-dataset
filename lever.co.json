@@ -1,10 +1,20 @@
 {
   "entity_id": "984498d0-e6bb-5fda-8c37-9728ac2feb07",
   "name": "Lever",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Lever provides a recruiting software platform to manage the hiring process.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "applicant tracking",
+    "recruiting",
+    "talent acquisition",
+    "HR software",
+    "candidate relationship",
+    "hiring process",
+    "recruitment platform",
+    "collaborative hiring"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/984498d0-e6bb-5fda-8c37-9728ac2feb07"
 }

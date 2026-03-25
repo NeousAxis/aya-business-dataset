@@ -1,10 +1,20 @@
 {
   "entity_id": "b081b690-fcd0-55c4-92c3-24c90140932d",
   "name": "Remote OK",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Remote OK is a job board specializing in remote work opportunities.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "remote jobs board",
+    "remote work",
+    "telecommuting",
+    "distributed teams",
+    "virtual jobs",
+    "location independent",
+    "online job postings",
+    "flexible work"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b081b690-fcd0-55c4-92c3-24c90140932d"
 }

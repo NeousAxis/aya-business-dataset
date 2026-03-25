@@ -1,10 +1,19 @@
 {
   "entity_id": "d0b77889-3662-5721-a125-55e21cc9f5a7",
   "name": "Geodis",
-  "what_it_does": "Provides delivery, menu, service.",
+  "what_it_does": "Geodis provides supply chain and logistics solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
+  "keywords": [
+    "supply chain",
+    "logistics solutions",
+    "freight management",
+    "transportation management",
+    "contract logistics",
+    "global logistics",
+    "warehouse solutions"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d0b77889-3662-5721-a125-55e21cc9f5a7"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "c5c76d48-95cd-5994-840e-f59fc244aa50",
   "name": "Salt",
-  "what_it_does": "Provides app, cloud, delivery.",
+  "what_it_does": "Salt is likely a tourism or transportation company in Switzerland, possibly offering travel or transportation services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
+  "keywords": [
+    "mobile",
+    "internet",
+    "tv",
+    "telecommunications",
+    "swiss market",
+    "connectivity",
+    "data plans",
+    "voice communication"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c5c76d48-95cd-5994-840e-f59fc244aa50"
 }

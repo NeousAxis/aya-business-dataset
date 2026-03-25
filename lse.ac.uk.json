@@ -1,10 +1,20 @@
 {
   "entity_id": "4a06b13a-e457-5fe0-9264-73ada56d10f3",
   "name": "LSE",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "The London School of Economics (LSE) is a world-renowned university specializing in social sciences.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
+  "keywords": [
+    "social sciences",
+    "economics research",
+    "political science",
+    "international relations",
+    "higher education",
+    "graduate studies",
+    "London university",
+    "social research"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a06b13a-e457-5fe0-9264-73ada56d10f3"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "a29611be-9ce7-54c2-b6f2-025027e86180",
   "name": "u-he Software Synthesizers and Effects",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "u-he creates and sells software synthesizers and audio effects plugins.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "software synthesizers",
+    "audio plugins",
+    "virtual instruments",
+    "music production tools",
+    "audio effects",
+    "VST plugins",
+    "sound design",
+    "music software"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a29611be-9ce7-54c2-b6f2-025027e86180"
 }

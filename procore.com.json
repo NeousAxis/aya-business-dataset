@@ -1,10 +1,19 @@
 {
   "entity_id": "5bc02e08-bdfd-51c6-90e5-d49afde6bd6e",
   "name": "Procore UK",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Procore provides cloud-based construction management software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
+  "keywords": [
+    "construction project ",
+    "field productivity",
+    "project financials",
+    "quality & safety",
+    "BIM",
+    "construction drawings",
+    "UK construction"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5bc02e08-bdfd-51c6-90e5-d49afde6bd6e"
 }

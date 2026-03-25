@@ -1,10 +1,19 @@
 {
   "entity_id": "9e982b1e-fcaf-50c9-b2e3-00c261aa51c2",
   "name": "STACK Infrastructure",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "STACK Infrastructure designs, builds, and operates data centers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "Data centers",
+    "Colocation",
+    "Wholesale data centers",
+    "Hyperscale data centers",
+    "Data center infrastructure",
+    "Critical infrastructure",
+    "Data storage facilities"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9e982b1e-fcaf-50c9-b2e3-00c261aa51c2"
 }

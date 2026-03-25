@@ -1,10 +1,20 @@
 {
   "entity_id": "10216152-01c6-54e9-8d6f-66925542e6c0",
   "name": "LlamaIndex",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "LlamaIndex provides a framework for building LLM applications with private or domain-specific data.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "LLM applications",
+    "private data LLM",
+    "domain-specific LLM",
+    "language model framework",
+    "data augmentation",
+    "knowledge graphs",
+    "semantic search",
+    "AI development"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/10216152-01c6-54e9-8d6f-66925542e6c0"
 }

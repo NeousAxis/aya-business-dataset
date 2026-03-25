@@ -1,10 +1,19 @@
 {
   "entity_id": "321e6e5b-fbb3-5428-9449-46832c073413",
   "name": "Cinven",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Cinven is a private equity firm that invests in European companies.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
+  "keywords": [
+    "private equity",
+    "European investments",
+    "investment firm",
+    "buyout investments",
+    "financial investments",
+    "growth capital",
+    "leveraged buyouts"
+  ],
   "aio_score": 71.0,
   "certificate_url": "https://ai-visionary.com/aya/e/321e6e5b-fbb3-5428-9449-46832c073413"
 }

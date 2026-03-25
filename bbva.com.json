@@ -1,10 +1,20 @@
 {
   "entity_id": "fada43e7-1d68-54ab-b303-af50b403883c",
   "name": "BBVA",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "BBVA is a multinational financial services company that offers retail banking, investment banking, and asset management.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United States",
+  "keywords": [
+    "retail banking",
+    "investment banking",
+    "financial services",
+    "global finance",
+    "banking solutions",
+    "corporate finance",
+    "wealth management",
+    "international banking"
+  ],
   "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fada43e7-1d68-54ab-b303-af50b403883c"
 }

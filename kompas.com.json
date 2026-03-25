@@ -1,10 +1,19 @@
 {
   "entity_id": "9aa58ea4-0f90-5ddc-9989-c306b1591adf",
   "name": "Berita Terkini Hari Ini, Kabar Akurat Terpercaya",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Kompas.com is an Indonesian online news portal.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "portail d'actualités",
+    "actualités indonésiennes",
+    "Kompas.com",
+    "informations en ligne",
+    "presse en ligne",
+    "Indonésie",
+    "actualités du jour"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9aa58ea4-0f90-5ddc-9989-c306b1591adf"
 }

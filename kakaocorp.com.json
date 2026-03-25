@@ -1,10 +1,20 @@
 {
   "entity_id": "53fcfcdd-878e-50da-a56b-07f182dd577a",
   "name": "Kakao Corp",
-  "what_it_does": "Provides service.",
+  "what_it_does": "Kakao Corp provides a suite of services including a messaging app, games, and payment platforms.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
+  "keywords": [
+    "South Korean internet ",
+    "mobile messaging",
+    "web portal",
+    "mobile games",
+    "social networking",
+    "digital content",
+    "e-commerce",
+    "online services"
+  ],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/53fcfcdd-878e-50da-a56b-07f182dd577a"
 }

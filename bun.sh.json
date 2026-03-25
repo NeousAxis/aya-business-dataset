@@ -1,10 +1,18 @@
 {
   "entity_id": "3e81689e-d0a9-528d-a0fb-ec52436b4c5f",
   "name": "Bun",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Bun is a JavaScript runtime, bundler, transpiler, and package manager.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "JavaScript runtime",
+    "JavaScript bundler",
+    "JavaScript package manager",
+    "programming environment",
+    "software development",
+    "transpiler"
+  ],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3e81689e-d0a9-528d-a0fb-ec52436b4c5f"
 }

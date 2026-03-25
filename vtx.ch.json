@@ -1,10 +1,20 @@
 {
   "entity_id": "8cc10553-bedb-5c49-8175-4c41ef825dfb",
   "name": "Vtx",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Vtx is a telecommunications provider in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "telecommunications provider",
+    "internet services",
+    "phone services",
+    "Swiss telecom",
+    "fiber optic",
+    "data communication",
+    "cloud services",
+    "connectivity solutions"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8cc10553-bedb-5c49-8175-4c41ef825dfb"
 }

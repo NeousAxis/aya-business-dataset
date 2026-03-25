@@ -1,10 +1,20 @@
 {
   "entity_id": "4d701e4b-3f0a-54ed-a8f9-8d6982fdc769",
   "name": "DBS",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "DBS Bank is a Singaporean multinational banking and financial services corporation.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "banking",
+    "financial services",
+    "Singapore bank",
+    "loans",
+    "credit cards",
+    "wealth management",
+    "investment banking",
+    "Asian banking"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4d701e4b-3f0a-54ed-a8f9-8d6982fdc769"
 }

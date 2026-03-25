@@ -1,10 +1,20 @@
 {
   "entity_id": "4d2743bf-c615-5e7d-b201-dad4e3d1f894",
   "name": "corporate",
-  "what_it_does": "Provides product, products, solution.",
+  "what_it_does": "Perrigo Company manufactures and markets over-the-counter healthcare products and nutritional supplements.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
+  "keywords": [
+    "otc-arzneimittel",
+    "ernährungsergänzungsmittel",
+    "rezeptfreie-produkte",
+    "pharmazeutische-produkte",
+    "gesundheitsprodukte",
+    "nahrungsergänzung",
+    "perrigo",
+    "apothekenprodukte"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4d2743bf-c615-5e7d-b201-dad4e3d1f894"
 }

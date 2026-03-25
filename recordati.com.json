@@ -1,10 +1,19 @@
 {
   "entity_id": "3c8df404-fa4b-5ab5-8a90-aff3d388072c",
   "name": "Recordati",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Recordati is a pharmaceutical company focused on developing and marketing pharmaceutical products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "pharmaceutical products",
+    "specialty pharma",
+    "drug development",
+    "prescription drugs",
+    "pharmaceuticals",
+    "healthcare products",
+    "branded pharmaceuticals"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3c8df404-fa4b-5ab5-8a90-aff3d388072c"
 }

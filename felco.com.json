@@ -1,10 +1,18 @@
 {
   "entity_id": "12931948-2c49-57e0-acb5-5cb0bd58e3a2",
   "name": "FELCO Switzerland",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "FELCO Switzerland manufactures professional pruning and cutting tools.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
+  "keywords": [
+    "pruning shears",
+    "cutting tools",
+    "professional secateurs",
+    "horticultural tools",
+    "gardening tools",
+    "Swiss made tools"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/12931948-2c49-57e0-acb5-5cb0bd58e3a2"
 }

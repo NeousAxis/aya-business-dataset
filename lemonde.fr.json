@@ -1,10 +1,20 @@
 {
   "entity_id": "4a9703c9-5a41-5e32-ab4d-8413da15623c",
   "name": "Le Monde",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Le Monde is a French daily newspaper.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
+  "keywords": [
+    "French newspaper",
+    "daily news",
+    "news publishing",
+    "current affairs",
+    "political news",
+    "international news",
+    "Le Monde news",
+    "French press"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a9703c9-5a41-5e32-ab4d-8413da15623c"
 }

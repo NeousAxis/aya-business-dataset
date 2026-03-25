@@ -1,10 +1,18 @@
 {
   "entity_id": "b8011376-27da-5227-ac93-6dff72d35c69",
   "name": "Rhenus",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "Rhenus provides logistics and supply chain management services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Mexico",
+  "keywords": [
+    "logistics",
+    "supply chain management",
+    "freight forwarding",
+    "warehousing",
+    "transportation",
+    "contract logistics"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b8011376-27da-5227-ac93-6dff72d35c69"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "cf1296d4-f4f8-5ec4-b70c-9bb2fd1df5be",
   "name": "Forrester",
-  "what_it_does": "Provides app, consulting, delivery.",
+  "what_it_does": "Forrester is a market research company that provides advisory services on technology and market trends.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "market research",
+    "technology trends",
+    "advisory ",
+    "consumer behavior",
+    "business ",
+    "market analysis",
+    "Forrester Research"
+  ],
   "aio_score": 71.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cf1296d4-f4f8-5ec4-b70c-9bb2fd1df5be"
 }

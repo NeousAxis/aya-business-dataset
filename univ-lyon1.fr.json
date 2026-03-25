@@ -1,10 +1,17 @@
 {
   "entity_id": "fd9be7a0-4072-5841-a4f6-01bc53ccc289",
   "name": "Université Claude Bernard Lyon 1",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "Université Claude Bernard Lyon 1 is a French university specializing in science, technology, and health.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "France",
+  "keywords": [
+    "science",
+    "technology",
+    "health",
+    "university",
+    "education"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fd9be7a0-4072-5841-a4f6-01bc53ccc289"
 }

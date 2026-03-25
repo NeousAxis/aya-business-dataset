@@ -1,10 +1,18 @@
 {
   "entity_id": "12f7f2ec-2796-5614-829e-b0e55fc9896d",
   "name": "NETA V",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "NETA V sells electric vehicles in Thailand.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "electric vehicles",
+    "EV sales",
+    "Thailand automotive",
+    "electric cars",
+    "NETA vehicles",
+    "Thailand EV"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/12f7f2ec-2796-5614-829e-b0e55fc9896d"
 }

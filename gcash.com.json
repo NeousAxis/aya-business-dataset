@@ -1,10 +1,20 @@
 {
   "entity_id": "963cb6e4-c351-538b-894b-cefccda579d9",
   "name": "GCash",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "GCash is a Philippine mobile wallet and payments platform.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "mobile wallet",
+    "digital payments",
+    "e-wallet",
+    "Philippines",
+    "financial technology",
+    "mobile money",
+    "electronic transfers",
+    "cashless payments"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/963cb6e4-c351-538b-894b-cefccda579d9"
 }

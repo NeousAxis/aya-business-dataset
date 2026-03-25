@@ -1,10 +1,19 @@
 {
   "entity_id": "e0c46fe7-98cf-56ef-89cd-d05291b786d6",
   "name": "DE-CIX",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "DE-CIX operates internet exchange points (IXPs) providing interconnection services for networks.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "internet exchange point",
+    "IXP",
+    "network interconnection",
+    "peering services",
+    "data center connectivity",
+    "bandwidth exchange",
+    "IP transit"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e0c46fe7-98cf-56ef-89cd-d05291b786d6"
 }

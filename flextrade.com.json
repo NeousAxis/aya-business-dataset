@@ -1,10 +1,20 @@
 {
   "entity_id": "7aba9cd3-c208-5c58-a642-ee812154ade4",
   "name": "Trading Systems by FlexTrade",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "FlexTrade develops trading systems for financial institutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "trading",
+    "equities",
+    "foreign exchange",
+    "FX",
+    "financial instruments",
+    "order management",
+    "execution",
+    "algorithmic trading"
+  ],
   "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7aba9cd3-c208-5c58-a642-ee812154ade4"
 }

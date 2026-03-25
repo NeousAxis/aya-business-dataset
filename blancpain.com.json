@@ -1,10 +1,20 @@
 {
   "entity_id": "3311c3d5-6911-55c2-91b2-78c413ca7e7a",
   "name": "Blancpain",
-  "what_it_does": "Provides app, delivery, product.",
+  "what_it_does": "Blancpain is a luxury Swiss watch manufacturer.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "luxury watches",
+    "Swiss watches",
+    "haute horlogerie",
+    "fine timepieces",
+    "automatic watches",
+    "watchmaking",
+    "luxury goods",
+    "prestige watches"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3311c3d5-6911-55c2-91b2-78c413ca7e7a"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "cbe81042-76e5-5a6d-a225-871ca0b1a2e3",
   "name": "AGROLINE schützt ihre Kulturen nachhaltig",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Agroline likely sells agricultural products online, possibly focused on crop protection.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
+  "keywords": [
+    "crop protection products",
+    "sustainable agriculture",
+    "agricultural supplies",
+    "farming inputs",
+    "plant protection",
+    "Swiss agriculture",
+    "crop management"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cbe81042-76e5-5a6d-a225-871ca0b1a2e3"
 }

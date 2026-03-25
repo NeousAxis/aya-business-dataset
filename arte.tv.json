@@ -1,10 +1,20 @@
 {
   "entity_id": "3a8c3003-5367-5afe-be2d-f515b81e98cd",
   "name": "ARTE",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "ARTE is a Franco-German public service channel that broadcasts cultural programming.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
+  "keywords": [
+    "cultural programming",
+    "Franco-German channel",
+    "public broadcasting",
+    "European culture",
+    "television content",
+    "documentaries",
+    "arts programming",
+    "cultural TV"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3a8c3003-5367-5afe-be2d-f515b81e98cd"
 }

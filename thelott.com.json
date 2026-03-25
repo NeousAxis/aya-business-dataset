@@ -1,10 +1,20 @@
 {
   "entity_id": "1ce93560-48bf-5c2a-b720-95e5e6eb1f2c",
   "name": "the Lott",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "The Lott operates lotteries and lottery-related services in Australia.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "lottery games",
+    "licensed lottery",
+    "lotto tickets",
+    "draw games",
+    "instant scratchies",
+    "lottery products",
+    "wagering",
+    "gaming"
+  ],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1ce93560-48bf-5c2a-b720-95e5e6eb1f2c"
 }

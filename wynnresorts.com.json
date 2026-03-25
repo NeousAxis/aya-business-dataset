@@ -1,10 +1,20 @@
 {
   "entity_id": "2ba8e298-885c-5d60-ac0b-4c730880a3c0",
   "name": "Wynn Resorts",
-  "what_it_does": "Provides app, restaurant, service.",
+  "what_it_does": "Wynn Resorts operates luxury hotels and casinos.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "United States",
+  "keywords": [
+    "luxury hotels",
+    "casino resorts",
+    "gaming",
+    "entertainment venues",
+    "fine dining",
+    "hotel management",
+    "resort development",
+    "luxury travel"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2ba8e298-885c-5d60-ac0b-4c730880a3c0"
 }

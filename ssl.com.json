@@ -1,10 +1,20 @@
 {
   "entity_id": "c7b1cb2a-6235-5cd4-a591-7f851d0be586",
   "name": "SSL Certificate & Digital Certificate Authority",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "SSL.com provides digital certificates for website security and authentication.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "SSL certificates",
+    "digital certificates",
+    "website security",
+    "certificate authority",
+    "TLS certificates",
+    "code signing",
+    "PKI solutions",
+    "EV certificates"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c7b1cb2a-6235-5cd4-a591-7f851d0be586"
 }

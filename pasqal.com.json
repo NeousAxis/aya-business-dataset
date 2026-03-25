@@ -1,10 +1,19 @@
 {
   "entity_id": "81c0fefd-c9ef-5e73-b053-480c7b7dc551",
   "name": "Pasqal",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Pasqal develops quantum computers and offers quantum computing solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "quantum computing",
+    "quantum processors",
+    "quantum algorithms",
+    "neutral atoms",
+    "quantum solutions",
+    "cloud quantum",
+    "high performance computing"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/81c0fefd-c9ef-5e73-b053-480c7b7dc551"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "90c35029-7c4e-5e98-b55e-46aeaa330157",
   "name": "VTB Bank (PJSC)",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "VTB Bank (PJSC) is a Russian state-owned bank.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "RU",
+  "keywords": [
+    "russische-bank",
+    "finanzdienstleistungen",
+    "firmenkunden",
+    "retailbanking",
+    "investmentbanking",
+    "vtb-bank",
+    "kreditvergabe",
+    "zahlungsverkehr"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/90c35029-7c4e-5e98-b55e-46aeaa330157"
 }

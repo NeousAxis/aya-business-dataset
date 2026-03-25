@@ -1,10 +1,20 @@
 {
   "entity_id": "e1d3a34f-5deb-572c-94e7-dca0bb82745d",
   "name": "Edward Jones",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Edward Jones is a financial services firm providing investment advice and wealth management.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Canada",
+  "keywords": [
+    "Financial Advisory",
+    "Investment Advice",
+    "Wealth Management",
+    "Retirement Planning",
+    "Financial Services",
+    "Investment Strategies",
+    "Financial Planning",
+    "Asset allocation"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e1d3a34f-5deb-572c-94e7-dca0bb82745d"
 }

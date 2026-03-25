@@ -1,10 +1,20 @@
 {
   "entity_id": "0289f175-02f1-57d8-9cf3-da029eb4ccb4",
   "name": "CUTISS",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "CUTISS develops skin tissue regeneration technology for severe skin injuries.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
+  "keywords": [
+    "skin regeneration",
+    "tissue engineering",
+    "skin grafts",
+    "burn treatment",
+    "skin injuries",
+    "wound healing",
+    "dermal regeneration",
+    "regenerative medicine"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0289f175-02f1-57d8-9cf3-da029eb4ccb4"
 }

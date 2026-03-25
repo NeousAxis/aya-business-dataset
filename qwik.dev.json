@@ -1,10 +1,20 @@
 {
   "entity_id": "067e011c-f2ca-5563-a3a9-e09926badd43",
   "name": "Qwik",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Qwik is a development platform for building serverless web applications.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "web development",
+    "serverless applications",
+    "web ",
+    "front-end framework",
+    " meta-framework",
+    "developer ",
+    "JavaScript framework",
+    "open-source framework"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/067e011c-f2ca-5563-a3a9-e09926badd43"
 }

@@ -1,10 +1,18 @@
 {
   "entity_id": "270a909f-480c-5ae6-a808-e016d6b1f8ad",
   "name": "Lemonade",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Lemonade is an insurance company that uses AI and behavioral economics to provide renters, homeowners, car, and pet insurance.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Netherlands",
+  "keywords": [
+    "insurance",
+    "renters insurance",
+    "homeowners insurance",
+    "artificial intelligence",
+    "behavioral economics",
+    "digital insurance"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/270a909f-480c-5ae6-a808-e016d6b1f8ad"
 }

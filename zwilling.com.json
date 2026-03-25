@@ -1,10 +1,19 @@
 {
   "entity_id": "1c6840ff-1e3d-5d1a-8155-4bbde934a477",
   "name": "Zwilling J.A. Henckels",
-  "what_it_does": "Provides product.",
+  "what_it_does": "Zwilling J.A. Henckels manufactures and sells cutlery, cookware, and kitchen tools.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Germany",
+  "keywords": [
+    "cutlery",
+    "cookware",
+    "kitchen knives",
+    "kitchen tools",
+    "flatware",
+    "tableware",
+    "culinary equipment"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1c6840ff-1e3d-5d1a-8155-4bbde934a477"
 }

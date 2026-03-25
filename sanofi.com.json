@@ -1,10 +1,20 @@
 {
   "entity_id": "89866e43-bef9-5613-8fc8-b246141b568c",
   "name": "Sanofi",
-  "what_it_does": "Provides app, platform, product.",
+  "what_it_does": "Sanofi is a global pharmaceutical company developing and manufacturing medicines and vaccines.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
+  "keywords": [
+    "pharmaceuticals",
+    "vaccines",
+    "drug ",
+    "healthcare ",
+    "prescription medications",
+    "pharmaceutical research",
+    "immunization",
+    "global health"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/89866e43-bef9-5613-8fc8-b246141b568c"
 }

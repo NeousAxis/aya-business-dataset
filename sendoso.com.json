@@ -1,10 +1,20 @@
 {
   "entity_id": "1735fa09-2522-5546-89c7-f8c9c821bad1",
   "name": "Sendoso",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Sendoso is a sending platform that allows companies to send personalized gifts, direct mail, and other physical items.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "Gifting ",
+    "Personalized gifts",
+    "Direct mail",
+    "Corporate gifting",
+    "Promotional items",
+    "Marketing ",
+    "Customer engagement",
+    "Gift sending"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1735fa09-2522-5546-89c7-f8c9c821bad1"
 }

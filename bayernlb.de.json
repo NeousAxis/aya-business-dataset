@@ -1,10 +1,20 @@
 {
   "entity_id": "a5b7eab1-c109-5edb-8995-a77e7ae72b29",
   "name": "Wir finanzieren Fortschritt. BayernLB.",
-  "what_it_does": "Provides app, cloud, menu.",
+  "what_it_does": "BayernLB is a German Landesbank that provides financial services to businesses and the public sector.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "German Landesbank",
+    "corporate finance",
+    "public sector banking",
+    "financial services",
+    "investment banking",
+    "SME financing",
+    "Bavaria",
+    "commercial banking"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a5b7eab1-c109-5edb-8995-a77e7ae72b29"
 }

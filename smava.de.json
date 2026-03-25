@@ -1,10 +1,20 @@
 {
   "entity_id": "ca513af7-463e-5e57-b535-deff20ce9cbf",
   "name": "smava",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Smava is a German online credit comparison platform that connects borrowers with lenders.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "credit comparison",
+    "loan marketplace",
+    "borrower lending",
+    "German finance",
+    "personal loans",
+    "consumer credit",
+    "loan comparison",
+    "financial services"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ca513af7-463e-5e57-b535-deff20ce9cbf"
 }

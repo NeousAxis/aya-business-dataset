@@ -1,10 +1,20 @@
 {
   "entity_id": "eb4db93f-5b9b-550f-8c61-3fa53c78a1b1",
   "name": "Petrobras",
-  "what_it_does": "Provides menu.",
+  "what_it_does": "Petrobras is a Brazilian multinational corporation in the petroleum industry.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
+  "keywords": [
+    "oil and gas",
+    "petroleum",
+    "Brazilian oil",
+    "energy production",
+    "offshore drilling",
+    "refining",
+    "crude oil",
+    "multinational energy"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eb4db93f-5b9b-550f-8c61-3fa53c78a1b1"
 }

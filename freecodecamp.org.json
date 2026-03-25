@@ -1,10 +1,19 @@
 {
   "entity_id": "c4742247-6278-5234-b4c2-9853da893a17",
   "name": "Freecodecamp",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Freecodecamp provides free coding education and certifications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "coding education",
+    "programming courses",
+    "software development training",
+    "free coding bootcamp",
+    "coding certifications",
+    "web development",
+    "computer science education"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c4742247-6278-5234-b4c2-9853da893a17"
 }

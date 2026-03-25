@@ -1,10 +1,20 @@
 {
   "entity_id": "e7907424-ca31-563a-b110-a6c33d581987",
   "name": "Bdbiosciences",
-  "what_it_does": "Technology & SaaS organization.",
+  "what_it_does": "Bdbiosciences manufactures and sells flow cytometry and cell analysis products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "flow cytometry",
+    "cell analysis",
+    "reagents",
+    "antibodies",
+    "research tools",
+    "life science products",
+    "cell sorting",
+    "immunology research"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e7907424-ca31-563a-b110-a6c33d581987"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "3a17e61a-8663-59fb-9694-3636f5ff3984",
   "name": "IONOS",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "IONOS provides web hosting, cloud servers, and other internet services to businesses and individuals.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "web hosting",
+    "cloud servers",
+    "internet services",
+    "domain registration",
+    "IT infrastructure",
+    "enterprise solutions",
+    "managed hosting",
+    "server solutions"
+  ],
   "aio_score": 80.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3a17e61a-8663-59fb-9694-3636f5ff3984"
 }

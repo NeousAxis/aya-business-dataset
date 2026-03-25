@@ -1,10 +1,19 @@
 {
   "entity_id": "e72b5591-8d9d-5e9c-9d43-698783ef28b9",
   "name": "Medbase Medizin",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Medbase Medizin provides primary and specialist medical care services in Switzerland.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
+  "keywords": [
+    "medical centers",
+    "primary care",
+    "pharmacy ",
+    "healthcare network",
+    "medical services",
+    "Swiss healthcare",
+    "outpatient care"
+  ],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e72b5591-8d9d-5e9c-9d43-698783ef28b9"
 }

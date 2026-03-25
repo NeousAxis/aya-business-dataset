@@ -1,10 +1,19 @@
 {
   "entity_id": "c3c840fa-e1e1-5484-8e04-ccb42aa9726d",
   "name": "yfood Labs",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "yfood Labs produces and sells ready-to-drink meal replacements and food products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Belgium",
+  "keywords": [
+    "meal replacements",
+    "ready to eat meals",
+    "nutritional food",
+    "food supplements",
+    "convenience food",
+    "functional food",
+    "nutritional drinks"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c3c840fa-e1e1-5484-8e04-ccb42aa9726d"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "6a4e18ee-8f98-50b2-a1f7-858861dc54c4",
   "name": "Harvard University",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Harvard University is a private Ivy League research university in Cambridge, Massachusetts.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "université de recherche",
+    "ivy league",
+    "enseignement supérieur",
+    "harvard",
+    "programmes universitaires",
+    "recherche universitaire",
+    "cambridge massachusetts"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6a4e18ee-8f98-50b2-a1f7-858861dc54c4"
 }

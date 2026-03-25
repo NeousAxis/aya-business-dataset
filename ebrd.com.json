@@ -1,10 +1,20 @@
 {
   "entity_id": "8b20f182-0cc0-52aa-b6c7-4a2b307b0167",
   "name": "EBRD",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "The European Bank for Reconstruction and Development invests in projects that contribute to the transition to open, market economies.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "development bank",
+    "emerging markets investment",
+    "sustainable development",
+    "infrastructure finance",
+    "transition economies",
+    "project finance",
+    "economic development",
+    "european bank"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8b20f182-0cc0-52aa-b6c7-4a2b307b0167"
 }

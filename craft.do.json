@@ -1,10 +1,20 @@
 {
   "entity_id": "5545e5af-cefb-5346-94c2-399b31a95a93",
   "name": "Craft",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Craft is a document editor designed for creating visually appealing notes and documents.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "China",
+  "keywords": [
+    "document editor",
+    "note-taking",
+    "visual documents",
+    "rich text editor",
+    "document creation",
+    "note organization",
+    "collaborative documents",
+    "content creation"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5545e5af-cefb-5346-94c2-399b31a95a93"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "f8e5d06a-65f1-5f04-be4e-c5bb55d382b9",
   "name": "Fiduconsult",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Fiduconsult provides fiduciary and consulting services in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Switzerland",
+  "keywords": [
+    "fiduciary services",
+    "accounting services",
+    "tax advice",
+    "swiss consulting",
+    "auditing",
+    "fiduconsult",
+    "business consulting"
+  ],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f8e5d06a-65f1-5f04-be4e-c5bb55d382b9"
 }

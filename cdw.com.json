@@ -1,10 +1,20 @@
 {
   "entity_id": "e21a1d53-f74e-519f-bb0a-7d926e4b7167",
   "name": "CDW",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "CDW is a technology reseller providing hardware, software, and IT services to businesses, government, education, and healthcare organizations.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "IT hardware",
+    "IT procurement",
+    "IT infrastructure",
+    "enterprise IT",
+    "IT reselling",
+    "IT solutions provider",
+    "IT equipment",
+    "business IT"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e21a1d53-f74e-519f-bb0a-7d926e4b7167"
 }

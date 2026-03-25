@@ -1,10 +1,20 @@
 {
   "entity_id": "7f32307b-23be-5c38-ac10-7f134c661dd8",
   "name": "Renesas Electronics Corporation",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Renesas Electronics Corporation designs, manufactures, and sells semiconductor products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "semiconductor devices",
+    "integrated circuits",
+    "microcontrollers",
+    "analog products",
+    "power semiconductors",
+    "automotive electronics",
+    "embedded solutions",
+    "mixed-signal ICs"
+  ],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7f32307b-23be-5c38-ac10-7f134c661dd8"
 }

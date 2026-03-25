@@ -1,10 +1,20 @@
 {
   "entity_id": "eedcbcfd-c6fb-51b4-a821-2d65892ce44c",
   "name": "Yousign",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Yousign provides electronic signature solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
+  "keywords": [
+    "electronic signatures",
+    "digital signatures",
+    "e-signature",
+    "contract signing",
+    "document workflow",
+    "signature software",
+    "legal agreements",
+    "paperless solutions"
+  ],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eedcbcfd-c6fb-51b4-a821-2d65892ce44c"
 }

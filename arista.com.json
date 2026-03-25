@@ -1,10 +1,20 @@
 {
   "entity_id": "39ef98c0-6697-5ee0-9e73-ebdc8c6a4ac5",
   "name": "Arista",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Arista Networks designs and sells data center switches and networking solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "data center networking",
+    "cloud networking",
+    "ethernet switches",
+    "network ",
+    "cloud computing",
+    "network ",
+    "data center ",
+    "cloud infrastructure"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/39ef98c0-6697-5ee0-9e73-ebdc8c6a4ac5"
 }

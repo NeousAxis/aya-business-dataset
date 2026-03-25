@@ -1,10 +1,20 @@
 {
   "entity_id": "e203d47c-95b8-5089-8d16-fbc1ed101b8c",
   "name": "Kanton Thurgau",
-  "what_it_does": "Media & Communication organization.",
+  "what_it_does": "Kanton Thurgau is the official website for the Swiss canton of Thurgau.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "Thurgau canton",
+    "Swiss government",
+    "cantonal information",
+    "public administrations",
+    "government documents",
+    "local news",
+    "Thurgau residents",
+    "regional information"
+  ],
   "aio_score": 25.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e203d47c-95b8-5089-8d16-fbc1ed101b8c"
 }

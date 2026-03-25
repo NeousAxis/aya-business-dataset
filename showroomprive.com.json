@@ -1,10 +1,20 @@
 {
   "entity_id": "8187d7b9-3d01-5fcb-8318-e2dc52474cfa",
   "name": "Showroomprive.com",
-  "what_it_does": "Provides app, offre, produit.",
+  "what_it_does": "Showroomprive.com is an online retailer offering flash sales of fashion, accessories, and home goods.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Belgium",
+  "keywords": [
+    "flash sales",
+    "fashion retail",
+    "online fashion",
+    "discount fashion",
+    "clothing accessories",
+    "home goods",
+    "private sales",
+    "fashion e-commerce"
+  ],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8187d7b9-3d01-5fcb-8318-e2dc52474cfa"
 }

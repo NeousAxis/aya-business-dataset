@@ -1,10 +1,20 @@
 {
   "entity_id": "a70c6039-4f38-53ba-b735-4b932aa64637",
   "name": "Contentsquare",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Contentsquare provides a digital experience analytics platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "digital experience",
+    "customer journey analytics",
+    "user behavior",
+    "conversion rate",
+    "UX analytics",
+    "customer insights",
+    "web analytics",
+    "e-commerce analytics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a70c6039-4f38-53ba-b735-4b932aa64637"
 }

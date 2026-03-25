@@ -1,10 +1,20 @@
 {
   "entity_id": "8064016b-ce56-5862-9e71-c45fc07599ab",
   "name": "LastPass",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "LastPass provides a password management solution for individuals and businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "password vaults",
+    "password storage",
+    "password generator",
+    "credential management",
+    "security software",
+    "identity management",
+    "authentication tools",
+    "digital security"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8064016b-ce56-5862-9e71-c45fc07599ab"
 }

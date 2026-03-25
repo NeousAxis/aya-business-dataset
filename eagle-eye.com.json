@@ -1,10 +1,20 @@
 {
   "entity_id": "17556939-f159-558a-88d6-140bbe441169",
   "name": "Eagle-Eye Tours",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "Eagle-Eye Tours offers birdwatching and wildlife tours worldwide.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Canada",
+  "keywords": [
+    "Birdwatching tours",
+    "Wildlife tours",
+    "Ecotourism",
+    "Nature travel",
+    "Ornithology",
+    "Guided tours",
+    "Birding expeditions",
+    "Wildlife observation"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/17556939-f159-558a-88d6-140bbe441169"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "af7962c1-0469-55da-80ba-404ff070907d",
   "name": "Zscaler Navigation",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Zscaler provides cloud-based internet security services, including secure web gateways, firewalls, and sandboxing.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Mexico",
+  "keywords": [
+    "cloud security",
+    "internet security",
+    "web security",
+    "secure web gateways",
+    "cybersecurity",
+    "threat protection",
+    "data loss prevention",
+    "network security"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/af7962c1-0469-55da-80ba-404ff070907d"
 }

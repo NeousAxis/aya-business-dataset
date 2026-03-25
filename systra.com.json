@@ -1,10 +1,19 @@
 {
   "entity_id": "631111d9-18ac-54c2-99f1-4c3da6c611bc",
   "name": "Groupe SYSTRA",
-  "what_it_does": "Provides app, menu, offre.",
+  "what_it_does": "Groupe SYSTRA provides engineering and consulting services for transportation infrastructure.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Indonesia",
+  "keywords": [
+    "transportation engineering",
+    "infrastructure consulting",
+    "railway engineering",
+    "urban transport",
+    "project management",
+    "public transport",
+    "transit systems"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/631111d9-18ac-54c2-99f1-4c3da6c611bc"
 }

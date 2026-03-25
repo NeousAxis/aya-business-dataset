@@ -1,10 +1,20 @@
 {
   "entity_id": "04e93ec0-77ed-5b76-87c2-cafd59f9ce6b",
   "name": "Qdrant",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Qdrant is a vector similarity search engine.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "vector search engine",
+    "similarity search",
+    "neural search",
+    "AI search",
+    "semantic search",
+    "vector database",
+    "information retrieval",
+    "search technology"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/04e93ec0-77ed-5b76-87c2-cafd59f9ce6b"
 }

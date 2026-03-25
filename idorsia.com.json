@@ -1,10 +1,20 @@
 {
   "entity_id": "83f8f768-8cba-56ac-9070-25908f581e26",
   "name": "Idorsia",
-  "what_it_does": "Provides app, product, service.",
+  "what_it_does": "Idorsia is a Swiss biopharmaceutical company focused on discovering, developing and commercializing medicines.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
+  "keywords": [
+    "biopharmaceutical research",
+    "drug development",
+    "pharmaceuticals",
+    "CNS disorders",
+    "neurology",
+    "clinical trials",
+    "Swiss pharma",
+    "innovative medicines"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/83f8f768-8cba-56ac-9070-25908f581e26"
 }

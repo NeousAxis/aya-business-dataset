@@ -1,10 +1,20 @@
 {
   "entity_id": "cf764f2b-25b0-5c05-b094-51854d2530b8",
   "name": "Marantz",
-  "what_it_does": "Provides service.",
+  "what_it_does": "Marantz designs and manufactures high-end audio components for home entertainment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Canada",
+  "keywords": [
+    "audio equipment",
+    "amplifiers",
+    "receivers",
+    "hi-fi audio",
+    "home theater",
+    "stereo systems",
+    "audio components",
+    "sound reproduction"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cf764f2b-25b0-5c05-b094-51854d2530b8"
 }

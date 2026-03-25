@@ -1,10 +1,19 @@
 {
   "entity_id": "2e8aa0ab-d5ef-5c86-9fa7-5e3052bc06ac",
   "name": "PUMA Europe",
-  "what_it_does": "Provides app, cloud, service.",
+  "what_it_does": "PUMA Europe sells athletic and casual footwear, apparel, and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Germany",
+  "keywords": [
+    "sportswear",
+    "athletic shoes",
+    "sports apparel",
+    "leisurewear",
+    "performance",
+    "footwear",
+    "activewear"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2e8aa0ab-d5ef-5c86-9fa7-5e3052bc06ac"
 }

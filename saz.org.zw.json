@@ -1,10 +1,19 @@
 {
   "entity_id": "d6d2fd89-dd99-5956-a417-ace373ea0a3f",
   "name": "SAZ",
-  "what_it_does": "Provides app, delivery, product.",
+  "what_it_does": "SAZ (Standards Association of Zimbabwe) likely develops and promotes national standards for various industries in Zimbabwe.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "Zimbabwe standards",
+    "national standards body",
+    "standards development",
+    "quality assurance",
+    "industry standards",
+    "regulatory compliance",
+    "product certification"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6d2fd89-dd99-5956-a417-ace373ea0a3f"
 }

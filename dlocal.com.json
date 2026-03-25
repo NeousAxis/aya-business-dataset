@@ -1,10 +1,20 @@
 {
   "entity_id": "0312a57f-8719-5c3a-85dd-ba4d6bbe228e",
   "name": "dLocal",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "dLocal provides payment processing solutions for emerging markets.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "payment processing",
+    "emerging markets",
+    "cross-border payments",
+    "local payments",
+    "payment gateway",
+    "e-commerce payments",
+    "API payments",
+    "global payments"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0312a57f-8719-5c3a-85dd-ba4d6bbe228e"
 }

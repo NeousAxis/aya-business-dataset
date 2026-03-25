@@ -1,10 +1,20 @@
 {
   "entity_id": "c8a9ca21-c601-5333-8c7a-2ffeeed5aa52",
   "name": "Roland",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Roland manufactures electronic musical instruments and equipment.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "electronic musical instruments",
+    "synthesizers",
+    "keyboards",
+    "electronic drums",
+    "music production",
+    "audio equipment",
+    "digital pianos",
+    "music technology"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c8a9ca21-c601-5333-8c7a-2ffeeed5aa52"
 }

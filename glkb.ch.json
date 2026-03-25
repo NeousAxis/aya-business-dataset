@@ -1,10 +1,20 @@
 {
   "entity_id": "18e4fa00-757a-5b7d-99a9-67ad178e2142",
   "name": "GLKB",
-  "what_it_does": "Provides api, app, consulting.",
+  "what_it_does": "GLKB (Glarner Kantonalbank) is a cantonal bank in Switzerland providing financial services to residents and businesses of the canton of Glarus.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "cantonal bank",
+    "swiss banking",
+    "financial services",
+    "retail banking",
+    "mortgages",
+    "loans",
+    "private banking",
+    "Glarus Switzerland"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/18e4fa00-757a-5b7d-99a9-67ad178e2142"
 }

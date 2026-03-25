@@ -1,10 +1,19 @@
 {
   "entity_id": "c944610e-9f01-5425-9386-096812544249",
   "name": "neon",
-  "what_it_does": "Finance & Banque organization.",
+  "what_it_does": "neon is a Swiss mobile banking app offering a free online current account.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "swiss mobile banking",
+    "free bank account",
+    "online current account",
+    "mobile payments",
+    "banking app",
+    "digital banking",
+    "swiss fintech"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c944610e-9f01-5425-9386-096812544249"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "24cbb732-c7b4-5af9-8414-029ed6d40f9a",
   "name": "Tucows",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "Tucows is a domain name registrar and internet services company.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "domain name registration",
+    "internet services",
+    "domain reseller",
+    "internet infrastructure",
+    "wholesale domain names",
+    "email hosting",
+    "internet access",
+    "open-source projects"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/24cbb732-c7b4-5af9-8414-029ed6d40f9a"
 }

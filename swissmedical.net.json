@@ -1,10 +1,18 @@
 {
   "entity_id": "95a28507-4014-5887-8344-beaa15fd293b",
   "name": "Clinique de Genolier",
-  "what_it_does": "Provides api, menu, offre.",
+  "what_it_does": "Clinique de Genolier is a private hospital in Switzerland offering medical services.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
+  "keywords": [
+    "private hospital",
+    "Swiss medical services",
+    "medical treatments",
+    "surgical procedures",
+    "healthcare services",
+    "Genolier clinic"
+  ],
   "aio_score": 80.0,
   "certificate_url": "https://ai-visionary.com/aya/e/95a28507-4014-5887-8344-beaa15fd293b"
 }

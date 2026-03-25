@@ -1,10 +1,20 @@
 {
   "entity_id": "82b3eea1-4119-52ed-b3a9-0462e479ff5c",
   "name": "KSB",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "KSB manufactures pumps and valves.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Germany",
+  "keywords": [
+    "industrial pumps",
+    "industrial valves",
+    "fluid handling",
+    "pump systems",
+    "valve technology",
+    "process engineering",
+    "fluid transport",
+    "industrial equipment"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/82b3eea1-4119-52ed-b3a9-0462e479ff5c"
 }

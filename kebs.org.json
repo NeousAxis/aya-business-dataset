@@ -1,10 +1,20 @@
 {
   "entity_id": "4acab44d-d4a1-5cc6-bc90-404e51d960a3",
   "name": "Kenya Bureau of Standards",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "The Kenya Bureau of Standards develops and enforces standards for products and services in Kenya.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "normes de qualité",
+    "certification de produits",
+    "tests de conformité",
+    "normalisation",
+    "Kenya normes",
+    "contrôle qualité",
+    "bureau de normalisation",
+    "conformité produits"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4acab44d-d4a1-5cc6-bc90-404e51d960a3"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "8b8a4c66-d382-5472-87be-60a540215959",
   "name": "LiveChat",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "LiveChat provides live chat software and customer service solutions for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "customer support",
+    "live chat",
+    "chat widgets",
+    "agent tools",
+    "customer communication",
+    "help desk",
+    "real-time chat",
+    "business messaging"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8b8a4c66-d382-5472-87be-60a540215959"
 }

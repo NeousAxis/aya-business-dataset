@@ -1,10 +1,20 @@
 {
   "entity_id": "bbe5e749-4bd0-57d1-921c-6768bfda94cc",
   "name": "Tissot",
-  "what_it_does": "Provides api, menu, platform.",
+  "what_it_does": "Tissot manufactures and sells Swiss-made watches.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
+  "keywords": [
+    "montres suisses",
+    "horlogerie",
+    "montres de luxe",
+    "chronomètres",
+    "garde-temps",
+    "mouvement automatique",
+    "montres bracelet",
+    "Swiss made"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bbe5e749-4bd0-57d1-921c-6768bfda94cc"
 }

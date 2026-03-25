@@ -1,10 +1,20 @@
 {
   "entity_id": "23c302f2-750a-539c-b2f5-f33fa5826cbe",
   "name": "Storyblok",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Storyblok provides a headless content management system.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "headless cms",
+    "content management",
+    "api-first cms",
+    "developer tools",
+    "content delivery",
+    "composable content",
+    "content infrastructure",
+    "multi-channel publishing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/23c302f2-750a-539c-b2f5-f33fa5826cbe"
 }

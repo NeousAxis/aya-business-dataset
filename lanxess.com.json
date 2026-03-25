@@ -1,10 +1,19 @@
 {
   "entity_id": "291181d1-1d1a-5260-aab4-ec78eacfe44a",
   "name": "LANXESS",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "LANXESS is a specialty chemicals company that develops, manufactures and markets chemical intermediates, additives, specialty chemicals and plastics.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
+  "keywords": [
+    "specialty chemicals",
+    "chemical intermediates",
+    "performance chemicals",
+    "material protection products",
+    "polymer additives",
+    "flavors and fragrances",
+    "chemical solutions"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/291181d1-1d1a-5260-aab4-ec78eacfe44a"
 }

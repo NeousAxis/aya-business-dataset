@@ -1,10 +1,19 @@
 {
   "entity_id": "d3abb69e-fa5a-5d72-90c0-4d0f114bc618",
   "name": "Boubyan",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Boubyan Bank is a Kuwaiti Islamic bank offering a range of retail and corporate banking products.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "islamic banking",
+    "kuwait bank",
+    "sharia compliant",
+    "financial products",
+    "retail banking",
+    "corporate banking",
+    "investment services"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d3abb69e-fa5a-5d72-90c0-4d0f114bc618"
 }

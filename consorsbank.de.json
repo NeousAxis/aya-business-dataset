@@ -1,10 +1,20 @@
 {
   "entity_id": "849a6e0f-a102-5d9d-96af-2e89ccb6a48a",
   "name": "Consorsbank",
-  "what_it_does": "Finance & Banque organization.",
+  "what_it_does": "Consorsbank is a German online bank offering brokerage and investment services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Germany",
+  "keywords": [
+    "german bank",
+    "online brokerage",
+    "investment services",
+    "stock trading",
+    "securities trading",
+    "financial investments",
+    "private banking",
+    "asset management"
+  ],
   "aio_score": 29.0,
   "certificate_url": "https://ai-visionary.com/aya/e/849a6e0f-a102-5d9d-96af-2e89ccb6a48a"
 }

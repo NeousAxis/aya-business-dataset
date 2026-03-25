@@ -1,10 +1,19 @@
 {
   "entity_id": "7f1c5a07-f4d7-50a4-809d-2e01272805af",
   "name": "Oxa",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Oxa develops software and technology solutions for autonomous vehicles and robotic systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
+  "keywords": [
+    "autonomous vehicle",
+    "self-driving car",
+    "autonomous driving",
+    "robotics",
+    "AI software",
+    "motion control",
+    "perception systems"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7f1c5a07-f4d7-50a4-809d-2e01272805af"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "4a966a4b-e426-5dbd-80dd-bd29db6ba389",
   "name": "Wesfarmers",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Wesfarmers is an Australian conglomerate with businesses in retail, chemicals, energy, fertilisers, and industrial and safety products.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Australia",
+  "keywords": [
+    "Australian conglomerate",
+    "retail",
+    "chemicals",
+    "fertilisers",
+    "industrial products",
+    "Australian retail",
+    "home improvement"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a966a4b-e426-5dbd-80dd-bd29db6ba389"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "188ca5b1-94e0-5e21-9cc8-bd50a231a4ad",
   "name": "Lexus",
-  "what_it_does": "Provides service.",
+  "what_it_does": "Lexus manufactures and markets luxury automobiles.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
+  "keywords": [
+    "luxury vehicles",
+    "automobiles",
+    "sedans",
+    "SUVs",
+    "hybrid cars",
+    "automotive engineering",
+    "car manufacturing",
+    "vehicle sales"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/188ca5b1-94e0-5e21-9cc8-bd50a231a4ad"
 }

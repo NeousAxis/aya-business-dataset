@@ -1,10 +1,20 @@
 {
   "entity_id": "fd4041e3-757e-5a07-a13c-c92e2d9e7c28",
   "name": "Capterra & ZoomShift",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "ZoomShift provides employee scheduling and time tracking software for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "employee scheduling",
+    "time tracking",
+    "shift planning",
+    "labor management",
+    "staff scheduling",
+    "workforce management",
+    "attendance tracking",
+    "employee time clock"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fd4041e3-757e-5a07-a13c-c92e2d9e7c28"
 }

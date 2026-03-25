@@ -1,10 +1,20 @@
 {
   "entity_id": "6b6daf54-a93d-53c2-98cf-8edfdccda59a",
   "name": "Tutti.ch",
-  "what_it_does": "E-commerce & Retail organization.",
+  "what_it_does": "Tutti.ch is a Swiss online classifieds platform.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
+  "keywords": [
+    "classifieds",
+    "secondhand goods",
+    "Swiss marketplace",
+    "used items",
+    "local ads",
+    "online bazaar",
+    "Switzerland classifieds",
+    "marketplace"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6b6daf54-a93d-53c2-98cf-8edfdccda59a"
 }

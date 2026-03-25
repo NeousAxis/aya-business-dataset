@@ -1,10 +1,17 @@
 {
   "entity_id": "434751c1-aeea-541e-b172-c978bd97222c",
   "name": "bus, railway, ferry, cargo... transportation",
-  "what_it_does": "Provides app, application, offre.",
+  "what_it_does": "Transdev operates various public transportation services including buses, railways, and ferries.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "bus",
+    "railway",
+    "ferry",
+    "cargo",
+    "transportation"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/434751c1-aeea-541e-b172-c978bd97222c"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "a039dc6a-098c-5998-a796-a03266676a0c",
   "name": "WIRED",
-  "what_it_does": "Provides app, consulting, menu.",
+  "what_it_does": "WIRED is a magazine and website that covers current and future trends in technology and culture.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "technology trends",
+    "future technology",
+    "cultural trends",
+    "tech magazine",
+    "WIRED magazine",
+    "WIRED website",
+    "technology news",
+    "science news"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a039dc6a-098c-5998-a796-a03266676a0c"
 }

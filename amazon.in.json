@@ -1,10 +1,20 @@
 {
   "entity_id": "3f5d6902-716f-50cc-abf2-1cc65e4534c4",
   "name": "Online Shopping site in India",
-  "what_it_does": "Provides app, cloud, delivery.",
+  "what_it_does": "Amazon.in is an online retailer selling a wide variety of products to consumers in India.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "India",
+  "keywords": [
+    "indian e-commerce",
+    "consumer goods",
+    "online marketplace",
+    "retail india",
+    "product sales",
+    "india shopping",
+    "e-retail",
+    "online consumer products"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3f5d6902-716f-50cc-abf2-1cc65e4534c4"
 }

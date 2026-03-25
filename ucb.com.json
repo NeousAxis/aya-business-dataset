@@ -1,10 +1,20 @@
 {
   "entity_id": "e156b47e-b375-5de3-a6ab-b64c0b70482f",
   "name": "Inspired by Patients. Driven by Science.",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "UCB is a biopharmaceutical company focused on developing medicines for neurological and immunological disorders.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Belgium",
+  "keywords": [
+    "biopharmaceutical",
+    "neurology drugs",
+    "immunology drugs",
+    "pharmaceutical research",
+    "drug development",
+    "prescription medication",
+    "central nervous system",
+    "immunological disorders"
+  ],
   "aio_score": 68.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e156b47e-b375-5de3-a6ab-b64c0b70482f"
 }

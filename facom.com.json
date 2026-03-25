@@ -1,10 +1,20 @@
 {
   "entity_id": "3856bddc-d598-5fc2-ae01-388c542ca84d",
   "name": "FACOM",
-  "what_it_does": "Provides product, products, service.",
+  "what_it_does": "FACOM likely sells hand tools and equipment, based on the domain and usual product type of companies using this name.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "hand tools",
+    "professional tools",
+    "automotive tools",
+    "industrial tools",
+    "mechanic tools",
+    "tool manufacturing",
+    "tool distribution",
+    "tool sets"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3856bddc-d598-5fc2-ae01-388c542ca84d"
 }

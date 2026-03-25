@@ -1,10 +1,20 @@
 {
   "entity_id": "71e91e7c-e062-5370-87e5-684e6c0fd82f",
   "name": "GlobalSign",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "GlobalSign provides digital certificates and PKI solutions for securing online communications and identities.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "digital certificates",
+    "public key infrastructure",
+    "SSL certificates",
+    "digital signatures",
+    "identity management",
+    "website security",
+    "pki solutions",
+    "code signing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/71e91e7c-e062-5370-87e5-684e6c0fd82f"
 }

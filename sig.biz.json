@@ -1,10 +1,20 @@
 {
   "entity_id": "85c4b103-7029-5593-afdc-55fb6bb6557e",
   "name": "for better",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "SIG likely provides packaging solutions for the food and beverage industry.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "branding",
+    "marketing",
+    "communication",
+    "brand strategy",
+    "marketing campaigns",
+    "corporate communication",
+    "visual identity",
+    "brand development"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/85c4b103-7029-5593-afdc-55fb6bb6557e"
 }

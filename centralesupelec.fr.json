@@ -1,10 +1,20 @@
 {
   "entity_id": "f43006b8-a6bf-5052-8308-9a70ebd0d2e2",
   "name": "CentraleSupélec",
-  "what_it_does": "Provides offre, service.",
+  "what_it_does": "CentraleSupélec is a graduate school for engineering and science.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
+  "keywords": [
+    "ingenieurschule",
+    "französische-hochschule",
+    "ingenieurausbildung",
+    "wissenschaftliche-ausbildung",
+    "forschungsinstitut",
+    "centralesupelec",
+    "ingenieurwesen",
+    "hochschulbildung"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f43006b8-a6bf-5052-8308-9a70ebd0d2e2"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "84549705-1bfa-5744-add8-e36e16fe295b",
   "name": "EFG Holding",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "EFG Holding is an investment bank offering services like brokerage, asset management, and investment banking in the Middle East and North Africa.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "investment banking",
+    "brokerage services",
+    "asset management",
+    "financial advisory",
+    "emerging markets",
+    "wealth management",
+    "investment solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/84549705-1bfa-5744-add8-e36e16fe295b"
 }

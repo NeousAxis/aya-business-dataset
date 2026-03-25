@@ -1,10 +1,17 @@
 {
   "entity_id": "aa8501af-ddde-56e8-b39d-99c9b2c103c7",
   "name": "Weaviate",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Weaviate is an open-source vector search engine.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "vector search",
+    "search engine",
+    "open-source",
+    "data indexing",
+    "similarity search"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aa8501af-ddde-56e8-b39d-99c9b2c103c7"
 }

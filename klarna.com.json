@@ -1,10 +1,20 @@
 {
   "entity_id": "111aa5a5-466e-5f93-84c7-d481a66beaa6",
   "name": "Bezahle flexibel mit Klarna",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "Klarna provides buy-now-pay-later services and online payment solutions for e-commerce businesses.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "buy now pay later",
+    "flexible payments",
+    "e-commerce payments",
+    "consumer finance",
+    "retail financing",
+    "payment solutions",
+    "point of sale financing",
+    "installment payments"
+  ],
   "aio_score": 22.0,
   "certificate_url": "https://ai-visionary.com/aya/e/111aa5a5-466e-5f93-84c7-d481a66beaa6"
 }

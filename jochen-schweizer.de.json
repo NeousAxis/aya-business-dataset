@@ -1,10 +1,20 @@
 {
   "entity_id": "a4e81f71-1057-5916-bb1b-26c7e53d44fb",
   "name": "Jochen Schweizer",
-  "what_it_does": "Provides service.",
+  "what_it_does": "Jochen Schweizer offers experience gifts and adventure activities.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Austria",
+  "keywords": [
+    "adventure experiences",
+    "activity gifts",
+    "experience vouchers",
+    "leisure activities",
+    "extreme sports",
+    "gift experiences",
+    "adventure tourism",
+    "unique experiences"
+  ],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a4e81f71-1057-5916-bb1b-26c7e53d44fb"
 }

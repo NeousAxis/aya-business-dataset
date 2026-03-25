@@ -1,10 +1,20 @@
 {
   "entity_id": "3fa67977-9bf5-5083-ab04-fd3e38b71510",
   "name": "HARIBO",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "HARIBO produces and sells gummy candies.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
+  "keywords": [
+    "gummy candies",
+    "jelly sweets",
+    "confectionery products",
+    "candy manufacturer",
+    "fruit gummies",
+    "sweets production",
+    "global candy",
+    "gummi bears"
+  ],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3fa67977-9bf5-5083-ab04-fd3e38b71510"
 }

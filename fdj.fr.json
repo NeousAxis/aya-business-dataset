@@ -1,10 +1,19 @@
 {
   "entity_id": "6d26644b-3d3b-5ed4-abad-57f578358eab",
   "name": "FDJ",
-  "what_it_does": "Provides app, menu, offre.",
+  "what_it_does": "FDJ (Française des Jeux) is the French national lottery operator.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
+  "keywords": [
+    "French lottery",
+    "national lottery",
+    "gambling operator",
+    "lottery games",
+    "scratch cards",
+    "sports betting",
+    "France games"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6d26644b-3d3b-5ed4-abad-57f578358eab"
 }

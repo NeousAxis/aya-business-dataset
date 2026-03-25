@@ -1,10 +1,20 @@
 {
   "entity_id": "112d4039-c5d4-519c-8069-0bccc9b6e158",
   "name": "Wrike",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Wrike offers a cloud-based project management and collaboration platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "China",
+  "keywords": [
+    "project management",
+    "collaboration",
+    "cloud project management",
+    "task management",
+    "workflow automation",
+    "enterprise project management",
+    "team collaboration",
+    "project planning"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/112d4039-c5d4-519c-8069-0bccc9b6e158"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "a16aecb0-b590-5794-b19a-93549f4d96a2",
   "name": "Rappi",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Rappi is a Latin American delivery platform providing on-demand access to various products and services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Mexico",
+  "keywords": [
+    "on-demand delivery",
+    "Latin America delivery",
+    "multivertical marketplace",
+    "food delivery",
+    "grocery delivery",
+    "pharmacy delivery",
+    "e-commerce platform"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a16aecb0-b590-5794-b19a-93549f4d96a2"
 }

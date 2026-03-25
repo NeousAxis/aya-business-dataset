@@ -1,10 +1,20 @@
 {
   "entity_id": "34bed595-4120-533a-ac6c-f4a3114f3cd0",
   "name": "BYD Schweiz",
-  "what_it_does": "Provides platform.",
+  "what_it_does": "BYD manufactures electric vehicles and batteries.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "véhicules électriques",
+    "batteries",
+    "voitures électriques",
+    "bus électriques",
+    "solutions énergétiques",
+    "mobilité électrique",
+    "batteries lithium-ion",
+    "électromobilité"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/34bed595-4120-533a-ac6c-f4a3114f3cd0"
 }

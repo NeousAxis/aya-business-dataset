@@ -1,10 +1,20 @@
 {
   "entity_id": "c329d32d-a6f2-5bfb-9178-9a5f5d9e139f",
   "name": "Abstract",
-  "what_it_does": "Provides api.",
+  "what_it_does": "Abstract provides a version control and collaboration platform for design teams.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "version control",
+    "design collaboration",
+    "design teams",
+    "sketch files",
+    "adobe xd",
+    "figma",
+    "design workflow",
+    "design assets"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c329d32d-a6f2-5bfb-9178-9a5f5d9e139f"
 }

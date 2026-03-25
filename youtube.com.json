@@ -1,10 +1,20 @@
 {
   "entity_id": "9ff2c3f2-da41-5777-8cbb-e1c3e240d9c5",
   "name": "YouTube",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "YouTube is a global online video sharing and social media platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "video sharing",
+    "social media",
+    "video content",
+    "online video",
+    "user-generated content",
+    "video platform",
+    "vlogging",
+    "content creators"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9ff2c3f2-da41-5777-8cbb-e1c3e240d9c5"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "e8412a1a-9c94-54a5-b4e9-1cfe43d77691",
   "name": "Fluke",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "Fluke manufactures electronic test tools and software.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "electronic test tools",
+    "testing equipment",
+    "measurement devices",
+    "calibration instruments",
+    "electrical testing",
+    "industrial tools",
+    "precision measurement",
+    "diagnostic tools"
+  ],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e8412a1a-9c94-54a5-b4e9-1cfe43d77691"
 }

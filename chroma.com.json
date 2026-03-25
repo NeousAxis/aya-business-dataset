@@ -1,10 +1,20 @@
 {
   "entity_id": "80e96eb6-c831-5bae-8124-d89edb155e5f",
   "name": "Chroma Technology Corp",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Chroma Technology Corp manufactures optical filters and coatings.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
+  "keywords": [
+    "optical filters",
+    "optical coatings",
+    "fluorescence filters",
+    "thin film coatings",
+    "optical components",
+    "microscopy filters",
+    "scientific filters",
+    "custom optics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/80e96eb6-c831-5bae-8124-d89edb155e5f"
 }

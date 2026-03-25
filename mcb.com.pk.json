@@ -1,10 +1,20 @@
 {
   "entity_id": "5d6a92c4-5e47-55a2-ae5d-8efd23f30496",
   "name": "MCB Bank Pakistan",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "MCB Bank Pakistan provides banking and financial services in Pakistan.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "retail banking",
+    "corporate banking",
+    "SME finance",
+    "Pakistan banking",
+    "Islamic banking",
+    "consumer loans",
+    "mortgages",
+    "financial products"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5d6a92c4-5e47-55a2-ae5d-8efd23f30496"
 }

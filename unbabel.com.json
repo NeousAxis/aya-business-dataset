@@ -1,10 +1,19 @@
 {
   "entity_id": "576faa00-35d5-5afa-922f-0bfe444d7ec1",
   "name": "Unbabel",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Unbabel offers AI-powered language translation services for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "AI translation",
+    "Machine translation",
+    "Language translation",
+    "Enterprise translation",
+    "Multilingual content",
+    "Translation API",
+    "Human-in-the-loop translation"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/576faa00-35d5-5afa-922f-0bfe444d7ec1"
 }

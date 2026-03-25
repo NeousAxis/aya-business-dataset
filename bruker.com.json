@@ -1,10 +1,20 @@
 {
   "entity_id": "555e9c83-129a-56b7-ba54-34cdcdc8fe14",
   "name": "Bruker",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Bruker manufactures scientific instruments for molecular and materials research, as well as for industrial and applied analysis.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "scientific instruments",
+    "molecular research",
+    "materials research",
+    "preclinical imaging",
+    "mass spectrometry",
+    "NMR spectroscopy",
+    "spectrometers",
+    "chromatography"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/555e9c83-129a-56b7-ba54-34cdcdc8fe14"
 }

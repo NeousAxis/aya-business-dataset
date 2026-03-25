@@ -1,10 +1,20 @@
 {
   "entity_id": "86e53820-26d2-53f1-a8e8-696ce5d496bd",
   "name": "From Plant to Brand",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "AAK specializes in plant-based oils and fats for food and other industries.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Turkey",
+  "keywords": [
+    "vegetable oils",
+    "vegetable fats",
+    "food ingredients",
+    "specialty oils",
+    "plant-based oils",
+    "cocoa butter alternatives",
+    "ingredient solutions",
+    "edible oils"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/86e53820-26d2-53f1-a8e8-696ce5d496bd"
 }

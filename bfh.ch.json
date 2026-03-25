@@ -1,10 +1,20 @@
 {
   "entity_id": "eb5986e2-96cf-57c8-a51c-a9eb8a8fe5e9",
   "name": "Bern University of Applied Sciences",
-  "what_it_does": "Provides app, application, consulting.",
+  "what_it_does": "Bern University of Applied Sciences offers vocational and professional education and research in various fields.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
+  "keywords": [
+    "vocational training",
+    "professional education",
+    "applied research",
+    "Swiss universities",
+    "tertiary education",
+    "Bern education",
+    "research institution",
+    "higher education"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eb5986e2-96cf-57c8-a51c-a9eb8a8fe5e9"
 }

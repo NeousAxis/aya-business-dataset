@@ -1,10 +1,19 @@
 {
   "entity_id": "306c7a3e-6ec3-5df4-94f4-209a9b12ac4a",
   "name": "WMG Global Music Company & Collective",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "WMG is a global music company that records, publishes, and distributes music.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "global music entertainment",
+    "music recording",
+    "music publishing",
+    "music distribution",
+    "artist management",
+    "song licensing",
+    "music production"
+  ],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/306c7a3e-6ec3-5df4-94f4-209a9b12ac4a"
 }

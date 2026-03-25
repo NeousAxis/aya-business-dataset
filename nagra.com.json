@@ -1,10 +1,20 @@
 {
   "entity_id": "39bf756c-6bd2-5dc5-9b6d-80a3a9233460",
   "name": "NAGRA Kudelski Group",
-  "what_it_does": "Provides app, cloud, product.",
+  "what_it_does": "NAGRA Kudelski Group provides digital security and convergent media solutions, focusing on content protection.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "content protection",
+    "multi-screen TV",
+    "digital TV",
+    "video security",
+    "pay-TV",
+    "anti-piracy",
+    "media security",
+    "content delivery"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/39bf756c-6bd2-5dc5-9b6d-80a3a9233460"
 }

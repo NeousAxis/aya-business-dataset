@@ -1,10 +1,20 @@
 {
   "entity_id": "aab7d904-9b8b-5901-9986-680f398a683c",
   "name": "search.ch",
-  "what_it_does": "Provides app, restaurant, service.",
+  "what_it_does": "search.ch is a Swiss search engine and online directory.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss search engine",
+    "Swiss directory",
+    "local search",
+    "information retrieval",
+    "yellow pages Switzerland",
+    "telephone directory Switzerland",
+    "business directory Switzerland",
+    "Swiss search"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aab7d904-9b8b-5901-9986-680f398a683c"
 }

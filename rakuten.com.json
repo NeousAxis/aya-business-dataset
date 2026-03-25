@@ -1,10 +1,20 @@
 {
   "entity_id": "28428380-27c3-59b4-95cc-69abd4cd7d8a",
   "name": "Rakuten",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Rakuten is an e-commerce platform offering a wide variety of products from multiple vendors.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "e-commerce",
+    "online-shopping",
+    "marktplatz",
+    "online-handel",
+    "rakuten",
+    "kundenbindungsprogramm",
+    "einkaufsplattform",
+    "online-marktplatz"
+  ],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/28428380-27c3-59b4-95cc-69abd4cd7d8a"
 }

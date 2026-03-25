@@ -1,10 +1,20 @@
 {
   "entity_id": "c8d94d60-f7b6-58c5-88eb-9082b1428038",
   "name": "DataBank",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "DataBank provides enterprise-class data center, cloud, and interconnection services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "data centers",
+    "cloud computing",
+    "interconnection",
+    "enterprise hosting",
+    "colocation",
+    "managed services",
+    "cloud infrastructure",
+    "data storage"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c8d94d60-f7b6-58c5-88eb-9082b1428038"
 }

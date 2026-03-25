@@ -1,10 +1,20 @@
 {
   "entity_id": "8e5c9153-9082-517c-82d6-82852cb78dfd",
   "name": "RTVE.es",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "RTVE.es is the website for Radio Televisión Española, a Spanish public broadcasting corporation.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Spain",
+  "keywords": [
+    "Spanish television",
+    "radio broadcasting",
+    "news streaming",
+    "entertainment programs",
+    "Spanish content",
+    "video streaming",
+    "live television",
+    "RTVE"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8e5c9153-9082-517c-82d6-82852cb78dfd"
 }

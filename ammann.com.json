@@ -1,10 +1,20 @@
 {
   "entity_id": "037998e0-943f-548f-8b9b-d2d866bd8305",
   "name": "Ammann Group",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Ammann Group manufactures machinery and equipment for the construction industry, specifically road building.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Switzerland",
+  "keywords": [
+    "construction equipment",
+    "road construction",
+    "asphalt plants",
+    "soil compactors",
+    "paving machinery",
+    "road building",
+    "heavy machinery",
+    "construction industry"
+  ],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/037998e0-943f-548f-8b9b-d2d866bd8305"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "0d143b1b-0b38-5c5f-9b2d-1b08e7c66c8b",
   "name": "wirecard",
-  "what_it_does": "Provides api, menu.",
+  "what_it_does": "Wirecard was a payment processor and financial services provider that filed for insolvency after an accounting scandal.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
+  "keywords": [
+    "payment processing",
+    "financial transactions",
+    "payment gateway",
+    "merchant services",
+    "fraud prevention",
+    "electronic payments",
+    "banking solutions"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0d143b1b-0b38-5c5f-9b2d-1b08e7c66c8b"
 }

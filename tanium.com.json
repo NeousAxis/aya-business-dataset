@@ -1,10 +1,20 @@
 {
   "entity_id": "bc7814b6-d8e7-59f2-a39d-745c48e79b2f",
   "name": "Tanium",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Tanium provides endpoint security and systems management software.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "endpoint security",
+    "systems management",
+    "IT security",
+    "tanium software",
+    "security endpoints",
+    "asset discovery",
+    "vulnerability detection",
+    "cybersecurity"
+  ],
   "aio_score": 69.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bc7814b6-d8e7-59f2-a39d-745c48e79b2f"
 }

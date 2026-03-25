@@ -1,10 +1,19 @@
 {
   "entity_id": "99c27182-3629-5c77-a426-61b807665795",
   "name": "Forvis Mazars",
-  "what_it_does": "Provides api, app, consulting.",
+  "what_it_does": "Forvis Mazars is an accounting, tax, and advisory firm.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "United Kingdom",
+  "keywords": [
+    "audit services",
+    "tax services",
+    "advisory services",
+    "financial auditing",
+    "business consulting",
+    "tax compliance",
+    "risk advisory"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/99c27182-3629-5c77-a426-61b807665795"
 }

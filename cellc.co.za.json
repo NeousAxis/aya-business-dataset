@@ -1,10 +1,20 @@
 {
   "entity_id": "0e647bcd-c568-555f-8823-5bbfab612c0c",
   "name": "Cell C",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Cell C is a South African mobile network operator offering telecommunications services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "South Africa",
+  "keywords": [
+    "mobile network operator",
+    "telecommunications",
+    "mobile services",
+    "prepaid mobile",
+    "data services",
+    "South Africa telecom",
+    "wireless internet",
+    "mobile broadband"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0e647bcd-c568-555f-8823-5bbfab612c0c"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "b73445e1-cce9-5171-8a3c-7532f4ecd6e2",
   "name": "Welkom bij KPN",
-  "what_it_does": "Provides app, cloud, menu.",
+  "what_it_does": "KPN is a Dutch telecommunications company providing landline, mobile, and internet services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "telecommunications",
+    "fixed telephony",
+    "mobile telephony",
+    "internet access",
+    "netherlands telecom",
+    "kpn telecom",
+    "residential telecom",
+    "business telecom"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b73445e1-cce9-5171-8a3c-7532f4ecd6e2"
 }

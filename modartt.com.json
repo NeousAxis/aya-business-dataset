@@ -1,10 +1,20 @@
 {
   "entity_id": "fb04bee7-65d3-57e4-9148-7426505f7668",
   "name": "Modartt",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Modartt sells physically modeled piano software instruments.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "virtual pianos",
+    "physical modeling",
+    "piano VSTs",
+    "instrument plugins",
+    "audio software",
+    "music production",
+    "keyboard instruments",
+    "digital audio workstations"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fb04bee7-65d3-57e4-9148-7426505f7668"
 }

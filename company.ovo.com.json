@@ -1,10 +1,20 @@
 {
   "entity_id": "2b50bb95-ddf4-50c0-872d-ef9dbe1ab83a",
   "name": "OVO Group",
-  "what_it_does": "Provides app, cloud, product.",
+  "what_it_does": "OVO Group is an energy company that provides electricity and gas to homes.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "energy supplier",
+    "electricity ",
+    "gas supply",
+    "renewable energy",
+    "household energy",
+    "green energy",
+    "energy plans",
+    "domestic energy"
+  ],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2b50bb95-ddf4-50c0-872d-ef9dbe1ab83a"
 }

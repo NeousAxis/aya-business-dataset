@@ -1,10 +1,20 @@
 {
   "entity_id": "afd1b47d-ea13-58f1-8204-3327f15d7bd1",
   "name": "Doosan Group",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Doosan Group is a South Korean multinational conglomerate with interests in power, construction equipment, and engineering.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "power generation",
+    "construction equipment",
+    "desalination plants",
+    "industrial machinery",
+    "engineering solutions",
+    "infrastructure development",
+    "heavy industries",
+    "south korea conglomerate"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/afd1b47d-ea13-58f1-8204-3327f15d7bd1"
 }

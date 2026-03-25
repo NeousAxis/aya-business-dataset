@@ -1,10 +1,20 @@
 {
   "entity_id": "903db301-49d4-506a-a821-71da1b71e983",
   "name": "KPT",
-  "what_it_does": "Provides api, app, prestation.",
+  "what_it_does": "KPT provides health insurance in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "krankenversicherung",
+    "schweizer-krankenkasse",
+    "private-krankenversicherung",
+    "gesundheitsversicherung",
+    "kpt",
+    "krankenversicherungsleistungen",
+    "schweiz",
+    "versicherungsgesellschaft"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/903db301-49d4-506a-a821-71da1b71e983"
 }

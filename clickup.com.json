@@ -1,10 +1,19 @@
 {
   "entity_id": "6f239fe8-5bb6-51c1-9568-3a9b5c598a5f",
   "name": "ClickUp",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "ClickUp is a project management and productivity platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "project collaboration",
+    "task",
+    "team",
+    "workflow automation",
+    "project management tools",
+    "productivity",
+    "project planning"
+  ],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6f239fe8-5bb6-51c1-9568-3a9b5c598a5f"
 }

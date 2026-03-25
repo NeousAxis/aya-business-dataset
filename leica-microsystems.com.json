@@ -1,10 +1,20 @@
 {
   "entity_id": "633ccb32-ef9c-55f7-985f-5c5aa2322764",
   "name": "Microscopes and Imaging Systems",
-  "what_it_does": "Provides app, application, consulting.",
+  "what_it_does": "Leica Microsystems manufactures microscopes and scientific instruments for imaging and analysis.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
+  "keywords": [
+    "microscopes",
+    "imaging equipment",
+    "scientific instruments",
+    "microscopy",
+    "image analysis",
+    "life science",
+    "material science",
+    "optical microscopy"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/633ccb32-ef9c-55f7-985f-5c5aa2322764"
 }

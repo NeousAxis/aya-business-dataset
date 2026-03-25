@@ -1,10 +1,19 @@
 {
   "entity_id": "4e90124a-2c22-5350-b3ff-a883b798358e",
   "name": "Vidyard",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Vidyard provides video hosting and analytics platforms for businesses.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "video hosting",
+    "video analytics",
+    "enterprise video",
+    "video marketing",
+    "video management",
+    "business video",
+    "video platform"
+  ],
   "aio_score": 67.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4e90124a-2c22-5350-b3ff-a883b798358e"
 }

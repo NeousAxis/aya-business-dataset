@@ -1,10 +1,19 @@
 {
   "entity_id": "a69d807c-639f-52b7-8871-e8892814ead5",
   "name": "Home • Ualabee",
-  "what_it_does": "Provides app, product.",
+  "what_it_does": "Ualabee likely provides real-time public transportation information and planning tools.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "public transportation data",
+    "real-time transit information",
+    "route planning",
+    "urban mobility",
+    "transit apps",
+    "commute solutions",
+    "transportation planning"
+  ],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a69d807c-639f-52b7-8871-e8892814ead5"
 }

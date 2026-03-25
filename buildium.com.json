@@ -1,10 +1,19 @@
 {
   "entity_id": "08d24da5-842f-5e6b-8bea-5732612713de",
   "name": "Buildium",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Buildium provides property management software for small to medium-sized businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "property management",
+    "real estate software",
+    "rental property",
+    "lease tracking",
+    "property accounting",
+    "tenant screening",
+    "cloud property management"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/08d24da5-842f-5e6b-8bea-5732612713de"
 }

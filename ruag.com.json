@@ -1,10 +1,20 @@
 {
   "entity_id": "a4266c8c-93c6-5269-a1f2-83e5601dbb9c",
   "name": "RUAG International",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "RUAG International is a Swiss technology group specializing in aerospace, and defense.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "aerospace",
+    "defense",
+    "aviation",
+    "technology group",
+    "Swiss technology",
+    "security solutions",
+    "RUAG International",
+    "military systems"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a4266c8c-93c6-5269-a1f2-83e5601dbb9c"
 }

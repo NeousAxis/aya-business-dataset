@@ -1,10 +1,20 @@
 {
   "entity_id": "e6083342-75e4-5793-bba6-609a9f5a4051",
   "name": "EBANX",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "EBANX provides payment solutions for Latin American markets, enabling international companies to accept local payments.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Brazil",
+  "keywords": [
+    "Latin America payments",
+    "cross-border payments",
+    "payment processing",
+    "local payment methods",
+    "emerging markets",
+    "international transactions",
+    "e-commerce payments",
+    "alternative payments"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e6083342-75e4-5793-bba6-609a9f5a4051"
 }

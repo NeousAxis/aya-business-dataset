@@ -1,10 +1,20 @@
 {
   "entity_id": "31b25fe6-2cfb-57cf-bfee-ca681188f5a3",
   "name": "Exotec",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Exotec provides robotic warehouse automation solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United Kingdom",
+  "keywords": [
+    "warehouse automation",
+    "robotics solutions",
+    "e-commerce fulfillment",
+    "automated storage",
+    "goods-to-person",
+    "order preparation",
+    "inventory management",
+    "fulfillment systems"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/31b25fe6-2cfb-57cf-bfee-ca681188f5a3"
 }

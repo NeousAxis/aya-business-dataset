@@ -1,10 +1,13 @@
 {
   "entity_id": "ac848188-3244-54fe-bf2d-4b8bf4fd2751",
   "name": "Contentful",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Contentful provides a content management system (CMS) delivered as a service.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
+  "keywords": [
+    "content management system"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ac848188-3244-54fe-bf2d-4b8bf4fd2751"
 }

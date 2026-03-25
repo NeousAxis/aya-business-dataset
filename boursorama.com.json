@@ -1,10 +1,19 @@
 {
   "entity_id": "9eab1fd2-5758-5be5-a7ae-317a649e597b",
   "name": "Actualité économique, Bourse, Banque en ligne",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Boursorama provides financial news, stock market information, and online banking services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "Financial news",
+    "Stock market data",
+    "Online banking",
+    "Investment information",
+    "Personal finance",
+    "Trading platforms",
+    "Economic analysis"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9eab1fd2-5758-5be5-a7ae-317a649e597b"
 }

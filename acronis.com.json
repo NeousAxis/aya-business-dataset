@@ -1,10 +1,20 @@
 {
   "entity_id": "b4497621-d289-5243-91a9-1dd8e00a027a",
   "name": "Acronis",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Acronis provides cyber protection solutions, including backup, disaster recovery, and anti-malware.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "cyber protection",
+    "data backup",
+    "disaster recovery",
+    "anti-malware",
+    "endpoint protection",
+    "data security",
+    "cloud backup",
+    "ransomware protection"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b4497621-d289-5243-91a9-1dd8e00a027a"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "77c1ae34-1f0a-57cb-8693-2e9ec73a3ed0",
   "name": "SAIC",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "SAIC provides technical and engineering services and solutions primarily to the U.S. government.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "government solutions",
+    "technical services",
+    "engineering solutions",
+    "defense contracting",
+    "intelligence community",
+    "US government",
+    "national security",
+    "IT solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/77c1ae34-1f0a-57cb-8693-2e9ec73a3ed0"
 }

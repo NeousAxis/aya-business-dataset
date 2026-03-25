@@ -1,10 +1,20 @@
 {
   "entity_id": "d17acff1-7bd1-54b8-b6b4-c027c402a006",
   "name": "Bose",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Bose sells audio equipment, including headphones, speakers, and home theater systems.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Canada",
+  "keywords": [
+    "audio equipment",
+    "headphones",
+    "speakers",
+    "home theater systems",
+    "sound systems",
+    "audio accessories",
+    "noise cancelling",
+    "portable audio"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d17acff1-7bd1-54b8-b6b4-c027c402a006"
 }

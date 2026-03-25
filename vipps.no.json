@@ -1,10 +1,13 @@
 {
   "entity_id": "cc6b4896-4346-57bb-a5bd-c3ce55f11e07",
   "name": "Vipps",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Vipps is a mobile payment solution widely used in Norway.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Norway",
+  "keywords": [
+    "mobile payment"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cc6b4896-4346-57bb-a5bd-c3ce55f11e07"
 }

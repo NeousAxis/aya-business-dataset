@@ -1,10 +1,20 @@
 {
   "entity_id": "dc77ee6f-9320-57f0-a7e3-7f7b3ea154e3",
   "name": "OMRON Robotics",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "OMRON Robotics manufactures industrial robots and automation solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "industrial robots",
+    "automation equipment",
+    "manufacturing automation",
+    "robotics solutions",
+    "assembly robots",
+    "material handling robots",
+    "SCARA robots",
+    "robotic arms"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dc77ee6f-9320-57f0-a7e3-7f7b3ea154e3"
 }

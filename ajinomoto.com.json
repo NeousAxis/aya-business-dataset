@@ -1,10 +1,20 @@
 {
   "entity_id": "6bb2a877-dd6d-511b-843e-8c6986b95f7f",
   "name": "The Ajinomoto Group",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "The Ajinomoto Group manufactures and sells food, seasonings, and chemical products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "China",
+  "keywords": [
+    "food",
+    "seasonings",
+    "processed foods",
+    "pharmaceuticals",
+    "Ajinomoto",
+    "amino acids",
+    "umami",
+    "food ingredients"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6bb2a877-dd6d-511b-843e-8c6986b95f7f"
 }

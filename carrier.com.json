@@ -1,10 +1,17 @@
 {
   "entity_id": "48d034d7-ab7e-5d6d-91bf-c9de87a26030",
   "name": "Carrier",
-  "what_it_does": "Provides app, consulting, menu.",
+  "what_it_does": "Carrier manufactures and distributes heating, ventilation, and air conditioning (HVAC) systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "HVAC",
+    "heating",
+    "ventilation",
+    "air conditioning",
+    "systems"
+  ],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/48d034d7-ab7e-5d6d-91bf-c9de87a26030"
 }

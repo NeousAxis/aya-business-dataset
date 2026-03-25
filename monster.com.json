@@ -1,10 +1,20 @@
 {
   "entity_id": "e767de99-7ba7-550e-bc08-b398e5cee066",
   "name": "Monster",
-  "what_it_does": "Provides app, delivery, product.",
+  "what_it_does": "Monster operates an online job board connecting job seekers with employers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Luxembourg",
+  "keywords": [
+    "job board",
+    "career site",
+    "employment listings",
+    "job search",
+    "recruitment",
+    "talent acquisition",
+    "candidate sourcing",
+    "job postings"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e767de99-7ba7-550e-bc08-b398e5cee066"
 }

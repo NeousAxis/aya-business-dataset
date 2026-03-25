@@ -1,10 +1,20 @@
 {
   "entity_id": "53e980ea-88aa-5131-b3cc-a751f8e39b1e",
   "name": "Home of the Xfer Records VST Suite",
-  "what_it_does": "Provides api, product, products.",
+  "what_it_does": "Xfer Records sells virtual instruments and effects plugins for music production.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "virtual instruments",
+    "audio plugins",
+    "music production tools",
+    "VST plugins",
+    "audio effects",
+    "synthesizers",
+    "sound design",
+    "electronic music"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/53e980ea-88aa-5131-b3cc-a751f8e39b1e"
 }

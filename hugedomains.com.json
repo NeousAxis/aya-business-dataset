@@ -1,10 +1,20 @@
 {
   "entity_id": "f279ca0b-eeb0-538e-b0d7-cb53253beaea",
   "name": "HugeDomains",
-  "what_it_does": "Provides app, delivery, service.",
+  "what_it_does": "HugeDomains is a marketplace for buying and selling premium domain names.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "domain names",
+    "premium domains",
+    "domain marketplace",
+    "domain brokerage",
+    "domain acquisition",
+    "internet domains",
+    "domain investment",
+    "brandable domains"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f279ca0b-eeb0-538e-b0d7-cb53253beaea"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "409a9c2b-dabe-5ee4-b282-39bfe95ff3e9",
   "name": "Paramount",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Paramount is a media company producing and distributing film and television content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "film production",
+    "television distribution",
+    "entertainment content",
+    "motion pictures",
+    "TV shows",
+    "media conglomerate",
+    "studio entertainment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/409a9c2b-dabe-5ee4-b282-39bfe95ff3e9"
 }

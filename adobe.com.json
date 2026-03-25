@@ -1,10 +1,20 @@
 {
   "entity_id": "e105c3eb-4366-5055-8792-fa48b8563ae7",
   "name": "Adobe",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Adobe develops software for creating and publishing a wide range of content, including graphics, photography, and video.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "graphic design",
+    "video editing",
+    "creative tools",
+    "publishing software",
+    "content creation",
+    "multimedia design",
+    "illustration software",
+    "digital marketing tools"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e105c3eb-4366-5055-8792-fa48b8563ae7"
 }

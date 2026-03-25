@@ -1,10 +1,19 @@
 {
   "entity_id": "35631946-61dc-579d-b244-7652bcf1c3f6",
   "name": "Vos envies de lecture commencent ici",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Hachette publishes and distributes books.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
+  "keywords": [
+    "book publishing",
+    "book distribution",
+    "French publishing",
+    "literature",
+    "book sales",
+    "editorial services",
+    "printed books"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/35631946-61dc-579d-b244-7652bcf1c3f6"
 }

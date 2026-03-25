@@ -1,10 +1,20 @@
 {
   "entity_id": "5b8c00ae-1cea-54db-baf8-41fd8261b0f9",
   "name": "SWICA",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "SWICA is a Swiss health insurance company.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
+  "keywords": [
+    "health insurance",
+    "swiss insurance",
+    "medical coverage",
+    "accident insurance",
+    "supplementary insurance",
+    "insurance plans",
+    "healthcare benefits",
+    "insurance provider"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5b8c00ae-1cea-54db-baf8-41fd8261b0f9"
 }

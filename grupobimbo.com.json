@@ -1,10 +1,20 @@
 {
   "entity_id": "0731af3c-3f85-5254-a3a7-f46a3ad55eba",
   "name": "Grupo Bimbo",
-  "what_it_does": "Provides cloud.",
+  "what_it_does": "Grupo Bimbo is a multinational bakery company producing bread, buns, and snacks.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "bakery products",
+    "bread",
+    "buns",
+    "snack foods",
+    "global market",
+    "packaged goods",
+    "baked goods",
+    "confectionery"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0731af3c-3f85-5254-a3a7-f46a3ad55eba"
 }

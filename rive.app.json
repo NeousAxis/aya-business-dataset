@@ -1,10 +1,20 @@
 {
   "entity_id": "8ba22471-e51e-5aaa-ba35-9d414b9ce07b",
   "name": "Rive",
-  "what_it_does": "Provides app, platform, product.",
+  "what_it_does": "Rive provides a platform for creating and deploying interactive vector graphics.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "vector graphics",
+    "interactive design",
+    "animation tools",
+    "real-time rendering",
+    "design platform",
+    "game design",
+    "UI design",
+    "motion graphics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8ba22471-e51e-5aaa-ba35-9d414b9ce07b"
 }

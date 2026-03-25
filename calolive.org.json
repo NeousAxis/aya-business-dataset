@@ -1,10 +1,20 @@
 {
   "entity_id": "779e9f7d-0f8b-531e-83de-8e88dbd0d847",
   "name": "California Ripe Olives",
-  "what_it_does": "Provides api, app, consulting.",
+  "what_it_does": "California Ripe Olives represents and promotes California's olive industry and related products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "California olives",
+    "Ripe olives",
+    "Olive products",
+    "California agriculture",
+    "Olive industry",
+    "Table olives",
+    "Olive promotion",
+    "California food"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/779e9f7d-0f8b-531e-83de-8e88dbd0d847"
 }

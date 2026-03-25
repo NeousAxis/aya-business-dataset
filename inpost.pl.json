@@ -1,10 +1,20 @@
 {
   "entity_id": "bdaec60f-335c-51e5-9a69-c159c6bbc3cd",
   "name": "InPost dla Ciebie",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "InPost provides automated parcel locker (APL) services for deliveries and collections.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Poland",
+  "keywords": [
+    "casiers à colis automatisés",
+    "livraison de colis",
+    "collecte de colis",
+    "réseau de casiers",
+    "e-commerce",
+    "logistique du dernier kilomètre",
+    "parcel lockers",
+    "automated parcel machines"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bdaec60f-335c-51e5-9a69-c159c6bbc3cd"
 }

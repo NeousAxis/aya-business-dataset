@@ -1,10 +1,19 @@
 {
   "entity_id": "4f1dc129-59b7-5241-822d-b6e7dc0362ef",
   "name": "Radxa",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Radxa manufactures single-board computers and development boards.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "single-board computers",
+    "development boards",
+    "embedded systems",
+    "DIY electronics",
+    "maker community",
+    "open source hardware",
+    "ARM-based computers"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4f1dc129-59b7-5241-822d-b6e7dc0362ef"
 }

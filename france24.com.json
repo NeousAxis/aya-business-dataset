@@ -1,10 +1,20 @@
 {
   "entity_id": "a39e341d-fe93-5659-a806-53c33950bbbd",
   "name": "FRANCE 24",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "France 24 is a French international news and current affairs television network.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "news channel",
+    "international news",
+    "French news",
+    "global current events",
+    "television broadcasting",
+    "France 24",
+    "world affairs",
+    "political reporting"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a39e341d-fe93-5659-a806-53c33950bbbd"
 }

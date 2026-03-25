@@ -1,10 +1,19 @@
 {
   "entity_id": "7708b272-5440-5c6e-9868-f1b093497a6b",
   "name": "Toggl Track",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Toggl Track offers a time tracking tool for individuals and teams.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "time tracking",
+    "employee time tracking",
+    "project time tracking",
+    "time logging",
+    "productivity",
+    "timesheet",
+    "work hours"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7708b272-5440-5c6e-9868-f1b093497a6b"
 }

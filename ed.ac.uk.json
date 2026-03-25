@@ -1,10 +1,20 @@
 {
   "entity_id": "27f85b33-5bcb-5dd4-9bbb-ad9aba1a721a",
   "name": "Ed",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Ed (University of Edinburgh) is a Scottish university providing higher education and research.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
+  "keywords": [
+    "Scottish university",
+    "higher education",
+    "academic research",
+    "undergraduate courses",
+    "postgraduate courses",
+    "university of Edinburgh",
+    "research university",
+    "Edinburg university"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/27f85b33-5bcb-5dd4-9bbb-ad9aba1a721a"
 }

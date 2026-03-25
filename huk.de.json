@@ -1,10 +1,20 @@
 {
   "entity_id": "c60ff39d-5c3f-5236-abfe-6ceffeb5e5bf",
   "name": "HUK-COBURG",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "HUK-COBURG is an insurance company offering a range of insurance products.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Germany",
+  "keywords": [
+    "assurance",
+    "assurance auto",
+    "assurance habitation",
+    "assurance responsabilité civile",
+    "assurance santé",
+    "assurance vie",
+    "produits d'assurance",
+    "compagnie d'assurance"
+  ],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c60ff39d-5c3f-5236-abfe-6ceffeb5e5bf"
 }

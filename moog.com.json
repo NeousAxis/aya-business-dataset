@@ -1,10 +1,20 @@
 {
   "entity_id": "bbf0f6f0-f109-5c2e-b198-c01c967ae536",
   "name": "Moog Inc.",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Moog Inc. designs and manufactures precision control components and systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "motion control",
+    "precision components",
+    "aerospace controls",
+    "industrial automation",
+    "hydraulic systems",
+    "servo valves",
+    "control systems",
+    "actuation systems"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bbf0f6f0-f109-5c2e-b198-c01c967ae536"
 }

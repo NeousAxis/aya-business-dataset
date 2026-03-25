@@ -1,10 +1,20 @@
 {
   "entity_id": "b3689951-d302-52aa-bfd6-ee7f6932ffde",
   "name": "Bouygues Immobilier",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Bouygues Immobilier develops and manages residential, commercial, and urban real estate projects.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
+  "keywords": [
+    "real estate development",
+    "residential projects",
+    "commercial property",
+    "urban development",
+    "property management",
+    "housing construction",
+    "new homes",
+    "sustainable building"
+  ],
   "aio_score": 67.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b3689951-d302-52aa-bfd6-ee7f6932ffde"
 }

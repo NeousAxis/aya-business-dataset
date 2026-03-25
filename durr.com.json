@@ -1,10 +1,20 @@
 {
   "entity_id": "599fa0b2-5f6f-5865-a25a-5512b1a0ccd0",
   "name": "Dürr AG",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Dürr AG designs and builds industrial machinery and equipment, particularly for the automotive industry.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Germany",
+  "keywords": [
+    "industrial machinery",
+    "automotive equipment",
+    "paint shops",
+    "assembly lines",
+    "manufacturing systems",
+    "automation",
+    "production technology",
+    "industrial engineering"
+  ],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/599fa0b2-5f6f-5865-a25a-5512b1a0ccd0"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "a19d4c15-d5b8-5639-ba74-a3b9680a8ff8",
   "name": "LinkedIn",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "LinkedIn is a professional networking platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Ireland",
+  "keywords": [
+    "professional networking",
+    "career development",
+    "job searching",
+    "business connections",
+    "recruiting",
+    "employment opportunities",
+    "professional profiles"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a19d4c15-d5b8-5639-ba74-a3b9680a8ff8"
 }

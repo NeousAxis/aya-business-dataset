@@ -1,10 +1,20 @@
 {
   "entity_id": "c3fa6153-f1e3-50e0-9a63-5fc45bd5e25d",
   "name": "Samtec",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Samtec manufactures electronic connectors and interconnect systems.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "electronic connectors",
+    "interconnect systems",
+    "board to board connectors",
+    "high speed connectors",
+    "cable assemblies",
+    "pcb connectors",
+    "electronic components",
+    "connector manufacturer"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c3fa6153-f1e3-50e0-9a63-5fc45bd5e25d"
 }

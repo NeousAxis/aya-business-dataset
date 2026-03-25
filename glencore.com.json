@@ -1,10 +1,20 @@
 {
   "entity_id": "0c10a185-23fa-58b8-ab7a-c20ffb97cf99",
   "name": "Glencore",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Glencore publishes articles.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "commodity trading",
+    "mining",
+    "metal trading",
+    "energy products",
+    "agricultural products",
+    "global commodities",
+    "natural resources",
+    "raw materials"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0c10a185-23fa-58b8-ab7a-c20ffb97cf99"
 }

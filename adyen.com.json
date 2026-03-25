@@ -1,10 +1,20 @@
 {
   "entity_id": "254d0015-4acf-50a4-a9c2-a567eaf8de78",
   "name": "Adyen",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Adyen provides a unified payment platform for online, mobile, and in-store transactions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Australia",
+  "keywords": [
+    "plateforme de paiement",
+    "transactions en ligne",
+    "paiements mobiles",
+    "paiements en magasin",
+    "traitement des paiements",
+    "acquisition de paiements",
+    "paiements unifiés",
+    "prévention de la fraude"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/254d0015-4acf-50a4-a9c2-a567eaf8de78"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "ab09c369-4901-570d-a083-3dc5c285b1c4",
   "name": "DNV",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "DNV is a global provider of assurance and risk management services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
+  "keywords": [
+    "assurance services",
+    "risk management",
+    "maritime assurance",
+    "energy certification",
+    "business assurance",
+    "sustainability services",
+    "independent assessment",
+    "certification services"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab09c369-4901-570d-a083-3dc5c285b1c4"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "b62f87cd-1862-5da5-af05-a83bceab8810",
   "name": "Mercado Libre",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Mercado Libre operates an online marketplace where users can buy and sell goods and services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Argentina",
+  "keywords": [
+    "Latin American marketplace",
+    "e-commerce platform",
+    "online auctions",
+    "retail sales",
+    "product listings",
+    "consumer goods",
+    "marketplace",
+    "LATAM e-commerce"
+  ],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b62f87cd-1862-5da5-af05-a83bceab8810"
 }

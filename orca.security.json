@@ -1,10 +1,20 @@
 {
   "entity_id": "485c2d73-d365-507a-9715-58ac2eb977eb",
   "name": "Orca Security",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Orca Security provides cloud security solutions for AWS, Azure, and Google Cloud Platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "cloud security",
+    "cloud workload protection",
+    "AWS security",
+    "Azure security",
+    "GCP security",
+    "cloud native security",
+    "vulnerability management",
+    "cloud risk"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/485c2d73-d365-507a-9715-58ac2eb977eb"
 }

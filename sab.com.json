@@ -1,10 +1,20 @@
 {
   "entity_id": "7fa044e7-12ae-5af9-8faf-27351a6f8e8c",
   "name": "SAB",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "SAB likely provides financial services such as banking or investment products.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Saudi Arabia",
+  "keywords": [
+    "Saudi banking",
+    "Awwal Bank",
+    "Financial transactions",
+    "Retail banking",
+    "Corporate finance",
+    "Islamic finance",
+    "Saudi Arabia",
+    "Investment banking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7fa044e7-12ae-5af9-8faf-27351a6f8e8c"
 }

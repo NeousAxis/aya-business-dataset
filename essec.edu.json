@@ -1,10 +1,20 @@
 {
   "entity_id": "d007a348-c9b0-5945-8522-eab4ca100fbe",
   "name": "ESSEC Business School",
-  "what_it_does": "Provides api, app, offre.",
+  "what_it_does": "ESSEC Business School is a French graduate business school.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
+  "keywords": [
+    "business school",
+    "higher education",
+    "graduate programs",
+    "executive education",
+    "management education",
+    "business administration",
+    "MBA programs",
+    "postgraduate studies"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d007a348-c9b0-5945-8522-eab4ca100fbe"
 }

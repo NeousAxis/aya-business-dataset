@@ -1,10 +1,19 @@
 {
   "entity_id": "2cf5b2e3-e38d-53d0-b2bd-009e849709b5",
   "name": "Novartis",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Novartis is a multinational pharmaceutical company that researches, develops, manufactures, and markets healthcare products.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
+  "keywords": [
+    "pharmaceuticals",
+    "drug development",
+    "healthcare products",
+    "prescription drugs",
+    "pharmaceutical research",
+    "global healthcare",
+    "innovative medicines"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2cf5b2e3-e38d-53d0-b2bd-009e849709b5"
 }

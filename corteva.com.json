@@ -1,10 +1,20 @@
 {
   "entity_id": "f6774d62-1863-5c88-82bc-16167ce70b57",
   "name": "Corteva Agriscience",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Corteva Agriscience develops and sells agricultural products, including seeds and crop protection solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Portugal",
+  "keywords": [
+    "agricultural seeds",
+    "crop protection",
+    "agrochemicals",
+    "farming solutions",
+    "seed technology",
+    "pest control",
+    "agricultural products",
+    "agronomy"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f6774d62-1863-5c88-82bc-16167ce70b57"
 }

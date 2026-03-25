@@ -1,10 +1,18 @@
 {
   "entity_id": "0f30d972-a88d-5424-b0c0-f4232ceecc65",
   "name": "Medef",
-  "what_it_does": "Provides app.",
+  "what_it_does": "Medef is the largest employer federation in France, representing French businesses.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "employer federation",
+    "French businesses",
+    "business advocacy",
+    "industry representation",
+    "economic policy",
+    "labor relations"
+  ],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0f30d972-a88d-5424-b0c0-f4232ceecc65"
 }

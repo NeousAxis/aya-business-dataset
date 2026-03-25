@@ -1,10 +1,18 @@
 {
   "entity_id": "3e397fcb-8315-5d34-bf9e-d7e155f94548",
   "name": "VictoriaMetrics",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "VictoriaMetrics develops time-series database solutions for monitoring and observability.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "time series database",
+    "monitoring database",
+    "observability tools",
+    "data analytics",
+    "metrics storage",
+    "performance monitoring"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3e397fcb-8315-5d34-bf9e-d7e155f94548"
 }

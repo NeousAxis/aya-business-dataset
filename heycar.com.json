@@ -1,10 +1,19 @@
 {
   "entity_id": "893ddef6-8073-5a7c-8712-03bbe5d1b88d",
   "name": "heycar",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "heycar is an online marketplace for used cars.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "used cars",
+    "pre-owned vehicles",
+    "car marketplace",
+    "automotive sales",
+    "car search",
+    "vehicle listings",
+    "online car sales"
+  ],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/893ddef6-8073-5a7c-8712-03bbe5d1b88d"
 }

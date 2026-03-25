@@ -1,10 +1,20 @@
 {
   "entity_id": "2bf40354-ce4b-550c-8068-a0b6b89d93ed",
   "name": "BRD",
-  "what_it_does": "Provides api, app.",
+  "what_it_does": "BRD is a Romanian bank providing various financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "Romanian bank",
+    "banking ",
+    "financial ",
+    "retail banking",
+    "corporate banking",
+    "loans",
+    "mortgages",
+    "savings accounts"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2bf40354-ce4b-550c-8068-a0b6b89d93ed"
 }

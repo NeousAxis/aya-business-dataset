@@ -1,10 +1,18 @@
 {
   "entity_id": "dcce85f8-6596-5def-87c5-010bc408d071",
   "name": "Compass",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Compass is a real estate brokerage firm that uses technology to connect buyers and sellers.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
+  "keywords": [
+    "real estate",
+    "real estate brokerage",
+    "property sales",
+    "property listings",
+    "home buying",
+    "home selling"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dcce85f8-6596-5def-87c5-010bc408d071"
 }

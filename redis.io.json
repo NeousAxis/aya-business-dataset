@@ -1,10 +1,20 @@
 {
   "entity_id": "c216659e-f6a6-543b-a4fd-734bfb96ab77",
   "name": "Redis",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Redis provides an in-memory data structure store used as a database, cache, and message broker.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "In-Memory Database",
+    "Data Structure Server",
+    "Cache Database",
+    "Message Broker",
+    "Real-time Data",
+    "Open Source Database",
+    "NoSQL Database",
+    "Data caching"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c216659e-f6a6-543b-a4fd-734bfb96ab77"
 }

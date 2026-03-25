@@ -1,10 +1,20 @@
 {
   "entity_id": "5ca0cd99-75f7-5fa5-892c-b205fd6e393a",
   "name": "SentinelOne",
-  "what_it_does": "Technology & SaaS organization.",
+  "what_it_does": "SentinelOne develops and sells endpoint protection software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "endpoint security",
+    "cybersecurity",
+    "AI-powered security",
+    "threat detection",
+    "endpoint protection",
+    "data security",
+    "antivirus ",
+    "malware protection"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5ca0cd99-75f7-5fa5-892c-b205fd6e393a"
 }

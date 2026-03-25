@@ -1,10 +1,19 @@
 {
   "entity_id": "ec747d4f-0f44-52b2-b651-1ecb4368f5b9",
   "name": "Snap",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "Snap Inc. operates the Snapchat messaging app and related hardware products like Spectacles.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "India",
+  "keywords": [
+    "snapchat",
+    "messaging application",
+    "social media",
+    "augmented reality",
+    "spectacles glasses",
+    "snap inc",
+    "mobile communication"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec747d4f-0f44-52b2-b651-1ecb4368f5b9"
 }

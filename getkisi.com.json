@@ -1,10 +1,20 @@
 {
   "entity_id": "1c0a7dd0-49da-5dd1-a40f-1339a4716ec0",
   "name": "Kisi",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Kisi provides cloud-based access control solutions for buildings and facilities.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "access control systems",
+    "cloud-based security",
+    "building security",
+    "office security",
+    "door access",
+    "security credentials",
+    "mobile access",
+    "entry management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1c0a7dd0-49da-5dd1-a40f-1339a4716ec0"
 }

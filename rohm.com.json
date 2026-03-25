@@ -1,10 +1,20 @@
 {
   "entity_id": "c044ed5e-aac5-5f67-8a41-305c069f4d60",
   "name": "ROHM Co., Ltd.",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "ROHM Co., Ltd. manufactures electronic components and semiconductors.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Japan",
+  "keywords": [
+    "electronic components",
+    "integrated circuits",
+    "semiconductors",
+    "resistors",
+    "ROHM",
+    "passive components",
+    "circuit design",
+    "electronic manufacturing"
+  ],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c044ed5e-aac5-5f67-8a41-305c069f4d60"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "ee4dfc94-24ca-5cdc-b12c-abcbdef46ea8",
   "name": "QSC",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "QSC designs and manufactures professional audio, video, and control systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "professional audio",
+    "video systems",
+    "control systems",
+    "audio processing",
+    "amplifiers",
+    "loudspeakers",
+    "video distribution"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ee4dfc94-24ca-5cdc-b12c-abcbdef46ea8"
 }

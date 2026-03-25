@@ -1,10 +1,20 @@
 {
   "entity_id": "29d461bb-a779-523c-a6b3-a62da59da447",
   "name": "HKEX",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "HKEX operates the Hong Kong stock exchange.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "China",
+  "keywords": [
+    "Hong Kong stock exchange",
+    "stock market",
+    "financial trading",
+    "securities exchange",
+    "HKEX",
+    "investment platform",
+    "equities",
+    "derivatives trading"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/29d461bb-a779-523c-a6b3-a62da59da447"
 }

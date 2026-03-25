@@ -1,10 +1,20 @@
 {
   "entity_id": "f4b10e8e-ba46-5944-bc65-af5fa64822c9",
   "name": "Panduit",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Panduit develops and manufactures networking and electrical infrastructure solutions.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "network infrastructure",
+    "electrical infrastructure",
+    "cabling solutions",
+    "data centers",
+    "industrial automation",
+    "structured cabling",
+    "connectivity solutions",
+    "power connectors"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f4b10e8e-ba46-5944-bc65-af5fa64822c9"
 }

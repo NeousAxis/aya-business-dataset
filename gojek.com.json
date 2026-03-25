@@ -1,10 +1,20 @@
 {
   "entity_id": "22ac82cd-64d0-58ff-b9dc-e3d10e7ac339",
   "name": "Gojek Super App",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Gojek provides a ride-hailing, food delivery, and digital payment platform in Southeast Asia.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "ride hailing",
+    "food delivery",
+    "digital payments",
+    "southeast asia",
+    "on-demand transportation",
+    "mobile payments",
+    "e-wallet",
+    "hyperlocal delivery"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/22ac82cd-64d0-58ff-b9dc-e3d10e7ac339"
 }

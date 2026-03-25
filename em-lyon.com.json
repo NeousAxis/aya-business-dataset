@@ -1,10 +1,20 @@
 {
   "entity_id": "50cdd24a-ab34-5122-8ece-a31fe5bb6cde",
   "name": "emlyon business school",
-  "what_it_does": "Provides api, app, consulting.",
+  "what_it_does": "Emlyon Business School is a French business school offering undergraduate and postgraduate programs.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
+  "keywords": [
+    "business school",
+    "executive education",
+    "undergraduate programs",
+    "postgraduate programs",
+    "management education",
+    "French business school",
+    "emlyon",
+    "finance courses"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/50cdd24a-ab34-5122-8ece-a31fe5bb6cde"
 }

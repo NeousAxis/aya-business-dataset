@@ -1,10 +1,20 @@
 {
   "entity_id": "c89efc67-5508-5903-9d79-355ee3c3c079",
   "name": "HUG",
-  "what_it_does": "Provides app, application, offre.",
+  "what_it_does": "HUG manufactures and distributes food products, including pastries and frozen foods.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
+  "keywords": [
+    "produits alimentaires",
+    "pâtisseries",
+    "aliments surgelés",
+    "produits boulangers",
+    "restauration",
+    "viennoiseries",
+    "industrie agroalimentaire",
+    "produits de panification"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c89efc67-5508-5903-9d79-355ee3c3c079"
 }

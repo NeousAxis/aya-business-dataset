@@ -1,10 +1,19 @@
 {
   "entity_id": "1c762060-8e02-5d13-bec8-8492492d5f66",
   "name": "UNAIDS",
-  "what_it_does": "Provides app, menu, platform.",
+  "what_it_does": "UNAIDS is a United Nations program dedicated to combating the AIDS epidemic.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "AIDS prevention",
+    "HIV treatment",
+    "UN program",
+    "public health",
+    "global health",
+    "epidemic control",
+    "health advocacy"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1c762060-8e02-5d13-bec8-8492492d5f66"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "78f86a3f-9dab-5a10-8b9d-bd408b41f7f6",
   "name": "Wingo",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "Wingo is a low-cost airline operating in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "low cost airline",
+    "swiss airline",
+    "budget flights",
+    "air travel",
+    "european destinations",
+    "point to point flights",
+    "aviation",
+    "air transportation"
+  ],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/78f86a3f-9dab-5a10-8b9d-bd408b41f7f6"
 }

@@ -1,10 +1,17 @@
 {
   "entity_id": "fd1373ba-f198-5645-92ec-acdf41f0d7cb",
   "name": "Cnh",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "CNH Industrial manufactures agricultural and construction equipment, trucks, commercial vehicles, buses and specialty vehicles.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
+  "keywords": [
+    "agricultural equipment",
+    "construction equipment",
+    "trucks",
+    "commercial vehicles",
+    "buses"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fd1373ba-f198-5645-92ec-acdf41f0d7cb"
 }

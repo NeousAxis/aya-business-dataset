@@ -1,10 +1,20 @@
 {
   "entity_id": "2b2af16d-e3d2-5b0f-a416-ee4819fa3377",
   "name": "Atupri Gesundheitsversicherung AG",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "Atupri Gesundheitsversicherung AG is a health insurance provider in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss health insurance",
+    "health coverage",
+    "medical insurance",
+    "insurance provider Switzerland",
+    "healthcare plans",
+    "health insurance products",
+    "insurance services",
+    "medical coverage plans"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2b2af16d-e3d2-5b0f-a416-ee4819fa3377"
 }

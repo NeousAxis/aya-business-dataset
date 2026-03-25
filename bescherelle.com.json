@@ -1,10 +1,20 @@
 {
   "entity_id": "8bbdc626-9632-51e0-aff4-8c2a2b9215dc",
   "name": "Bescherelle",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "Bescherelle publishes reference books on French grammar and conjugation.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "French grammar",
+    "conjugation guides",
+    "reference books",
+    "language learning",
+    "French language",
+    "educational publishing",
+    "grammar resources",
+    "French verbs"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8bbdc626-9632-51e0-aff4-8c2a2b9215dc"
 }

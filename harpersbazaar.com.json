@@ -1,10 +1,20 @@
 {
   "entity_id": "4d171f9d-d895-55cd-89a2-a35442db777a",
   "name": "Harper's BAZAAR",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Harper's BAZAAR is a fashion magazine covering fashion, beauty, and culture.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
+  "keywords": [
+    "modezeitschrift",
+    "fashion-magazine",
+    "beauty-content",
+    "kulturberichterstattung",
+    "modetrends",
+    "harper's bazaar",
+    "modejournalismus",
+    "fashion-editorial"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4d171f9d-d895-55cd-89a2-a35442db777a"
 }

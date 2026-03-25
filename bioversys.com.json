@@ -1,10 +1,20 @@
 {
   "entity_id": "86278999-ecdf-50c2-bb8e-97c648c40b8b",
   "name": "BioVersys",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "BioVersys develops antibacterial products to fight antibiotic resistance.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Switzerland",
+  "keywords": [
+    "pharmaceuticals",
+    "antibiotic resistance",
+    "drug development",
+    "infectious diseases",
+    "antimicrobial resistance",
+    "novel therapies",
+    "drug discovery",
+    "biopharmaceutical"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/86278999-ecdf-50c2-bb8e-97c648c40b8b"
 }

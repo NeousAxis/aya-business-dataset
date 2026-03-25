@@ -1,10 +1,19 @@
 {
   "entity_id": "57f532a5-14bd-559d-bfec-4c7b22d2db27",
   "name": "Wayve",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Wayve develops autonomous driving technology using artificial intelligence and machine learning.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
+  "keywords": [
+    "autonomous driving",
+    "deep learning",
+    "end-to-end AI",
+    "self-driving cars",
+    "computer vision",
+    "robotics",
+    "machine learning"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/57f532a5-14bd-559d-bfec-4c7b22d2db27"
 }

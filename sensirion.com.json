@@ -1,10 +1,20 @@
 {
   "entity_id": "e9a52c4d-1457-5553-8153-52e970beacae",
   "name": "Sensirion",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Sensirion manufactures environmental and flow sensors for various industries, including medical and automotive.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
+  "keywords": [
+    "digital microsensors",
+    "environmental sensors",
+    "humidity sensors",
+    "temperature sensors",
+    "gas sensors",
+    "liquid flow meters",
+    "sensor systems",
+    "environmental monitoring"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e9a52c4d-1457-5553-8153-52e970beacae"
 }

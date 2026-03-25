@@ -1,10 +1,20 @@
 {
   "entity_id": "b8fc05ba-25b5-5cc8-ae20-e436555e9a7d",
   "name": "Lovys",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Lovys is an online insurance provider, likely offering various types of insurance policies.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "EN",
+  "keywords": [
+    "insurance provider",
+    "insurance policies",
+    "online insurance",
+    "home insurance",
+    "auto insurance",
+    "property coverage",
+    "casualty coverage",
+    "personal liability"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b8fc05ba-25b5-5cc8-ae20-e436555e9a7d"
 }

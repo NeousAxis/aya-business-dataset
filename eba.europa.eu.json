@@ -1,10 +1,20 @@
 {
   "entity_id": "8b58dc13-3293-545b-a0e6-a035f63d5dc8",
   "name": "European Banking Authority",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "The European Banking Authority regulates and supervises the banking sector across the European Union.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "banking regulation",
+    "financial supervision",
+    "EU banking sector",
+    "financial stability",
+    "banking standards",
+    "regulatory framework",
+    "financial regulation",
+    "stress tests"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8b58dc13-3293-545b-a0e6-a035f63d5dc8"
 }

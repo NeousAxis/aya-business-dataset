@@ -1,10 +1,20 @@
 {
   "entity_id": "2472ef61-7007-5b2f-8e84-5a83f1f9ede6",
   "name": "BigCommerce",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "BigCommerce is a SaaS e-commerce platform that provides tools for businesses to build and run online stores.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "eCommerce platform",
+    "SaaS commerce",
+    "Shopping cart",
+    "eCommerce tools",
+    "Storefront design",
+    "Product catalog",
+    "Order fulfillment",
+    "Payment gateway"
+  ],
   "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2472ef61-7007-5b2f-8e84-5a83f1f9ede6"
 }

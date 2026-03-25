@@ -1,10 +1,20 @@
 {
   "entity_id": "6420700b-e041-5d79-b63b-7f36b159de0c",
   "name": "Agora Energiewende",
-  "what_it_does": "Provides api.",
+  "what_it_does": "Agora Energiewende is a think tank that produces research and analysis on the energy transition.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "energy transition",
+    "climate policy",
+    "renewable energy policy",
+    "decarbonization",
+    "energy research",
+    "climate change mitigation",
+    "policy recommendations",
+    "sustainable energy"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6420700b-e041-5d79-b63b-7f36b159de0c"
 }

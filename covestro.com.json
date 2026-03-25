@@ -1,10 +1,20 @@
 {
   "entity_id": "e25cfef7-b5aa-5fa0-8706-0dff557b5419",
   "name": "Covestro",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Covestro manufactures polymers and high-performance plastics.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "high-performance polymers",
+    "plastic materials",
+    "polyurethane",
+    "polycarbonate",
+    "raw materials",
+    "chemical products",
+    "material science",
+    "engineering plastics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e25cfef7-b5aa-5fa0-8706-0dff557b5419"
 }

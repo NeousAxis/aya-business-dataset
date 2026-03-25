@@ -1,10 +1,20 @@
 {
   "entity_id": "63baf6b9-2b09-5a9b-bb91-6f0c53bc2aea",
   "name": "Vector",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Vector provides a high-performance observability data pipeline.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "observability data pipeline",
+    "data ingestion",
+    "data transformation",
+    "data routing",
+    "log aggregation",
+    "metrics collection",
+    "event processing",
+    "telemetry data"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/63baf6b9-2b09-5a9b-bb91-6f0c53bc2aea"
 }

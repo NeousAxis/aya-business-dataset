@@ -1,10 +1,20 @@
 {
   "entity_id": "b6f0c086-2837-548b-b19a-ffaf7304a41e",
   "name": "POSB Singapore",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "POSB Singapore is a bank providing personal banking services including savings accounts, loans, and investments.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Singapore",
+  "keywords": [
+    "Singapore retail banking",
+    "personal finance",
+    "savings accounts",
+    "debit cards",
+    "home loans",
+    "banking services",
+    "financial products",
+    "Singapore banking"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b6f0c086-2837-548b-b19a-ffaf7304a41e"
 }

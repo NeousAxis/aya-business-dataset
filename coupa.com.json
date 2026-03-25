@@ -1,10 +1,20 @@
 {
   "entity_id": "dc34e8c5-a307-5a89-b073-fbd71bd2cc86",
   "name": "Coupa",
-  "what_it_does": "Provides app, consulting, platform.",
+  "what_it_does": "Coupa provides a cloud-based business spend management (BSM) platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
+  "keywords": [
+    "spend management",
+    "business spend",
+    "cloud procurement",
+    "expense management",
+    "supply chain solutions",
+    "source-to-pay",
+    "business finance",
+    "purchasing"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dc34e8c5-a307-5a89-b073-fbd71bd2cc86"
 }

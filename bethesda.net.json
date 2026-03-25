@@ -1,10 +1,20 @@
 {
   "entity_id": "204b9c69-e30b-5e12-892e-9cb274bcc63a",
   "name": "Bethesda.net",
-  "what_it_does": "Provides platform, service, software.",
+  "what_it_does": "Bethesda.net is a platform for playing and managing Bethesda Softworks video games.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "video game",
+    "game publishing",
+    "PC games",
+    "console games",
+    "game community",
+    "game downloads",
+    "Bethesda games",
+    "online game access"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/204b9c69-e30b-5e12-892e-9cb274bcc63a"
 }

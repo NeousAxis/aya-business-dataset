@@ -1,10 +1,20 @@
 {
   "entity_id": "220b753c-449a-5e32-bb9d-46333797a5af",
   "name": "Largest Power & Energy Company in India",
-  "what_it_does": "Provides api, product, products.",
+  "what_it_does": "Tata Power generates, transmits, and distributes electricity in India.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "electricity generation",
+    "power transmission",
+    "power distribution",
+    "Indian power grid",
+    "power utility",
+    "electricity supply",
+    "energy solutions",
+    "India power"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/220b753c-449a-5e32-bb9d-46333797a5af"
 }

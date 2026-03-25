@@ -1,10 +1,19 @@
 {
   "entity_id": "1fd40fad-483e-5bcf-8869-0fe443bf52cc",
   "name": "True Wealth AG",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "True Wealth AG is a Swiss financial services company providing wealth management and investment advisory services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "wealth",
+    "financial advisory",
+    "Swiss finance",
+    "investment",
+    "asset",
+    "portfolio",
+    "investment advisory"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1fd40fad-483e-5bcf-8869-0fe443bf52cc"
 }

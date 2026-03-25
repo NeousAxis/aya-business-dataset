@@ -1,10 +1,20 @@
 {
   "entity_id": "3c78fbda-8456-54fd-80cf-dbec45ba23ab",
   "name": "Automotive Tools for Mechanics & Technicians",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Matco Tools sells tools, storage, and equipment to professional mechanics and technicians.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "mechanic tools",
+    "automotive equipment",
+    "tool storage",
+    "professional technicians",
+    "automotive tools",
+    "garage equipment",
+    "mechanic supplies",
+    "toolboxes"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3c78fbda-8456-54fd-80cf-dbec45ba23ab"
 }

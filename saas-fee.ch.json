@@ -1,10 +1,20 @@
 {
   "entity_id": "f2e3860c-779a-5593-86d1-004566423b04",
   "name": "Saas-Fee/Saastal",
-  "what_it_does": "Provides app, menu, restaurant.",
+  "what_it_does": "Saas-Fee is a Swiss alpine resort destination offering tourism and leisure activities.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
+  "keywords": [
+    "alpine tourism",
+    "Swiss resort",
+    "ski resort",
+    "leisure activities",
+    "mountain destination",
+    "Saas-Fee",
+    "Saastal",
+    "vacation destination"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f2e3860c-779a-5593-86d1-004566423b04"
 }

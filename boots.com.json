@@ -1,10 +1,19 @@
 {
   "entity_id": "d5a57003-1c9b-535b-958f-b77a47a6463c",
   "name": "Boots",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "Boots sells health and beauty products through retail stores and online.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
+  "keywords": [
+    "health products",
+    "beauty products",
+    "retail pharmacy",
+    "personal care",
+    "pharmacy chain",
+    "boots",
+    "cosmetics retail"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d5a57003-1c9b-535b-958f-b77a47a6463c"
 }

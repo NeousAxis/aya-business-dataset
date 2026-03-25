@@ -1,10 +1,20 @@
 {
   "entity_id": "bc188648-fbdd-52d3-9e33-a74253467b8f",
   "name": "Arc'teryx Switzerland",
-  "what_it_does": "Provides product, service.",
+  "what_it_does": "Arc'teryx Switzerland sells high-performance outdoor clothing and equipment online.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Austria",
+  "keywords": [
+    "outdoor apparel",
+    "performance gear",
+    "climbing equipment",
+    "hiking clothing",
+    "ski apparel",
+    "Arc'teryx",
+    "outdoor clothing",
+    "technical outerwear"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bc188648-fbdd-52d3-9e33-a74253467b8f"
 }

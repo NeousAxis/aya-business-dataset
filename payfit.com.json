@@ -1,10 +1,19 @@
 {
   "entity_id": "d68671ca-5f4a-5041-95c3-dd7efde48d68",
   "name": "PayFit",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "PayFit is a payroll management and HR software solution for small and medium-sized businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "payroll processing",
+    "human resources",
+    "hr software",
+    "payroll management",
+    "hr automation",
+    "small medium enterprises",
+    "european payroll"
+  ],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d68671ca-5f4a-5041-95c3-dd7efde48d68"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "982cbecf-75d3-574b-a2ad-c9ea3d77c713",
   "name": "Mapletree",
-  "what_it_does": "Provides api, service, services.",
+  "what_it_does": "Mapletree is a real estate development, investment, and capital management company.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "China",
+  "keywords": [
+    "real estate development",
+    "property investment",
+    "real estate asset management",
+    "capital",
+    "commercial properties",
+    "residential property",
+    "property funds"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/982cbecf-75d3-574b-a2ad-c9ea3d77c713"
 }

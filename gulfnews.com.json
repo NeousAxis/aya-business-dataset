@@ -1,10 +1,20 @@
 {
   "entity_id": "c2eee6db-4535-5445-a549-39e000724689",
   "name": "Gulf News",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "Gulf News is a daily English-language newspaper published in Dubai.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "news",
+    "dubai news",
+    "english news",
+    "middle east news",
+    "international news",
+    "breaking news",
+    "print media",
+    "current affairs"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c2eee6db-4535-5445-a549-39e000724689"
 }

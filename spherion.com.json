@@ -1,10 +1,19 @@
 {
   "entity_id": "d6d008e3-2e72-53a4-b804-bff2421b1d74",
   "name": "Home Page",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Spherion.com likely provides staffing and workforce solutions.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "recruitment",
+    "workforce solutions",
+    "staffing",
+    "talent acquisition",
+    "career placement",
+    "human resources",
+    "employment services"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6d008e3-2e72-53a4-b804-bff2421b1d74"
 }

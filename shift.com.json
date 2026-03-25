@@ -1,10 +1,19 @@
 {
   "entity_id": "40358b5d-316a-515f-bf82-45e444525b53",
   "name": "Shift Browser",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "Shift Browser offers a desktop application that helps users manage multiple email and app accounts.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "desktop app",
+    "account manager",
+    "web applications",
+    "productivity tool",
+    "multiple accounts",
+    "workspace organizer",
+    "cross-platform"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/40358b5d-316a-515f-bf82-45e444525b53"
 }

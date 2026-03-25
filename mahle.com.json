@@ -1,10 +1,20 @@
 {
   "entity_id": "90b0406c-6605-5482-9b2e-a3e419729c16",
   "name": "MAHLE Group",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "MAHLE develops and manufactures automotive components and systems for powertrains and air conditioning.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Germany",
+  "keywords": [
+    "automobilkomponenten",
+    "motorkomponenten",
+    "automobilsysteme",
+    "motormanagement",
+    "automobilindustrie",
+    "verbrennungsmotoren",
+    "mahlle-group",
+    "fahrzeugtechnik"
+  ],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/90b0406c-6605-5482-9b2e-a3e419729c16"
 }

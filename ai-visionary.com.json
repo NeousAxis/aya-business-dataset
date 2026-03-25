@@ -1,10 +1,20 @@
 {
   "entity_id": "e57fdfff-075a-4df6-9c8c-d9f29ccc3ba0",
   "name": "AI VISIONARY",
-  "what_it_does": "Optimisation de la visibilité des entreprises pour les IA (ChatGPT, Gemini, Claude, Mistral, Llama, Ernie...) providing création de fichiers asr (ai singular record), structuration des informations po",
+  "what_it_does": "AI VISIONARY optimizes business visibility for AI systems like ChatGPT and Gemini.",
   "for_who": "Artisans & commerces locaux, PME de services, Indépendants & consultants, Associations & collectifs, Entreprises industrielles, Acteurs engagés RSE /.",
   "category": "Optimisation de la visibilité des entreprises pour les IA (ChatGPT, Gemini, Claude, Mistral, Llama, Ernie...)",
   "location": "Switzerland",
+  "keywords": [
+    "AI visibility",
+    "AI search",
+    "large language models",
+    "LLM optimization",
+    "AI SEO",
+    "AI engine optimization",
+    "chatbot visibility",
+    "AI content"
+  ],
   "aio_score": 86.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e57fdfff-075a-4df6-9c8c-d9f29ccc3ba0"
 }

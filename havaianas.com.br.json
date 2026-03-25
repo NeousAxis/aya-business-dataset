@@ -1,10 +1,20 @@
 {
   "entity_id": "3b1b82bd-b890-5374-8daa-3050e31c9c2a",
   "name": "Havaianas Brasil",
-  "what_it_does": "Provides app.",
+  "what_it_does": "Havaianas Brasil sells flip-flops and sandals.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Brazil",
+  "keywords": [
+    "flip-flops",
+    "sandals",
+    "Brazilian footwear",
+    "beachwear",
+    "casual footwear",
+    "summer shoes",
+    "rubber sandals",
+    "foot accessories"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b1b82bd-b890-5374-8daa-3050e31c9c2a"
 }

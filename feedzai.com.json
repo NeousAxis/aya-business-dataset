@@ -1,10 +1,19 @@
 {
   "entity_id": "cf6142a9-8fde-5112-bb9c-c22329915466",
   "name": "Feedzai",
-  "what_it_does": "Provides app, platform, product.",
+  "what_it_does": "Feedzai offers risk management solutions for the financial services industry using artificial intelligence.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Brazil",
+  "keywords": [
+    "fraud detection",
+    "risk scoring",
+    "financial crime",
+    "artificial intelligence",
+    "machine learning",
+    "payment fraud",
+    "AI risk"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cf6142a9-8fde-5112-bb9c-c22329915466"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "5de3c338-0204-53fa-bf82-e7d3eac5670f",
   "name": "Grafana Labs",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Grafana Labs provides an open source platform for monitoring and observability.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "observability platform",
+    "monitoring tools",
+    "data visualization",
+    "open source monitoring",
+    "metrics dashboards",
+    "logging analytics",
+    "time series database"
+  ],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5de3c338-0204-53fa-bf82-e7d3eac5670f"
 }

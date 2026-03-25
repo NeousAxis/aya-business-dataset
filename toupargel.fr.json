@@ -1,10 +1,20 @@
 {
   "entity_id": "eb07b8ed-ec9a-53fc-bd97-af43e2eb75c7",
   "name": "Toupargel",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Toupargel sells frozen food products online and through home delivery in France.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "France",
+  "keywords": [
+    "frozen food",
+    "home delivery",
+    "French grocery",
+    "direct to consumer",
+    "frozen meals",
+    "online food retail",
+    "chilled products",
+    "food products"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eb07b8ed-ec9a-53fc-bd97-af43e2eb75c7"
 }

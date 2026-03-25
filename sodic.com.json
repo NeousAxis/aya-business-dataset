@@ -1,10 +1,20 @@
 {
   "entity_id": "f2fb4328-62bf-51cd-acfc-a50a06ca7d57",
   "name": "SODIC",
-  "what_it_does": "Provides api, app, delivery.",
+  "what_it_does": "SODIC is an Egyptian real estate development company.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
+  "keywords": [
+    "real estate development",
+    "egyptian properties",
+    "residential communities",
+    "commercial properties",
+    "urban development",
+    "property investment",
+    "new homes",
+    "mixed-use projects"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f2fb4328-62bf-51cd-acfc-a50a06ca7d57"
 }

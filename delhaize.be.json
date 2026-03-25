@@ -1,10 +1,20 @@
 {
   "entity_id": "ed0ebb83-fe1c-5ccd-bf56-5b9c3a99917f",
   "name": "MyDelhaize",
-  "what_it_does": "Provides app, delivery, product.",
+  "what_it_does": "Delhaize is a Belgian supermarket chain offering grocery and household products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Belgium",
+  "keywords": [
+    "grocery retail",
+    "supermarket chain",
+    "Belgian grocery",
+    "household products",
+    "food products",
+    "consumer goods",
+    "retail grocery",
+    "Delhaize products"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ed0ebb83-fe1c-5ccd-bf56-5b9c3a99917f"
 }

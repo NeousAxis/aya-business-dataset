@@ -1,10 +1,20 @@
 {
   "entity_id": "9c5a7ad7-1f45-5664-8545-775cc3204be0",
   "name": "Momentum",
-  "what_it_does": "Provides app, application, consulting.",
+  "what_it_does": "Momentum is a South African financial services company offering insurance, investments, and employee benefits.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "South Africa",
+  "keywords": [
+    "South African insurance",
+    "financial investments",
+    "financial planning",
+    "insurance products",
+    "wealth management",
+    "retirement planning",
+    "investment products",
+    "financial services"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9c5a7ad7-1f45-5664-8545-775cc3204be0"
 }

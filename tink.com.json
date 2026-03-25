@@ -1,10 +1,20 @@
 {
   "entity_id": "af4c42e9-c5fa-51f6-aa76-603106b27522",
   "name": "Tink",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Tink provides a platform for financial data aggregation and open banking solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
+  "keywords": [
+    "financial data aggregation",
+    "open banking",
+    "account aggregation",
+    "payment initiation",
+    "bank connectivity",
+    "fintech API",
+    "data enrichment",
+    "financial services"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/af4c42e9-c5fa-51f6-aa76-603106b27522"
 }

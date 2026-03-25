@@ -1,10 +1,19 @@
 {
   "entity_id": "531c55e3-9423-5e9c-a932-1255a412d5c3",
   "name": "Unacademy",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Unacademy is an Indian online learning platform providing educational content and test preparation services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "India",
+  "keywords": [
+    "indian education",
+    "online courses",
+    "test preparation",
+    "e-learning",
+    "competitive exams",
+    "educational content",
+    "online tutoring"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/531c55e3-9423-5e9c-a932-1255a412d5c3"
 }

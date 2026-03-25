@@ -1,10 +1,20 @@
 {
   "entity_id": "195dc278-ae20-57c5-b2b1-7f9642dd5c61",
   "name": "Appenzeller Käse",
-  "what_it_does": "Provides app, menu.",
+  "what_it_does": "Appenzeller Käse produces and sells Appenzeller cheese.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "Appenzeller cheese",
+    "swiss cheese",
+    "cheese production",
+    "dairy products",
+    "traditional cheese",
+    "cheese sales",
+    "Appenzell Switzerland",
+    "cheese export"
+  ],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/195dc278-ae20-57c5-b2b1-7f9642dd5c61"
 }

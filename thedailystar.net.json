@@ -1,10 +1,19 @@
 {
   "entity_id": "91ed6c39-0bc0-5d58-a543-7dcae9a7b853",
   "name": "The Daily Star",
-  "what_it_does": "Provides app, platform, product.",
+  "what_it_does": "The Daily Star is a newspaper publishing news and information.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "Bangladeshi newspaper",
+    "English daily",
+    "news publication",
+    "print media",
+    "Bangladesh news",
+    "current affairs",
+    "daily news"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/91ed6c39-0bc0-5d58-a543-7dcae9a7b853"
 }

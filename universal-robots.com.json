@@ -1,10 +1,19 @@
 {
   "entity_id": "f7a079fa-104e-5a7f-823f-64ce30b62255",
   "name": "Collaborative Robots & Cobots",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Universal Robots manufactures collaborative robots (cobots) for industrial automation.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
+  "keywords": [
+    "collaborative robots",
+    "cobots",
+    "industrial automation",
+    "robot arms",
+    "manufacturing robots",
+    "flexible automation",
+    "robotics solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f7a079fa-104e-5a7f-823f-64ce30b62255"
 }

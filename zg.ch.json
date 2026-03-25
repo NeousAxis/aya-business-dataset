@@ -1,10 +1,20 @@
 {
   "entity_id": "07dd3923-56af-5f62-bf2d-6de1c8a91d5f",
   "name": "Zg",
-  "what_it_does": "Provides app.",
+  "what_it_does": "ZG is the website for the Canton of Zug, a Swiss administrative division.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "canton of Zug",
+    "Swiss administration",
+    "regional government",
+    "local government",
+    "Switzerland",
+    "Zug government",
+    "public sector",
+    "government services"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/07dd3923-56af-5f62-bf2d-6de1c8a91d5f"
 }

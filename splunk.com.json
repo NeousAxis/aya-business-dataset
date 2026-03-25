@@ -1,10 +1,17 @@
 {
   "entity_id": "33321538-0a7b-5ae9-997e-d21d2d34b7b4",
   "name": "Splunk",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Splunk provides a software platform for searching, monitoring, and analyzing machine-generated data.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "software",
+    "machine-generated data",
+    "monitoring",
+    "analyzing",
+    "searching"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/33321538-0a7b-5ae9-997e-d21d2d34b7b4"
 }

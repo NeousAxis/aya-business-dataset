@@ -1,10 +1,20 @@
 {
   "entity_id": "5c51edbe-2a54-5bda-9ba1-866389bb5e38",
   "name": "Fox News",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Fox News is a cable news television channel providing news and opinion programming.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "cable news",
+    "news television",
+    "political commentary",
+    "news broadcasting",
+    "current affairs",
+    "opinion programming",
+    "US news",
+    "breaking news"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5c51edbe-2a54-5bda-9ba1-866389bb5e38"
 }

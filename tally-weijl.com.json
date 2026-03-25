@@ -1,10 +1,20 @@
 {
   "entity_id": "2adbc033-ce91-5a37-8c91-56b8a03fb22a",
   "name": "Women's clothing & Jeans online TALLY WEiJL",
-  "what_it_does": "Provides app, delivery, menu.",
+  "what_it_does": "TALLY WEiJL is a retailer selling women's clothing and jeans online.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
+  "keywords": [
+    "women's clothing",
+    "jeans retailer",
+    "fashion apparel",
+    "online clothing store",
+    "fast fashion",
+    "trendy clothes",
+    "casual wear",
+    "ladies' apparel"
+  ],
   "aio_score": 68.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2adbc033-ce91-5a37-8c91-56b8a03fb22a"
 }

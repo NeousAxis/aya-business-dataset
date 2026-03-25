@@ -1,10 +1,19 @@
 {
   "entity_id": "ce3a88ea-a2e7-5b3c-97cf-a3716068d38d",
   "name": "Perk",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Perk.com offers a platform for employee recognition and rewards, typically used in travel and hospitality sectors to incentivize and reward employees for high performance.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
+  "keywords": [
+    "employee recognition",
+    "employee rewards",
+    "incentive programs",
+    "employee engagement",
+    "reward platform",
+    "employee benefits",
+    "incentive solutions"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ce3a88ea-a2e7-5b3c-97cf-a3716068d38d"
 }

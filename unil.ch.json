@@ -1,10 +1,20 @@
 {
   "entity_id": "3884a7b1-61c9-5f56-815e-d22d15221afb",
   "name": "Unil",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "Unil is likely the website for the University of Lausanne.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
+  "keywords": [
+    "Lausanne university",
+    "Swiss university",
+    "higher education",
+    "academic research",
+    "degree programs",
+    "university campus",
+    "student education",
+    "post-graduate studies"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3884a7b1-61c9-5f56-815e-d22d15221afb"
 }

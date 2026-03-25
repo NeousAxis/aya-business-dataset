@@ -1,10 +1,20 @@
 {
   "entity_id": "eaddf7d7-5f85-5825-9a80-59835bb71b73",
   "name": "Hays Switzerland",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "Hays Switzerland provides recruitment services, connecting job seekers with employers.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "recruitment",
+    "job placement",
+    "talent acquisition",
+    "permanent staffing",
+    "temporary staffing",
+    "engineering recruitment",
+    "IT recruitment",
+    "Hays Switzerland"
+  ],
   "aio_score": 63.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eaddf7d7-5f85-5825-9a80-59835bb71b73"
 }

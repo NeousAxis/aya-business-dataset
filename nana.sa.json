@@ -1,10 +1,20 @@
 {
   "entity_id": "5881db9e-34db-5931-896f-fcd7f821a162",
   "name": "Nana",
-  "what_it_does": "Provides app.",
+  "what_it_does": "Nana, based in Saudi Arabia, likely offers a service or product related to personal or business development, given the generic domain.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Saudi Arabia",
+  "keywords": [
+    "Saudi Arabia",
+    "local market",
+    "consumer products",
+    "regional commerce",
+    "retail products",
+    "e-commerce",
+    "marketplace",
+    "local services"
+  ],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5881db9e-34db-5931-896f-fcd7f821a162"
 }

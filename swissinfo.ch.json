@@ -1,10 +1,20 @@
 {
   "entity_id": "e9136c04-a15d-5fe6-9c84-d6f77c8ff5df",
   "name": "SWI swissinfo.ch",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "SWI swissinfo.ch is a multilingual news and information platform covering Swiss news, politics, business, and culture.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss news",
+    "international news Switzerland",
+    "multilingual news",
+    "Swiss politics",
+    "Swiss culture",
+    "business news Switzerland",
+    "Swiss society",
+    "expatriate information"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e9136c04-a15d-5fe6-9c84-d6f77c8ff5df"
 }

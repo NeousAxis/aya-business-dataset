@@ -1,10 +1,19 @@
 {
   "entity_id": "5f6b4b8c-aac9-5443-b45e-d65ad4bae800",
   "name": "Miro",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Miro is a collaborative online whiteboard platform for teamwork.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "collaborative whiteboard",
+    "visual collaboration",
+    "remote teamwork",
+    "brainstorming",
+    "strategic planning",
+    "agile workflows",
+    "online workspace"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5f6b4b8c-aac9-5443-b45e-d65ad4bae800"
 }

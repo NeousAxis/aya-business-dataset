@@ -1,10 +1,19 @@
 {
   "entity_id": "ed8fc443-5c24-5de7-a37d-f2219bb949a6",
   "name": "Air Canada",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Air Canada is Canada's largest airline, providing passenger and cargo air transportation services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
+  "keywords": [
+    "passenger airline",
+    "air cargo",
+    "air transportation",
+    "international flights",
+    "domestic flights",
+    "airline tickets",
+    "air travel"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ed8fc443-5c24-5de7-a37d-f2219bb949a6"
 }

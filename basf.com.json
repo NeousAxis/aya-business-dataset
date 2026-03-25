@@ -1,10 +1,20 @@
 {
   "entity_id": "b47683b9-cf0f-5087-853d-91616a71f889",
   "name": "BASF",
-  "what_it_does": "Provides app, product, produit.",
+  "what_it_does": "BASF is a chemical company that produces a wide range of products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "chemical products",
+    "industrial chemicals",
+    "agricultural solutions",
+    "performance products",
+    "chemical intermediates",
+    "coatings",
+    "catalysts",
+    "petrochemicals"
+  ],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b47683b9-cf0f-5087-853d-91616a71f889"
 }

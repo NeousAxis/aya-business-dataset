@@ -1,10 +1,20 @@
 {
   "entity_id": "5880416e-5762-5836-a98e-3b7d0e7e4a0d",
   "name": "Global trade",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Global trade provides information and resources related to international trade.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "international trade",
+    "trade information",
+    "trade regulations",
+    "global commerce",
+    "trade resources",
+    "WTO",
+    "economic policy",
+    "trade agreements"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5880416e-5762-5836-a98e-3b7d0e7e4a0d"
 }

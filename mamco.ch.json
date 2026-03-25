@@ -1,10 +1,18 @@
 {
   "entity_id": "0f851016-bf40-5b75-bbe8-791da0c853b6",
   "name": "MAMCO Genève",
-  "what_it_does": "Provides service.",
+  "what_it_does": "MAMCO Genève is a museum of modern and contemporary art in Geneva.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "modern art museum",
+    "contemporary art",
+    "Geneva museum",
+    "Swiss art",
+    "art exhibitions",
+    "museum collections"
+  ],
   "aio_score": 29.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0f851016-bf40-5b75-bbe8-791da0c853b6"
 }

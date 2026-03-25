@@ -1,10 +1,20 @@
 {
   "entity_id": "3aec7a7d-c7f8-51f8-9e0c-86251459b87b",
   "name": "20 Minutes",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "20 Minutes is a French free daily newspaper providing news and information.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
+  "keywords": [
+    "free daily newspaper",
+    "French news",
+    "local news",
+    "current affairs",
+    "news publication",
+    "urban news",
+    "printed media",
+    "French information"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3aec7a7d-c7f8-51f8-9e0c-86251459b87b"
 }

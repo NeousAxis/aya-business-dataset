@@ -1,10 +1,19 @@
 {
   "entity_id": "7695761b-4095-5d94-9fdf-44143626805c",
   "name": "Axis",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Axis Communications develops and sells network cameras, video encoders, and related security solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "network cameras",
+    "video encoders",
+    "security systems",
+    "video surveillance",
+    "access control",
+    "audio systems",
+    "video analytics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7695761b-4095-5d94-9fdf-44143626805c"
 }

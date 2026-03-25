@@ -1,10 +1,20 @@
 {
   "entity_id": "b2855cde-a394-5bd7-a598-27db9c9a30c9",
   "name": "Bazaar Technologies",
-  "what_it_does": "Provides app, delivery, platform.",
+  "what_it_does": "Bazaar Technologies likely operates an online marketplace or e-commerce platform.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "e-commerce marketplace",
+    "B2B marketplace",
+    "online wholesale",
+    "supplier network",
+    "retail solutions",
+    "inventory sourcing",
+    "product distribution",
+    "supply chain"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b2855cde-a394-5bd7-a598-27db9c9a30c9"
 }

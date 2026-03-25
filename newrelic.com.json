@@ -1,10 +1,17 @@
 {
   "entity_id": "837e868c-154d-5fb9-857a-bd71593d1f0b",
   "name": "Observability built to understand AI",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "New Relic offers a cloud-based observability platform for monitoring software performance.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
+  "keywords": [
+    "observability",
+    "software monitoring",
+    "application performance",
+    "cloud monitoring",
+    "AI monitoring"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/837e868c-154d-5fb9-857a-bd71593d1f0b"
 }

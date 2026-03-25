@@ -1,10 +1,20 @@
 {
   "entity_id": "abc05605-fc95-5378-a50e-9704b1419c1e",
   "name": "Frontpoint Security",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Frontpoint Security offers wireless home security systems and monitoring services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "home security systems",
+    "wireless security",
+    "alarm monitoring",
+    "DIY security",
+    "residential security",
+    "security equipment",
+    "intrusion detection",
+    "smart home integration"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/abc05605-fc95-5378-a50e-9704b1419c1e"
 }

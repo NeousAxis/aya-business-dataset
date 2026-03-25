@@ -1,10 +1,14 @@
 {
   "entity_id": "ac9c13ce-6238-575f-97f8-4baa7c964f08",
   "name": "Moogsoft",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Moogsoft provides AI-driven observability solutions for IT operations.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "IT operations",
+    "observability"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ac9c13ce-6238-575f-97f8-4baa7c964f08"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "c9eb717b-f93e-58c7-9627-8f2b75af55f3",
   "name": "Franka",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Franka Emika develops and manufactures collaborative robots.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
+  "keywords": [
+    "collaborative robots",
+    "cobots",
+    "robotics",
+    "industrial automation",
+    "robotic arms",
+    "human-robot collaboration",
+    "flexible automation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c9eb717b-f93e-58c7-9627-8f2b75af55f3"
 }

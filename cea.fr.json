@@ -1,10 +1,18 @@
 {
   "entity_id": "df5fb1c7-a1fe-5ce0-9d39-1331583ea7be",
   "name": "Le CEA",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "Le CEA (French Alternative Energies and Atomic Energy Commission) is a French public research organization.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
+  "keywords": [
+    "French atomic energy",
+    "alternative energies research",
+    "public research organization",
+    "nuclear research",
+    "energy transition",
+    "CEA research"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/df5fb1c7-a1fe-5ce0-9d39-1331583ea7be"
 }

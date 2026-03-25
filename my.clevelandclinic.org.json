@@ -1,10 +1,20 @@
 {
   "entity_id": "b128af94-6296-5a86-9732-98d14cc31adb",
   "name": "Cleveland Clinic",
-  "what_it_does": "Provides app, menu, service.",
+  "what_it_does": "Cleveland Clinic offers healthcare services and medical information.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Spain",
+  "keywords": [
+    "healthcare provider",
+    "medical services",
+    "hospital",
+    "medical information",
+    "patient care",
+    "medical diagnosis",
+    "specialty care",
+    "medical treatment"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b128af94-6296-5a86-9732-98d14cc31adb"
 }

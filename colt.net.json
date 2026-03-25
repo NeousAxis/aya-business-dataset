@@ -1,10 +1,20 @@
 {
   "entity_id": "07a3b094-a8aa-55ae-a004-73fb1e74608d",
   "name": "Colt Technology Services",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Colt Technology Services provides network, voice, and data services to businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
+  "keywords": [
+    "network services",
+    "voice services",
+    "data services",
+    "enterprise network",
+    "global network",
+    "managed network",
+    "connectivity solutions",
+    "business communication"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/07a3b094-a8aa-55ae-a004-73fb1e74608d"
 }

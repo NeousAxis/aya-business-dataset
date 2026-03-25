@@ -1,10 +1,20 @@
 {
   "entity_id": "20fa3d5d-a44c-5caf-8a7d-5548b49aaab5",
   "name": "Laforet Immobilier",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Laforet Immobilier is a real estate agency, marketing properties through different communication channels.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "real estate agency",
+    "property sales",
+    "residential property",
+    "commercial property",
+    "property marketing",
+    "real estate France",
+    "property rentals",
+    "estate agents"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/20fa3d5d-a44c-5caf-8a7d-5548b49aaab5"
 }

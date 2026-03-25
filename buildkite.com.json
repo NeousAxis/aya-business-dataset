@@ -1,10 +1,19 @@
 {
   "entity_id": "5a84c10c-cf7a-53ac-a8f5-79aad42febfd",
   "name": "Buildkite",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Buildkite provides a continuous integration and continuous delivery (CI/CD) platform for software development.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "continuous integration",
+    "continuous delivery",
+    "CI/CD pipelines",
+    "build automation",
+    "software testing",
+    "development workflows",
+    "code deployment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5a84c10c-cf7a-53ac-a8f5-79aad42febfd"
 }

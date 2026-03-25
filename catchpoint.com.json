@@ -1,10 +1,20 @@
 {
   "entity_id": "d2389dbf-bf96-50a1-a261-9f912d376ad0",
   "name": "Catchpoint",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Catchpoint provides digital experience monitoring and observability solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "monitoring",
+    "observability",
+    "digital experience",
+    "performance monitoring",
+    "network",
+    "application performance",
+    "end-user experience",
+    "synthetic monitoring"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d2389dbf-bf96-50a1-a261-9f912d376ad0"
 }

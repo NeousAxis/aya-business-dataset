@@ -1,10 +1,20 @@
 {
   "entity_id": "01130ea2-ce25-558d-ac7a-7c7214eda658",
   "name": "Mercado Libre",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Mercado Libre likely provides technology or software as a service related to the operation of the Mercado Libre marketplace, such as tools for sellers or payment processing.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Argentina",
+  "keywords": [
+    "ecommerce technology",
+    "marketplace",
+    "online retail",
+    "latin america ecommerce",
+    "online marketplace",
+    "ecommerce services",
+    "online sales",
+    "payment processing"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/01130ea2-ce25-558d-ac7a-7c7214eda658"
 }

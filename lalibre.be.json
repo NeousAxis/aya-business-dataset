@@ -1,10 +1,19 @@
 {
   "entity_id": "67df70ab-e0fe-5640-a2cf-dfba5ecbd932",
   "name": "La Libre",
-  "what_it_does": "Provides app, application, service.",
+  "what_it_does": "La Libre is a French-language Belgian daily newspaper providing news and analysis.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
+  "keywords": [
+    "Belgian newspaper",
+    "French-language news",
+    "news analysis",
+    "current events",
+    "political reporting",
+    "journalism",
+    "Belgian news"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/67df70ab-e0fe-5640-a2cf-dfba5ecbd932"
 }

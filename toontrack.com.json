@@ -1,10 +1,20 @@
 {
   "entity_id": "b021d50a-619e-5cd5-91e8-89276778826b",
   "name": "Toontrack",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Toontrack sells software and sound libraries for music production, specifically focused on drums and percussion.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Sweden",
+  "keywords": [
+    "drum samples",
+    "virtual instruments",
+    "music production",
+    "audio plugins",
+    "sound libraries",
+    "MIDI drums",
+    "drum software",
+    "VST plugins"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b021d50a-619e-5cd5-91e8-89276778826b"
 }

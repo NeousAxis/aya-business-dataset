@@ -1,10 +1,20 @@
 {
   "entity_id": "aa3fbc52-7c3d-55e4-aa33-35a23f7f2fc5",
   "name": "BEKB",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "BEKB (Berner Kantonalbank) is a Swiss cantonal bank providing financial services in the canton of Bern.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "cantonal bank",
+    "swiss banking",
+    "financial services",
+    "bern region",
+    "retail banking",
+    "mortgages",
+    "investment products",
+    "private banking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aa3fbc52-7c3d-55e4-aa33-35a23f7f2fc5"
 }

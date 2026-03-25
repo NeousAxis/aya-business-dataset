@@ -1,10 +1,20 @@
 {
   "entity_id": "d23bb648-5742-5818-810e-644f130125c5",
   "name": "Santander UK",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Santander UK is a British bank providing retail and commercial banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Kingdom",
+  "keywords": [
+    "UK banking",
+    "retail banking",
+    "commercial banking",
+    "banking services",
+    "financial products",
+    "loan products",
+    "mortgage services",
+    "savings accounts"
+  ],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d23bb648-5742-5818-810e-644f130125c5"
 }

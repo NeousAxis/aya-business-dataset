@@ -1,10 +1,20 @@
 {
   "entity_id": "ab063ada-c618-57a9-89f3-3c9954a83b82",
   "name": "Fortuneo",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Fortuneo is a French online bank offering banking and brokerage services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
+  "keywords": [
+    "French online bank",
+    "banking services",
+    "brokerage services",
+    "online banking",
+    "financial services",
+    "investment accounts",
+    "stock trading",
+    "France banking"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab063ada-c618-57a9-89f3-3c9954a83b82"
 }

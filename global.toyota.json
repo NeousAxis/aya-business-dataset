@@ -1,10 +1,20 @@
 {
   "entity_id": "ac5505cd-8d4d-51a8-8f8a-1867d450f836",
   "name": "Toyota Motor Corporation Official Global Website",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "Toyota manufactures and sells automobiles, trucks, and buses.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "automobiles",
+    "car manufacturing",
+    "vehicle production",
+    "hybrid vehicles",
+    "electric vehicles",
+    "global automotive",
+    "passenger vehicles",
+    "commercial vehicles"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ac5505cd-8d4d-51a8-8f8a-1867d450f836"
 }

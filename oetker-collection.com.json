@@ -1,10 +1,20 @@
 {
   "entity_id": "e59370ce-1b66-5a85-aa5f-9685d14daf64",
   "name": "Oetker Collection",
-  "what_it_does": "Provides app.",
+  "what_it_does": "Oetker Collection operates a portfolio of luxury hotels.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "luxury hotels",
+    "hotel portfolio",
+    "global hospitality",
+    "high-end travel",
+    "exclusive accommodations",
+    "premium hotel stays",
+    "international hotels",
+    "upscale resorts"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e59370ce-1b66-5a85-aa5f-9685d14daf64"
 }

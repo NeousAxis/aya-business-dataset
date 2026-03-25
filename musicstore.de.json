@@ -1,10 +1,20 @@
 {
   "entity_id": "2de79102-67f3-5bd5-8aca-26515b11414a",
   "name": "MUSIC STORE professional",
-  "what_it_does": "Provides restaurant, service, software.",
+  "what_it_does": "MUSIC STORE professional sells musical instruments, equipment, and accessories.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "musical instruments",
+    "music equipment",
+    "guitars",
+    "drums",
+    "keyboards",
+    "studio equipment",
+    "pro audio",
+    "music store"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2de79102-67f3-5bd5-8aca-26515b11414a"
 }

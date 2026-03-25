@@ -1,10 +1,20 @@
 {
   "entity_id": "b59d068a-45b9-55db-b207-75b20b8cd1c3",
   "name": "Miele",
-  "what_it_does": "Provides product, products, service.",
+  "what_it_does": "Miele manufactures high-end domestic appliances and commercial equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "home appliances",
+    "kitchen appliances",
+    "laundry appliances",
+    "floor care",
+    "commercial equipment",
+    "premium appliances",
+    "German engineering",
+    "domestic appliances"
+  ],
   "aio_score": 29.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b59d068a-45b9-55db-b207-75b20b8cd1c3"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "7d1d1b94-ea91-513f-95d9-804a5db193b8",
   "name": "Getaround",
-  "what_it_does": "Provides app, menu, service.",
+  "what_it_does": "Getaround is a platform enabling car sharing services.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "United States",
+  "keywords": [
+    "car sharing",
+    "peer-to-peer car rental",
+    "vehicle rental",
+    "mobility services",
+    "on-demand transportation",
+    "car sharing marketplace",
+    "urban transportation"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7d1d1b94-ea91-513f-95d9-804a5db193b8"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "00d3eb8c-9f82-5d32-9b5a-1320201965ea",
   "name": "MIT",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "MIT is a private research university that offers both undergraduate and graduate education.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "research university",
+    "graduate education",
+    "undergraduate education",
+    "science",
+    "engineering",
+    "technology",
+    "mathematics",
+    "higher learning"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/00d3eb8c-9f82-5d32-9b5a-1320201965ea"
 }

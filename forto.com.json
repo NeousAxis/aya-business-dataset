@@ -1,10 +1,20 @@
 {
   "entity_id": "e463813c-ab48-59f6-a593-1e6d63babe4f",
   "name": "Forto",
-  "what_it_does": "Provides api, delivery, menu.",
+  "what_it_does": "Forto offers a platform for freight forwarding and supply chain management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "freight forwarding",
+    "supply chain visibility",
+    "global logistics",
+    "shipment tracking",
+    "transportation management",
+    "logistics ",
+    "supply chain ",
+    "freight transit"
+  ],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e463813c-ab48-59f6-a593-1e6d63babe4f"
 }

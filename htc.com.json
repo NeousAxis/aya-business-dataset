@@ -1,10 +1,20 @@
 {
   "entity_id": "84d9b3d8-1e3f-59e9-826a-f559e9d380b5",
   "name": "HTC",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "HTC designs and manufactures smartphones and virtual reality headsets.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Hong Kong",
+  "keywords": [
+    "smartphones",
+    "virtual reality headsets",
+    "mobile devices",
+    "VR hardware",
+    "android phones",
+    "consumer electronics",
+    "portable devices",
+    "gaming hardware"
+  ],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/84d9b3d8-1e3f-59e9-826a-f559e9d380b5"
 }

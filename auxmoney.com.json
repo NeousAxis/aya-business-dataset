@@ -1,10 +1,20 @@
 {
   "entity_id": "39fc68ec-3abd-5807-965b-9433d553fe17",
   "name": "auxmoney",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Auxmoney is a peer-to-peer lending platform connecting borrowers and investors.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "peer to peer lending",
+    "P2P lending",
+    "loan marketplace",
+    "investments",
+    "personal loans",
+    "credit borrowers",
+    "loan investors",
+    "alternative finance"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/39fc68ec-3abd-5807-965b-9433d553fe17"
 }

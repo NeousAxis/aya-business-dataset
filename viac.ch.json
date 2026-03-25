@@ -1,10 +1,19 @@
 {
   "entity_id": "c36909c5-a3bd-54bf-92be-aba5d25e7795",
   "name": "Viac",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "VIAC provides digital retirement savings accounts in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "digital retirement savings",
+    "swiss pension accounts",
+    "retirement planning",
+    "financial savings",
+    "pillar 3a",
+    "investment platform",
+    "swiss finance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c36909c5-a3bd-54bf-92be-aba5d25e7795"
 }

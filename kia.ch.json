@@ -1,10 +1,20 @@
 {
   "entity_id": "536fde17-b923-5c10-a1b7-a0bb85182bb2",
   "name": "Kia Schweiz",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Kia Schweiz sells Kia automobiles in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "Kia vehicles",
+    "Swiss automotive market",
+    "car sales",
+    "automobiles Switzerland",
+    "vehicle distribution",
+    "automotive marketing",
+    "passenger cars",
+    "SUVs"
+  ],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/536fde17-b923-5c10-a1b7-a0bb85182bb2"
 }

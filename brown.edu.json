@@ -1,10 +1,20 @@
 {
   "entity_id": "001339ea-c404-5661-8924-348c063cb078",
   "name": "Brown University",
-  "what_it_does": "Provides app, menu, service.",
+  "what_it_does": "Brown University is a private Ivy League research university in Providence, Rhode Island.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "ivy league university",
+    "higher education",
+    "liberal arts",
+    "research university",
+    "graduate programs",
+    "undergraduate programs",
+    "providence rhode island",
+    "academic research"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/001339ea-c404-5661-8924-348c063cb078"
 }

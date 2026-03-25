@@ -1,10 +1,20 @@
 {
   "entity_id": "9a7eeb80-31a0-50ef-a9d8-143fb4ffc0e7",
   "name": "Zones",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Zones sells IT products and solutions, including hardware, software, and services, primarily to businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "IT products",
+    "IT hardware",
+    "IT",
+    "IT solutions",
+    "IT equipment",
+    "IT services",
+    "computer products",
+    "network solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9a7eeb80-31a0-50ef-a9d8-143fb4ffc0e7"
 }

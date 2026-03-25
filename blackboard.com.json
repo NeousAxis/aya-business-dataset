@@ -1,10 +1,20 @@
 {
   "entity_id": "9d55c0f6-01c9-5346-8ca5-17c5706646a4",
   "name": "Blackboard",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Blackboard offers learning management system software for educational institutions.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "learning management systems",
+    "educational technology",
+    "e-learning",
+    "course management",
+    "virtual classrooms",
+    "student engagement",
+    "academic institutions",
+    "online learning tools"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9d55c0f6-01c9-5346-8ca5-17c5706646a4"
 }

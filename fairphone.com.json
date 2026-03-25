@@ -1,10 +1,19 @@
 {
   "entity_id": "3746bfd9-2dc6-5dc8-806e-4e0d61eecc8e",
   "name": "Fairphone",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Fairphone manufactures and sells smartphones designed with a focus on ethical sourcing and sustainability.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "modular smartphones",
+    "sustainable phones",
+    "ethical electronics",
+    "repairable phones",
+    "eco-friendly phones",
+    "mobile phone sales",
+    "consumer electronics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3746bfd9-2dc6-5dc8-806e-4e0d61eecc8e"
 }

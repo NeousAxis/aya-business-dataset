@@ -1,10 +1,20 @@
 {
   "entity_id": "1d0b4697-0301-58d3-8c64-94c59b31f906",
   "name": "Northwestern University",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Northwestern University is a private research university located in Evanston, Illinois, offering undergraduate and graduate programs across various disciplines.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "private research university",
+    "higher education",
+    "degree programs",
+    "academic research",
+    "undergraduate studies",
+    "graduate studies",
+    "Northwestern academics",
+    "university research"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1d0b4697-0301-58d3-8c64-94c59b31f906"
 }

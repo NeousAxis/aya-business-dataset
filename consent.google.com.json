@@ -1,10 +1,20 @@
 {
   "entity_id": "1b21b709-04eb-509b-aba2-4868cb949a43",
   "name": "Before you continue",
-  "what_it_does": "Technology & SaaS organization.",
+  "what_it_does": "consent.google.com is a service managing user consent for Google's services to comply with privacy regulations.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "user consent",
+    "privacy settings",
+    "data privacy",
+    "consent management",
+    "Google products",
+    "privacy compliance",
+    "user data",
+    "cookie consent"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1b21b709-04eb-509b-aba2-4868cb949a43"
 }

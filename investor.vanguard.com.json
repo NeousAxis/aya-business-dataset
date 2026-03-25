@@ -1,10 +1,20 @@
 {
   "entity_id": "19074634-6f07-5444-8283-03c0cb95c076",
   "name": "Vanguard",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Vanguard provides investment management services, offering a range of mutual funds and ETFs.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "investment funds",
+    "ETFs",
+    "index funds",
+    "retirement planning",
+    "investment advisory",
+    "low-cost investing",
+    "financial planning",
+    "mutual funds"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/19074634-6f07-5444-8283-03c0cb95c076"
 }

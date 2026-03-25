@@ -1,10 +1,19 @@
 {
   "entity_id": "694490f9-d7f3-59f6-bebb-c3f6dd78eb7f",
   "name": "Malt",
-  "what_it_does": "Conseil & Services Pro organization.",
+  "what_it_does": "Malt is a freelance marketplace connecting businesses with independent professionals.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "France",
+  "keywords": [
+    "freelance marketplace",
+    "independent professionals",
+    "talent sourcing",
+    "project-based work",
+    "contractors",
+    "freelance jobs",
+    "skill matching"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/694490f9-d7f3-59f6-bebb-c3f6dd78eb7f"
 }

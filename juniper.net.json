@@ -1,10 +1,20 @@
 {
   "entity_id": "9dc24800-daae-571a-a04c-b2b832f49164",
   "name": "Juniper Networks",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Juniper Networks develops and markets networking products, including routers, switches, and security devices.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
+  "keywords": [
+    "network hardware",
+    "network software",
+    "routing",
+    "switching",
+    "network security",
+    "SD-WAN",
+    "data center networking",
+    "enterprise networking"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9dc24800-daae-571a-a04c-b2b832f49164"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "8791b55f-fbdd-5699-bdeb-6f4c20f903e0",
   "name": "Tidio",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Tidio provides a live chat platform for websites to engage with customers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "live chat",
+    "customer communication",
+    "website chat",
+    "customer support",
+    "lead generation",
+    "chatbot",
+    "customer engagement",
+    "conversational"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8791b55f-fbdd-5699-bdeb-6f4c20f903e0"
 }

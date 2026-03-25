@@ -1,10 +1,19 @@
 {
   "entity_id": "88f415ae-26c8-582e-a4ca-674c3c817ead",
   "name": "The Straits Times",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "The Straits Times is a Singaporean English-language daily newspaper.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "Singapore news",
+    "English-language newspaper",
+    "Singapore media",
+    "current affairs",
+    "regional news",
+    "asian news",
+    "news publication"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/88f415ae-26c8-582e-a4ca-674c3c817ead"
 }

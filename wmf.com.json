@@ -1,10 +1,20 @@
 {
   "entity_id": "ac1f6d36-fa68-5193-8024-fd1851cb6740",
   "name": "Groupe SEB Schweiz GmbH",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "WMF manufactures and sells cookware, kitchenware, and household products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "cookware",
+    "kitchenware",
+    "tableware",
+    "cutlery",
+    "kitchen appliances",
+    "german kitchenware",
+    "stainless steel cookware",
+    "home cooking"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ac1f6d36-fa68-5193-8024-fd1851cb6740"
 }

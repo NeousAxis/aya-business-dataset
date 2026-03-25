@@ -1,10 +1,20 @@
 {
   "entity_id": "246aba3c-93f4-5eb7-9519-0d2aaa4eab38",
   "name": "PIMCO",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "PIMCO is an investment management firm specializing in fixed income.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Brazil",
+  "keywords": [
+    "fixed income",
+    "investment management",
+    "bond investments",
+    "asset allocation",
+    "portfolio management",
+    "institutional investors",
+    "global investments",
+    "investment strategies"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/246aba3c-93f4-5eb7-9519-0d2aaa4eab38"
 }

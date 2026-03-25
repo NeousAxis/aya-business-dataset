@@ -1,10 +1,20 @@
 {
   "entity_id": "141aa2b6-a447-5fdb-b4ab-fc1266166993",
   "name": "Lordstown",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "Lordstown Motors designs and intends to manufacture electric vehicles.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
+  "keywords": [
+    "electric vehicles",
+    "electric trucks",
+    "automotive manufacturing",
+    "electric vehicle design",
+    "commercial vehicles",
+    "zero-emission vehicles",
+    "electric pickup trucks",
+    "automotive engineering"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/141aa2b6-a447-5fdb-b4ab-fc1266166993"
 }

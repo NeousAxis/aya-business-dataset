@@ -1,10 +1,19 @@
 {
   "entity_id": "5e6a66f8-c47b-5dfd-a71a-50fddf9fcace",
   "name": "Sunrun",
-  "what_it_does": "Provides app, cloud, product.",
+  "what_it_does": "Sunrun designs, installs, and maintains residential solar energy systems.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
+  "keywords": [
+    "residential solar",
+    "solar panel installation",
+    "battery storage",
+    "home energy",
+    "solar financing",
+    "renewable energy",
+    "solar power systems"
+  ],
   "aio_score": 67.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5e6a66f8-c47b-5dfd-a71a-50fddf9fcace"
 }

@@ -1,10 +1,17 @@
 {
   "entity_id": "56c0b8ff-e9b7-540d-b298-118a5d6894b4",
   "name": "Zillow",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "Zillow operates an online real estate marketplace providing information about homes for sale and rent.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
+  "keywords": [
+    "real estate",
+    "online marketplace",
+    "property listings",
+    "home sales",
+    "home rentals"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/56c0b8ff-e9b7-540d-b298-118a5d6894b4"
 }

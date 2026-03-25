@@ -1,10 +1,19 @@
 {
   "entity_id": "ec6bc859-d3ad-5abb-bb03-a3fc0a1fd47a",
   "name": "Vertex",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Vertex provides cloud-based indirect tax solutions, automating sales and use tax calculations and compliance.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "tax technology",
+    "tax compliance",
+    "tax automation",
+    "indirect tax",
+    "sales tax",
+    "tax software",
+    "tax calculation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec6bc859-d3ad-5abb-bb03-a3fc0a1fd47a"
 }

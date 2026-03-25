@@ -1,10 +1,19 @@
 {
   "entity_id": "f62fa6cb-a34c-5c91-bbb0-9f0755e3b29b",
   "name": "KU Leuven",
-  "what_it_does": "Provides app, application.",
+  "what_it_does": "KU Leuven is a research university in Belgium.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Belgium",
+  "keywords": [
+    "Belgian research university",
+    "higher education",
+    "academic programs",
+    "research institution",
+    "student degrees",
+    "university courses",
+    "Leuven"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f62fa6cb-a34c-5c91-bbb0-9f0755e3b29b"
 }

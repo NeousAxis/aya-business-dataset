@@ -1,10 +1,20 @@
 {
   "entity_id": "2df75f10-8b43-5c22-8f13-000fc7e1d53c",
   "name": "Deutsche Post",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Deutsche Post provides postal and logistics services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "postal services",
+    "logistics",
+    "mail delivery",
+    "parcel shipping",
+    "express delivery",
+    "international shipping",
+    "supply chain",
+    "e-commerce logistics"
+  ],
   "aio_score": 22.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2df75f10-8b43-5c22-8f13-000fc7e1d53c"
 }

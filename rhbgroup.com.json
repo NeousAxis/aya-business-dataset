@@ -1,10 +1,20 @@
 {
   "entity_id": "ce9adcc5-0022-5157-a66d-dbac3260ab8c",
   "name": "RHB Malaysia",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "RHB Malaysia is a financial services group providing banking and insurance products.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "Malaysian banking",
+    "Financial services",
+    "Retail banking",
+    "Insurance products",
+    "Corporate banking",
+    "Investment banking",
+    "Malaysian finance",
+    "Wealth management"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ce9adcc5-0022-5157-a66d-dbac3260ab8c"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "6941dddf-c855-5922-af54-841bec645992",
   "name": "TP",
-  "what_it_does": "Provides app, consulting, delivery.",
+  "what_it_does": "TP manufactures and supplies various industrial products and components (inferred from domain and sector).",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "industrial products",
+    "industrial components",
+    "manufacturing solutions",
+    "engineering materials",
+    "industrial equipment",
+    "production supplies",
+    "custom manufacturing"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6941dddf-c855-5922-af54-841bec645992"
 }

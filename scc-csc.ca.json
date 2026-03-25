@@ -1,10 +1,20 @@
 {
   "entity_id": "c1caaca2-4a75-5467-9f77-5172711459df",
   "name": "Supreme Court of Canada",
-  "what_it_does": "Provides app, application, service.",
+  "what_it_does": "The Supreme Court of Canada is the final court of appeal in the Canadian judicial system.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Canada",
+  "keywords": [
+    "Canadian Supreme Court",
+    "Highest Court of Appeal",
+    "Judicial Review",
+    "Constitutional Law",
+    "Canadian Law",
+    "Court decisions",
+    "Legal precedent",
+    "Federal Court"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c1caaca2-4a75-5467-9f77-5172711459df"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "ce1c8268-78ba-5ba1-8c2d-fb4de6b3a022",
   "name": "Ultragenyx",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Ultragenyx is a biopharmaceutical company focused on developing treatments for rare and ultra-rare genetic diseases.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
+  "keywords": [
+    "rare disease therapeutics",
+    "genetic disorder treatments",
+    "biopharmaceutical research",
+    "orphan drugs",
+    "precision medicine",
+    "enzyme replacement therapy",
+    "metabolic disorders"
+  ],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ce1c8268-78ba-5ba1-8c2d-fb4de6b3a022"
 }

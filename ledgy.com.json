@@ -1,10 +1,20 @@
 {
   "entity_id": "cf1b178a-0f75-577f-8936-7f1c25da9991",
   "name": "Ledgy",
-  "what_it_does": "Provides platform, product, service.",
+  "what_it_does": "Ledgy provides equity management software for startups.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "equity management",
+    "startup equity",
+    "cap table",
+    "employee stock options",
+    "equity planning",
+    "venture capital",
+    "Ledgy",
+    "private equity"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cf1b178a-0f75-577f-8936-7f1c25da9991"
 }

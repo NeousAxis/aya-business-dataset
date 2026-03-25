@@ -1,10 +1,17 @@
 {
   "entity_id": "e6d31660-5dcd-5a04-9439-2430f111a62f",
   "name": "Mphasis",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Mphasis is an IT services and consulting company.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "IT consulting",
+    "IT services",
+    "outsourcing",
+    "application development",
+    "cloud computing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e6d31660-5dcd-5a04-9439-2430f111a62f"
 }

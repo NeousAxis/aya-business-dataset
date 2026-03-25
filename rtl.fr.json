@@ -1,10 +1,19 @@
 {
   "entity_id": "c781c34d-ca43-59ba-8747-a7feffd6d52f",
   "name": "Toute l'actualité en direct et en vidéo sur RTL.fr",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "RTL.fr provides French news, video and entertainment content.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "France",
+  "keywords": [
+    "French news",
+    "live news",
+    "video news",
+    "entertainment content",
+    "French radio",
+    "current affairs",
+    "RTL France"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c781c34d-ca43-59ba-8747-a7feffd6d52f"
 }

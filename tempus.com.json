@@ -1,10 +1,19 @@
 {
   "entity_id": "c5462c62-dda8-5557-81fb-24f27db030c8",
   "name": "Tempus",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Tempus provides genomic sequencing and data analysis for personalized cancer treatment.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
+  "keywords": [
+    "genomic sequencing",
+    "cancer treatment",
+    "personalized medicine",
+    "data-driven healthcare",
+    "oncology",
+    "precision oncology",
+    "molecular diagnostics"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c5462c62-dda8-5557-81fb-24f27db030c8"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "2a7287f6-3782-5637-b60b-cd24f412b758",
   "name": "iziwork",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "iziwork is a digital staffing agency connecting temporary workers with businesses.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
+  "keywords": [
+    "digital recruitment",
+    "temporary staffing",
+    "workforce solutions",
+    "job matching",
+    "staffing platform",
+    "temporary workers",
+    "recruiting",
+    "employment agency"
+  ],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2a7287f6-3782-5637-b60b-cd24f412b758"
 }

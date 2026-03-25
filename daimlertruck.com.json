@@ -1,10 +1,19 @@
 {
   "entity_id": "3ba354b8-c0d7-5f73-bd08-a21495a0ecc1",
   "name": "Daimler Truck",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Daimler Truck manufactures commercial vehicles, including trucks and buses.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Germany",
+  "keywords": [
+    "commercial vehicles",
+    "trucks",
+    "buses",
+    "vehicle manufacturing",
+    "transportation solutions",
+    "automotive engineering",
+    "heavy-duty vehicles"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3ba354b8-c0d7-5f73-bd08-a21495a0ecc1"
 }

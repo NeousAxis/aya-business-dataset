@@ -1,10 +1,20 @@
 {
   "entity_id": "d0336f5b-7f0b-543f-a66b-0ce07779886b",
   "name": "BioMarin Pharmaceutical",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "BioMarin Pharmaceutical develops and commercializes therapies for serious and life-threatening rare genetic diseases.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
+  "keywords": [
+    "rare genetic diseases",
+    "orphan drugs",
+    "enzyme replacement therapy",
+    "genetic disorder treatments",
+    "biopharmaceuticals",
+    "BioMarin therapies",
+    "specialty pharmaceuticals",
+    "metabolic disorders"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d0336f5b-7f0b-543f-a66b-0ce07779886b"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "f9c8e42b-6685-5b7b-a7e2-da10e7a8aa87",
   "name": "Henkel",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Henkel manufactures and sells chemical and consumer goods, including adhesives, detergents, and beauty products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Arab Emirates",
+  "keywords": [
+    "consumer chemicals",
+    "adhesive technologies",
+    "detergents",
+    "beauty care",
+    "laundry products",
+    "home care",
+    "chemical products"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f9c8e42b-6685-5b7b-a7e2-da10e7a8aa87"
 }

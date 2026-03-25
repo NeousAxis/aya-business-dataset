@@ -1,10 +1,20 @@
 {
   "entity_id": "ade06e59-f83b-55ba-b963-6c280b78b0fb",
   "name": "Kraken",
-  "what_it_does": "Finance & Banque organization.",
+  "what_it_does": "Kraken is a cryptocurrency exchange platform.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "cryptocurrency exchange",
+    "digital currency",
+    "bitcoin",
+    "ethereum",
+    "crypto trading",
+    "blockchain assets",
+    "digital asset exchange",
+    "crypto investing"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ade06e59-f83b-55ba-b963-6c280b78b0fb"
 }

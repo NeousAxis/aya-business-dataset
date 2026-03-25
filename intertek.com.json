@@ -1,10 +1,20 @@
 {
   "entity_id": "b56f3877-4e34-5f12-b915-a36851c10961",
   "name": "Intertek",
-  "what_it_does": "Provides app, application, consulting.",
+  "what_it_does": "Intertek provides quality assurance, testing, inspection and certification services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
+  "keywords": [
+    "quality assurance",
+    "testing",
+    "inspection",
+    "certification",
+    "product testing",
+    "supply chain assurance",
+    "risk mitigation",
+    "compliance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b56f3877-4e34-5f12-b915-a36851c10961"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "0c145d2e-ff87-566b-bef3-2c8fa0d8808e",
   "name": "session GmbH & Co. KG",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "session GmbH & Co. KG likely provides media and communication services, possibly including advertising, public relations, or digital marketing.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "media",
+    "communication",
+    "public",
+    "relations",
+    "services",
+    "marketing",
+    "advertising",
+    "creative"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0c145d2e-ff87-566b-bef3-2c8fa0d8808e"
 }

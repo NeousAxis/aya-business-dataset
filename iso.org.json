@@ -1,10 +1,19 @@
 {
   "entity_id": "5c45aa8e-c9ce-5cd5-9e31-0ae8646bb350",
   "name": "ISO",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "ISO develops and publishes international standards across various industries.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
+  "keywords": [
+    "international standards",
+    "quality standards",
+    "industry standards",
+    "technical standards",
+    "product certification",
+    "standardization",
+    "ISO standards"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5c45aa8e-c9ce-5cd5-9e31-0ae8646bb350"
 }

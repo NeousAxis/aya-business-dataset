@@ -1,10 +1,19 @@
 {
   "entity_id": "411f910b-fdad-5544-be90-1e654b3b216e",
   "name": "nicsell",
-  "what_it_does": "Provides service.",
+  "what_it_does": "Nicsell likely provides services related to buying or selling domain names or websites.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "domain names",
+    "web properties",
+    "domain brokerage",
+    "domain acquisition",
+    "domain sales",
+    "internet real estate",
+    "web address marketplace"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/411f910b-fdad-5544-be90-1e654b3b216e"
 }

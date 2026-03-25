@@ -1,10 +1,20 @@
 {
   "entity_id": "b754c7ad-1346-59be-b437-219c0e845a67",
   "name": "OPPO",
-  "what_it_does": "Provides product, products, service.",
+  "what_it_does": "OPPO designs and manufactures consumer electronics, including smartphones.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "KZ",
+  "keywords": [
+    "smartphones",
+    "consumer electronics",
+    "mobile devices",
+    "oppo electronics",
+    "android phones",
+    "electronic accessories",
+    "global electronics",
+    "mobile photography"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b754c7ad-1346-59be-b437-219c0e845a67"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "46d9d9cf-da3c-5f9b-afe3-c7d676f27dae",
   "name": "Fireblocks",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Fireblocks provides a secure platform for digital asset operations and custody.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "digital asset security",
+    "cryptocurrency custody",
+    "crypto wallet",
+    "institutional crypto",
+    "blockchain security",
+    "asset transfer",
+    "digital asset management",
+    "crypto platform"
+  ],
   "aio_score": 71.0,
   "certificate_url": "https://ai-visionary.com/aya/e/46d9d9cf-da3c-5f9b-afe3-c7d676f27dae"
 }

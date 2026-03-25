@@ -1,10 +1,20 @@
 {
   "entity_id": "80d904e4-92c4-5d70-882c-0d1693ea1c3d",
   "name": "Mollie",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Mollie provides payment processing services for online businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Belgium",
+  "keywords": [
+    "payment processing",
+    "payment gateway",
+    "e-commerce payments",
+    "online payments",
+    "payment solutions",
+    "merchant services",
+    "EU payments",
+    "API payments"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/80d904e4-92c4-5d70-882c-0d1693ea1c3d"
 }

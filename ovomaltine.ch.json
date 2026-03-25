@@ -1,10 +1,20 @@
 {
   "entity_id": "4f2eed0e-69c0-511c-9c4c-3887de944ae2",
   "name": "Mit Ovo kannst du's nicht besser. Aber länger.",
-  "what_it_does": "Provides menu.",
+  "what_it_does": "Ovomaltine produces and sells a malt-based beverage and related products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "malt beverage",
+    "chocolate malt drink",
+    "swiss chocolate",
+    "breakfast drink",
+    "energy drink",
+    "malt extract",
+    "nutritional supplement",
+    "flavored milk"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4f2eed0e-69c0-511c-9c4c-3887de944ae2"
 }

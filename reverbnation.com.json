@@ -1,10 +1,20 @@
 {
   "entity_id": "06e7c257-4eac-5a24-b75b-7da570760f4b",
   "name": "ReverbNation",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "ReverbNation provides online tools and services for musicians to manage their careers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "musician tools",
+    "music promotion",
+    "career ",
+    "music ",
+    "music distribution",
+    "artist ",
+    "music marketing",
+    "band promotion"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/06e7c257-4eac-5a24-b75b-7da570760f4b"
 }

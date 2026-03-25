@@ -1,10 +1,20 @@
 {
   "entity_id": "53f06f57-6989-510b-acd9-55f407709ed0",
   "name": "Captivate",
-  "what_it_does": "Provides app, delivery, menu.",
+  "what_it_does": "Captivate operates digital advertising screens in elevators.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "digital signage",
+    "elevator advertising",
+    "place-based media",
+    "out-of-home advertising",
+    "captive audience",
+    "commercial buildings",
+    "advertising networks",
+    "digital displays"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/53f06f57-6989-510b-acd9-55f407709ed0"
 }

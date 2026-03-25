@@ -1,10 +1,19 @@
 {
   "entity_id": "f8b55a9f-43ff-57b1-8a49-fdd94e6057f9",
   "name": "Oerlikon Group",
-  "what_it_does": "Provides product, service, services.",
+  "what_it_does": "Oerlikon Group provides surface solutions, polymer processing, and manmade fibers manufacturing.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "surface solutions",
+    "materials engineering",
+    "advanced materials",
+    "coating technologies",
+    "equipment manufacturing",
+    "industrial solutions",
+    "polymer processing"
+  ],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f8b55a9f-43ff-57b1-8a49-fdd94e6057f9"
 }

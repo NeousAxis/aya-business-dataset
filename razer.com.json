@@ -1,10 +1,19 @@
 {
   "entity_id": "1bbf1fe0-a63f-5cf7-a35e-bc21985b2007",
   "name": "Razer",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Razer designs and sells gaming hardware, software, and peripherals.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "United States",
+  "keywords": [
+    "gaming hardware",
+    "gaming peripherals",
+    "gaming laptops",
+    "esports equipment",
+    "PC gaming",
+    "gaming accessories",
+    "streaming gear"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1bbf1fe0-a63f-5cf7-a35e-bc21985b2007"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "ea1f8318-5f74-53ca-a16c-9af2427b9387",
   "name": "Corsair",
-  "what_it_does": "Provides service, services, software.",
+  "what_it_does": "Corsair designs and manufactures computer hardware and peripherals, including gaming components and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Switzerland",
+  "keywords": [
+    "computer hardware",
+    "gaming peripherals",
+    "PC components",
+    "gaming accessories",
+    "cooling solutions",
+    "power supplies",
+    "memory products",
+    "PC gaming"
+  ],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ea1f8318-5f74-53ca-a16c-9af2427b9387"
 }

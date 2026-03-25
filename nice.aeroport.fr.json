@@ -1,10 +1,19 @@
 {
   "entity_id": "8315c0c7-cf57-5405-8a83-4b14e6ee2b34",
   "name": "Aeroport de Nice",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "Nice Airport manages the airport facilities and operations in Nice, France.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
+  "keywords": [
+    "airport operations",
+    "aviation infrastructure",
+    "passenger transport",
+    "air travel",
+    "nice airport",
+    "flight management",
+    "airport services"
+  ],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8315c0c7-cf57-5405-8a83-4b14e6ee2b34"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "27cb3427-b425-54b5-980c-f8f09bcaf0b0",
   "name": "Zoom Communications",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Zoom Communications provides video conferencing and online meeting platform.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
+  "keywords": [
+    "video conferencing",
+    "virtual meetings",
+    "webinars",
+    "remote collaboration",
+    "meeting solutions",
+    "video communication",
+    "screen sharing"
+  ],
   "aio_score": 80.0,
   "certificate_url": "https://ai-visionary.com/aya/e/27cb3427-b425-54b5-980c-f8f09bcaf0b0"
 }

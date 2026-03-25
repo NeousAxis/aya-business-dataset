@@ -1,10 +1,20 @@
 {
   "entity_id": "38d1bc74-8320-5cc6-8225-dd3a88c0f9f6",
   "name": "Fullstory",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "FullStory provides a platform for session replay and analytics to understand user behavior on websites and apps.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "session replay",
+    "user behavior analytics",
+    "customer experience",
+    "product analytics",
+    "web analytics",
+    "session recording",
+    "UX insights",
+    "digital experience"
+  ],
   "aio_score": 68.0,
   "certificate_url": "https://ai-visionary.com/aya/e/38d1bc74-8320-5cc6-8225-dd3a88c0f9f6"
 }

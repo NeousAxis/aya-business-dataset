@@ -1,10 +1,19 @@
 {
   "entity_id": "e34ca1cf-d128-53f6-8484-df8617bdabf6",
   "name": "For Product and Support Information",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Brother manufactures printers, fax machines, and other office equipment.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "printers",
+    "label makers",
+    "office equipment",
+    "printing solutions",
+    "scanners",
+    "fax machines",
+    "document imaging"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e34ca1cf-d128-53f6-8484-df8617bdabf6"
 }

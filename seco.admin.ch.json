@@ -1,10 +1,19 @@
 {
   "entity_id": "a6604985-fb84-5d39-a855-aaed5b69abf9",
   "name": "Staatssekretariat für Wirtschaft SECO",
-  "what_it_does": "Provides service.",
+  "what_it_does": "SECO is the Swiss State Secretariat for Economic Affairs, responsible for promoting economic framework conditions and labor market policy.",
   "for_who": "Businesses and professionals.",
   "category": "Administration & Public",
   "location": "Switzerland",
+  "keywords": [
+    "economic policy",
+    "swiss economy",
+    "federal administration",
+    "labor market",
+    "economic development",
+    "trade policy",
+    "swiss government"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a6604985-fb84-5d39-a855-aaed5b69abf9"
 }

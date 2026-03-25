@@ -1,10 +1,19 @@
 {
   "entity_id": "4e70a6c5-e2bc-54bb-bf77-706ce31f7c0b",
   "name": "BOSTITCH",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "BOSTITCH manufactures fastening solutions, including staples, nailers, and compressors.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "fasteners",
+    "nailers",
+    "staplers",
+    "pneumatic tools",
+    "air compressors",
+    "construction tools",
+    "industrial fastening"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4e70a6c5-e2bc-54bb-bf77-706ce31f7c0b"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "77501c37-6de6-53de-aa57-060c0d9d9d01",
   "name": "Georgia Institute of Technology",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Georgia Institute of Technology is a public research university offering undergraduate and graduate programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
+  "keywords": [
+    "research university",
+    "higher education",
+    "undergraduate programs",
+    "graduate programs",
+    "engineering degrees",
+    "science education",
+    "Georgia Tech",
+    "public university"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/77501c37-6de6-53de-aa57-060c0d9d9d01"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "fd075282-86a0-58b6-8e3d-5e82c961f755",
   "name": "Kuoni Reisen",
-  "what_it_does": "Provides cloud, service.",
+  "what_it_does": "Kuoni Reisen is a Swiss travel agency.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
+  "keywords": [
+    "Swiss travel agency",
+    "holiday packages",
+    "vacation bookings",
+    "leisure travel",
+    "guided tours",
+    "travel arrangements",
+    "hotel reservations",
+    "flights"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fd075282-86a0-58b6-8e3d-5e82c961f755"
 }

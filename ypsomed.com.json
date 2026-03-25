@@ -1,10 +1,19 @@
 {
   "entity_id": "09d10351-1364-55c1-a94b-ade12c88aef2",
   "name": "Ypsomed",
-  "what_it_does": "Provides app, delivery, platform.",
+  "what_it_does": "Ypsomed develops and manufactures injection and infusion systems for self-medication.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
+  "keywords": [
+    "injection systems",
+    "infusion systems",
+    "self-medication devices",
+    "diabetes management",
+    "drug delivery systems",
+    "medical devices",
+    "pen injectors"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/09d10351-1364-55c1-a94b-ade12c88aef2"
 }

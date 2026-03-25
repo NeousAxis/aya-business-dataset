@@ -1,10 +1,17 @@
 {
   "entity_id": "d5dcd1a0-b3cc-5bfe-ae49-fcac8d37b39b",
   "name": "Wiha Werkzeuge",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Wiha manufactures hand tools for professional use.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "hand tools",
+    "tool manufacturing",
+    "professional tools",
+    "tool industry",
+    "industrial tools"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d5dcd1a0-b3cc-5bfe-ae49-fcac8d37b39b"
 }

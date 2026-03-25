@@ -1,10 +1,20 @@
 {
   "entity_id": "c8331e2e-9c6f-5ce7-9829-4f48cd4e752e",
   "name": "World Bank Group",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "The World Bank Group provides loans and grants to governments of low- and middle-income countries for capital projects.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "international development",
+    "development loans",
+    "poverty reduction",
+    "World Bank",
+    "financial",
+    "aid",
+    "grants",
+    "developing countries"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c8331e2e-9c6f-5ce7-9829-4f48cd4e752e"
 }

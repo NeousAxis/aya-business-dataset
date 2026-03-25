@@ -1,10 +1,19 @@
 {
   "entity_id": "f39a8a46-d683-5259-8fe7-09153f297984",
   "name": "Capgemini",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Capgemini is a consulting company that provides services in IT, technology, digital, and engineering.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
+  "keywords": [
+    "IT ",
+    "technology ",
+    "engineering ",
+    "digital transformation",
+    "technology ",
+    "systems integration",
+    "outsourcing "
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f39a8a46-d683-5259-8fe7-09153f297984"
 }

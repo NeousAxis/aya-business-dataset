@@ -1,10 +1,19 @@
 {
   "entity_id": "fb056f7f-5ba1-5287-8741-6ec51aeaec24",
   "name": "PepsiCo",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "PepsiCo manufactures and distributes food and beverage products worldwide.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Mexico",
+  "keywords": [
+    "snacks",
+    "beverages",
+    "food products",
+    "soft drinks",
+    "salty snacks",
+    "juice products",
+    "global distribution"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fb056f7f-5ba1-5287-8741-6ec51aeaec24"
 }

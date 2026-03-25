@@ -1,10 +1,20 @@
 {
   "entity_id": "e9af4a60-8f49-5a6f-8001-9f11175d1ffa",
   "name": "Travelers",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Travelers Companies, Inc. is an insurance company, not in tourism or transport.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United Kingdom",
+  "keywords": [
+    "insurance",
+    "auto insurance",
+    "home insurance",
+    "property insurance",
+    "casualty insurance",
+    "risk management",
+    "personal insurance",
+    "commercial insurance"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e9af4a60-8f49-5a6f-8001-9f11175d1ffa"
 }

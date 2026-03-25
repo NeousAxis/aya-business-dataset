@@ -1,10 +1,19 @@
 {
   "entity_id": "ee79a79e-4e1f-5bac-9ec8-6f03438ec750",
   "name": "Proximus",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Proximus provides telecommunications services including internet, television, and mobile services in Belgium.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
+  "keywords": [
+    "telecommunications",
+    "internet provider",
+    "TV provider",
+    "mobile services",
+    "Belgian telecom",
+    "fixed-line",
+    "proximus belgium"
+  ],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ee79a79e-4e1f-5bac-9ec8-6f03438ec750"
 }

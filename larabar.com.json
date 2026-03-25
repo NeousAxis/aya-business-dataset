@@ -1,10 +1,20 @@
 {
   "entity_id": "0d8ce4f9-13a8-5990-8224-e41c81b5dabf",
   "name": "LÄRABAR",
-  "what_it_does": "Provides app, product, products.",
+  "what_it_does": "LÄRABAR produces and sells minimally processed fruit and nut bars.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "fruit bars",
+    "nut bars",
+    "whole food bars",
+    "minimally processed food",
+    "healthy snacks",
+    "gluten-free bars",
+    "vegan snacks",
+    "plant-based nutrition"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0d8ce4f9-13a8-5990-8224-e41c81b5dabf"
 }

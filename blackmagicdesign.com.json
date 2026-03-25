@@ -1,10 +1,20 @@
 {
   "entity_id": "8316e87d-e200-564a-8d5a-9eda2a56b62d",
   "name": "Blackmagic Design",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Blackmagic Design manufactures digital cinema cameras, video editing software, and related hardware.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
+  "keywords": [
+    "digital cinema cameras",
+    "video editing",
+    "video equipment",
+    "film production",
+    "broadcast equipment",
+    "camera equipment",
+    "video hardware",
+    "post production"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8316e87d-e200-564a-8d5a-9eda2a56b62d"
 }

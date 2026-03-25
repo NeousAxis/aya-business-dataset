@@ -1,10 +1,20 @@
 {
   "entity_id": "399b8bd2-60b9-5cc5-bae7-25ce50250efa",
   "name": "WAGO Kontakttechnik GmbH",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "WAGO Kontakttechnik GmbH manufactures electrical connection and automation components.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Belgium",
+  "keywords": [
+    "electrical connectors",
+    "automation components",
+    "terminal blocks",
+    "PCB connectors",
+    "electrical interconnect",
+    "automation technology",
+    "industrial automation",
+    "wiring solutions"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/399b8bd2-60b9-5cc5-bae7-25ce50250efa"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "0823a98f-cd4e-5f7f-968d-863e4b8d3391",
   "name": "Verisign",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Verisign operates critical internet infrastructure, including the .com and .net domain name registries.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "domain name registry",
+    ".com registry",
+    ".net registry",
+    "internet security",
+    "domain name system",
+    "DNS infrastructure",
+    "cybersecurity",
+    "domain services"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0823a98f-cd4e-5f7f-968d-863e4b8d3391"
 }

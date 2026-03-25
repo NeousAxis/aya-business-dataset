@@ -1,10 +1,20 @@
 {
   "entity_id": "ce3ea41f-9bba-5600-be9f-ed9a5cf034de",
   "name": "Assystem",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Assystem provides engineering and digital services across various industries.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
+  "keywords": [
+    "engineering services",
+    "numerical analysis",
+    "industrial sector engineering",
+    "infrastructure projects",
+    "aerospace engineering",
+    "energy sector engineering",
+    "product lifecycle",
+    "system design"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ce3ea41f-9bba-5600-be9f-ed9a5cf034de"
 }

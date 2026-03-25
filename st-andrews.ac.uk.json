@@ -1,10 +1,20 @@
 {
   "entity_id": "43c36f4b-9f73-5bc3-83b6-ec1ee5362696",
   "name": "University of St Andrews",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "The University of St Andrews is a Scottish higher education institution offering undergraduate and postgraduate degrees.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
+  "keywords": [
+    "Scottish university",
+    "higher education",
+    "undergraduate degrees",
+    "postgraduate degrees",
+    "academic research",
+    "liberal arts",
+    "St Andrews",
+    "research university"
+  ],
   "aio_score": 63.0,
   "certificate_url": "https://ai-visionary.com/aya/e/43c36f4b-9f73-5bc3-83b6-ec1ee5362696"
 }

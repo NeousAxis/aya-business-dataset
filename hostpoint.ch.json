@@ -1,10 +1,20 @@
 {
   "entity_id": "5cebfe3c-a424-5d93-97e8-3188281ab1d9",
   "name": "Hostpoint AG",
-  "what_it_does": "Provides app, cloud, service.",
+  "what_it_does": "Hostpoint AG offers web hosting, domain registration, and related internet services.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Switzerland",
+  "keywords": [
+    "webspace",
+    "domain names",
+    "web servers",
+    "email hosting",
+    "internet presence",
+    "web solutions",
+    "web design",
+    "Swiss web hosting"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5cebfe3c-a424-5d93-97e8-3188281ab1d9"
 }

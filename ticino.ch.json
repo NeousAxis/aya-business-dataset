@@ -1,10 +1,20 @@
 {
   "entity_id": "a5378543-79f7-58df-83d7-4afa322a7d20",
   "name": "Information for travel and holidays in Ticino",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Ticino.ch provides travel information and resources for the Ticino region in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
+  "keywords": [
+    "ticino tourism",
+    "swiss travel",
+    "travel information",
+    "holiday planning",
+    "ticino region",
+    "swiss alps",
+    "lake lugano",
+    "travel resources"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a5378543-79f7-58df-83d7-4afa322a7d20"
 }

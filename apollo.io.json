@@ -1,10 +1,19 @@
 {
   "entity_id": "cac70429-7bae-5b9a-a97b-1030761bfc17",
   "name": "Apollo.io",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Apollo.io provides a sales intelligence platform with data on companies and contacts.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "intelligence commerciale",
+    "prospection commerciale",
+    "génération de leads",
+    "Apollo.io",
+    "engagement client",
+    "ventes B2B",
+    "outils de vente"
+  ],
   "aio_score": 80.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cac70429-7bae-5b9a-a97b-1030761bfc17"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "717c7046-ad59-557a-ae5b-d752cbb4184f",
   "name": "Certina watches",
-  "what_it_does": "Provides app, delivery, menu.",
+  "what_it_does": "Certina manufactures and sells Swiss watches.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Belgium",
+  "keywords": [
+    "swiss watches",
+    "luxury timepieces",
+    "automatic watches",
+    "diving watches",
+    "chronograph watches",
+    "watch retail",
+    "horology"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/717c7046-ad59-557a-ae5b-d752cbb4184f"
 }

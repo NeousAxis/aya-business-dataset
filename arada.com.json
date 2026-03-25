@@ -1,10 +1,20 @@
 {
   "entity_id": "97d2e8af-63e6-549e-a9e6-2dba097bff30",
   "name": "Arada",
-  "what_it_does": "Provides app, application, product.",
+  "what_it_does": "Arada is a real estate developer based in the UAE, focusing on large-scale residential and commercial projects.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Arab Emirates",
+  "keywords": [
+    "UAE real estate",
+    "residential developments",
+    "commercial properties",
+    "property development",
+    "real estate projects",
+    "mixed-use communities",
+    "urban development",
+    "property investments"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/97d2e8af-63e6-549e-a9e6-2dba097bff30"
 }

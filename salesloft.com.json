@@ -1,10 +1,20 @@
 {
   "entity_id": "ac80696d-3ac8-5413-aedc-d5e681183d83",
   "name": "Salesloft",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Salesloft provides a sales engagement platform to help sales teams automate and manage their outreach.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "sales engagement",
+    "sales automation",
+    "sales intelligence",
+    "b2b sales",
+    "prospecting",
+    "sales communication",
+    "sales development",
+    "revenue acceleration"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ac80696d-3ac8-5413-aedc-d5e681183d83"
 }

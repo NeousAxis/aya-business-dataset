@@ -1,10 +1,20 @@
 {
   "entity_id": "a7d18193-d639-52da-9079-008355e4aa9b",
   "name": "Wisconsin Lottery Wisconsin Lottery",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "Wisconsin Lottery operates the state lottery games in Wisconsin.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "lottery games",
+    "state lottery",
+    "drawing games",
+    "instant tickets",
+    "Wisconsin lottery",
+    "lotto",
+    "prize payouts",
+    "gambling"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a7d18193-d639-52da-9079-008355e4aa9b"
 }

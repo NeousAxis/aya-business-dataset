@@ -1,10 +1,19 @@
 {
   "entity_id": "f78313fb-7a4b-5b5c-a989-bab36d3dcae0",
   "name": "IMF",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "The International Monetary Fund (IMF) works to foster global monetary cooperation, secure financial stability, facilitate international trade, promote high employment and sustainable economic growth,",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
+  "keywords": [
+    "global monetary cooperation",
+    "financial stability",
+    "economic development",
+    "international finance",
+    "exchange rates",
+    "economic surveillance",
+    "macroeconomic policy"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f78313fb-7a4b-5b5c-a989-bab36d3dcae0"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "febe2e17-7eb6-5727-a0e9-e2f995eade63",
   "name": "Gogoro",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Gogoro manufactures electric scooters and battery-swapping infrastructure.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "India",
+  "keywords": [
+    "electric scooters",
+    "battery swapping infrastructure",
+    "urban mobility",
+    "EV technology",
+    "smart transportation",
+    "two-wheeled vehicles",
+    "renewable energy",
+    "sustainable transport"
+  ],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/febe2e17-7eb6-5727-a0e9-e2f995eade63"
 }

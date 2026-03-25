@@ -1,10 +1,20 @@
 {
   "entity_id": "ade558ee-9dfe-50ef-a5de-75c51c4b70ce",
   "name": "99designs",
-  "what_it_does": "Provides app, menu, platform.",
+  "what_it_does": "99designs connects businesses with freelance graphic designers for creative projects.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "graphic design",
+    "freelance designers",
+    "logo design",
+    "web design",
+    "brand identity",
+    "design contests",
+    "creative services",
+    "visual communication"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ade558ee-9dfe-50ef-a5de-75c51c4b70ce"
 }

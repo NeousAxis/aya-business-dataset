@@ -1,10 +1,20 @@
 {
   "entity_id": "d86ef022-1a1d-521a-87c6-ee60b7aaf9ba",
   "name": "Electric Vehicle (EV) Charging Stations",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Chargepoint operates a network of electric vehicle charging stations.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Canada",
+  "keywords": [
+    "ev charging stations",
+    "electric vehicle charging",
+    "ev infrastructure",
+    "chargepoint network",
+    "commercial ev charging",
+    "residential ev charging",
+    "fleet ev charging",
+    "ev charging solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d86ef022-1a1d-521a-87c6-ee60b7aaf9ba"
 }

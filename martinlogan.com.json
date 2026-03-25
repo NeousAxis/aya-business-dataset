@@ -1,10 +1,20 @@
 {
   "entity_id": "e406a993-5562-5449-9a74-7622f1b3d1dc",
   "name": "Premium HiFi Speakers for Home Theater & Stereo",
-  "what_it_does": "Provides menu, product, products.",
+  "what_it_does": "MartinLogan manufactures and sells electrostatic and dynamic loudspeakers.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "electrostatic speakers",
+    "dynamic speakers",
+    "home theater speakers",
+    "stereo speakers",
+    "audio equipment",
+    "loudspeakers",
+    "high-fidelity audio",
+    "premium audio"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e406a993-5562-5449-9a74-7622f1b3d1dc"
 }

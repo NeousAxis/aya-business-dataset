@@ -1,10 +1,19 @@
 {
   "entity_id": "ee684cda-ace4-522f-b6d1-bf389b04ec14",
   "name": "Paychex",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Paychex provides payroll, human resources, and benefits outsourcing solutions for businesses.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
+  "keywords": [
+    "payroll services",
+    "HR outsourcing",
+    "human resources",
+    "benefits administration",
+    "payroll processing",
+    "employee benefits",
+    "payroll solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ee684cda-ace4-522f-b6d1-bf389b04ec14"
 }

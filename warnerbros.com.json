@@ -1,10 +1,20 @@
 {
   "entity_id": "dab01ecc-25b1-5dee-b1eb-0dce70117fc0",
   "name": "Warner Bros. Entertainment Inc.",
-  "what_it_does": "Provides app, application, platform.",
+  "what_it_does": "Warner Bros. Entertainment produces and distributes films, television programs, and other entertainment content.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
+  "keywords": [
+    "film production",
+    "television production",
+    "movie distribution",
+    "game development",
+    "entertainment industry",
+    "video games",
+    "motion pictures",
+    "TV shows"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dab01ecc-25b1-5dee-b1eb-0dce70117fc0"
 }

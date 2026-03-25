@@ -1,10 +1,20 @@
 {
   "entity_id": "0c7d44c7-08ba-58af-b1c8-04ee1a184a64",
   "name": "Strapi",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Strapi provides an open-source headless CMS platform for building custom APIs.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "headless CMS",
+    "content API",
+    "open source CMS",
+    "Node.js CMS",
+    "API creation",
+    "content management system",
+    "developer platform",
+    "customizable CMS"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0c7d44c7-08ba-58af-b1c8-04ee1a184a64"
 }

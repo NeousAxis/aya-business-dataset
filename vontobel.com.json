@@ -1,10 +1,20 @@
 {
   "entity_id": "d74044f6-c919-502f-8109-6d9c07f516a4",
   "name": "Vontobel Holding AG",
-  "what_it_does": "Provides api, app, platform.",
+  "what_it_does": "Vontobel Holding AG is a Swiss financial services firm providing wealth and asset management.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "asset management",
+    "wealth management",
+    "investment solutions",
+    "Swiss banking",
+    "financial investments",
+    "private banking",
+    "investment banking",
+    "financial products"
+  ],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d74044f6-c919-502f-8109-6d9c07f516a4"
 }

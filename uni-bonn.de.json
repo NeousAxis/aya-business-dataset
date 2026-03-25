@@ -1,10 +1,20 @@
 {
   "entity_id": "6c026029-d23c-5bb3-b57a-3f5d6ef73a72",
   "name": "Universität Bonn",
-  "what_it_does": "Provides app, service.",
+  "what_it_does": "Universität Bonn is a public research university located in Bonn, Germany.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Germany",
+  "keywords": [
+    "German university",
+    "higher education",
+    "research university",
+    "academic programs",
+    "student education",
+    "Bonn education",
+    "public university",
+    "research programs"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6c026029-d23c-5bb3-b57a-3f5d6ef73a72"
 }

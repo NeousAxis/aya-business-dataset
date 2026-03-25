@@ -1,10 +1,19 @@
 {
   "entity_id": "60c60b55-a110-5a69-aba0-0d50c1e4c43d",
   "name": "Hochwertige Travel und Outdoor-Ausrüstung",
-  "what_it_does": "Provides service, services.",
+  "what_it_does": "Transa sells travel and outdoor equipment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "travel equipment",
+    "outdoor gear",
+    "camping equipment",
+    "hiking gear",
+    "climbing equipment",
+    "outdoor clothing",
+    "backpacking equipment"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/60c60b55-a110-5a69-aba0-0d50c1e4c43d"
 }

@@ -1,10 +1,19 @@
 {
   "entity_id": "74fada7c-ad19-502c-8078-0f15b42beb7c",
   "name": "Nakheel",
-  "what_it_does": "Provides app, service, services.",
+  "what_it_does": "Nakheel is a real estate developer focusing on waterfront projects and iconic developments.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
+  "keywords": [
+    "luxury real estate",
+    "property development",
+    "real estate",
+    "waterfront properties",
+    "residential properties",
+    "Dubai real estate",
+    "Nakheel"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/74fada7c-ad19-502c-8078-0f15b42beb7c"
 }

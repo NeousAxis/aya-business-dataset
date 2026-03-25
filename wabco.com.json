@@ -1,10 +1,19 @@
 {
   "entity_id": "3d121042-0c2f-5949-b671-bd99e79681ad",
   "name": "Wabtec.com and Wabco-auto.com",
-  "what_it_does": "Provides product, products, service.",
+  "what_it_does": "Wabtec supplies equipment, systems, and services for freight and transit rail industries.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "braking control systems",
+    "commercial vehicle systems",
+    "railway technologies",
+    "train control",
+    "truck braking",
+    "air compressors",
+    "rail industry"
+  ],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3d121042-0c2f-5949-b671-bd99e79681ad"
 }

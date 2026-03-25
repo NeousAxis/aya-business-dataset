@@ -1,10 +1,19 @@
 {
   "entity_id": "aa64eafb-954c-5049-8726-df0df981ca3a",
   "name": "YUAN",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "YUAN provides multimedia communication hardware and software solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "multimedia communication",
+    "video capture cards",
+    "video encoders",
+    "video decoders",
+    "streaming solutions",
+    "video processing",
+    "hardware solutions"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aa64eafb-954c-5049-8726-df0df981ca3a"
 }

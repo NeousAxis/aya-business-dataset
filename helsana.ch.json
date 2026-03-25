@@ -1,10 +1,20 @@
 {
   "entity_id": "1a2cd999-6701-5322-b70b-e96c5ece7b9a",
   "name": "Helsana AG",
-  "what_it_does": "Provides api, app, prestation.",
+  "what_it_does": "Helsana AG is a Swiss health insurance company.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
+  "keywords": [
+    "health insurance",
+    "swiss insurance",
+    "medical coverage",
+    "healthcare",
+    "insurance plans",
+    "health services",
+    "supplemental insurance",
+    "insurance provider"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1a2cd999-6701-5322-b70b-e96c5ece7b9a"
 }

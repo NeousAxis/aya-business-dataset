@@ -1,10 +1,19 @@
 {
   "entity_id": "4e1fc771-508d-5107-b42a-77423b33c9e9",
   "name": "Render",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Render provides a unified cloud platform for hosting websites, APIs, and databases.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "cloud hosting",
+    "web hosting",
+    "API hosting",
+    "database hosting",
+    "unified cloud",
+    "serverless",
+    "application deployment"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4e1fc771-508d-5107-b42a-77423b33c9e9"
 }

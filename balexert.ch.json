@@ -1,10 +1,20 @@
 {
   "entity_id": "9bbfef1b-ea51-559b-851c-038203f80fe4",
   "name": "Centre Commercial Balexert à Genève",
-  "what_it_does": "Provides app, menu, offre.",
+  "what_it_does": "Balexert is a shopping mall located in Geneva, Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
+  "keywords": [
+    "shopping center",
+    "Geneva shopping",
+    "retail stores",
+    "Balexert mall",
+    "Swiss shopping",
+    "retail destination",
+    "shopping complex",
+    "Geneva retail"
+  ],
   "aio_score": 69.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9bbfef1b-ea51-559b-851c-038203f80fe4"
 }

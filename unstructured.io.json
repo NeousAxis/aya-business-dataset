@@ -1,10 +1,20 @@
 {
   "entity_id": "4392ed16-c818-590c-9d3d-78f4ed557d38",
   "name": "Unstructured",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Unstructured provides tools and APIs for pre-processing unstructured data for machine learning applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "unstructured data",
+    "data preprocessing",
+    "document extraction",
+    "data enrichment",
+    "machine learning data",
+    "NLP data",
+    "data pipelines",
+    "AI data preparation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4392ed16-c818-590c-9d3d-78f4ed557d38"
 }

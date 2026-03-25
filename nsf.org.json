@@ -1,10 +1,20 @@
 {
   "entity_id": "e1d758c4-eb35-5a33-bd23-dcbd585f59de",
   "name": "NSF",
-  "what_it_does": "Provides consulting, product, products.",
+  "what_it_does": "NSF likely reports news or operates a communication service.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
+  "keywords": [
+    "news publication",
+    "media outlet",
+    "communication ",
+    "public information",
+    "current events",
+    "news articles",
+    "press releases",
+    "media broadcasting"
+  ],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e1d758c4-eb35-5a33-bd23-dcbd585f59de"
 }

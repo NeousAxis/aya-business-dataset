@@ -1,10 +1,19 @@
 {
   "entity_id": "7afeb08c-cd6b-5cb9-b1a3-10b83725bd58",
   "name": "EMS Group",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "EMS Group manufactures specialty polymers and fine chemicals.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "specialty polymers",
+    "fine chemicals",
+    "chemical manufacturing",
+    "polymer compounds",
+    "engineered materials",
+    "chemical products",
+    "industrial chemicals"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7afeb08c-cd6b-5cb9-b1a3-10b83725bd58"
 }

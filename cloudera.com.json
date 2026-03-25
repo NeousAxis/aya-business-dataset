@@ -1,10 +1,17 @@
 {
   "entity_id": "c8bd2b12-5cec-531e-b85c-5df66f9d1212",
   "name": "Cloudera",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Cloudera provides a data platform for data warehousing, data engineering, data science, machine learning, and operational applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Italy",
+  "keywords": [
+    "data warehousing",
+    "data engineering",
+    "data science",
+    "machine learning",
+    "data platform"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c8bd2b12-5cec-531e-b85c-5df66f9d1212"
 }

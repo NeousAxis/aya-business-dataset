@@ -1,10 +1,20 @@
 {
   "entity_id": "893163a2-e583-5ace-9c5e-d8c5328c1ab8",
   "name": "NatWest",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "NatWest is a British retail and commercial bank providing financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Kingdom",
+  "keywords": [
+    "retail banking",
+    "commercial banking",
+    "financial services",
+    "UK banking",
+    "loans",
+    "mortgages",
+    "savings accounts",
+    "credit cards"
+  ],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/893163a2-e583-5ace-9c5e-d8c5328c1ab8"
 }

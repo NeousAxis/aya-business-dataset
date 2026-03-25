@@ -1,10 +1,20 @@
 {
   "entity_id": "a83add3f-1f16-5681-97f9-573bf99b438e",
   "name": "KONAMI GROUP CORPORATION",
-  "what_it_does": "Provides app, product, service.",
+  "what_it_does": "KONAMI GROUP CORPORATION develops and publishes video games, arcade games, and trading cards, and operates health and fitness clubs.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
+  "keywords": [
+    "video games",
+    "arcade machines",
+    "gaming",
+    "entertainment",
+    "game development",
+    "game publishing",
+    "console games",
+    "arcade games"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a83add3f-1f16-5681-97f9-573bf99b438e"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "f0db1f69-4fc2-5e03-8d10-bc46b5f44a94",
   "name": "Greenlight",
-  "what_it_does": "Provides api, app, product.",
+  "what_it_does": "Greenlight provides debit cards and financial literacy education for kids and teens.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "debit cards for kids",
+    "financial literacy",
+    "teen banking",
+    "youth finance",
+    "parental control",
+    "allowance management",
+    "financial education",
+    "spending monitoring"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f0db1f69-4fc2-5e03-8d10-bc46b5f44a94"
 }

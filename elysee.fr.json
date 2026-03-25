@@ -1,10 +1,20 @@
 {
   "entity_id": "fcaa992e-1194-5d93-9e7f-71560b9bcb8b",
   "name": "le site de l'Élysée",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Elysee.fr is the official website of the President of the French Republic.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
+  "keywords": [
+    "French Presidency",
+    "official government site",
+    "Élysée Palace",
+    "French Republic",
+    "government information",
+    "public institution",
+    "France tourism",
+    "national landmark"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fcaa992e-1194-5d93-9e7f-71560b9bcb8b"
 }

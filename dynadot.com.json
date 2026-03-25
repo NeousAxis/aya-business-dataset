@@ -1,10 +1,19 @@
 {
   "entity_id": "7c7323f6-0fe8-5494-b734-910eda200933",
   "name": "Dynadot",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Dynadot is a domain name registrar and web hosting provider.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
+  "keywords": [
+    "domain registration",
+    "web hosting",
+    "domain names",
+    "SSL certificates",
+    "DNS management",
+    "website builder",
+    "domain transfer"
+  ],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7c7323f6-0fe8-5494-b734-910eda200933"
 }

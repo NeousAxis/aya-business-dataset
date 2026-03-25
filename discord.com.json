@@ -1,10 +1,20 @@
 {
   "entity_id": "3b6e0b16-8e6b-5da2-8191-5563b679f477",
   "name": "Discord",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Discord provides a voice, video, and text communication platform, primarily for gaming communities.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Czech Republic",
+  "keywords": [
+    "voice chat",
+    "video conferencing",
+    "text communication",
+    "community platform",
+    "gaming communities",
+    "communication platform",
+    "group chat",
+    "voice communication"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b6e0b16-8e6b-5da2-8191-5563b679f477"
 }

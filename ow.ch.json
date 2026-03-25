@@ -1,10 +1,19 @@
 {
   "entity_id": "30aad902-b16f-520a-a354-4e96a9aab160",
   "name": "Obwalden",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "Obwalden provides information and services related to tourism and transportation within the canton of Obwalden, Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
+  "keywords": [
+    "swiss tourism",
+    "canton of Obwalden",
+    "travel information",
+    "holiday destinations",
+    "mountain resorts",
+    "lake Lucerne",
+    "hiking trails"
+  ],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/30aad902-b16f-520a-a354-4e96a9aab160"
 }

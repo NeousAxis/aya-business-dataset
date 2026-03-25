@@ -1,10 +1,20 @@
 {
   "entity_id": "074f2350-26a5-53a5-a368-4846265b4208",
   "name": "edX",
-  "what_it_does": "Provides app, application, delivery.",
+  "what_it_does": "edX is a platform offering massive open online courses (MOOCs) from universities and institutions worldwide.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
+  "keywords": [
+    "MOOC",
+    "online courses",
+    "university courses",
+    "distance learning",
+    "higher education",
+    "e-learning",
+    "massive open courses",
+    "global education"
+  ],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/074f2350-26a5-53a5-a368-4846265b4208"
 }

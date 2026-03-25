@@ -1,10 +1,20 @@
 {
   "entity_id": "a2ba2319-23f4-5d5b-83e5-630682d548d8",
   "name": "Anyscale",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "Anyscale offers a platform for developing and scaling distributed Python applications.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "distributed python",
+    "python scaling",
+    "ray framework",
+    "distributed computing",
+    "machine learning infrastructure",
+    "AI scaling",
+    "cloud computing",
+    "python applications"
+  ],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a2ba2319-23f4-5d5b-83e5-630682d548d8"
 }

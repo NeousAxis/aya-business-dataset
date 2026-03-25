@@ -1,10 +1,20 @@
 {
   "entity_id": "f0eea971-2926-5691-8440-654fefa3d65d",
   "name": "Ecole mode Paris",
-  "what_it_does": "Provides api, menu.",
+  "what_it_does": "Ecole mode Paris (IFM Paris) is a fashion school based in Paris.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
+  "keywords": [
+    "fashion school",
+    "Paris fashion",
+    "fashion design",
+    "fashion education",
+    "IFM Paris",
+    "luxury fashion",
+    "fashion courses",
+    "French fashion"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f0eea971-2926-5691-8440-654fefa3d65d"
 }

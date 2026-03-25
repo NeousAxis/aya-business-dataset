@@ -1,10 +1,19 @@
 {
   "entity_id": "7ebf4f7b-2a53-5fb3-906e-d77ae936524b",
   "name": "Find remote jobs on SkipTheDrive",
-  "what_it_does": "Provides app, application, consulting.",
+  "what_it_does": "SkipTheDrive is a job board specializing in remote work opportunities.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "remote jobs board",
+    "telecommuting positions",
+    "work from home",
+    "virtual careers",
+    "remote recruitment",
+    "distributed workforce",
+    "job listings"
+  ],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7ebf4f7b-2a53-5fb3-906e-d77ae936524b"
 }

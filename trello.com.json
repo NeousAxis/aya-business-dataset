@@ -1,10 +1,19 @@
 {
   "entity_id": "3d28ce1a-5768-578f-a721-022879cecfc4",
   "name": "Trello",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Trello is a web-based project management application using a Kanban-style list-making system.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "Kanban boards",
+    "project collaboration",
+    "task tracking",
+    "workflow organization",
+    "visual project",
+    "agile project",
+    "team project"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3d28ce1a-5768-578f-a721-022879cecfc4"
 }

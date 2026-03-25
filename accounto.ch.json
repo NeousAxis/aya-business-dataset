@@ -1,10 +1,20 @@
 {
   "entity_id": "d6edf790-e375-530d-a45c-41497d5c3913",
   "name": "Accounto",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "Accounto provides accounting software solutions for businesses in Switzerland.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
+  "keywords": [
+    "accounting solutions",
+    "Swiss accounting",
+    "business accounting",
+    "financial accounting",
+    "cloud accounting",
+    "SME accounting",
+    "bookkeeping",
+    "Swiss bookkeeping"
+  ],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6edf790-e375-530d-a45c-41497d5c3913"
 }

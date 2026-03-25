@@ -1,10 +1,19 @@
 {
   "entity_id": "95cc93ab-2a8f-50c0-bf87-a4550f07f59d",
   "name": "KONGSBERG",
-  "what_it_does": "Provides app, application, cloud.",
+  "what_it_does": "KONGSBERG is a technology group that delivers systems for the defense, maritime, oil and gas, and aerospace industries.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "maritime solutions",
+    "defense systems",
+    "aerospace technology",
+    "naval equipment",
+    "sensor technology",
+    "automation systems",
+    "offshore solutions"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/95cc93ab-2a8f-50c0-bf87-a4550f07f59d"
 }

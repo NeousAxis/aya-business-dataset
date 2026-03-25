@@ -1,10 +1,17 @@
 {
   "entity_id": "f4331203-f407-59e6-a9e7-dab93fec79c4",
   "name": "Sygnum Bank",
-  "what_it_does": "Media & Communication organization.",
+  "what_it_does": "Sygnum Bank is a digital asset bank offering custody, trading, and lending services for cryptocurrencies and traditional assets.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "digital asset bank",
+    "cryptocurrency",
+    "custody",
+    "trading",
+    "lending"
+  ],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f4331203-f407-59e6-a9e7-dab93fec79c4"
 }

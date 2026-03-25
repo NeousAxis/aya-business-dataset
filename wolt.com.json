@@ -1,10 +1,19 @@
 {
   "entity_id": "bb97fa35-0afd-508d-ab9b-d443785578b9",
   "name": "Wolt",
-  "what_it_does": "Provides app, delivery, menu.",
+  "what_it_does": "Wolt is a delivery platform that connects customers with restaurants and stores.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "AZ",
+  "keywords": [
+    "food delivery",
+    "restaurant delivery",
+    "retail delivery",
+    "courier service",
+    "last mile delivery",
+    "delivery platform",
+    "on-demand delivery"
+  ],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bb97fa35-0afd-508d-ab9b-d443785578b9"
 }

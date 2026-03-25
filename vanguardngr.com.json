@@ -1,10 +1,20 @@
 {
   "entity_id": "af60c010-f889-59ab-8a5e-45fc01ed5310",
   "name": "Vanguard News",
-  "what_it_does": "Provides app, platform, service.",
+  "what_it_does": "Vanguard News is a Nigerian newspaper providing news and information on various topics.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
+  "keywords": [
+    "Nigerian newspaper",
+    "news publication",
+    "current affairs",
+    "Nigerian news",
+    "political news",
+    "business news",
+    "African news",
+    "investigative journalism"
+  ],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/af60c010-f889-59ab-8a5e-45fc01ed5310"
 }

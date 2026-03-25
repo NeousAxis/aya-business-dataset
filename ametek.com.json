@@ -1,10 +1,20 @@
 {
   "entity_id": "da3b6de7-51c0-5d00-ae43-f2a49909b97a",
   "name": "AMETEK",
-  "what_it_does": "Provides api, product, products.",
+  "what_it_does": "AMETEK manufactures electronic instruments and electromechanical devices.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
+  "keywords": [
+    "electronic instruments",
+    "electromechanical devices",
+    "measurement devices",
+    "test equipment",
+    "process instruments",
+    "calibration instruments",
+    "power systems",
+    "motion control"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/da3b6de7-51c0-5d00-ae43-f2a49909b97a"
 }

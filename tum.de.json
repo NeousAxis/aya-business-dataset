@@ -1,10 +1,20 @@
 {
   "entity_id": "1689b44e-86d2-5018-8e00-2bbee9ed17ea",
   "name": "TUM",
-  "what_it_does": "Provides api, app, service.",
+  "what_it_does": "TUM is a German university focused on science and technology education and research.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Germany",
+  "keywords": [
+    "Technical university",
+    "German education",
+    "Science research",
+    "Engineering studies",
+    "Technology programs",
+    "Higher education",
+    "Munich university",
+    "Academic research"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1689b44e-86d2-5018-8e00-2bbee9ed17ea"
 }

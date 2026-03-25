@@ -1,10 +1,20 @@
 {
   "entity_id": "47f6f93a-6ece-5777-9210-500194d25e48",
   "name": "fenaco Genossenschaft",
-  "what_it_does": "Provides menu.",
+  "what_it_does": "Fenaco is a Swiss agricultural cooperative.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
+  "keywords": [
+    "agricultural cooperative",
+    "Swiss agriculture",
+    "farm supplies",
+    "crop production",
+    "livestock farming",
+    "agricultural products",
+    "farmers cooperative",
+    "agribusiness"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/47f6f93a-6ece-5777-9210-500194d25e48"
 }

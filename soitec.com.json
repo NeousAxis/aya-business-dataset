@@ -1,10 +1,19 @@
 {
   "entity_id": "41c6f968-875b-5b0d-8b3a-2fa17fc25b40",
   "name": "Soitec",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Soitec designs and manufactures semiconductor materials.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
+  "keywords": [
+    "semiconductor materials",
+    "engineered substrates",
+    "wafer manufacturing",
+    "semiconductor industry",
+    "silicon-on-insulator",
+    "microelectronics",
+    "advanced materials"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/41c6f968-875b-5b0d-8b3a-2fa17fc25b40"
 }

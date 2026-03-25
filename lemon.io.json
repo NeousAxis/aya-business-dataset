@@ -1,10 +1,20 @@
 {
   "entity_id": "c9da2657-4398-5307-9c13-4ed5936eb96f",
   "name": "Lemon.io",
-  "what_it_does": "Provides api, cloud, platform.",
+  "what_it_does": "Lemon.io connects startups with freelance software developers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
+  "keywords": [
+    "Freelance developers",
+    "Startup developers",
+    "Vetted developers",
+    "Remote developers",
+    "Web developers",
+    "Software engineers",
+    "Developer marketplace",
+    "Startup staffing"
+  ],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c9da2657-4398-5307-9c13-4ed5936eb96f"
 }

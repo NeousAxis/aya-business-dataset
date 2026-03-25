@@ -1,10 +1,20 @@
 {
   "entity_id": "27fcb9c8-c9c8-5853-b9f8-453c10932f22",
   "name": "Bio-Rad",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "Bio-Rad develops, manufactures, and markets a broad range of products for the life science research and clinical diagnostic markets.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
+  "keywords": [
+    "life science research",
+    "diagnostics",
+    "biotechnology",
+    "laboratory products",
+    "research tools",
+    "clinical diagnostics",
+    "Bio-Rad products",
+    "scientific instruments"
+  ],
   "aio_score": 66.0,
   "certificate_url": "https://ai-visionary.com/aya/e/27fcb9c8-c9c8-5853-b9f8-453c10932f22"
 }

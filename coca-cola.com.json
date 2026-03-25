@@ -1,10 +1,19 @@
 {
   "entity_id": "fa94ed53-5fc7-5bf0-b45a-478d2138d1bc",
   "name": "Coca-Cola.com",
-  "what_it_does": "Provides app, menu.",
+  "what_it_does": "Coca-Cola produces and distributes a variety of beverages.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Global",
+  "keywords": [
+    "beverages",
+    "soft drinks",
+    "carbonated drinks",
+    "non-alcoholic drinks",
+    "bottled beverages",
+    "flavored drinks",
+    "Coca-Cola products"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fa94ed53-5fc7-5bf0-b45a-478d2138d1bc"
 }

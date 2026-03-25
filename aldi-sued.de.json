@@ -1,10 +1,20 @@
 {
   "entity_id": "50ef92f5-941b-5acc-a715-fdbc98db227e",
   "name": "ALDI",
-  "what_it_does": "Provides api, app, menu.",
+  "what_it_does": "ALDI Süd is a German multinational family-owned discount supermarket chain.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Germany",
+  "keywords": [
+    "discount supermarkets",
+    "grocery stores",
+    "Aldi Süd",
+    "retail food",
+    "German supermarket chain",
+    "private label products",
+    "food retail",
+    "Aldi"
+  ],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/50ef92f5-941b-5acc-a715-fdbc98db227e"
 }

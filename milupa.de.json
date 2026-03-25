@@ -1,10 +1,20 @@
 {
   "entity_id": "1d0135d2-31c8-5b43-8341-b19498a45f4d",
   "name": "Milupa",
-  "what_it_does": "Provides app, product, service.",
+  "what_it_does": "Milupa produces baby food and infant formula.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
+  "keywords": [
+    "baby food",
+    "infant formula",
+    "toddler nutrition",
+    "baby nutrition",
+    "pediatric nutrition",
+    "formula milk",
+    "baby meals",
+    "infant products"
+  ],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1d0135d2-31c8-5b43-8341-b19498a45f4d"
 }

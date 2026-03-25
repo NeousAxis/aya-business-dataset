@@ -1,10 +1,20 @@
 {
   "entity_id": "bf4b300b-dbc5-50de-a5b4-1c7980aa0ae6",
   "name": "Taft",
-  "what_it_does": "Provides api, app, application.",
+  "what_it_does": "Taft is a law firm providing legal services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "legal services",
+    "law firm",
+    "corporate law",
+    "litigation",
+    "legal representation",
+    "business law",
+    "attorneys",
+    "legal advice"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bf4b300b-dbc5-50de-a5b4-1c7980aa0ae6"
 }

@@ -1,10 +1,20 @@
 {
   "entity_id": "088e04d4-c379-5df2-8f31-d7593762fe6b",
   "name": "ING Bank Slaski",
-  "what_it_does": "Provides api, app, cloud.",
+  "what_it_does": "ING Bank Slaski is a Polish bank offering retail and commercial banking services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Poland",
+  "keywords": [
+    "retail banking",
+    "commercial banking",
+    "polish banking",
+    "financial",
+    "loans",
+    "mortgages",
+    "savings accounts",
+    "credit cards"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/088e04d4-c379-5df2-8f31-d7593762fe6b"
 }

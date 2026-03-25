@@ -1,10 +1,20 @@
 {
   "entity_id": "ca84be6b-9e07-53a4-850c-4a193fc717da",
   "name": "NATO",
-  "what_it_does": "Provides app, application, menu.",
+  "what_it_does": "NATO is an intergovernmental military alliance between North American and European countries.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
+  "keywords": [
+    "military alliance",
+    "intergovernmental defense",
+    "north atlantic treaty",
+    "collective security",
+    "transatlantic security",
+    "international relations",
+    "defense policy",
+    "european security"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ca84be6b-9e07-53a4-850c-4a193fc717da"
 }

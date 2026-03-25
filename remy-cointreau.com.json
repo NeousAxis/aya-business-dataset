@@ -1,10 +1,19 @@
 {
   "entity_id": "9215d7ca-55dd-53a1-9679-1302dbf167ab",
   "name": "Rémy Cointreau",
-  "what_it_does": "Provides app, menu, product.",
+  "what_it_does": "Rémy Cointreau produces and distributes spirits such as cognac and liqueurs.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "China",
+  "keywords": [
+    "spirits",
+    "cognac",
+    "liqueurs",
+    "premium spirits",
+    "alcoholic beverages",
+    "luxury spirits",
+    "French spirits"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9215d7ca-55dd-53a1-9679-1302dbf167ab"
 }

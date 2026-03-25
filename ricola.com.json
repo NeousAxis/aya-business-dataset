@@ -1,10 +1,20 @@
 {
   "entity_id": "4fc2f75d-cf14-58a1-a663-81ed7dc5b8e4",
   "name": "Ricola",
-  "what_it_does": "Provides product, products, service.",
+  "what_it_does": "Ricola manufactures and markets herbal cough drops and candies.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
+  "keywords": [
+    "herbal cough drops",
+    "cough suppressant",
+    "throat lozenges",
+    "herbal remedies",
+    "confectionery",
+    "cough relief",
+    "herbal candy",
+    "Swiss herbs"
+  ],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4fc2f75d-cf14-58a1-a663-81ed7dc5b8e4"
 }

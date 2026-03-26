@@ -1,20 +1,11 @@
 {
   "entity_id": "5ed96a0e-4b05-5555-8ae0-def5cc48c0f5",
   "name": "MPower",
-  "what_it_does": "MPower provides solar energy solutions and financing to homes and businesses in Africa.",
+  "what_it_does": "MPower provides business consulting and professional services in Africa.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Switzerland",
-  "keywords": [
-    "solar energy",
-    "renewable energy solutions",
-    "solar power systems",
-    "energy access",
-    "African market",
-    "household solar",
-    "business solar",
-    "off-grid power"
-  ],
+  "keywords": [],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5ed96a0e-4b05-5555-8ae0-def5cc48c0f5"
 }

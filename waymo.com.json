@@ -1,20 +1,11 @@
 {
   "entity_id": "59fd4f19-5326-570c-a96a-d863cc9fb34b",
   "name": "Waymo",
-  "what_it_does": "Waymo develops autonomous driving technology.",
+  "what_it_does": "Waymo develops autonomous driving technology for vehicles.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "autonomous driving",
-    "self-driving cars",
-    "robotaxis",
-    "autonomous vehicle technology",
-    "lidar",
-    "computer vision",
-    "motion planning",
-    "AI driving"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/59fd4f19-5326-570c-a96a-d863cc9fb34b"
 }

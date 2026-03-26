@@ -1,19 +1,11 @@
 {
   "entity_id": "525285fb-3c70-518e-8666-02c0e9b84bcb",
   "name": "Jacobs",
-  "what_it_does": "Jacobs provides professional, technical, and construction services, including engineering, design, and project management.",
+  "what_it_does": "Jacobs provides professional services including engineering, construction, and technical consulting to various industries.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "United States",
-  "keywords": [
-    "engineering services",
-    "construction management",
-    "technical solutions",
-    "design services",
-    "project delivery",
-    "infrastructure projects",
-    "professional services"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/525285fb-3c70-518e-8666-02c0e9b84bcb"
 }

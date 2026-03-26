@@ -1,19 +1,11 @@
 {
   "entity_id": "5fdb1c15-bfb7-5fb0-804a-0aefcaa46f7d",
   "name": "Impresoras TSC",
-  "what_it_does": "TSC Auto ID Technology manufactures barcode label printers.",
+  "what_it_does": "TSC Printers manufactures thermal barcode label printers.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
-  "keywords": [
-    "barcode label printers",
-    "thermal printers",
-    "industrial printers",
-    "desktop printers",
-    "mobile printers",
-    "label printing solutions",
-    "auto identification"
-  ],
+  "keywords": [],
   "aio_score": 21.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5fdb1c15-bfb7-5fb0-804a-0aefcaa46f7d"
 }

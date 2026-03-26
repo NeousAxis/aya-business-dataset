@@ -1,20 +1,11 @@
 {
   "entity_id": "6c29d076-dc88-55c7-92ee-b2b8986a5d27",
   "name": "Plaid",
-  "what_it_does": "Plaid builds a data network that powers fintech and digital finance products.",
+  "what_it_does": "Plaid provides an API that allows applications to connect to users' bank accounts.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United States",
-  "keywords": [
-    "financial data network",
-    "fintech data",
-    "banking APIs",
-    "financial institutions",
-    "data connectivity",
-    "account aggregation",
-    "financial data",
-    "payment authentication"
-  ],
+  "keywords": [],
   "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6c29d076-dc88-55c7-92ee-b2b8986a5d27"
 }

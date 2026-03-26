@@ -1,20 +1,11 @@
 {
   "entity_id": "73ec52af-d82f-57a6-8131-754f770fca89",
   "name": "Personal Banking",
-  "what_it_does": "Riyad Bank provides personal banking services in Saudi Arabia.",
+  "what_it_does": "Riyad Bank provides a range of personal banking services, including accounts, loans, and credit cards.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Saudi Arabia",
-  "keywords": [
-    "comptes personnels",
-    "prêts personnels",
-    "services bancaires",
-    "banque de détail",
-    "financement immobilier",
-    "gestion de patrimoine",
-    "cartes de crédit",
-    "épargne"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/73ec52af-d82f-57a6-8131-754f770fca89"
 }

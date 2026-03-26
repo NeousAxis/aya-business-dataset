@@ -1,20 +1,11 @@
 {
   "entity_id": "bd86307c-374d-5cfa-b810-67f5e09eaa3c",
   "name": "Agility -",
-  "what_it_does": "Agility provides supply chain and logistics solutions.",
+  "what_it_does": "Agility manufactures and provides industrial products and services.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "chaîne d'approvisionnement",
-    "transport de marchandises",
-    "entreposage",
-    "logistique",
-    "gestion des stocks",
-    "distribution",
-    "supply chain solutions",
-    "fret"
-  ],
+  "keywords": [],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bd86307c-374d-5cfa-b810-67f5e09eaa3c"
 }

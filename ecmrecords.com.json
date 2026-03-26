@@ -1,20 +1,11 @@
 {
   "entity_id": "cd8a1b42-9280-5b20-8a92-d8b66485a19d",
   "name": "ECM Records",
-  "what_it_does": "ECM Records produces and distributes jazz and classical music recordings.",
+  "what_it_does": "ECM Records is a record label that produces and distributes jazz and classical music albums.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "jazz records",
-    "classical music",
-    "music production",
-    "record label",
-    "music distribution",
-    "album sales",
-    "contemporary music",
-    "instrumental music"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cd8a1b42-9280-5b20-8a92-d8b66485a19d"
 }

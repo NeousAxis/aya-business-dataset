@@ -1,20 +1,11 @@
 {
   "entity_id": "d32461fb-3895-5445-a96a-98c7636f178f",
   "name": "Supabase",
-  "what_it_does": "Supabase offers an open-source alternative to Firebase.",
+  "what_it_does": "Supabase provides an open-source Firebase alternative for building web and mobile applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "open source alternative",
-    "Firebase alternative",
-    "backend infrastructure",
-    "database as a service",
-    "authentication",
-    "realtime database",
-    "serverless functions",
-    "API development"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d32461fb-3895-5445-a96a-98c7636f178f"
 }

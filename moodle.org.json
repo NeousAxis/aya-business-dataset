@@ -1,20 +1,11 @@
 {
   "entity_id": "98712ceb-7234-5658-80be-e4fdd16553d1",
   "name": "Moodle.org",
-  "what_it_does": "Moodle provides an open-source learning management system (LMS).",
-  "for_who": "Businesses and developers.",
-  "category": "Technology & SaaS",
+  "what_it_does": "Moodle.org develops and distributes an open-source learning management system (LMS).",
+  "for_who": "Students, educators, and institutions.",
+  "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "learning platform",
-    "course management",
-    "e-learning",
-    "open source LMS",
-    "online courses",
-    "educational tools",
-    "training programs",
-    "virtual classrooms"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/98712ceb-7234-5658-80be-e4fdd16553d1"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "9c48d7f6-7fb0-5f19-8533-666db7e6077d",
   "name": "Dosenbach",
-  "what_it_does": "Dosenbach is a shoe retailer.",
+  "what_it_does": "Dosenbach is a retail chain selling shoes.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "footwear retail",
-    "shoe store",
-    "shoes",
-    "fashion footwear",
-    "footwear brands",
-    "shoe retailer",
-    "Swiss retail",
-    "footwear sales"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9c48d7f6-7fb0-5f19-8533-666db7e6077d"
 }

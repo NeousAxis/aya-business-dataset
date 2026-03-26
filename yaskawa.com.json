@@ -1,20 +1,11 @@
 {
   "entity_id": "683399a0-9201-58ab-be7e-a4f41ec8ca3d",
   "name": "Yaskawa America Inc. Home",
-  "what_it_does": "Yaskawa America Inc. manufactures industrial automation, motion control, and robotics.",
+  "what_it_does": "Yaskawa America Inc. manufactures industrial automation products, including drives, motion controllers, and robotics.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "industrial automation",
-    "motion control",
-    "robotics",
-    "servo systems",
-    "AC drives",
-    "automation components",
-    "manufacturing solutions",
-    "robot arms"
-  ],
+  "keywords": [],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/683399a0-9201-58ab-be7e-a4f41ec8ca3d"
 }

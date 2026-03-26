@@ -1,20 +1,11 @@
 {
   "entity_id": "1532a5f7-877e-532e-a5d4-0addc9e9ddf4",
   "name": "Vimeo",
-  "what_it_does": "Vimeo is a video-sharing platform for creators and businesses.",
+  "what_it_does": "Vimeo is a video hosting and sharing platform for creators and businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "video sharing",
-    "video hosting",
-    "video creation",
-    "video marketing",
-    "video monetization",
-    "video streaming",
-    "creative professionals",
-    "indie filmmakers"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1532a5f7-877e-532e-a5d4-0addc9e9ddf4"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "0cdf2698-0ed9-53af-a66e-5ea42cac7d33",
   "name": "Five joins forces with Bosch",
-  "what_it_does": "Five.ai, now part of Bosch, develops software for autonomous vehicles.",
+  "what_it_does": "Five AI develops autonomous driving software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "autonomous vehicles",
-    "self-driving cars",
-    "robotics",
-    "computer vision",
-    "motion planning",
-    "autonomous driving",
-    "perception software",
-    "Bosch subsidiary"
-  ],
+  "keywords": [],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0cdf2698-0ed9-53af-a66e-5ea42cac7d33"
 }

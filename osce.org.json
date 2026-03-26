@@ -1,20 +1,11 @@
 {
   "entity_id": "407e33ea-3eef-58ca-98f3-0f36bc05d96a",
   "name": "Osce",
-  "what_it_does": "The OSCE is an international organization focused on promoting security and cooperation in Europe.",
+  "what_it_does": "OSCE (Organization for Security and Co-operation in Europe) is a security-oriented intergovernmental organization.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "international security",
-    "security cooperation",
-    "conflict prevention",
-    "crisis management",
-    "peacekeeping",
-    "european security",
-    "human rights",
-    "democracy promotion"
-  ],
+  "keywords": [],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/407e33ea-3eef-58ca-98f3-0f36bc05d96a"
 }

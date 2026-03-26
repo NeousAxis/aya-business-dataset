@@ -1,19 +1,11 @@
 {
   "entity_id": "76a162d8-40c4-5b70-8cac-c435971d9d6d",
   "name": "Columbia Sportswear",
-  "what_it_does": "Columbia Sportswear manufactures and sells outdoor apparel and equipment.",
+  "what_it_does": "Columbia Sportswear manufactures and sells outdoor apparel and footwear.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [
-    "outdoor apparel",
-    "outdoor equipment",
-    "sportswear",
-    "outerwear",
-    "footwear",
-    "activewear",
-    "hiking gear"
-  ],
+  "keywords": [],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/76a162d8-40c4-5b70-8cac-c435971d9d6d"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "dd2687a3-7a74-55c9-92fb-fbe7fcaa5fa2",
   "name": "Europcar",
-  "what_it_does": "Europcar is a car rental company.",
+  "what_it_does": "Europcar provides car rental services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "car rentals",
-    "vehicle hire",
-    "automotive leasing",
-    "business travel",
-    "personal rentals",
-    "transport solutions",
-    "german rentals"
-  ],
+  "keywords": [],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dd2687a3-7a74-55c9-92fb-fbe7fcaa5fa2"
 }

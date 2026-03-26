@@ -1,20 +1,11 @@
 {
   "entity_id": "8324030b-12d8-53a1-a559-46b74c61e0bf",
   "name": "Cerave",
-  "what_it_does": "CeraVe offers a range of skincare products, including cleansers, moisturizers, and sunscreens.",
+  "what_it_does": "Cerave sells skincare products, focusing on formulations with ceramides.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [
-    "skincare products",
-    "ceramides",
-    "moisturizing creams",
-    "dermatological skincare",
-    "facial cleansers",
-    "body lotions",
-    "sensitive skin",
-    "skin barrier repair"
-  ],
+  "keywords": [],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8324030b-12d8-53a1-a559-46b74c61e0bf"
 }

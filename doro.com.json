@@ -1,20 +1,11 @@
 {
   "entity_id": "8a0326ab-e63a-509f-96a0-23d44e5b4ff8",
   "name": "Home page",
-  "what_it_does": "Doro designs and sells mobile phones and related products, primarily for seniors.",
+  "what_it_does": "Doro develops mobile phones and telecommunications solutions targeted at seniors.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [
-    "senior mobile phones",
-    "easy-to-use phones",
-    "elderly care technology",
-    "assistive devices",
-    "hearing aid compatible",
-    "mobile phone accessories",
-    "simplified smartphones",
-    "telecare solutions"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8a0326ab-e63a-509f-96a0-23d44e5b4ff8"
 }

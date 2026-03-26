@@ -1,20 +1,11 @@
 {
   "entity_id": "1b94a76b-e1c6-5728-b0a3-e23941d05f51",
   "name": "Chiesi Farmaceutici S.p.A",
-  "what_it_does": "Chiesi Farmaceutici S.p.A is a pharmaceutical company focused on research, development, and commercialization of innovative medicines.",
+  "what_it_does": "Chiesi Farmaceutici is a pharmaceutical company that researches, develops, and markets drugs.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "respiratory therapies",
-    "rare disease treatments",
-    "pharmaceutical products",
-    "therapeutic solutions",
-    "specialty medicines",
-    "healthcare",
-    "global pharma",
-    "drug development"
-  ],
+  "keywords": [],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1b94a76b-e1c6-5728-b0a3-e23941d05f51"
 }

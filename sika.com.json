@@ -1,20 +1,11 @@
 {
   "entity_id": "37b4e077-2c53-5294-9ce8-d39e52916b68",
   "name": "Sika Group",
-  "what_it_does": "Sika develops and manufactures specialty chemical products and application solutions for construction and industry.",
+  "what_it_does": "Sika develops and manufactures specialty chemical products for construction and industrial applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [
-    "specialty chemicals",
-    "construction chemicals",
-    "adhesive sealants",
-    "concrete solutions",
-    "waterproofing solutions",
-    "building materials",
-    "industrial adhesives",
-    "flooring systems"
-  ],
+  "keywords": [],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/37b4e077-2c53-5294-9ce8-d39e52916b68"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "a0edbe55-3c72-51e1-9262-f4a1642a894f",
   "name": "Motel One",
-  "what_it_does": "Motel One operates a budget hotel chain in Europe.",
+  "what_it_does": "Motel One is a budget design hotel chain.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Germany",
-  "keywords": [
-    "budget hotels",
-    "European hotels",
-    "economy accommodation",
-    "city hotels",
-    "hotel chain",
-    "limited service hotels",
-    "urban lodging",
-    "European travel"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a0edbe55-3c72-51e1-9262-f4a1642a894f"
 }

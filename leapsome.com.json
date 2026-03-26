@@ -1,20 +1,11 @@
 {
   "entity_id": "4a9e87f2-5836-5220-b41b-87a8fac567c6",
   "name": "Leapsome",
-  "what_it_does": "Leapsome offers a performance management and employee engagement platform.",
+  "what_it_does": "Leapsome provides a performance management and employee engagement platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [
-    "gestion performance",
-    "engagement employés",
-    "rétroaction employés",
-    "objectifs et résultats clés",
-    "développement personnel",
-    "sondages employés",
-    "évaluation performance",
-    "gestion talents"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a9e87f2-5836-5220-b41b-87a8fac567c6"
 }

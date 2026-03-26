@@ -1,19 +1,11 @@
 {
   "entity_id": "2c7902c1-5e87-5c3a-a2b3-eac6d46eacdc",
   "name": "Pingdom",
-  "what_it_does": "Pingdom offers website monitoring services to track uptime, performance, and user experience.",
+  "what_it_does": "Pingdom offers website performance monitoring services, tracking uptime, page load speed, and other key metrics.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "website monitoring",
-    "uptime monitoring",
-    "performance monitoring",
-    "web application monitoring",
-    "server monitoring",
-    "website speed test",
-    "synthetic monitoring"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2c7902c1-5e87-5c3a-a2b3-eac6d46eacdc"
 }

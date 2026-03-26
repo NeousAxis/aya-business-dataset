@@ -1,20 +1,11 @@
 {
   "entity_id": "9651fea0-cf4e-549a-8a7d-72407917ed7d",
   "name": "TU Delft",
-  "what_it_does": "TU Delft (Delft University of Technology) is a Dutch university specializing in engineering and technology research and education.",
+  "what_it_does": "TU Delft is a Dutch university offering bachelor's, master's, and doctoral degrees in science, engineering, and design.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Netherlands",
-  "keywords": [
-    "technical university",
-    "engineering education",
-    "research university",
-    "Netherlands",
-    "higher education",
-    "scientific research",
-    "technology research",
-    "university"
-  ],
+  "keywords": [],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9651fea0-cf4e-549a-8a7d-72407917ed7d"
 }

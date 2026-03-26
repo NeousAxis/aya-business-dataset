@@ -1,20 +1,11 @@
 {
   "entity_id": "8936db5c-4101-5436-9428-2fd165dfe274",
   "name": "Grupo OLAM",
-  "what_it_does": "Grupo OLAM (likely based on context) provides technology solutions for businesses, potentially focusing on Latin America.",
+  "what_it_does": "Grupo OLAM likely offers SaaS solutions, possibly related to operations management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "agricultural ",
-    "agriculture ",
-    "farm ",
-    "farming",
-    "agri-",
-    "crop ",
-    "agricultural solutions",
-    "supply chain"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8936db5c-4101-5436-9428-2fd165dfe274"
 }

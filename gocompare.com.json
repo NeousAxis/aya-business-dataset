@@ -1,20 +1,11 @@
 {
   "entity_id": "b4e52b40-4e35-5981-a720-f1bb9807e417",
   "name": "Pardon Our Interruption",
-  "what_it_does": "GoCompare provides comparison services for insurance and financial products.",
+  "what_it_does": "GoCompare is a comparison website for insurance and financial products.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "price comparison",
-    "financial comparison",
-    "insurance comparison",
-    "utility comparison",
-    "GoCompare",
-    "quotes",
-    "product comparison",
-    "service comparison"
-  ],
+  "keywords": [],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b4e52b40-4e35-5981-a720-f1bb9807e417"
 }

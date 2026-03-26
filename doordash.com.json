@@ -1,20 +1,11 @@
 {
   "entity_id": "1e675fcc-2113-5dbb-ab1c-3ee46558ed96",
   "name": "Doordash",
-  "what_it_does": "DoorDash is an online platform that facilitates food delivery from restaurants to customers.",
+  "what_it_does": "DoorDash operates an online food ordering and delivery platform.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "food delivery",
-    "restaurant delivery",
-    "delivery logistics",
-    "on-demand delivery",
-    "meal delivery",
-    "DoorDash food",
-    "food courier",
-    "DoorDash delivery"
-  ],
+  "keywords": [],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1e675fcc-2113-5dbb-ab1c-3ee46558ed96"
 }

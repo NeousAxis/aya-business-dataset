@@ -1,20 +1,11 @@
 {
   "entity_id": "f60efe99-3ffe-5050-9ca9-4e425015dd3c",
   "name": "Writesonic",
-  "what_it_does": "Writesonic provides AI-powered tools for generating marketing copy and content.",
+  "what_it_does": "Writesonic offers an AI writing assistant to generate marketing copy and content.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "AI writing",
-    "content generation",
-    "marketing copy",
-    "AI assistant",
-    "Writesonic",
-    "AI content",
-    "text generator",
-    "copywriting"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f60efe99-3ffe-5050-9ca9-4e425015dd3c"
 }

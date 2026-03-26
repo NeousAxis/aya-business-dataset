@@ -1,20 +1,11 @@
 {
   "entity_id": "4cf6e412-0f28-54f3-be9e-5a0231905152",
   "name": "Kao EMEA Homepage",
-  "what_it_does": "Kao EMEA manufactures and sells beauty care, hygiene, and chemical products across Europe, the Middle East, and Africa.",
+  "what_it_does": "Kao EMEA sells personal and beauty care products, household products, and chemical products in Europe, the Middle East, and Africa.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [
-    "EMEA professional services",
-    "EMEA consulting",
-    "business solutions",
-    "regional expertise",
-    "strategic guidance",
-    "process optimization",
-    "market analysis",
-    "industry specific consulting"
-  ],
+  "keywords": [],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4cf6e412-0f28-54f3-be9e-5a0231905152"
 }

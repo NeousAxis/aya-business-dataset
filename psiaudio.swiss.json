@@ -1,20 +1,11 @@
 {
   "entity_id": "5d281c03-cb7a-5677-8b80-c1f3f5e0e32a",
   "name": "PSI Audio",
-  "what_it_does": "PSI Audio manufactures professional studio monitors and loudspeaker systems.",
+  "what_it_does": "PSI Audio manufactures professional studio monitors and loudspeakers.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "studio monitors",
-    "professional audio",
-    "speaker systems",
-    "audio equipment",
-    "sound reproduction",
-    "audio monitoring",
-    "recording studio",
-    "high-end audio"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5d281c03-cb7a-5677-8b80-c1f3f5e0e32a"
 }

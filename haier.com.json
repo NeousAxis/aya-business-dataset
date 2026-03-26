@@ -1,20 +1,11 @@
 {
   "entity_id": "cdb71ba5-1502-5ff8-9dbc-6560546700d0",
-  "name": "Haier",
-  "what_it_does": "Haier manufactures and sells home appliances, possibly offering products in the health sector.",
+  "name": "海尔",
+  "what_it_does": "Haier manufactures and sells household appliances and consumer electronics.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "home appliances",
-    "household appliances",
-    "consumer electronics",
-    "white goods",
-    "kitchen appliances",
-    "refrigerators",
-    "washing machines",
-    "smart home"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cdb71ba5-1502-5ff8-9dbc-6560546700d0"
 }

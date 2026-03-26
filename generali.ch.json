@@ -1,20 +1,11 @@
 {
   "entity_id": "9900dc06-6fc5-59e0-b420-3d96409b5776",
   "name": "Generali Schweiz",
-  "what_it_does": "Generali Schweiz (Switzerland) provides insurance and financial services in Switzerland.",
+  "what_it_does": "Generali Schweiz (Switzerland) offers insurance and financial products.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "swiss insurance",
-    "financial services",
-    "insurance products",
-    "life insurance",
-    "property insurance",
-    "accident insurance",
-    "swiss finance",
-    "risk management"
-  ],
+  "keywords": [],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9900dc06-6fc5-59e0-b420-3d96409b5776"
 }

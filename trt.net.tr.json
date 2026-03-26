@@ -1,20 +1,11 @@
 {
   "entity_id": "dd5e0a5c-4768-5171-8bf3-c69ac1af70c8",
   "name": "TRT",
-  "what_it_does": "TRT is likely a technology company offering internet or telecommunications services in Turkey.",
-  "for_who": "Businesses and developers.",
-  "category": "Technology & SaaS",
+  "what_it_does": "TRT is likely a Turkish broadcasting corporation, providing television and radio services.",
+  "for_who": "Businesses and professionals.",
+  "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "internet provider",
-    "telecommunications",
-    "internet services",
-    "data transmission",
-    "fixed internet",
-    "internet infrastructure",
-    "turkey",
-    "network connectivity"
-  ],
+  "keywords": [],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dd5e0a5c-4768-5171-8bf3-c69ac1af70c8"
 }

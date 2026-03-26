@@ -1,19 +1,11 @@
 {
   "entity_id": "e1574c71-3d40-5630-abc3-8fd3c1187587",
   "name": "Fourth",
-  "what_it_does": "Fourth provides workforce management solutions for the hospitality and retail industries.",
+  "what_it_does": "Fourth provides workforce management and inventory control software for the hospitality industry.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "workforce management",
-    "hospitality solutions",
-    "retail solutions",
-    "employee scheduling",
-    "labor optimization",
-    "HR software",
-    "payroll"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e1574c71-3d40-5630-abc3-8fd3c1187587"
 }

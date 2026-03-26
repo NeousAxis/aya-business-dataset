@@ -1,20 +1,11 @@
 {
   "entity_id": "0e5019c4-1b0e-583d-b3af-54cb64712e76",
   "name": "JVC Europe",
-  "what_it_does": "JVC Europe sells consumer electronics like televisions, audio equipment, and video cameras.",
+  "what_it_does": "JVC Europe manufactures and distributes consumer and professional electronics, including cameras, audio equipment, and visual solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "consumer electronics",
-    "televisions",
-    "audio equipment",
-    "camcorders",
-    "home entertainment",
-    "video equipment",
-    "European electronics",
-    "TVs"
-  ],
+  "keywords": [],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0e5019c4-1b0e-583d-b3af-54cb64712e76"
 }

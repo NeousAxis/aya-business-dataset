@@ -1,20 +1,11 @@
 {
   "entity_id": "f290d28f-7146-5b93-b0bf-d63650a752e8",
   "name": "Mixcloud",
-  "what_it_does": "Mixcloud is a British online music streaming service for radio shows, DJ mixes and podcasts.",
+  "what_it_does": "Mixcloud is a streaming platform for radio shows, DJ mixes, and podcasts.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "internet radio",
-    "DJ mixes",
-    "podcast streaming",
-    "music broadcasting",
-    "audio content",
-    "radio shows",
-    "on-demand audio",
-    "music platform"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f290d28f-7146-5b93-b0bf-d63650a752e8"
 }

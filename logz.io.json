@@ -1,19 +1,11 @@
 {
   "entity_id": "ca99015f-d5a7-533f-b484-587150ed9393",
   "name": "Logz",
-  "what_it_does": "Logz.io provides a cloud-native observability platform based on open-source tools.",
+  "what_it_does": "Logz provides a cloud-based log analytics platform for monitoring and troubleshooting software applications.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "observability platform",
-    "cloud monitoring",
-    "open source tools",
-    "log analysis",
-    "security analytics",
-    "cloud native",
-    "container monitoring"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ca99015f-d5a7-533f-b484-587150ed9393"
 }

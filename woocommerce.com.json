@@ -1,20 +1,11 @@
 {
   "entity_id": "a89f47bf-ecc3-51ba-bd27-f419c18c13e3",
   "name": "WooCommerce",
-  "what_it_does": "WooCommerce is an open-source e-commerce platform built on WordPress.",
+  "what_it_does": "WooCommerce provides an open-source e-commerce platform plugin for WordPress websites.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [
-    "open-source e-commerce",
-    "WordPress e-commerce",
-    "e-commerce plugin",
-    "online store builder",
-    "shopping cart",
-    "e-commerce platform",
-    "online retail",
-    "e-commerce solutions"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a89f47bf-ecc3-51ba-bd27-f419c18c13e3"
 }

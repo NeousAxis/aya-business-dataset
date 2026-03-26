@@ -1,20 +1,11 @@
 {
   "entity_id": "de295578-ddc5-5950-a96e-c199fe58a187",
   "name": "Sparkasse.de",
-  "what_it_does": "Sparkasse.de represents the website for a group of German savings banks (Sparkassen) offering financial services to retail and commercial customers.",
+  "what_it_does": "Sparkasse is a network of German savings banks providing financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Germany",
-  "keywords": [
-    "German savings banks",
-    "financial services",
-    "banking services",
-    "retail banking",
-    "savings accounts",
-    "loan products",
-    "investment banking",
-    "financial institution"
-  ],
+  "keywords": [],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/de295578-ddc5-5950-a96e-c199fe58a187"
 }

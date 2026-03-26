@@ -1,20 +1,11 @@
 {
   "entity_id": "6c8d1577-e968-56f9-aa56-d4ceddf4855f",
   "name": "St.Galler Kantonalbank",
-  "what_it_does": "St.Galler Kantonalbank is a Swiss cantonal bank providing financial services to individuals and businesses in the St. Gallen region.",
+  "what_it_does": "St.Galler Kantonalbank is a cantonal bank in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "cantonal bank",
-    "Swiss banking",
-    "financial institution",
-    "regional banking",
-    "investment banking",
-    "private banking",
-    "mortgages",
-    "loans"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6c8d1577-e968-56f9-aa56-d4ceddf4855f"
 }

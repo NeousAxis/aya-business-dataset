@@ -1,20 +1,11 @@
 {
   "entity_id": "ce842510-187c-5cd5-8463-20b8e462bfbc",
   "name": "Pleo",
-  "what_it_does": "Pleo offers smart company cards and automated expense management software.",
+  "what_it_does": "Pleo provides company expense cards and automated expense management software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Belgium",
-  "keywords": [
-    "expense cards",
-    "automated expense tracking",
-    "spend visibility",
-    "employee expenses",
-    "business cards",
-    "expense reports",
-    "SME finance",
-    "prepaid cards"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ce842510-187c-5cd5-8463-20b8e462bfbc"
 }

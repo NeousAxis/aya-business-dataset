@@ -1,20 +1,11 @@
 {
   "entity_id": "2cb904f1-be6c-5f16-ad43-e6224d08fd4d",
   "name": "Barry-callebaut",
-  "what_it_does": "Barry Callebaut is a manufacturer of cocoa and chocolate products.",
+  "what_it_does": "Barry Callebaut manufactures and supplies cocoa and chocolate products.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Switzerland",
-  "keywords": [
-    "cocoa products",
-    "chocolate manufacturer",
-    "industrial chocolate",
-    "gourmet chocolate",
-    "chocolate ingredients",
-    "cocoa mass",
-    "cocoa butter",
-    "chocolate couvertures"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2cb904f1-be6c-5f16-ad43-e6224d08fd4d"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "712059bc-1b42-5a52-aec2-4f20a9140941",
   "name": "Sage",
-  "what_it_does": "Sage develops accounting and business management software for small and medium-sized businesses.",
+  "what_it_does": "Sage is a global enterprise resource planning (ERP) software company serving small to medium sized businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
-  "location": "Global",
-  "keywords": [
-    "accounting",
-    "finance",
-    "HR",
-    "payroll",
-    "SMB ERP",
-    "business management tools",
-    "French market"
-  ],
-  "aio_score": 59.0,
+  "location": "Canada",
+  "keywords": [],
+  "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/712059bc-1b42-5a52-aec2-4f20a9140941"
 }

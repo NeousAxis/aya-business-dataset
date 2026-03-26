@@ -1,20 +1,11 @@
 {
   "entity_id": "4df22dc6-54d1-5e08-a4b2-c46e087a5e8a",
-  "name": "Leidos",
-  "what_it_does": "Leidos provides technology, engineering, and science solutions and services to government and commercial markets.",
+  "name": "Leidos. Outsmart. Outdo.",
+  "what_it_does": "Leidos provides technology, engineering, and science solutions and services to government, defense, aviation, and commercial customers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Australia",
-  "keywords": [
-    "technology integration",
-    "government solutions",
-    "engineering services",
-    "scientific consulting",
-    "IT solutions",
-    "defense technology",
-    "intelligence solutions",
-    "cybersecurity services"
-  ],
+  "keywords": [],
   "aio_score": 67.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4df22dc6-54d1-5e08-a4b2-c46e087a5e8a"
 }

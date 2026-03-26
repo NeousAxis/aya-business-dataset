@@ -1,19 +1,11 @@
 {
   "entity_id": "e16ca570-6e86-594f-9508-22b1de62d796",
   "name": "Fürs ganze Leben",
-  "what_it_does": "Tkb.ch is a cantonal bank in Switzerland providing banking and financial services.",
+  "what_it_does": "Tkb.ch likely provides banking and financial services in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "swiss cantonal bank",
-    "banking services",
-    "financial services",
-    "cantonal bank",
-    "swiss bank",
-    "investment banking",
-    "private banking"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e16ca570-6e86-594f-9508-22b1de62d796"
 }

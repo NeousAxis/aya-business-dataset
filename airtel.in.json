@@ -1,20 +1,11 @@
 {
   "entity_id": "083886bd-8d4d-5f6b-8124-50971423533d",
   "name": "Airtel",
-  "what_it_does": "Airtel is an Indian telecommunications company providing mobile, broadband, and digital services.",
+  "what_it_does": "Airtel provides telecommunications services, including mobile, broadband, and digital TV, in India.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "India",
-  "keywords": [
-    "mobile services",
-    "broadband",
-    "digital television",
-    "telecommunications",
-    "India",
-    "mobile network",
-    "telecom",
-    "wireless communication"
-  ],
+  "keywords": [],
   "aio_score": 22.0,
   "certificate_url": "https://ai-visionary.com/aya/e/083886bd-8d4d-5f6b-8124-50971423533d"
 }

@@ -1,18 +1,11 @@
 {
   "entity_id": "8dfa6ff0-715f-566f-bc92-544d31a71dcd",
   "name": "TISSOT Industrie",
-  "what_it_does": "TISSOT Industrie likely manufactures components for watches and other precision instruments.",
+  "what_it_does": "Tissot Industrie likely provides media and communication services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "watch components",
-    "precision parts",
-    "micro-mechanics",
-    "Swiss made components",
-    "watchmaking industry",
-    "precision instruments"
-  ],
+  "keywords": [],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8dfa6ff0-715f-566f-bc92-544d31a71dcd"
 }

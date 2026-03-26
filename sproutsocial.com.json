@@ -1,19 +1,11 @@
 {
   "entity_id": "b70cd7b8-66d9-5e27-99e6-ebcc67f97304",
   "name": "Sprout Social",
-  "what_it_does": "Sprout Social provides social media management and analytics software for businesses.",
+  "what_it_does": "Sprout Social provides social media management and analytics tools for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "social media analytics",
-    "social media tools",
-    "social listening",
-    "social media marketing",
-    "social media engagement",
-    "brand monitoring",
-    "social media publishing"
-  ],
+  "keywords": [],
   "aio_score": 80.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b70cd7b8-66d9-5e27-99e6-ebcc67f97304"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "531d136e-0515-5b10-9b48-3420d39bde88",
   "name": "EGYM",
-  "what_it_does": "EGYM provides fitness equipment and digital solutions for gyms.",
+  "what_it_does": "EGYM provides connected gym equipment and digital fitness solutions.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
-  "keywords": [
-    "fitness equipment",
-    "gym equipment",
-    "strength training machines",
-    "digital fitness solutions",
-    "connected gym",
-    "exercise machines",
-    "fitness technology"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/531d136e-0515-5b10-9b48-3420d39bde88"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "3b1bcf93-16cc-5e88-b966-01027a5296ef",
   "name": "Rbc",
-  "what_it_does": "RBC is the Royal Bank of Canada, a multinational financial services company.",
+  "what_it_does": "RBC (Royal Bank of Canada) is a multinational financial services company offering banking, wealth management, and insurance services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "financial services",
-    "banking",
-    "wealth management",
-    "investment banking",
-    "Royal Bank of Canada",
-    "global finance",
-    "commercial banking",
-    "personal banking"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b1bcf93-16cc-5e88-b966-01027a5296ef"
 }

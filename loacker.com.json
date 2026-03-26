@@ -1,20 +1,11 @@
 {
   "entity_id": "ba49f246-ab8a-5a9b-afde-a9a4d9dea4d6",
   "name": "Loacker",
-  "what_it_does": "Loacker manufactures and sells wafers and chocolate confectionery.",
+  "what_it_does": "Loacker manufactures wafers, chocolate bars, and other confectionery products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Canada",
-  "keywords": [
-    "wafers",
-    "chocolate wafers",
-    "confectionery products",
-    "biscuits",
-    "Italian wafers",
-    "wafer cookies",
-    "hazelnut cream",
-    "chocolate bars"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ba49f246-ab8a-5a9b-afde-a9a4d9dea4d6"
 }

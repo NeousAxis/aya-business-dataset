@@ -1,20 +1,11 @@
 {
   "entity_id": "54bd85a2-361d-5fe5-a6a1-0ae8ef75ee94",
   "name": "Valentino",
-  "what_it_does": "Valentino is a luxury fashion house selling clothing, accessories, and fragrances.",
+  "what_it_does": "Valentino is an Italian luxury fashion house.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Italy",
-  "keywords": [
-    "luxury fashion",
-    "designer clothing",
-    "high-end accessories",
-    "couture",
-    "fashion apparel",
-    "luxury goods",
-    "fashion design",
-    "ready-to-wear"
-  ],
+  "keywords": [],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/54bd85a2-361d-5fe5-a6a1-0ae8ef75ee94"
 }

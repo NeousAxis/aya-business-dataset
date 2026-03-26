@@ -1,20 +1,11 @@
 {
   "entity_id": "c231a672-e9e4-5668-beb7-a2222d99cac7",
   "name": "Cristal Union",
-  "what_it_does": "Cristal Union is a French sugar cooperative that produces and markets sugar, alcohol, and other related products.",
+  "what_it_does": "Cristal Union offers education and training programs (inferred from domain).",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
-  "keywords": [
-    "sucre",
-    "alcool",
-    "betterave sucrière",
-    "coopérative agricole",
-    "sucre français",
-    "bioéthanol",
-    "agro-industrie",
-    "cristal"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c231a672-e9e4-5668-beb7-a2222d99cac7"
 }

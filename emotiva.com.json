@@ -1,19 +1,11 @@
 {
   "entity_id": "49fd1f5c-6d0c-5107-b864-fe3387fbb4bb",
   "name": "Emotiva Audio Corporation",
-  "what_it_does": "Emotiva Audio Corporation designs and sells home audio equipment.",
+  "what_it_does": "Emotiva Audio Corporation designs and sells home audio equipment like amplifiers and processors.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "home audio equipment",
-    "amplifiers",
-    "preamplifiers",
-    "audio processors",
-    "home theater",
-    "audio components",
-    "power amplifiers"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/49fd1f5c-6d0c-5107-b864-fe3387fbb4bb"
 }

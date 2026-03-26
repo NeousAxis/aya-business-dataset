@@ -1,19 +1,11 @@
 {
   "entity_id": "c8377789-5723-52be-8c2a-2e28fb3e9278",
-  "name": "WalkMe",
+  "name": "WalkMe™",
   "what_it_does": "WalkMe provides a digital adoption platform that guides users through websites and applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "digital adoption",
-    "user guidance",
-    "onboarding assistance",
-    "website walkthrough",
-    "application training",
-    "user engagement",
-    "digital experience"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c8377789-5723-52be-8c2a-2e28fb3e9278"
 }

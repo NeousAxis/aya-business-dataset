@@ -1,20 +1,11 @@
 {
   "entity_id": "7424ad9c-6c28-5df1-b05b-efc82172ea11",
   "name": "Adecco",
-  "what_it_does": "Adecco is a global staffing and recruitment agency.",
+  "what_it_does": "Adecco is a global staffing agency providing temporary and permanent employment solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "global staffing",
-    "recruitment agency",
-    "personnel placement",
-    "temporary jobs",
-    "permanent staffing",
-    "workforce solutions",
-    "talent acquisition",
-    "human resources"
-  ],
+  "keywords": [],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7424ad9c-6c28-5df1-b05b-efc82172ea11"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "c68049ff-da54-57a5-bbd9-6ff4e2683d8a",
   "name": "Migros",
-  "what_it_does": "Migros is a Swiss cooperative retail company operating supermarkets, restaurants, and other businesses.",
+  "what_it_does": "Migros is a Swiss cooperative retailer that operates supermarkets, department stores, and other businesses.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "swiss supermarkets",
-    "retail stores",
-    "grocery",
-    "food retail",
-    "restaurants",
-    "cooperative retail",
-    "swiss retail",
-    "consumer goods"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c68049ff-da54-57a5-bbd9-6ff4e2683d8a"
 }

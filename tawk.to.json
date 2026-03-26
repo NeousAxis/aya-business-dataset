@@ -1,20 +1,11 @@
 {
   "entity_id": "709c6dc0-dbd6-51ab-9325-72e74fab0938",
   "name": "tawk.to",
-  "what_it_does": "tawk.to offers a free live chat application for websites.",
+  "what_it_does": "Tawk.to provides a free live chat platform for websites.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "live chat",
-    "website chat",
-    "customer support",
-    "real-time messaging",
-    "chat application",
-    "free chat",
-    "customer engagement",
-    "online support"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/709c6dc0-dbd6-51ab-9325-72e74fab0938"
 }

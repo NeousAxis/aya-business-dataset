@@ -1,20 +1,11 @@
 {
   "entity_id": "bef53f03-ce37-54b6-abe0-57172910219a",
   "name": "Three",
-  "what_it_does": "Three provides mobile telecommunications services in the UK.",
+  "what_it_does": "Three UK is a mobile network operator providing cellular services, including mobile broadband and phone plans, to consumers and businesses.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Kingdom",
-  "keywords": [
-    "mobile telecommunications",
-    "UK mobile network",
-    "SIM cards",
-    "mobile broadband",
-    "mobile phone contracts",
-    "mobile devices",
-    "UK telecoms",
-    "data plans"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bef53f03-ce37-54b6-abe0-57172910219a"
 }

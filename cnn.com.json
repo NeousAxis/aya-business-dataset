@@ -1,19 +1,11 @@
 {
   "entity_id": "be5e7209-ef71-59da-9405-937697fa5310",
   "name": "CNN",
-  "what_it_does": "CNN is a multinational news-based television channel and website.",
+  "what_it_does": "CNN is a global news network providing coverage across television, online, and mobile platforms.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [
-    "global news network",
-    "television news",
-    "international news",
-    "breaking news",
-    "CNN",
-    "24-hour news",
-    "US news"
-  ],
+  "keywords": [],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/be5e7209-ef71-59da-9405-937697fa5310"
 }

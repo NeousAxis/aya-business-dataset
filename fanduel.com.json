@@ -1,20 +1,11 @@
 {
   "entity_id": "1c07ce24-013e-5436-9b58-1154a2ea2ba4",
   "name": "FanDuel",
-  "what_it_does": "FanDuel operates a platform for daily fantasy sports contests with real money prizes.",
+  "what_it_does": "FanDuel operates a daily fantasy sports and online sports betting platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "daily fantasy sports",
-    "sports betting",
-    "fantasy sports contests",
-    "wagering platform",
-    "sports gaming",
-    "online betting",
-    "sports predictions",
-    "interactive gaming"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1c07ce24-013e-5436-9b58-1154a2ea2ba4"
 }

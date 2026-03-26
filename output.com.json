@@ -1,20 +1,11 @@
 {
   "entity_id": "33f890f9-d0e8-50d5-8eac-3f78228737c5",
   "name": "Output",
-  "what_it_does": "Output likely provides software or SaaS solutions focused on improving business outputs or productivity.",
+  "what_it_does": "Output develops and sells software instruments and sound libraries for music producers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "music production",
-    "audio plugins",
-    "virtual instruments",
-    "sound design",
-    "music software",
-    "audio effects",
-    "VST plugins",
-    "audio tools"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/33f890f9-d0e8-50d5-8eac-3f78228737c5"
 }

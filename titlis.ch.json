@@ -1,20 +1,11 @@
 {
   "entity_id": "9ac09661-5223-5a56-b7f9-3ea6f5ccd2f3",
   "name": "TITLIS #ThePeakToBe",
-  "what_it_does": "TITLIS promotes tourism experiences at the Titlis mountain in Switzerland.",
+  "what_it_does": "TITLIS operates a mountain resort in the Swiss Alps, featuring a revolving cable car and various attractions.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss Alps tourism",
-    "mountain excursions",
-    "cable car rides",
-    "glacier experiences",
-    "Engelberg",
-    "Titlis mountain",
-    "snow activities",
-    "ski resort"
-  ],
+  "keywords": [],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9ac09661-5223-5a56-b7f9-3ea6f5ccd2f3"
 }

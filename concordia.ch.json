@@ -1,19 +1,11 @@
 {
   "entity_id": "a95d16cd-a903-54b1-b9fe-067036b5d7d4",
   "name": "Krankenversicherung Schweiz",
-  "what_it_does": "Concordia is a Swiss health insurance company.",
+  "what_it_does": "Concordia is a Swiss health insurance provider.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss health insurance",
-    "health coverage",
-    "medical insurance",
-    "healthcare",
-    "insurance policies",
-    "Concordia Schweiz",
-    "patient care"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a95d16cd-a903-54b1-b9fe-067036b5d7d4"
 }

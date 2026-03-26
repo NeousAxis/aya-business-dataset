@@ -1,20 +1,11 @@
 {
   "entity_id": "465b15b6-beb2-5b99-ae79-1a79d4bd7396",
   "name": "Entergy",
-  "what_it_does": "Entergy is an integrated energy company that generates and delivers electricity.",
+  "what_it_does": "Entergy is likely a technology company providing software or IT services based on its sector.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "electricity generation",
-    "power distribution",
-    "energy utility",
-    "power company",
-    "electrical power",
-    "energy solutions",
-    "power grid",
-    "energy provider"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/465b15b6-beb2-5b99-ae79-1a79d4bd7396"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "81602ebd-736d-5845-a58f-2a39bcc208d0",
   "name": "Experience Calm",
-  "what_it_does": "Experience Calm offers a subscription-based service providing meditation and relaxation content.",
+  "what_it_does": "Calm offers a subscription-based service for meditation, sleep, and relaxation.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [
-    "meditation subscriptions",
-    "relaxation content",
-    "sleep stories",
-    "mindfulness programs",
-    "guided meditations",
-    "wellness content",
-    "stress reduction"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/81602ebd-736d-5845-a58f-2a39bcc208d0"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "7a4139eb-072d-5b33-8ea8-e84366df4cd6",
   "name": "XING",
-  "what_it_does": "XING is a social networking platform for professionals to manage their career.",
+  "what_it_does": "XING is a professional networking platform primarily used in German-speaking countries.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "professional networking",
-    "career management",
-    "social network",
-    "job search",
-    "business contacts",
-    "recruiting platform",
-    "professional profiles"
-  ],
+  "keywords": [],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7a4139eb-072d-5b33-8ea8-e84366df4cd6"
 }

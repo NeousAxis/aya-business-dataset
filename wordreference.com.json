@@ -1,19 +1,11 @@
 {
   "entity_id": "25236065-c6bd-5c95-b964-5d49895520fc",
   "name": "WordReference.com",
-  "what_it_does": "WordReference.com provides online dictionaries and language forums.",
+  "what_it_does": "WordReference.com is a multilingual online dictionary and translation platform.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
-  "keywords": [
-    "dictionnaire en ligne",
-    "traductions",
-    "définitions",
-    "dictionnaire multilingue",
-    "ressources linguistiques",
-    "lexicographie",
-    "aide linguistique"
-  ],
+  "keywords": [],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/25236065-c6bd-5c95-b964-5d49895520fc"
 }

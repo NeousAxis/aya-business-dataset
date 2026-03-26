@@ -1,20 +1,11 @@
 {
   "entity_id": "5870983f-bcff-5df3-a5c0-eeaf31cb29ee",
   "name": "vMix",
-  "what_it_does": "vMix produces live video production and streaming software.",
+  "what_it_does": "vMix provides live video production and streaming software.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "live video production",
-    "video streaming",
-    "broadcast software",
-    "video mixing",
-    "video switching",
-    "live events",
-    "video recording",
-    "production software"
-  ],
+  "keywords": [],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5870983f-bcff-5df3-a5c0-eeaf31cb29ee"
 }

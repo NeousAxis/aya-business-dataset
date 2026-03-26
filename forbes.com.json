@@ -1,17 +1,11 @@
 {
   "entity_id": "b65d5ace-ba45-55ce-af4f-480ef2bb2762",
   "name": "Forbes",
-  "what_it_does": "Forbes publishes a business magazine featuring articles on finance, industry, investing, and marketing.",
+  "what_it_does": "Forbes publishes business, investing, technology, entrepreneurship, leadership, and lifestyle news and articles.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "business magazine",
-    "finance",
-    "industry",
-    "investing",
-    "marketing"
-  ],
+  "keywords": [],
   "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b65d5ace-ba45-55ce-af4f-480ef2bb2762"
 }

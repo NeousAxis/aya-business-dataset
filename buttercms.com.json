@@ -1,20 +1,11 @@
 {
   "entity_id": "a5a4fdf7-fd69-5b72-acf5-cbe16d13fb82",
   "name": "ButterCMS",
-  "what_it_does": "ButterCMS provides a content management system for websites and applications.",
+  "what_it_does": "ButterCMS provides a headless CMS platform for building websites and applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "headless CMS",
-    "content API",
-    "developer tools",
-    "marketing content",
-    "content management",
-    "website content",
-    "blog content",
-    "API-first CMS"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a5a4fdf7-fd69-5b72-acf5-cbe16d13fb82"
 }

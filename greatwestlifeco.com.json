@@ -1,20 +1,11 @@
 {
   "entity_id": "8d0148d9-afb7-5567-a6cd-21c7caf1e062",
   "name": "Great-West Lifeco",
-  "what_it_does": "Great-West Lifeco is a financial services holding company with interests in life insurance, health insurance, retirement savings, and investment management.",
+  "what_it_does": "Greatwestlifeco.com provides insurance, retirement, and investment management solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "financial services",
-    "life insurance",
-    "health insurance",
-    "retirement savings",
-    "investment products",
-    "wealth management",
-    "insurance",
-    "employee benefits"
-  ],
+  "keywords": [],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8d0148d9-afb7-5567-a6cd-21c7caf1e062"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "9b227d32-1a4e-5144-94d0-15bc96bbcab5",
   "name": "The world's best hospital",
-  "what_it_does": "Mayo Clinic operates an integrated healthcare system focused on medical practice, research, and education.",
+  "what_it_does": "Mayo Clinic is a non-profit academic medical center focused on clinical practice, education, and research.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
-  "keywords": [
-    "integrated healthcare",
-    "medical practice",
-    "medical research",
-    "medical education",
-    "patient care",
-    "hospital system",
-    "healthcare services",
-    "clinical trials"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9b227d32-1a4e-5144-94d0-15bc96bbcab5"
 }

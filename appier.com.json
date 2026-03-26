@@ -1,20 +1,11 @@
 {
   "entity_id": "f5a10587-3ac3-51fa-b8cf-fdbc11ebef38",
   "name": "Appier",
-  "what_it_does": "Appier is an AI-powered marketing technology company providing cross-screen advertising solutions.",
+  "what_it_does": "Appier provides artificial intelligence platforms for enterprise use.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Japan",
-  "keywords": [
-    "artificial intelligence",
-    "AI marketing",
-    "AI business solutions",
-    "cross-device marketing",
-    "customer acquisition",
-    "business intelligence",
-    "data analysis",
-    "AI platforms"
-  ],
+  "keywords": [],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f5a10587-3ac3-51fa-b8cf-fdbc11ebef38"
 }

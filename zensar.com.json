@@ -1,20 +1,11 @@
 {
   "entity_id": "b044551d-508a-563b-a21f-e9bf25855c98",
   "name": "Zensar Technologies",
-  "what_it_does": "Zensar Technologies is a digital solutions and technology services company.",
+  "what_it_does": "Zensar Technologies is an IT services and consulting company specializing in digital solutions and outsourcing.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "IT solutions",
-    "Digital transformation",
-    "Technology solutions",
-    "Enterprise solutions",
-    "IT outsourcing",
-    "Application development",
-    "Global services",
-    "Software services"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b044551d-508a-563b-a21f-e9bf25855c98"
 }

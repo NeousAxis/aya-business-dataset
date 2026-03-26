@@ -1,20 +1,11 @@
 {
   "entity_id": "5d109c44-6166-5c4e-8dc7-ffecc210c0fd",
   "name": "Evergy",
-  "what_it_does": "Evergy is a utility company that generates and distributes electricity.",
+  "what_it_does": "Evergy is an electric utility company providing power to customers in Kansas and Missouri.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "electricity generation",
-    "electricity distribution",
-    "utility company",
-    "power generation",
-    "energy utility",
-    "electrical power",
-    "power grids",
-    "renewable energy"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5d109c44-6166-5c4e-8dc7-ffecc210c0fd"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "84f7ec12-6452-5adf-9510-4f2bc08f5dbf",
   "name": "Matrox Video",
-  "what_it_does": "Matrox Video develops hardware and software for video capture, streaming, and display.",
+  "what_it_does": "Matrox Video designs and manufactures video hardware and software for broadcast, streaming, and professional A/V applications.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "video capture",
-    "video streaming",
-    "video display",
-    "video hardware",
-    "broadcast equipment",
-    "graphics cards",
-    "video processing",
-    "video encoding"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/84f7ec12-6452-5adf-9510-4f2bc08f5dbf"
 }

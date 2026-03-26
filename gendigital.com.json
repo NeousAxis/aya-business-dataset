@@ -1,20 +1,11 @@
 {
   "entity_id": "339c1a65-fc10-5a81-8625-487312ab5c5f",
   "name": "Gen",
-  "what_it_does": "Gen Digital provides cybersecurity software and services, including Norton and Avast.",
+  "what_it_does": "Gen (formerly NortonLifeLock) provides cybersecurity software and services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "cybersecurity",
-    "Norton",
-    "Avast",
-    "antivirus",
-    "malware protection",
-    "identity protection",
-    "personal security",
-    "device security"
-  ],
+  "keywords": [],
   "aio_score": 63.0,
   "certificate_url": "https://ai-visionary.com/aya/e/339c1a65-fc10-5a81-8625-487312ab5c5f"
 }

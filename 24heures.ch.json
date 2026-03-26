@@ -1,20 +1,11 @@
 {
   "entity_id": "e86bd5f9-ba54-54c4-b873-d363f474578b",
   "name": "Tamedia Publications romandes S.A.",
-  "what_it_does": "Tamedia Publications romandes S.A. publishes the 24heures newspaper in Switzerland.",
+  "what_it_does": "24 Heures is a regional newspaper published in French-speaking Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss newspaper",
-    "news publication",
-    "journalism",
-    "daily news",
-    "local news",
-    "regional media",
-    "French-language newspaper",
-    "24heures"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e86bd5f9-ba54-54c4-b873-d363f474578b"
 }

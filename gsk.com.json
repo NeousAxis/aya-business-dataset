@@ -1,19 +1,11 @@
 {
   "entity_id": "da88fb51-617c-5251-bd9c-0f37c0f1089c",
   "name": "GSK",
-  "what_it_does": "GSK is a global pharmaceutical company that researches, develops, and manufactures medicines, vaccines, and consumer healthcare products.",
+  "what_it_does": "GSK is a global pharmaceutical company that researches, develops, and manufactures vaccines and medicines.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "pharmaceuticals",
-    "vaccines",
-    "prescription drugs",
-    "global healthcare",
-    "research and development",
-    "gsk",
-    "pharmaceutical research"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/da88fb51-617c-5251-bd9c-0f37c0f1089c"
 }

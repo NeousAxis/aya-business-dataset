@@ -1,20 +1,11 @@
 {
   "entity_id": "9f8b5489-df97-53e3-b154-4948abd4fe21",
   "name": "Evotec",
-  "what_it_does": "Evotec is a drug discovery alliance and development company.",
+  "what_it_does": "Evotec is a drug discovery alliance and development partnership company providing services to the pharmaceutical and biotechnology industries.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "drug discovery",
-    "drug development",
-    "pharmaceutical research",
-    "biotechnology services",
-    "preclinical studies",
-    "clinical trials",
-    "drug candidates",
-    "therapeutic development"
-  ],
+  "keywords": [],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f8b5489-df97-53e3-b154-4948abd4fe21"
 }

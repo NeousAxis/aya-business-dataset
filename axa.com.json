@@ -1,19 +1,11 @@
 {
   "entity_id": "7be1f147-6d94-5dc7-9dbb-add1df72c9ab",
   "name": "AXA's Corporate Website",
-  "what_it_does": "AXA is a multinational insurance and financial services company.",
+  "what_it_does": "AXA offers corporate services, likely including insurance and asset management solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [
-    "insurance",
-    "financial protection",
-    "risk ",
-    "financial ",
-    "assurance",
-    "investment solutions",
-    "corporate insurance"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7be1f147-6d94-5dc7-9dbb-add1df72c9ab"
 }

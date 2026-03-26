@@ -1,20 +1,11 @@
 {
   "entity_id": "6d7eef41-5ac0-57d1-96b3-473d998c4839",
   "name": "Startseite Kanton Aargau",
-  "what_it_does": "Kanton Aargau provides information and services for the Swiss canton of Aargau.",
+  "what_it_does": "Startseite Kanton Aargau is the official website for the Canton of Aargau, Switzerland, providing government information and services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "canton argau",
-    "swiss canton",
-    "government information",
-    "public services",
-    "regional services",
-    "local government",
-    "cantonal administration",
-    "argau administration"
-  ],
+  "keywords": [],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6d7eef41-5ac0-57d1-96b3-473d998c4839"
 }

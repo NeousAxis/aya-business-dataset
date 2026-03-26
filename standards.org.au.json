@@ -1,20 +1,11 @@
 {
   "entity_id": "762de2c6-932b-5a20-a8fd-b8f66b71fa3f",
   "name": "Standards Australia",
-  "what_it_does": "Standards Australia develops and publishes standards for various industries and applications.",
+  "what_it_does": "Standards Australia develops and publishes technical standards and related documents for Australia.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Australia",
-  "keywords": [
-    "standards development",
-    "industry standards",
-    "Australian standards",
-    "technical specifications",
-    "compliance standards",
-    "safety standards",
-    "engineering standards",
-    "quality assurance standards"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/762de2c6-932b-5a20-a8fd-b8f66b71fa3f"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "f0018b1c-1945-57ba-ae8c-78d8ea4075f1",
   "name": "Persistent Systems",
-  "what_it_does": "Persistent Systems provides digital engineering and IT solutions.",
+  "what_it_does": "Persistent Systems is a technology services company providing digital engineering and enterprise modernization solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "IT ",
-    " application engineering",
-    "digital product engineering",
-    "cloud computing",
-    "product lifecycle ",
-    "enterprise ",
-    " software development"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f0018b1c-1945-57ba-ae8c-78d8ea4075f1"
 }

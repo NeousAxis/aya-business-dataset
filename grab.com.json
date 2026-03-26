@@ -1,20 +1,11 @@
 {
   "entity_id": "fb695d1a-009b-53ed-83f1-e469f1e17a53",
   "name": "Grab Singapore",
-  "what_it_does": "Grab offers ride-hailing, food delivery, and other on-demand services through a mobile app.",
+  "what_it_does": "Grab Singapore provides ride-hailing, food delivery, and digital payment services in Singapore.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Singapore",
-  "keywords": [
-    "ride hailing",
-    "food delivery",
-    "on-demand services",
-    "transportation network",
-    "mobile payments",
-    "delivery platform",
-    "Singapore transport",
-    "courier services"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fb695d1a-009b-53ed-83f1-e469f1e17a53"
 }

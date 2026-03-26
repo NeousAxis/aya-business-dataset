@@ -1,19 +1,11 @@
 {
   "entity_id": "c442b475-76e3-59e3-b0d2-2071b9eb0cae",
   "name": "Monzo Bank",
-  "what_it_does": "Monzo Bank is a digital-only bank offering current accounts and banking services via a mobile app.",
+  "what_it_does": "Monzo Bank is a digital-only bank based in the United Kingdom.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [
-    "digital banking",
-    "mobile banking",
-    "current accounts",
-    "financial services",
-    "online banking",
-    "personal finance",
-    "banking app"
-  ],
+  "keywords": [],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c442b475-76e3-59e3-b0d2-2071b9eb0cae"
 }

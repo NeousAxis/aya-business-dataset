@@ -1,20 +1,20 @@
 {
-  "entity_id": "dda37622-efd7-51ad-9cc7-399a392870cd",
-  "name": "IBM Cloud",
-  "what_it_does": "IBM Cloud provides cloud computing platforms and services.",
-  "for_who": "Businesses and developers.",
-  "category": "Technology & SaaS",
-  "location": "Saudi Arabia",
+  "entity_id": "7525b431-3c88-5981-ba4e-b502662280ae",
+  "name": "IBM",
+  "what_it_does": "IBM provides computer hardware, software, cloud-based services and consulting services.",
+  "for_who": "Businesses and professionals.",
+  "category": "Industrie & Manufacturing",
+  "location": "Canada",
   "keywords": [
-    "cloud computing",
+    "IT hardware",
     "cloud services",
-    "cloud infrastructure",
-    "enterprise cloud",
-    "cloud solutions",
-    "IaaS",
-    "PaaS",
-    "hybrid cloud"
+    "enterprise software",
+    "AI solutions",
+    "IT infrastructure",
+    "business solutions",
+    "cloud computing",
+    "mainframe systems"
   ],
-  "aio_score": 50.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/dda37622-efd7-51ad-9cc7-399a392870cd"
+  "aio_score": 77.0,
+  "certificate_url": "https://ai-visionary.com/aya/e/7525b431-3c88-5981-ba4e-b502662280ae"
 }

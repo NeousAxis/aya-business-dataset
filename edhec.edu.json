@@ -1,20 +1,11 @@
 {
   "entity_id": "532877ca-9758-5235-8f64-42384e764bc7",
   "name": "EDHEC Business School",
-  "what_it_does": "EDHEC Business School is a higher education institution.",
+  "what_it_does": "EDHEC Business School is a French business school offering undergraduate and postgraduate programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
-  "keywords": [
-    "business education",
-    "higher education",
-    "business school",
-    "executive education",
-    "graduate programs",
-    "undergraduate programs",
-    "management studies",
-    "business degrees"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/532877ca-9758-5235-8f64-42384e764bc7"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "0ecbb53d-1c3c-5e84-9955-2a4c89581438",
   "name": "AllTrails",
-  "what_it_does": "AllTrails provides a platform for discovering and sharing outdoor trails.",
+  "what_it_does": "AllTrails provides a platform for discovering and sharing trail maps, reviews, and photos for outdoor activities.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Denmark",
-  "keywords": [
-    "hiking trails",
-    "trail maps",
-    "outdoor activities",
-    "hiking",
-    "biking trails",
-    "trail running",
-    "outdoor recreation",
-    "trail discovery"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0ecbb53d-1c3c-5e84-9955-2a4c89581438"
 }

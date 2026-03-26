@@ -1,20 +1,11 @@
 {
   "entity_id": "458d385d-f995-5ed9-a3a3-489f224632b6",
   "name": "Juhayna",
-  "what_it_does": "Juhayna is an Egyptian manufacturer of dairy products, juice, and other food products.",
+  "what_it_does": "Juhayna produces and distributes dairy and juice products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "dairy products",
-    "juice production",
-    "food distribution",
-    "egyptian market",
-    "milk products",
-    "yogurt",
-    "beverages",
-    "packaged foods"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/458d385d-f995-5ed9-a3a3-489f224632b6"
 }

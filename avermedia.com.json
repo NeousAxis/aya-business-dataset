@@ -1,20 +1,11 @@
 {
   "entity_id": "6632faf1-254d-5ca0-a12a-d6f2d31821ab",
   "name": "AVerMedia",
-  "what_it_does": "AVerMedia manufactures video capture and streaming hardware and software.",
+  "what_it_does": "AVerMedia Technologies manufactures digital video and audio convergence products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "video capture cards",
-    "video streaming",
-    "game capture",
-    "content creation",
-    "multimedia",
-    "video recording",
-    "broadcasting equipment",
-    "video encoders"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6632faf1-254d-5ca0-a12a-d6f2d31821ab"
 }

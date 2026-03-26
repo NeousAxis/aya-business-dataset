@@ -1,18 +1,11 @@
 {
   "entity_id": "77fb5ef9-d0ea-57dc-8212-d965a00787ff",
   "name": "Ksw",
-  "what_it_does": "I don't know what KSW does.",
+  "what_it_does": "KSW likely provides media and communication services in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "KSW unknown activity",
-    "unspecified company",
-    "swiss business",
-    "ksw switzerland",
-    "unknown business",
-    "ksw activity"
-  ],
+  "keywords": [],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/77fb5ef9-d0ea-57dc-8212-d965a00787ff"
 }

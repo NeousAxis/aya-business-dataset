@@ -1,20 +1,11 @@
 {
   "entity_id": "e0cf6aa5-7c94-59da-b701-ae83dfc396fd",
   "name": "Aena",
-  "what_it_does": "Aena manages airports throughout Spain.",
+  "what_it_does": "Aena manages airports in Spain.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Spain",
-  "keywords": [
-    "airport management",
-    "airport operations",
-    "air traffic control",
-    "Spanish airports",
-    "aviation infrastructure",
-    "passenger services",
-    "airport facilities",
-    "aerodrome services"
-  ],
+  "keywords": [],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e0cf6aa5-7c94-59da-b701-ae83dfc396fd"
 }

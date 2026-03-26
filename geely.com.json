@@ -1,19 +1,11 @@
 {
   "entity_id": "e20b936e-69b9-5022-9841-c4e504f14581",
   "name": "Geely Global",
-  "what_it_does": "Geely Global is likely a technology or SaaS company based on the URL, possibly offering global tech solutions.",
+  "what_it_does": "Geely is a Chinese multinational automotive manufacturing company.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "automotive technology",
-    "electric vehicles",
-    "autonomous driving",
-    "connected cars",
-    "Geely",
-    "global automotive",
-    "mobility solutions"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e20b936e-69b9-5022-9841-c4e504f14581"
 }

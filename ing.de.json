@@ -1,20 +1,11 @@
 {
   "entity_id": "4e02f63c-798c-5e7d-8f6a-da1856859213",
   "name": "ING",
-  "what_it_does": "ING Germany provides retail and wholesale banking services.",
+  "what_it_does": "ING is a German bank offering retail and wholesale banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Germany",
-  "keywords": [
-    "retail banking",
-    "wholesale banking",
-    "banking services",
-    "financial products",
-    "loan products",
-    "savings accounts",
-    "investment options",
-    "ING Germany"
-  ],
+  "keywords": [],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4e02f63c-798c-5e7d-8f6a-da1856859213"
 }

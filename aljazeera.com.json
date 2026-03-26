@@ -1,19 +1,11 @@
 {
   "entity_id": "bfeafb47-bd03-55d8-99c9-b28e04b2876f",
   "name": "Al Jazeera",
-  "what_it_does": "Al Jazeera is a state-funded international news organization headquartered in Qatar.",
+  "what_it_does": "Al Jazeera is a Qatar-based international news organization broadcasting news and current affairs.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "EG",
-  "keywords": [
-    "Qatar news organization",
-    "international news",
-    "Middle East news",
-    "broadcast journalism",
-    "Arabic news",
-    "global current affairs",
-    "investigative reporting"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bfeafb47-bd03-55d8-99c9-b28e04b2876f"
 }

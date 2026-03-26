@@ -1,20 +1,11 @@
 {
   "entity_id": "3573a242-1a9e-5d70-af4a-9df30964295d",
   "name": "ifm",
-  "what_it_does": "IFM manufactures sensors, controllers, and systems for industrial automation.",
+  "what_it_does": "ifm manufactures sensors, controllers, and systems for industrial automation.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Switzerland",
-  "keywords": [
-    "industrial sensors",
-    "automation sensors",
-    "process sensors",
-    "industrial control systems",
-    "position sensors",
-    "fluid sensors",
-    "object detection",
-    "industrial automation"
-  ],
+  "keywords": [],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3573a242-1a9e-5d70-af4a-9df30964295d"
 }

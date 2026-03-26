@@ -1,18 +1,11 @@
 {
   "entity_id": "0fbea6c6-efcf-5ef2-8531-c595481be67c",
   "name": "Greenpeace",
-  "what_it_does": "Greenpeace is an environmental activist organization.",
+  "what_it_does": "Greenpeace is a non-governmental environmental organization that campaigns on various ecological issues.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Netherlands",
-  "keywords": [
-    "environmental activism",
-    "environmental protection",
-    "conservation advocacy",
-    "non-governmental organization",
-    "environmental campaigns",
-    "ecological advocacy"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0fbea6c6-efcf-5ef2-8531-c595481be67c"
 }

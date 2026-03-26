@@ -1,20 +1,11 @@
 {
   "entity_id": "e3201afd-8153-583e-8995-34785572e75e",
   "name": "QTS",
-  "what_it_does": "QTS provides data center solutions and colocation services.",
+  "what_it_does": "QTS provides data center solutions and services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "data centers",
-    "colocation services",
-    "IT infrastructure",
-    "managed data",
-    "cloud solutions",
-    "data storage",
-    "enterprise data",
-    "mission critical"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e3201afd-8153-583e-8995-34785572e75e"
 }

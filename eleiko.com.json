@@ -1,20 +1,11 @@
 {
   "entity_id": "d4cd697d-cfc7-59cb-a850-a64b11506bc2",
   "name": "Eleiko",
-  "what_it_does": "Eleiko is a manufacturer and supplier of weightlifting equipment.",
+  "what_it_does": "Eleiko manufactures and sells weightlifting equipment, particularly barbells and plates.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "weightlifting equipment",
-    "strength training",
-    "fitness equipment",
-    "barbells",
-    "weight plates",
-    "training accessories",
-    "powerlifting gear",
-    "gym equipment"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d4cd697d-cfc7-59cb-a850-a64b11506bc2"
 }

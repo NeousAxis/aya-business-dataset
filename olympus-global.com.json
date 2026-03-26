@@ -1,17 +1,11 @@
 {
   "entity_id": "ec04c0da-b80b-5677-99be-88de5db23ba0",
   "name": "Olympus Global Homepage",
-  "what_it_does": "Olympus Corporation manufactures and sells medical equipment, scientific solutions, and imaging products.",
+  "what_it_does": "Olympus Corporation manufactures precision equipment, primarily cameras and endoscopes.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "medical equipment",
-    "scientific solutions",
-    "endoscopy",
-    "microscopy",
-    "imaging products"
-  ],
+  "keywords": [],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec04c0da-b80b-5677-99be-88de5db23ba0"
 }

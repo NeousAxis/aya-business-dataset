@@ -1,19 +1,11 @@
 {
   "entity_id": "ebebd1cf-8efd-51be-95db-2d5b2b164aa6",
   "name": "Flir",
-  "what_it_does": "FLIR designs and manufactures thermal imaging cameras and sensors.",
+  "what_it_does": "FLIR Systems designs and manufactures thermal imaging cameras and sensors for various applications.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Canada",
-  "keywords": [
-    "thermal imaging cameras",
-    "infrared sensors",
-    "surveillance systems",
-    "temperature measurement",
-    "imaging technology",
-    "security cameras",
-    "industrial imaging"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ebebd1cf-8efd-51be-95db-2d5b2b164aa6"
 }

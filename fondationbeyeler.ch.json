@@ -1,19 +1,11 @@
 {
   "entity_id": "a7495adb-dfb3-5299-b2ec-8d94fe0feae6",
   "name": "Fondation Beyeler",
-  "what_it_does": "Fondation Beyeler is a museum of modern and contemporary art.",
+  "what_it_does": "Fondation Beyeler is an art museum exhibiting modern and contemporary art.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "art museum",
-    "modern art",
-    "art exhibitions",
-    "contemporary art",
-    "art collection",
-    "Riehen museum",
-    "Swiss art"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a7495adb-dfb3-5299-b2ec-8d94fe0feae6"
 }

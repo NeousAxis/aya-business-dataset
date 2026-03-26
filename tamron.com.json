@@ -1,20 +1,11 @@
 {
   "entity_id": "00db42c1-4e5e-52fd-b766-b3f409d870e3",
   "name": "Tamron Co., Ltd.",
-  "what_it_does": "Tamron manufactures photographic lenses and optical components.",
+  "what_it_does": "Tamron Co., Ltd. manufactures photographic lenses.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "photographic lenses",
-    "optical components",
-    "lens manufacturing",
-    "imaging optics",
-    "camera lenses",
-    "lens technology",
-    "optical products",
-    "lens design"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/00db42c1-4e5e-52fd-b766-b3f409d870e3"
 }

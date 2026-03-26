@@ -1,20 +1,11 @@
 {
   "entity_id": "c9227adb-ad5e-5da8-8722-b5408e519ca2",
   "name": "Contentstack",
-  "what_it_does": "Contentstack provides a headless CMS platform for managing digital content.",
+  "what_it_does": "Contentstack provides a composable digital experience platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "headless CMS",
-    "content management system",
-    "digital content",
-    "API-first CMS",
-    "omnichannel content",
-    "content repository",
-    "developer tools",
-    "content delivery"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c9227adb-ad5e-5da8-8722-b5408e519ca2"
 }

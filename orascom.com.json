@@ -1,17 +1,11 @@
 {
   "entity_id": "0cde3633-8568-5d0d-8003-6da51d35b5ec",
   "name": "Orascom Construction",
-  "what_it_does": "Orascom Construction is an engineering and construction group focusing on infrastructure, industrial, and commercial projects.",
+  "what_it_does": "Orascom Construction is an engineering and construction group focused on infrastructure, industrial, and commercial projects.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "United Arab Emirates",
-  "keywords": [
-    "engineering",
-    "construction",
-    "infrastructure",
-    "industrial projects",
-    "commercial projects"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0cde3633-8568-5d0d-8003-6da51d35b5ec"
 }

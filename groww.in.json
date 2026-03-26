@@ -1,20 +1,11 @@
 {
   "entity_id": "3b8a7e56-9ce8-52bb-87f9-a90da56fef68",
   "name": "Groww",
-  "what_it_does": "Groww is an online investment platform offering access to stocks, mutual funds, and other financial products in India.",
+  "what_it_does": "Groww is an online investment platform offering stocks, mutual funds, and other financial products in India.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "India",
-  "keywords": [
-    "investment platform",
-    "stocks",
-    "mutual funds",
-    "online investing",
-    "financial investments",
-    "investment tools",
-    "Indian market",
-    "direct indexing"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b8a7e56-9ce8-52bb-87f9-a90da56fef68"
 }

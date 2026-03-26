@@ -1,20 +1,11 @@
 {
   "entity_id": "14424e0a-3d51-5c5e-ba20-d430b04e6ee0",
   "name": "Buffer",
-  "what_it_does": "Buffer provides a social media management platform for scheduling and analyzing posts.",
+  "what_it_does": "Buffer is a social media management platform for scheduling and analyzing posts.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "social media scheduling",
-    "social media analytics",
-    "content calendar",
-    "social media posting",
-    "social media management",
-    "social media marketing",
-    "social media tools",
-    "content scheduling"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/14424e0a-3d51-5c5e-ba20-d430b04e6ee0"
 }

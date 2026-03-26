@@ -1,20 +1,11 @@
 {
   "entity_id": "edbe99bf-b9e6-538f-a6ba-895556ee3ffd",
   "name": "Regeneron",
-  "what_it_does": "Regeneron discovers, develops, manufactures, and commercializes medicines for serious diseases.",
+  "what_it_does": "Regeneron is a biotechnology company focused on discovering, developing, and commercializing medicines.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "biopharmaceutical drugs",
-    "drug development",
-    "serious diseases",
-    "therapeutic antibodies",
-    "immunology",
-    "oncology",
-    "clinical trials",
-    "pharmaceutical research"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/edbe99bf-b9e6-538f-a6ba-895556ee3ffd"
 }

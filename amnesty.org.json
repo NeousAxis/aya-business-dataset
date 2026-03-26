@@ -1,20 +1,11 @@
 {
   "entity_id": "e13ef0af-3582-5f7a-b639-44e542ed5cc8",
   "name": "Amnesty International",
-  "what_it_does": "Amnesty International is a non-governmental organization focused on advocating for human rights worldwide.",
+  "what_it_does": "Amnesty International is a non-governmental organization focused on human rights advocacy and research.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "China",
-  "keywords": [
-    "human rights",
-    "advocacy",
-    "research",
-    "political prisoners",
-    "human rights violations",
-    "international law",
-    "social justice",
-    "civil liberties"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e13ef0af-3582-5f7a-b639-44e542ed5cc8"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "1f83b700-cdfa-5158-807c-66a11de7c22f",
   "name": "Zeplin",
-  "what_it_does": "Zeplin is a collaboration platform for UI designers and developers.",
+  "what_it_does": "Zeplin is a collaboration tool for designers and developers to share and organize design specifications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "UI design collaboration",
-    "design handoff",
-    "developer collaboration",
-    "user interface tools",
-    "design workflow",
-    "front-end development",
-    "design specifications"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1f83b700-cdfa-5158-807c-66a11de7c22f"
 }

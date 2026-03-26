@@ -1,20 +1,11 @@
 {
   "entity_id": "c8d2ee51-e949-5d22-8434-c6cabd26cd10",
   "name": "Sanity",
-  "what_it_does": "Sanity provides a headless content management system (CMS) that allows users to structure content and deliver it across channels.",
+  "what_it_does": "Sanity provides a headless CMS platform for structured content management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "headless CMS",
-    "content management system",
-    "structured content",
-    "content API",
-    "developer tools",
-    "content platform",
-    "real-time content",
-    "composable content"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c8d2ee51-e949-5d22-8434-c6cabd26cd10"
 }

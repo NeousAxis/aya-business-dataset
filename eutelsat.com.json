@@ -1,19 +1,11 @@
 {
   "entity_id": "b11a59fc-e550-541e-9ea2-3f841b60be8d",
   "name": "Eutelsat",
-  "what_it_does": "Eutelsat operates geostationary communication satellites.",
+  "what_it_does": "Eutelsat operates telecommunications satellites providing broadcasting and broadband services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "geostationary satellites",
-    "communication satellites",
-    "satellite broadcasting",
-    "telecommunications",
-    "satellite internet",
-    "video distribution",
-    "satellite capacity"
-  ],
+  "keywords": [],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b11a59fc-e550-541e-9ea2-3f841b60be8d"
 }

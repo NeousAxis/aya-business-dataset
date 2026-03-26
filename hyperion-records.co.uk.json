@@ -1,20 +1,11 @@
 {
   "entity_id": "ca26bd33-6535-562b-a1b1-90654faf2b33",
   "name": "Hyperion Records Ltd",
-  "what_it_does": "Hyperion Records Ltd is a British classical music record label.",
+  "what_it_does": "Hyperion Records Ltd records and distributes classical music albums.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
-  "keywords": [
-    "classical music",
-    "music label",
-    "classical recordings",
-    "British music",
-    "art song",
-    "historical recordings",
-    "choral music",
-    "chamber music"
-  ],
+  "keywords": [],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ca26bd33-6535-562b-a1b1-90654faf2b33"
 }

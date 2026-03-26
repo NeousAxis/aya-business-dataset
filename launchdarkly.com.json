@@ -1,14 +1,11 @@
 {
   "entity_id": "f846b097-4ecb-5bab-8a32-89b95a23c802",
   "name": "LaunchDarkly",
-  "what_it_does": "LaunchDarkly is a feature management platform that allows software development teams to control feature releases and experiment with new features.",
+  "what_it_does": "LaunchDarkly provides a feature management platform for software development teams.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "feature management",
-    "software development"
-  ],
+  "keywords": [],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f846b097-4ecb-5bab-8a32-89b95a23c802"
 }

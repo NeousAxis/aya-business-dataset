@@ -1,18 +1,11 @@
 {
   "entity_id": "5132fda7-d374-54dc-b0e3-08957b08e7c0",
   "name": "Risely",
-  "what_it_does": "Risely appears to be an e-commerce platform, potentially focused on personal services or customized products based on the domain.",
+  "what_it_does": "Risely is likely an e-commerce platform selling items related to personal care or grooming.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "e-commerce platform",
-    "personalized products",
-    "customized services",
-    "risely platform",
-    "online retail",
-    "risely ecommerce"
-  ],
+  "keywords": [],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5132fda7-d374-54dc-b0e3-08957b08e7c0"
 }

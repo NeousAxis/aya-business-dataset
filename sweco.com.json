@@ -1,20 +1,11 @@
 {
   "entity_id": "98cb0456-6585-5b2d-bc4f-82e25a519068",
   "name": "Sweco",
-  "what_it_does": "Sweco provides engineering, environmental, and architectural consulting services.",
+  "what_it_does": "Sweco is a European engineering and architecture consultancy company.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "engineering consulting",
-    "architectural design",
-    "infrastructure projects",
-    "sustainable buildings",
-    "urban planning",
-    "environmental engineering",
-    "construction management",
-    "structural engineering"
-  ],
+  "keywords": [],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/98cb0456-6585-5b2d-bc4f-82e25a519068"
 }

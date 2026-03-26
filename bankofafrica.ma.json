@@ -1,20 +1,11 @@
 {
   "entity_id": "d554de0e-bf6b-57a6-b3d0-951aa2078e3f",
   "name": "Particuliers",
-  "what_it_does": "Bank of Africa (Morocco) provides banking services to individuals in Morocco.",
+  "what_it_does": "Bank of Africa (Morocco) provides banking and financial services to individuals.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "retail banking",
-    "personal finance",
-    "banking services",
-    "Moroccan banking",
-    "consumer loans",
-    "savings accounts",
-    "payment solutions",
-    "financial services"
-  ],
+  "keywords": [],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d554de0e-bf6b-57a6-b3d0-951aa2078e3f"
 }

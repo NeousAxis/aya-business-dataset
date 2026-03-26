@@ -1,20 +1,11 @@
 {
   "entity_id": "cd89f8c0-b314-5c48-a60f-1065f482f9ff",
   "name": "PAUL",
-  "what_it_does": "PAUL is a French bakery chain and restaurant.",
+  "what_it_does": "PAUL is a French bakery chain that sells bread, pastries, and other baked goods online and in stores.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
-  "keywords": [
-    "French bakery",
-    "pastries",
-    "breads",
-    "viennoiseries",
-    "French cuisine",
-    "restaurant chain",
-    "bakery cafe",
-    "patisserie"
-  ],
+  "keywords": [],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cd89f8c0-b314-5c48-a60f-1065f482f9ff"
 }

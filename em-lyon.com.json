@@ -1,20 +1,11 @@
 {
   "entity_id": "50cdd24a-ab34-5122-8ece-a31fe5bb6cde",
   "name": "emlyon business school",
-  "what_it_does": "Emlyon Business School is a French business school offering undergraduate and postgraduate programs.",
+  "what_it_does": "emlyon business school appears to offer business-related education, though its domain suggests tourism/transport, so this is an inference.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
-  "keywords": [
-    "business school",
-    "executive education",
-    "undergraduate programs",
-    "postgraduate programs",
-    "management education",
-    "French business school",
-    "emlyon",
-    "finance courses"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/50cdd24a-ab34-5122-8ece-a31fe5bb6cde"
 }

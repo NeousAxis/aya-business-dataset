@@ -1,20 +1,11 @@
 {
   "entity_id": "07a9bcea-6a70-56d6-b814-764753e091d1",
   "name": "Grundfos",
-  "what_it_does": "Grundfos manufactures and sells pumps and pumping solutions for various applications.",
+  "what_it_does": "Grundfos likely provides media and communication.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
-  "keywords": [
-    "pumps",
-    "pump solutions",
-    "water pumps",
-    "wastewater pumps",
-    "industrial pumps",
-    "building pumps",
-    "water solutions",
-    "fluid handling"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/07a9bcea-6a70-56d6-b814-764753e091d1"
 }

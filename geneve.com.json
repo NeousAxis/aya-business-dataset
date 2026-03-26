@@ -1,19 +1,11 @@
 {
   "entity_id": "ddc43fa4-8fda-5dfc-9dfd-3cd59649e4b2",
   "name": "Visit Geneva",
-  "what_it_does": "Geneve.com is a tourist information website for Geneva, Switzerland, providing travel-related content.",
+  "what_it_does": "geneve.com promotes tourism in Geneva, Switzerland, offering travel information, booking options, and event listings.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [
-    "luxury clothing",
-    "cashmere apparel",
-    "Italian fashion",
-    "menswear",
-    "womenswear",
-    "luxury knitwear",
-    "high-end apparel"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ddc43fa4-8fda-5dfc-9dfd-3cd59649e4b2"
 }

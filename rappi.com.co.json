@@ -1,20 +1,11 @@
 {
   "entity_id": "7dc0c793-e99d-5b01-8941-9d886a1891e3",
   "name": "Rappi",
-  "what_it_does": "Rappi is a Colombian delivery app offering a wide range of services, including groceries, meals, and pharmacy items.",
+  "what_it_does": "Rappi is a Latin American multi-service delivery platform offering food, groceries, and other goods.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "CO",
-  "keywords": [
-    "on-demand delivery",
-    "Colombian delivery",
-    "grocery delivery",
-    "restaurant delivery",
-    "pharmacy delivery",
-    "multi-category delivery",
-    "last-mile delivery",
-    "Latin America"
-  ],
+  "keywords": [],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7dc0c793-e99d-5b01-8941-9d886a1891e3"
 }

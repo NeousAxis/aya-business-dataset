@@ -1,20 +1,11 @@
 {
   "entity_id": "d7ecba9c-ea8b-5635-a759-96ec3c3d622c",
   "name": "SALOMON",
-  "what_it_does": "SALOMON designs, develops, and sells sports equipment, apparel, and footwear for various outdoor activities.",
+  "what_it_does": "SALOMON sells outdoor sports equipment, including footwear, apparel, and gear.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
-  "keywords": [
-    "sports equipment",
-    "outdoor gear",
-    "skiing equipment",
-    "trail running shoes",
-    "hiking gear",
-    "sports apparel",
-    "winter sports",
-    "performance footwear"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d7ecba9c-ea8b-5635-a759-96ec3c3d622c"
 }

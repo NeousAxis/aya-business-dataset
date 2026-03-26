@@ -1,19 +1,11 @@
 {
   "entity_id": "e4f05ab3-d2de-5967-97d6-5c5489744d16",
   "name": "Fortescue",
-  "what_it_does": "Fortescue Metals Group is an Australian iron ore company involved in mining and shipping.",
+  "what_it_does": "Fortescue is likely a media and communications company.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "iron ore mining",
-    "Australian mining",
-    "ore extraction",
-    "iron ore exports",
-    "resource extraction",
-    "mining operations",
-    "bulk commodity"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e4f05ab3-d2de-5967-97d6-5c5489744d16"
 }

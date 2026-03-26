@@ -1,19 +1,11 @@
 {
   "entity_id": "7e43f9ee-74b7-52a1-a60f-c69ccb06b471",
   "name": "alinea",
-  "what_it_does": "alinea is an online retailer.",
+  "what_it_does": "Alinea is a mobile investing app primarily focused on Gen Z, offering educational resources and fractional share trading.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "home decor",
-    "furniture retailer",
-    "interior design",
-    "household goods",
-    "online furniture",
-    "french retailer",
-    "decorative items"
-  ],
+  "keywords": [],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7e43f9ee-74b7-52a1-a60f-c69ccb06b471"
 }

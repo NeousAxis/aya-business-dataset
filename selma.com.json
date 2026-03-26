@@ -1,19 +1,11 @@
 {
   "entity_id": "e789f24a-f9a7-517a-b60d-d95973bc031d",
   "name": "Make your money work for you",
-  "what_it_does": "Selma offers an automated investment platform providing personalized portfolios based on risk tolerance.",
+  "what_it_does": "Selma offers an automated investment platform for individuals.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "automated investing",
-    "robo-advisor",
-    "investment management",
-    "financial planning",
-    "asset allocation",
-    "investment portfolios",
-    "online investment"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e789f24a-f9a7-517a-b60d-d95973bc031d"
 }

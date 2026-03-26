@@ -1,20 +1,11 @@
 {
   "entity_id": "63b2cdf3-2494-5472-ae8b-ea3e9e9dfb2e",
   "name": "DP World",
-  "what_it_does": "DP World operates marine and inland terminals, logistics, and maritime services.",
+  "what_it_does": "DP World is a global port operator and logistics company.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "maritime terminals",
-    "port operations",
-    "logistics services",
-    "supply chain",
-    "cargo handling",
-    "container terminals",
-    "global trade",
-    "port logistics"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/63b2cdf3-2494-5472-ae8b-ea3e9e9dfb2e"
 }

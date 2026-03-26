@@ -1,19 +1,11 @@
 {
   "entity_id": "b20fd961-a1f0-5617-8012-b8acc1702728",
   "name": "ENGIE France",
-  "what_it_does": "ENGIE France provides energy services and solutions to customers in France.",
+  "what_it_does": "ENGIE France appears to be a French news or media outlet.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "services énergétiques",
-    "solutions énergétiques",
-    "fourniture d'énergie",
-    "engie france",
-    "efficacité énergétique",
-    "transition énergétique",
-    "gaz naturel"
-  ],
+  "keywords": [],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b20fd961-a1f0-5617-8012-b8acc1702728"
 }

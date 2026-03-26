@@ -1,19 +1,11 @@
 {
   "entity_id": "ca6dd273-b515-5ec1-b1a5-b3be78fe397f",
   "name": "Alpiq",
-  "what_it_does": "Alpiq is a Swiss energy company providing electricity and energy services.",
+  "what_it_does": "Alpiq is a Swiss energy company that generates and trades electricity.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "electricity production",
-    "energy services",
-    "power generation",
-    "Swiss energy",
-    "renewable energy",
-    "energy trading",
-    "energy solutions"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ca6dd273-b515-5ec1-b1a5-b3be78fe397f"
 }

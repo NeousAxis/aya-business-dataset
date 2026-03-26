@@ -1,20 +1,11 @@
 {
   "entity_id": "dd4f2fd6-a861-5eb2-bb44-752ef3087645",
   "name": "StreamYard",
-  "what_it_does": "StreamYard is a live streaming studio in your browser, allowing users to create and broadcast live video content.",
+  "what_it_does": "StreamYard is a live streaming studio in your browser, enabling users to easily create and broadcast professional live streams.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "live streaming",
-    "broadcasting studio",
-    "live video production",
-    "webcasting",
-    "video conferencing",
-    "remote broadcasting",
-    "online events",
-    "social broadcasting"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dd4f2fd6-a861-5eb2-bb44-752ef3087645"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "09848fc2-df74-5439-91e2-680afc9fb882",
   "name": "SHISEIDO",
-  "what_it_does": "Shiseido manufactures and sells cosmetics, skincare, fragrance and personal care products.",
+  "what_it_does": "Shiseido manufactures and sells skincare, makeup, and fragrance products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [
-    "skincare products",
-    "cosmetics",
-    "makeup",
-    "fragrances",
-    "beauty products",
-    "japanese brand",
-    "personal care"
-  ],
+  "keywords": [],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/09848fc2-df74-5439-91e2-680afc9fb882"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "de140748-e9e9-5bc1-88c2-e173435973e6",
   "name": "Jasper",
-  "what_it_does": "Jasper is an AI writing assistant platform.",
+  "what_it_does": "Jasper.ai provides an AI-powered content creation platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "AI writing assistant",
-    "content creation",
-    "marketing copy",
-    "natural language generation",
-    "AI copywriting",
-    "SEO content",
-    "blog post generation",
-    "automation writing"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/de140748-e9e9-5bc1-88c2-e173435973e6"
 }

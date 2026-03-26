@@ -1,20 +1,11 @@
 {
   "entity_id": "07fc0da8-f67c-5d36-9281-2079c0ecca98",
   "name": "Virtual Vocations",
-  "what_it_does": "Virtual Vocations is a job board specializing in remote employment opportunities.",
+  "what_it_does": "Virtual Vocations is a job board specializing in remote and work-from-home job opportunities.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "remote jobs",
-    "telecommuting jobs",
-    "virtual jobs",
-    "work from home",
-    "remote career",
-    "job board",
-    "remote employment",
-    "virtual positions"
-  ],
+  "keywords": [],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/07fc0da8-f67c-5d36-9281-2079c0ecca98"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "1d9689a0-2e6b-5fe7-ac0d-2266fa1d054e",
   "name": "Lenskart.com",
-  "what_it_does": "Lenskart.com is an online retailer specializing in eyeglasses and eyewear.",
+  "what_it_does": "Lenskart.com is an online retailer selling eyeglasses and contact lenses.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Saudi Arabia",
-  "keywords": [
-    "eyeglasses",
-    "prescription glasses",
-    "eyewear retail",
-    "online eyewear",
-    "sunglasses",
-    "contact lenses",
-    "optical products",
-    "Lenskart eyewear"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1d9689a0-2e6b-5fe7-ac0d-2266fa1d054e"
 }

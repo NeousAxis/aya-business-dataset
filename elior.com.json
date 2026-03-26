@@ -1,20 +1,11 @@
 {
   "entity_id": "64a47b2f-26cc-58b6-8c7f-4f436aa147e5",
   "name": "Elior",
-  "what_it_does": "Elior provides contract catering and support services to businesses, schools, and hospitals.",
+  "what_it_does": "Elior provides contract catering and support services to businesses and institutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "contract catering",
-    "foodservices",
-    "institutional catering",
-    "restaurant concessions",
-    "employee restaurants",
-    "school catering",
-    "healthcare catering",
-    "catering services"
-  ],
+  "keywords": [],
   "aio_score": 22.0,
   "certificate_url": "https://ai-visionary.com/aya/e/64a47b2f-26cc-58b6-8c7f-4f436aa147e5"
 }

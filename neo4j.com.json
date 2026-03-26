@@ -1,20 +1,11 @@
 {
   "entity_id": "668c0ffa-b111-5e18-b9a4-52132aec9123",
   "name": "Neo4j Graph Intelligence Platform",
-  "what_it_does": "Neo4j provides a graph database management system.",
+  "what_it_does": "Neo4j offers a graph database management system.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [
-    "graph database",
-    "NoSQL database",
-    "data relationships",
-    "graph analytics",
-    "data visualization",
-    "connected data",
-    "data management",
-    "graph intelligence"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/668c0ffa-b111-5e18-b9a4-52132aec9123"
 }

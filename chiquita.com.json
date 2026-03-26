@@ -1,20 +1,11 @@
 {
   "entity_id": "fb89ecae-ad7b-5212-9a0e-c25458c34680",
   "name": "Chiquita",
-  "what_it_does": "Chiquita produces and distributes bananas.",
+  "what_it_does": "Chiquita Brands International is a producer and distributor of bananas and other produce.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "bananas",
-    "fresh fruit",
-    "tropical fruit",
-    "fruit distribution",
-    "chiquita bananas",
-    "produce",
-    "agricultural products",
-    "fruit importer"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fb89ecae-ad7b-5212-9a0e-c25458c34680"
 }

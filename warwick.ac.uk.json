@@ -1,19 +1,11 @@
 {
   "entity_id": "3e446088-8f76-56bf-8c99-9837a2e5611a",
   "name": "University of Warwick",
-  "what_it_does": "The University of Warwick is a UK-based higher education institution offering undergraduate and postgraduate degrees.",
+  "what_it_does": "The University of Warwick is a UK-based higher education institution offering undergraduate and postgraduate programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
-  "keywords": [
-    "university",
-    "higher education",
-    "undergraduate programs",
-    "postgraduate programs",
-    "academic research",
-    "Warwick England",
-    "degree courses"
-  ],
+  "keywords": [],
   "aio_score": 69.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3e446088-8f76-56bf-8c99-9837a2e5611a"
 }

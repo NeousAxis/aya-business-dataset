@@ -1,19 +1,11 @@
 {
   "entity_id": "6069a865-bf6f-5e18-82f5-947be8d42915",
   "name": "Scalable Capital",
-  "what_it_does": "Scalable Capital is a German online broker providing automated investment management services.",
+  "what_it_does": "Scalable Capital offers an online investment platform for automated portfolio management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Austria",
-  "keywords": [
-    "online brokerage",
-    "automated investment",
-    "robo-advisor",
-    "investment management",
-    "financial investments",
-    "ETF savings plans",
-    "german brokerage"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6069a865-bf6f-5e18-82f5-947be8d42915"
 }

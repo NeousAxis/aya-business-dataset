@@ -1,19 +1,11 @@
 {
   "entity_id": "1a91b7ed-8ffc-5c41-a2ee-857354b889c9",
   "name": "iTel Networks Inc.",
-  "what_it_does": "iTel Networks Inc. likely provides telecommunications services and equipment.",
+  "what_it_does": "iTel Networks likely provides telecommunications or internet services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "telecommunications equipment",
-    "network solutions",
-    "communication infrastructure",
-    "data transmission",
-    "IT networking",
-    "connectivity solutions",
-    "telecom services"
-  ],
+  "keywords": [],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1a91b7ed-8ffc-5c41-a2ee-857354b889c9"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "b0fdd5f9-736c-567d-be90-90a50d0c10e9",
   "name": "Singtel",
-  "what_it_does": "Singtel is a telecommunications company providing mobile, internet, and television services.",
+  "what_it_does": "Singtel is a telecommunications company providing mobile, internet, and TV services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "telecommunications",
-    "mobile services",
-    "internet access",
-    "pay television",
-    "data communication",
-    "singapore telecom",
-    "fixed line services",
-    "enterprise solutions"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b0fdd5f9-736c-567d-be90-90a50d0c10e9"
 }

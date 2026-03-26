@@ -1,20 +1,11 @@
 {
   "entity_id": "7f4411e7-d724-5338-a57c-350931537a52",
   "name": "Explore the Enhanced Citrix Platform",
-  "what_it_does": "Citrix offers desktop virtualization, networking, and cloud computing technologies.",
+  "what_it_does": "Citrix provides virtualization, networking, and software as a service (SaaS) technologies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "desktop virtualization",
-    "application delivery",
-    "cloud networking",
-    "virtual apps",
-    "remote access",
-    "workspace solutions",
-    "Citrix Virtual Apps and Desktops",
-    "application virtualization"
-  ],
+  "keywords": [],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7f4411e7-d724-5338-a57c-350931537a52"
 }

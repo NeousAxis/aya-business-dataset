@@ -1,19 +1,11 @@
 {
   "entity_id": "ecf1df18-b608-57c1-b6a4-11e00ef30e4f",
   "name": "Lesroches",
-  "what_it_does": "Les Roches is a hospitality management school.",
+  "what_it_does": "Les Roches is an international hospitality management school.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "hospitality education",
-    "hotel management school",
-    "culinary arts",
-    "tourism degrees",
-    "hotel administration",
-    "hospitality degrees",
-    "international hospitality"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ecf1df18-b608-57c1-b6a4-11e00ef30e4f"
 }

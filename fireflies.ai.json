@@ -1,19 +1,11 @@
 {
   "entity_id": "cd7eb764-ea9a-5e83-8631-85b00bde5fcf",
   "name": "Fireflies.ai",
-  "what_it_does": "Fireflies.ai offers an AI-powered meeting recording and transcription platform.",
+  "what_it_does": "Fireflies.ai develops AI-powered meeting transcription and summarization software.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Brazil",
-  "keywords": [
-    "meeting transcription",
-    "AI meeting assistant",
-    "voice to text",
-    "meeting notes",
-    "meeting recording",
-    "collaboration tools",
-    "fireflies"
-  ],
+  "keywords": [],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cd7eb764-ea9a-5e83-8631-85b00bde5fcf"
 }

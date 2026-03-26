@@ -1,20 +1,11 @@
 {
   "entity_id": "42f2d2b0-7ae6-568a-9b31-2a31eac8a69c",
   "name": "Tele2",
-  "what_it_does": "Tele2 is a European telecommunications operator providing mobile and fixed-line services.",
+  "what_it_does": "Tele2 is a telecommunications operator providing mobile and fixed-line services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "mobile telecommunications",
-    "fixed-line services",
-    "European telecom",
-    "mobile internet",
-    "data plans",
-    "voice communication",
-    "internet provider",
-    "telecom operator"
-  ],
+  "keywords": [],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/42f2d2b0-7ae6-568a-9b31-2a31eac8a69c"
 }

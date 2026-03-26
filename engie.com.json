@@ -1,19 +1,11 @@
 {
   "entity_id": "0c103a7d-0fe1-523b-b5f2-4f2f95434a19",
   "name": "| ENGIE",
-  "what_it_does": "ENGIE is a global energy company involved in electricity generation, natural gas, and energy services.",
+  "what_it_does": "ENGIE seems to be a news and media platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "energy production",
-    "natural gas",
-    "electricity generation",
-    "energy services",
-    "renewable energy",
-    "energy transition",
-    "low-carbon energy"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0c103a7d-0fe1-523b-b5f2-4f2f95434a19"
 }

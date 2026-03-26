@@ -1,20 +1,11 @@
 {
   "entity_id": "b727d294-84aa-5bb9-a841-00af21b1b06d",
   "name": "JetBlue",
-  "what_it_does": "JetBlue is a low-cost passenger airline.",
+  "what_it_does": "JetBlue is a low-cost American airline offering passenger flights.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "budget airline",
-    "passenger flights",
-    "air travel",
-    "low cost carrier",
-    "airline tickets",
-    "domestic flights",
-    "international flights",
-    "air transportation"
-  ],
-  "aio_score": 48.0,
+  "keywords": [],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b727d294-84aa-5bb9-a841-00af21b1b06d"
 }

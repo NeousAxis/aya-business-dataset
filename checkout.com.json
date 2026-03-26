@@ -1,19 +1,11 @@
 {
   "entity_id": "125487e7-a8d6-5256-ae5e-589690394a17",
   "name": "Checkout",
-  "what_it_does": "Checkout.com is an online payment platform that provides payment processing solutions for businesses.",
+  "what_it_does": "Checkout.com provides online payment processing solutions for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "payment processing",
-    "payment gateway",
-    "online payments",
-    "ecommerce payments",
-    "global payments",
-    "payment solutions",
-    "merchant payments"
-  ],
+  "keywords": [],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/125487e7-a8d6-5256-ae5e-589690394a17"
 }

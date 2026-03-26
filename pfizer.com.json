@@ -1,20 +1,11 @@
 {
   "entity_id": "328f893f-5eaa-5ddd-81cb-319a515d6347",
   "name": "Pfizer",
-  "what_it_does": "Pfizer is a pharmaceutical company that develops and manufactures medicines and vaccines.",
+  "what_it_does": "Pfizer is a pharmaceutical company that develops and manufactures vaccines and medicines.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "pharmaceuticals",
-    "vaccine development",
-    "drug manufacturing",
-    "prescription medications",
-    "biopharmaceuticals",
-    "healthcare products",
-    "immunology",
-    "oncology drugs"
-  ],
-  "aio_score": 50.0,
+  "keywords": [],
+  "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/328f893f-5eaa-5ddd-81cb-319a515d6347"
 }

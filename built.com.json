@@ -1,20 +1,11 @@
 {
   "entity_id": "0b3eee7f-9099-52b5-9e4f-16d3aeaa3d90",
   "name": "BUILT",
-  "what_it_does": "BUILT sells protein bars and protein-enhanced snacks online.",
+  "what_it_does": "Built is a construction finance platform that provides software for managing construction lending.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [
-    "building materials",
-    "construction supplies",
-    "home improvement",
-    "hardware",
-    "plumbing supplies",
-    "electrical supplies",
-    "online hardware",
-    "contractor supplies"
-  ],
+  "keywords": [],
   "aio_score": 63.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0b3eee7f-9099-52b5-9e4f-16d3aeaa3d90"
 }

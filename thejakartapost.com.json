@@ -1,20 +1,11 @@
 {
   "entity_id": "e3187b06-f67a-511d-b1c0-96913b0aabe2",
   "name": "The Jakarta Post",
-  "what_it_does": "The Jakarta Post is an English-language Indonesian newspaper.",
+  "what_it_does": "The Jakarta Post is an English-language newspaper based in Indonesia.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "Indonesian news",
-    "English-language newspaper",
-    "Jakarta news",
-    "Asian news",
-    "political news",
-    "business news",
-    "Indonesian daily",
-    "international news"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e3187b06-f67a-511d-b1c0-96913b0aabe2"
 }

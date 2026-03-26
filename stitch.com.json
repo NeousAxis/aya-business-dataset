@@ -1,20 +1,11 @@
 {
   "entity_id": "d7873c28-f408-51a3-8b34-9cd2463b0dff",
   "name": "Stitch",
-  "what_it_does": "Stitch likely provides a platform for content creators to manage and monetize their work.",
+  "what_it_does": "Stitch provides podcast hosting and listening services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "data integration",
-    "API integration",
-    "data pipelines",
-    "developer tools",
-    "data extraction",
-    "ETL",
-    "data platform",
-    "data connectivity"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d7873c28-f408-51a3-8b34-9cd2463b0dff"
 }

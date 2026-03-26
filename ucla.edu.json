@@ -1,19 +1,11 @@
 {
   "entity_id": "15ce1fb6-b36b-5aa9-913a-e4f14eadcb46",
   "name": "UCLA",
-  "what_it_does": "UCLA is a public research university in Los Angeles offering a range of academic programs.",
+  "what_it_does": "UCLA is a public research university providing undergraduate and graduate education.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
-  "keywords": [
-    "public university",
-    "research university",
-    "academic programs",
-    "higher education",
-    "los angeles",
-    "undergraduate studies",
-    "graduate studies"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/15ce1fb6-b36b-5aa9-913a-e4f14eadcb46"
 }

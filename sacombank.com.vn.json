@@ -1,17 +1,11 @@
 {
   "entity_id": "4bd6d6ad-f438-5bbf-841c-15e33852c095",
   "name": "Trang dành cho Khách hàng cá nhân",
-  "what_it_does": "Sacombank is a Vietnamese commercial bank offering financial services to individual customers.",
+  "what_it_does": "Sacombank is a Vietnamese commercial bank offering financial services to individuals.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "commercial banking",
-    "financial services",
-    "retail banking",
-    "personal finance",
-    "banking"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4bd6d6ad-f438-5bbf-841c-15e33852c095"
 }

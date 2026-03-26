@@ -1,20 +1,11 @@
 {
   "entity_id": "e0e20e8b-0608-50bc-a03c-c7277b59e1d2",
   "name": "KIRIN",
-  "what_it_does": "Kirin Holdings is a Japanese company producing beverages, pharmaceuticals, and biochemical products.",
+  "what_it_does": "Kirin Holdings is a Japanese beverage and pharmaceutical company.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "beverage products",
-    "pharmaceuticals",
-    "biochemical products",
-    "Japanese beverage",
-    "kirin pharma",
-    "kirin beverage",
-    "healthcare products",
-    "research and development"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e0e20e8b-0608-50bc-a03c-c7277b59e1d2"
 }

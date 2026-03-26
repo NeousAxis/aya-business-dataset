@@ -1,19 +1,11 @@
 {
   "entity_id": "7ce86fc8-75d6-5d23-ba2a-6f4a8d509d04",
   "name": "StarHub",
-  "what_it_does": "StarHub likely provides telecommunications services, including mobile, internet, and pay TV.",
+  "what_it_does": "StarHub is a telecommunications company in Singapore, not related to luxury goods.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [
-    "singapore telecommunications",
-    "mobile services",
-    "broadband",
-    "pay television",
-    "fixed line",
-    "telecom services",
-    "entertainment"
-  ],
+  "keywords": [],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7ce86fc8-75d6-5d23-ba2a-6f4a8d509d04"
 }

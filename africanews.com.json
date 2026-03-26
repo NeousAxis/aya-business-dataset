@@ -1,20 +1,11 @@
 {
   "entity_id": "9bcc0529-ca3e-5ddf-8b03-f2417974306a",
   "name": "Africanews",
-  "what_it_does": "Africanews is a pan-African multilingual news channel.",
+  "what_it_does": "Africanews is a pan-African news channel providing news and current affairs from an African perspective.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "pan-African news",
-    "multilingual news",
-    "African news channel",
-    "international news",
-    "current affairs",
-    "Africanews",
-    "news broadcasting",
-    "global news"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9bcc0529-ca3e-5ddf-8b03-f2417974306a"
 }

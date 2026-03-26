@@ -1,20 +1,11 @@
 {
   "entity_id": "47dc544c-4d33-53d5-afba-2e81ba4d825f",
   "name": "Sky",
-  "what_it_does": "Sky offers television, broadband internet, and mobile phone services.",
+  "what_it_does": "Sky provides television, broadband internet, and mobile phone services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Kingdom",
-  "keywords": [
-    "television",
-    "broadband internet",
-    "mobile phone",
-    "UK telecom",
-    "pay TV",
-    "telecommunications",
-    "entertainment services",
-    "digital TV"
-  ],
+  "keywords": [],
   "aio_score": 69.0,
   "certificate_url": "https://ai-visionary.com/aya/e/47dc544c-4d33-53d5-afba-2e81ba4d825f"
 }

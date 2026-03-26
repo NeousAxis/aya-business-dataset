@@ -1,20 +1,11 @@
 {
   "entity_id": "93bec45f-0947-59c0-af51-3027bbf0eb89",
   "name": "Cohere",
-  "what_it_does": "Cohere offers large language models and APIs for developers and businesses.",
+  "what_it_does": "Cohere offers an API for building natural language processing applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "natural language processing",
-    "NLP models",
-    "machine learning APIs",
-    "AI development tools",
-    "text generation",
-    "language understanding",
-    "AI platform",
-    "neural networks"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/93bec45f-0947-59c0-af51-3027bbf0eb89"
 }

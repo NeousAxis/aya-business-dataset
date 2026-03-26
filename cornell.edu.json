@@ -1,20 +1,11 @@
 {
   "entity_id": "2091515b-8568-5a1b-ad3c-fa3c397e26ac",
   "name": "Cornell University",
-  "what_it_does": "Cornell University is a private Ivy League research university that offers undergraduate and graduate programs.",
+  "what_it_does": "Cornell University is a private Ivy League research university in Ithaca, New York.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "Ivy League university",
-    "research university",
-    "higher education",
-    "undergraduate programs",
-    "graduate programs",
-    "academic research",
-    "university degrees",
-    "professional programs"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2091515b-8568-5a1b-ad3c-fa3c397e26ac"
 }

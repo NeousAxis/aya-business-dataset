@@ -1,20 +1,11 @@
 {
   "entity_id": "cb29ce7a-ae9f-58ca-a8bb-cc10753a94de",
   "name": "UPM",
-  "what_it_does": "UPM is a global forest industry company that produces paper, pulp, and other wood-based products.",
+  "what_it_does": "UPM is a Finnish forest industry company producing paper, pulp, and timber.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Finland",
-  "keywords": [
-    "paper manufacturing",
-    "pulp production",
-    "forest products",
-    "packaging materials",
-    "graphic papers",
-    "sustainable forestry",
-    "wood-based biomass",
-    "UPM"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cb29ce7a-ae9f-58ca-a8bb-cc10753a94de"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "b376ce89-c1b1-5159-ba0a-971d8faf8bc3",
   "name": "Sabbour Consulting",
-  "what_it_does": "Sabbour Consulting is a multi-disciplinary engineering and architectural consultancy firm.",
+  "what_it_does": "Sabbour Consulting offers engineering and architectural design services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "engineering",
-    "architecture",
-    "construction",
-    "urban planning",
-    "project management",
-    "infrastructure development",
-    "design consultancy",
-    "multidisciplinary consulting"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b376ce89-c1b1-5159-ba0a-971d8faf8bc3"
 }

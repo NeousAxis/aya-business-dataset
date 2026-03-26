@@ -1,19 +1,11 @@
 {
   "entity_id": "924c48f6-0f3a-5f1e-8bf5-4abd2b224f8b",
   "name": "WWF Schweiz",
-  "what_it_does": "WWF Schweiz (Switzerland) is a conservation organization working to protect the environment.",
+  "what_it_does": "WWF Schweiz (Switzerland) is a conservation organization that works to protect nature and the environment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "environmental protection",
-    "nature conservation",
-    "wildlife preservation",
-    "biodiversity",
-    "swiss environment",
-    "ecological projects",
-    "environmental advocacy"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/924c48f6-0f3a-5f1e-8bf5-4abd2b224f8b"
 }

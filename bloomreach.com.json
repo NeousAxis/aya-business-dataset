@@ -1,20 +1,11 @@
 {
   "entity_id": "637fad03-2f7f-5a2b-8e91-2c63480f325f",
   "name": "Bloomreach",
-  "what_it_does": "Bloomreach offers a commerce experience platform that uses AI-powered search and merchandising to personalize customer experiences.",
+  "what_it_does": "Bloomreach offers a digital experience platform that helps businesses personalize and optimize customer experiences.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "commerce experience",
-    "AI merchandising",
-    "product discovery",
-    "ecommerce search",
-    "personalization",
-    "search optimization",
-    "customer journey",
-    "e-commerce"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/637fad03-2f7f-5a2b-8e91-2c63480f325f"
 }

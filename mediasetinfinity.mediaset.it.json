@@ -1,20 +1,11 @@
 {
   "entity_id": "fece7293-d120-5623-943d-a955b08335c2",
   "name": "Mediaset Infinity",
-  "what_it_does": "Mediaset Infinity is an Italian streaming platform offering on-demand and live television content.",
+  "what_it_does": "Mediaset Infinity is an Italian streaming service offering Mediaset television content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Italy",
-  "keywords": [
-    "streaming platform",
-    "Italian content",
-    "movies",
-    "TV shows",
-    "on-demand video",
-    "television streaming",
-    "series",
-    "video content"
-  ],
+  "keywords": [],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fece7293-d120-5623-943d-a955b08335c2"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "4def0ae8-ed7b-534c-bf05-b75769ee1948",
   "name": "Căutarea nu se oprește niciodată",
-  "what_it_does": "Emag.ro is a Romanian online retailer selling a wide range of products, similar to Amazon.",
+  "what_it_does": "eMAG is a Romanian online retailer selling a wide variety of consumer products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Romania",
-  "keywords": [
-    "electronics retailer",
-    "consumer electronics",
-    "home appliances",
-    "fashion retailer",
-    "Romanian retailer",
-    "online marketplace",
-    "e-commerce"
-  ],
+  "keywords": [],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4def0ae8-ed7b-534c-bf05-b75769ee1948"
 }

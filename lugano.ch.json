@@ -1,19 +1,11 @@
 {
   "entity_id": "6eab116e-c0e8-5698-a938-a5b5d1fba05e",
   "name": "Città di Lugano",
-  "what_it_does": "Città di Lugano is the official website for the municipality of Lugano, Switzerland, providing information about local government, services, and tourism.",
+  "what_it_does": "Città di Lugano is the official website for the municipality of Lugano, Switzerland, providing city services and information.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "Lugano city",
-    "Swiss tourism",
-    "municipal information",
-    "city services",
-    "local attractions",
-    "Lugano events",
-    "Switzerland travel"
-  ],
-  "aio_score": 30.0,
+  "keywords": [],
+  "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6eab116e-c0e8-5698-a938-a5b5d1fba05e"
 }

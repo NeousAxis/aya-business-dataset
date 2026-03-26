@@ -1,20 +1,20 @@
 {
-  "entity_id": "3f59abba-c7d0-536c-bd1f-fcb53ec05ba2",
+  "entity_id": "644ba573-7f83-534b-ac79-16d60de63c3b",
   "name": "Jerónimo Martins",
-  "what_it_does": "Jerónimo Martins is a food distribution company operating supermarkets and drugstores.",
+  "what_it_does": "Jerónimo Martins is a Portuguese international food and retail company.",
   "for_who": "Businesses and professionals.",
-  "category": "Tourisme & Transport",
+  "category": "E-commerce & Retail",
   "location": "Portugal",
   "keywords": [
+    "supermarkets",
+    "grocery retail",
+    "pharmacies",
     "food retail",
-    "grocery stores",
-    "supermarket chains",
-    "retail distribution",
     "portuguese retail",
-    "food distribution",
-    "convenience stores",
-    "hypermarkets"
+    "polish retail",
+    "colombian retail",
+    "retail chain"
   ],
   "aio_score": 60.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/3f59abba-c7d0-536c-bd1f-fcb53ec05ba2"
+  "certificate_url": "https://ai-visionary.com/aya/e/644ba573-7f83-534b-ac79-16d60de63c3b"
 }

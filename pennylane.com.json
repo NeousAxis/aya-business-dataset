@@ -1,20 +1,11 @@
 {
   "entity_id": "671c44ff-718b-5eda-8673-a1b5f3493a08",
   "name": "Pennylane",
-  "what_it_does": "Pennylane likely provides consulting or professional services, perhaps relating to finance.",
+  "what_it_does": "Pennylane offers a financial management platform for businesses, likely including accounting and bookkeeping features.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [
-    "financial advice",
-    "business strategy",
-    "finance optimization",
-    "investment guidance",
-    "professional services",
-    "financial planning",
-    "corporate finance",
-    "wealth advisory"
-  ],
+  "keywords": [],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/671c44ff-718b-5eda-8673-a1b5f3493a08"
 }

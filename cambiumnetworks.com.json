@@ -1,20 +1,11 @@
 {
   "entity_id": "b3ddd6e7-6bcd-5817-92fa-05608b24b966",
   "name": "Cambium Networks",
-  "what_it_does": "Cambium Networks provides wireless networking solutions for businesses and governments.",
+  "what_it_does": "Cambium Networks provides wireless networking infrastructure solutions for various applications.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
-  "keywords": [
-    "wireless networking",
-    "enterprise networking",
-    "government networking",
-    "fixed wireless access",
-    "point-to-point",
-    "point-to-multipoint",
-    "network infrastructure",
-    "wireless broadband"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b3ddd6e7-6bcd-5817-92fa-05608b24b966"
 }

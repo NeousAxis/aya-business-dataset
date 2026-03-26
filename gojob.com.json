@@ -1,19 +1,11 @@
 {
   "entity_id": "d1e33654-352e-5347-ae5d-9f40f0f5064c",
   "name": "Gojob",
-  "what_it_does": "Gojob is a staffing platform connecting businesses with temporary workers.",
+  "what_it_does": "Gojob is a platform connecting temporary workers with available jobs.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [
-    "temporary staffing",
-    "recruitment platform",
-    "job board",
-    "staffing agency",
-    "hourly workers",
-    "employment",
-    "temp jobs"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d1e33654-352e-5347-ae5d-9f40f0f5064c"
 }

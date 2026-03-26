@@ -1,20 +1,11 @@
 {
   "entity_id": "205a1e09-2490-582c-b792-2abeb8f2c19b",
   "name": "Semrush",
-  "what_it_does": "Semrush offers a SaaS platform for search engine optimization and online visibility management.",
+  "what_it_does": "Semrush provides a SaaS platform for online visibility management, including SEO, content marketing, and competitive research.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [
-    "SEO tools",
-    "content marketing",
-    "keyword research",
-    "competitive analysis",
-    "advertising research",
-    "social media toolkit",
-    "rank tracking",
-    "website analytics"
-  ],
+  "keywords": [],
   "aio_score": 80.0,
   "certificate_url": "https://ai-visionary.com/aya/e/205a1e09-2490-582c-b792-2abeb8f2c19b"
 }

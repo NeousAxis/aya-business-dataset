@@ -1,20 +1,11 @@
 {
   "entity_id": "e691afcc-9978-5493-9ee7-ba60d2336f7b",
   "name": "Sound Devices",
-  "what_it_does": "Sound Devices designs and manufactures professional audio and video equipment for film, television, and music production.",
-  "for_who": "Businesses and professionals.",
-  "category": "E-commerce & Retail",
-  "location": "Global",
-  "keywords": [
-    "professional audio equipment",
-    "audio recorders",
-    "video recorders",
-    "field recorders",
-    "audio mixers",
-    "film production equipment",
-    "broadcast equipment",
-    "cinema audio"
-  ],
-  "aio_score": 54.0,
+  "what_it_does": "Sound Devices designs and manufactures audio and video products for film, television, and music production.",
+  "for_who": "Media professionals and audiences.",
+  "category": "Media & Communication",
+  "location": "Belgium",
+  "keywords": [],
+  "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e691afcc-9978-5493-9ee7-ba60d2336f7b"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "5daf6bbd-50e1-532a-b1b3-7e7234eec400",
   "name": "Buderus",
-  "what_it_does": "Buderus likely operates a media distribution service.",
+  "what_it_does": "Buderus.de likely provides heating and energy solutions in Luxembourg.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Luxembourg",
-  "keywords": [
-    "heating systems",
-    "boiler technology",
-    "thermostats",
-    "residential heating",
-    "commercial heating",
-    "Bosch thermotechnology",
-    "heating components",
-    "renewable heating"
-  ],
+  "keywords": [],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5daf6bbd-50e1-532a-b1b3-7e7234eec400"
 }

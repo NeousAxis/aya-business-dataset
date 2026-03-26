@@ -1,20 +1,11 @@
 {
   "entity_id": "2e91aa04-974c-5730-88cc-08b2f1681546",
   "name": "Politecnico di Milano",
-  "what_it_does": "Politecnico di Milano is a scientific-technological university in Milan, Italy.",
+  "what_it_does": "Politecnico di Milano is a public scientific and technological university in Milan, Italy.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Italy",
-  "keywords": [
-    "engineering university",
-    "architecture",
-    "design",
-    "Italian university",
-    "higher education",
-    "research",
-    "Milan",
-    "polytechnic"
-  ],
+  "keywords": [],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2e91aa04-974c-5730-88cc-08b2f1681546"
 }

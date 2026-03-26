@@ -1,19 +1,11 @@
 {
   "entity_id": "4d5142fb-8583-5e04-b00e-39fa7c4478de",
   "name": "Comau",
-  "what_it_does": "Comau designs and manufactures industrial automation systems and robots.",
+  "what_it_does": "Comau specializes in industrial automation systems and robotics.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "industrial automation systems",
-    "manufacturing robots",
-    "robotics",
-    "automation solutions",
-    "assembly lines",
-    "welding robots",
-    "automotive manufacturing"
-  ],
+  "keywords": [],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4d5142fb-8583-5e04-b00e-39fa7c4478de"
 }

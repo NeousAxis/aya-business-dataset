@@ -1,20 +1,11 @@
 {
   "entity_id": "23549b33-1102-525e-8cfc-ec9679c62d3e",
   "name": "Banking, Investing & Commercial Financing",
-  "what_it_does": "Everbank provides online banking, investing, and commercial financing services.",
+  "what_it_does": "EverBank is a US-based bank offering online banking, investing, and commercial financing services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "banking",
-    "commercial financing",
-    "online banking",
-    "investment products",
-    "mortgage solutions",
-    "high-yield accounts",
-    "treasury direct",
-    "private client banking"
-  ],
+  "keywords": [],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/23549b33-1102-525e-8cfc-ec9679c62d3e"
 }

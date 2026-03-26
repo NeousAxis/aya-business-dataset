@@ -1,19 +1,11 @@
 {
   "entity_id": "c7f498e9-dd8c-504d-bebc-cde3448ed82e",
   "name": "WHU",
-  "what_it_does": "WHU is a German business school offering undergraduate and postgraduate degrees.",
+  "what_it_does": "WHU - Otto Beisheim School of Management is a private business school in Germany offering undergraduate and graduate programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Germany",
-  "keywords": [
-    "école de commerce",
-    "programmes de gestion",
-    "études supérieures",
-    "formation en gestion",
-    "whu",
-    "programmes de premier cycle",
-    "formation executive"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c7f498e9-dd8c-504d-bebc-cde3448ed82e"
 }

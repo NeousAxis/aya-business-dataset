@@ -1,20 +1,11 @@
 {
   "entity_id": "18c2fb43-d9b4-548d-badf-e1e39a707570",
   "name": "The Wonderful\nCompany :",
-  "what_it_does": "The Wonderful Company produces and markets agricultural products like fruits, nuts, and beverages.",
+  "what_it_does": "The Wonderful Company is a food and beverage company known for brands like POM Wonderful and Fiji Water.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "agricultural products",
-    "pistachios",
-    "almonds",
-    "citrus fruits",
-    "farming",
-    "produce",
-    "food products",
-    "nut cultivation"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/18c2fb43-d9b4-548d-badf-e1e39a707570"
 }

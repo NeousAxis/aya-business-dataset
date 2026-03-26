@@ -1,20 +1,11 @@
 {
   "entity_id": "59b95f09-76e4-5ba2-ac62-d88e0361656d",
   "name": "Shopee",
-  "what_it_does": "Shopee is an e-commerce platform primarily operating in Southeast Asia and Latin America.",
+  "what_it_does": "Shopee is an e-commerce platform connecting buyers and sellers across Southeast Asia and Latin America.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Singapore",
-  "keywords": [
-    "Southeast Asia e-commerce",
-    "mobile marketplace",
-    "cross-border commerce",
-    "social commerce",
-    "online retail",
-    "consumer goods",
-    "e-payments",
-    "shopping platform"
-  ],
+  "keywords": [],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/59b95f09-76e4-5ba2-ac62-d88e0361656d"
 }

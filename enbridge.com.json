@@ -1,17 +1,11 @@
 {
   "entity_id": "e140d821-5fe4-50e9-9f11-94fd42e6a684",
   "name": "Enbridge Inc.",
-  "what_it_does": "Enbridge operates and maintains pipelines for the transportation of crude oil and natural gas.",
+  "what_it_does": "Enbridge Inc. is a multinational energy transportation company focusing on pipelines.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "oil pipelines",
-    "gas pipelines",
-    "crude oil",
-    "natural gas",
-    "transportation"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e140d821-5fe4-50e9-9f11-94fd42e6a684"
 }

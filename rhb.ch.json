@@ -1,17 +1,11 @@
 {
   "entity_id": "f83227b4-13cd-5294-8d7c-b3f2395126a0",
   "name": "Rhätische Bahn",
-  "what_it_does": "Rhätische Bahn (RhB) operates a narrow-gauge railway network in the Swiss Alps.",
+  "what_it_does": "Rhätische Bahn operates a network of railway lines in the Swiss Alps, providing passenger and freight transport.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "railway",
-    "trains",
-    "transportation",
-    "tourism",
-    "rail network"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f83227b4-13cd-5294-8d7c-b3f2395126a0"
 }

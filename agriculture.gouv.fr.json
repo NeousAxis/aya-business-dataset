@@ -1,20 +1,11 @@
 {
   "entity_id": "81a84a46-7f8f-5ff0-b4fe-5f228244397d",
   "name": "Ministère de l'Agriculture",
-  "what_it_does": "The French Ministry of Agriculture is responsible for agricultural policy and regulations in France.",
+  "what_it_does": "The French Ministry of Agriculture is a government department responsible for agricultural policy, food safety, and rural development.",
   "for_who": "Businesses and professionals.",
   "category": "Administration & Public",
   "location": "France",
-  "keywords": [
-    "French agriculture",
-    "agricultural policy",
-    "farming regulations",
-    "food safety",
-    "agricultural development",
-    "rural affairs",
-    "agricultural subsidies",
-    "French farming"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/81a84a46-7f8f-5ff0-b4fe-5f228244397d"
 }

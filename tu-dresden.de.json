@@ -1,20 +1,11 @@
 {
   "entity_id": "0d9e4a70-1607-5f79-9ede-7b0c6634d616",
   "name": "Technische Universität Dresden",
-  "what_it_does": "Technische Universität Dresden is a public research university.",
+  "what_it_does": "Technische Universität Dresden is a public university in Dresden, Germany, offering a wide range of academic programs and research opportunities.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "research university",
-    "higher education",
-    "scientific research",
-    "engineering programs",
-    "academic institution",
-    "Dresden university",
-    "public university",
-    "German university"
-  ],
+  "keywords": [],
   "aio_score": 29.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0d9e4a70-1607-5f79-9ede-7b0c6634d616"
 }

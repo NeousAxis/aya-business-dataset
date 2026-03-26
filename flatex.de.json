@@ -1,18 +1,11 @@
 {
   "entity_id": "f8a45ffc-aca1-5801-b808-d30700c18f93",
   "name": "flatex",
-  "what_it_does": "flatex offers online brokerage services for trading securities.",
+  "what_it_does": "Flatex is a German online broker offering securities trading.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Austria",
-  "keywords": [
-    "online brokerage",
-    "securities trading",
-    "stock market",
-    "financial instruments",
-    "investment platform",
-    "retail investors"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f8a45ffc-aca1-5801-b808-d30700c18f93"
 }

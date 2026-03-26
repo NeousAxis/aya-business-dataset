@@ -1,17 +1,11 @@
 {
   "entity_id": "fb76a0ec-d67f-5f37-8b87-a301faefaaa6",
   "name": "Cosmopolitan",
-  "what_it_does": "Cosmopolitan is a women's magazine covering fashion, beauty, relationships, and celebrity news.",
+  "what_it_does": "Cosmopolitan is a women's magazine covering fashion, beauty, relationships, and entertainment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "magazine",
-    "fashion",
-    "beauty",
-    "relationships",
-    "celebrity news"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fb76a0ec-d67f-5f37-8b87-a301faefaaa6"
 }

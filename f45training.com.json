@@ -1,20 +1,11 @@
 {
   "entity_id": "afcc6480-46bd-56cd-ac0d-2847ca2ebb1b",
   "name": "F45 Training",
-  "what_it_does": "F45 Training is a fitness franchise offering group workouts.",
+  "what_it_does": "F45 Training operates a fitness franchise offering group workouts based on high-intensity interval training.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [
-    "group fitness",
-    "functional training",
-    "HIIT workouts",
-    "franchise gyms",
-    "circuit training",
-    "strength training",
-    "cardio workouts",
-    "fitness studios"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/afcc6480-46bd-56cd-ac0d-2847ca2ebb1b"
 }

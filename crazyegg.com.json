@@ -1,20 +1,11 @@
 {
   "entity_id": "bd814961-913e-5d03-af39-336c3d4a500e",
   "name": "Crazy Egg Website",
-  "what_it_does": "Crazy Egg Website provides website heatmap and user behavior analytics tools.",
+  "what_it_does": "Crazy Egg provides website analytics tools, including heatmaps and session recordings.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "cartes thermiques de site web",
-    "analyse du comportement des utilisateurs",
-    "tests A/B",
-    "optimisation de la conversion",
-    "expérience utilisateur",
-    "analyse web",
-    "suivi du site",
-    "heatmaps"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bd814961-913e-5d03-af39-336c3d4a500e"
 }

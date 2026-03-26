@@ -1,19 +1,11 @@
 {
   "entity_id": "28f8aa2d-ebcc-5849-bb47-34d4a62ea0d2",
   "name": "SCOR",
-  "what_it_does": "SCOR is a global reinsurance company.",
+  "what_it_does": "SCOR is likely a media and communication company involved in insurance-related news and information.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "reinsurance",
-    "risk management",
-    "global reinsurance",
-    "life reinsurance",
-    "property reinsurance",
-    "casualty reinsurance",
-    "underwriting"
-  ],
+  "keywords": [],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/28f8aa2d-ebcc-5849-bb47-34d4a62ea0d2"
 }

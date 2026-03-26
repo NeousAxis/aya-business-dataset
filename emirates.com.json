@@ -1,17 +1,11 @@
 {
   "entity_id": "8d518e8e-f197-54c1-a811-8b0c33d674c6",
   "name": "Emirates",
-  "what_it_does": "Emirates is a major international airline based in Dubai, United Arab Emirates.",
+  "what_it_does": "Emirates is an international airline based in Dubai.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "airline",
-    "aviation",
-    "international travel",
-    "passenger transport",
-    "freight transport"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8d518e8e-f197-54c1-a811-8b0c33d674c6"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "29bfe4f1-0b4a-5ced-9517-74eaeb34ab64",
   "name": "Country Selector",
-  "what_it_does": "Astonmartin.com provides a tool for selecting the version of the car based on country of origin.",
+  "what_it_does": "Aston Martin manufactures luxury sports cars.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Australia",
-  "keywords": [
-    "car configuration",
-    "country selector",
-    "vehicle configuration",
-    "automotive selection",
-    "Aston Martin",
-    "car models",
-    "international automotive",
-    "car selection tool"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/29bfe4f1-0b4a-5ced-9517-74eaeb34ab64"
 }

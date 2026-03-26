@@ -1,19 +1,11 @@
 {
   "entity_id": "dffa62c5-e4b4-5081-934c-a86b8e2c1046",
   "name": "Immobilien Schweiz",
-  "what_it_does": "ImmoStreet.ch is a Swiss online real estate marketplace listing properties for sale and rent.",
+  "what_it_does": "ImmoStreet.ch is a real estate portal listing properties for sale and rent in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Switzerland",
-  "keywords": [
-    "swiss real estate",
-    "property listings",
-    "real estate portal",
-    "homes for sale",
-    "apartments for rent",
-    "commercial properties",
-    "switzerland property"
-  ],
+  "keywords": [],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dffa62c5-e4b4-5081-934c-a86b8e2c1046"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "d6d9d271-3955-5c8c-bdaa-bf1f911cf838",
   "name": "ZDNET",
-  "what_it_does": "ZDNet publishes news and reviews about technology and related industries.",
+  "what_it_does": "ZDNET publishes news, reviews, and analysis related to technology.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "technology news",
-    "tech reviews",
-    "product reviews",
-    "enterprise technology",
-    "IT news",
-    "tech industry analysis",
-    "tech trends",
-    "ZDNET"
-  ],
+  "keywords": [],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6d9d271-3955-5c8c-bdaa-bf1f911cf838"
 }

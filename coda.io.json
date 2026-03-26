@@ -1,20 +1,11 @@
 {
   "entity_id": "047cbfbb-b8f8-59c7-9c25-9851dc2e4e10",
   "name": "Coda",
-  "what_it_does": "Coda provides a platform for creating documents that combine the flexibility of documents with the power of apps.",
+  "what_it_does": "Coda likely provides a platform for creating customizable documents that combine the features of spreadsheets and documents.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "document collaboration",
-    "team collaboration",
-    "knowledge base",
-    "project documentation",
-    "collaborative documents",
-    "integrated documents",
-    "workflow management",
-    "document creation"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/047cbfbb-b8f8-59c7-9c25-9851dc2e4e10"
 }

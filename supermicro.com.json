@@ -1,19 +1,11 @@
 {
   "entity_id": "d6bd15c7-84fc-5130-9efa-e9196a865a61",
   "name": "Supermicro",
-  "what_it_does": "Supermicro designs and manufactures high-performance server and storage solutions.",
+  "what_it_does": "Supermicro manufactures high-performance server and storage solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "serveurs haute performance",
-    "solutions de stockage",
-    "Supermicro",
-    "matériel serveur",
-    "centres de données",
-    "serveurs",
-    "stockage de données"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6bd15c7-84fc-5130-9efa-e9196a865a61"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "fa268127-3bbc-587c-ac49-f46232a3ec90",
   "name": "Tax",
-  "what_it_does": "Baker Tilly provides tax and advisory services in Switzerland.",
+  "what_it_does": "Baker Tilly provides tax advisory and accounting services in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Switzerland",
-  "keywords": [
-    "tax advice",
-    "Swiss taxation",
-    "accounting",
-    "audit",
-    "financial advisory",
-    "tax planning",
-    "Switzerland tax"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fa268127-3bbc-587c-ac49-f46232a3ec90"
 }

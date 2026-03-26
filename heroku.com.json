@@ -1,19 +1,11 @@
 {
   "entity_id": "382e900d-84ed-50e3-af0c-be11f3f80961",
   "name": "Heroku",
-  "what_it_does": "Heroku provides a platform as a service (PaaS) for deploying and managing web applications.",
+  "what_it_does": "Heroku is a platform-as-a-service (PaaS) that enables developers to deploy and manage web applications.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [
-    "PaaS",
-    "web application deployment",
-    "application hosting",
-    "cloud platform",
-    "developer tools",
-    "application scalability",
-    "web application management"
-  ],
+  "keywords": [],
   "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/382e900d-84ed-50e3-af0c-be11f3f80961"
 }

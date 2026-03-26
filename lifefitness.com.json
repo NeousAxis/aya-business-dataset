@@ -1,20 +1,11 @@
 {
   "entity_id": "17085a29-ccee-5777-b5d7-354211b07d10",
   "name": "Life Fitness",
-  "what_it_does": "Life Fitness manufactures and sells fitness equipment.",
+  "what_it_does": "Life Fitness manufactures and distributes commercial and home fitness equipment.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Switzerland",
-  "keywords": [
-    "Fitness equipment",
-    "Exercise machines",
-    "Gym equipment",
-    "Cardio equipment",
-    "Strength training",
-    "Commercial fitness",
-    "Home fitness",
-    "Fitness solutions"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/17085a29-ccee-5777-b5d7-354211b07d10"
 }

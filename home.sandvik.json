@@ -1,19 +1,11 @@
 {
   "entity_id": "bf5157ed-4eda-54c6-916f-2f03322f6bcb",
   "name": "Sandvik Group",
-  "what_it_does": "Sandvik Group is an engineering company that develops and manufactures tools and tooling systems for metal cutting and other industrial applications.",
+  "what_it_does": "Sandvik Group is an engineering company providing tools and tooling systems for metal cutting, materials technology, mining and construction.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Sweden",
-  "keywords": [
-    "engineering tools",
-    "tooling systems",
-    "metal cutting",
-    "mining equipment",
-    "rock excavation",
-    "materials technology",
-    "stainless steel"
-  ],
+  "keywords": [],
   "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bf5157ed-4eda-54c6-916f-2f03322f6bcb"
 }

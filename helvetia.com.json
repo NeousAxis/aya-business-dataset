@@ -1,20 +1,11 @@
 {
   "entity_id": "0725535b-2d93-50f9-be3a-698db7a2f485",
   "name": "Helvetia",
-  "what_it_does": "Helvetia is a Swiss insurance company.",
+  "what_it_does": "Helvetia is a Swiss insurance company offering property, life, and casualty insurance.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss insurance",
-    "insurance",
-    "financial ",
-    "property insurance",
-    "life insurance",
-    "health insurance",
-    "accident insurance",
-    "insurance products"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0725535b-2d93-50f9-be3a-698db7a2f485"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "29c758ea-d500-590f-81bd-7be68b499637",
   "name": "Todoist",
-  "what_it_does": "Todoist is a task management and to-do list application.",
+  "what_it_does": "Todoist is a productivity app that helps users manage tasks and projects.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [
-    "task management",
-    "to-do lists",
-    "productivity tools",
-    "project tracking",
-    "task organizer",
-    "personal task",
-    "collaboration",
-    "Todoist"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/29c758ea-d500-590f-81bd-7be68b499637"
 }

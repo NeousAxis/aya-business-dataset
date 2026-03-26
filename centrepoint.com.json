@@ -1,20 +1,11 @@
 {
   "entity_id": "fe7a213a-44ef-520c-9aca-66c41adedfcc",
   "name": "Centre Point Hospitality",
-  "what_it_does": "Centre Point Hospitality operates hotels and restaurants.",
+  "what_it_does": "Centre Point Hospitality owns and manages hotels and resorts.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Japan",
-  "keywords": [
-    "hotel operations",
-    "restaurant management",
-    "hospitality industry",
-    "lodging",
-    "food service",
-    "hotel accommodations",
-    "dining",
-    "guest experience"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fe7a213a-44ef-520c-9aca-66c41adedfcc"
 }

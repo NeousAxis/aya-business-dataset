@@ -1,19 +1,11 @@
 {
   "entity_id": "3d62e33a-1777-5f1c-a347-eabe5f9f4049",
   "name": "momondo",
-  "what_it_does": "Momondo is a travel metasearch engine that compares prices for flights, hotels, and car rentals.",
+  "what_it_does": "momondo is a travel search engine that compares flights and hotels.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "travel search",
-    "flight comparison",
-    "hotel comparison",
-    "car rental search",
-    "travel deals",
-    "travel planning",
-    "metasearch engine"
-  ],
-  "aio_score": 51.0,
+  "keywords": [],
+  "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3d62e33a-1777-5f1c-a347-eabe5f9f4049"
 }

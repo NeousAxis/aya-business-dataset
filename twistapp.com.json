@@ -1,19 +1,11 @@
 {
   "entity_id": "b1484532-2e87-5481-89c7-d22ee7dac1c6",
   "name": "Twist",
-  "what_it_does": "Twist is a team communication app focusing on asynchronous collaboration, owned by Doist.",
+  "what_it_does": "Twist is a channel-based team communication platform competing with Slack.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [
-    "team communication",
-    "asynchronous collaboration",
-    "remote teams",
-    "messaging",
-    "project management",
-    "productivity",
-    "task management"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b1484532-2e87-5481-89c7-d22ee7dac1c6"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "c16e81e6-4f75-5a6b-b843-c8007da4cb83",
   "name": "Brooks Automation",
-  "what_it_does": "Brooks Automation provides automation and vacuum solutions for semiconductor manufacturing and life sciences.",
+  "what_it_does": "Brooks Automation provides automation and vacuum solutions for semiconductor and life sciences industries.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Germany",
-  "keywords": [
-    "automation solutions",
-    "cryogenic systems",
-    "semiconductor manufacturing",
-    "vacuum technology",
-    "life sciences automation",
-    "wafer handling",
-    "contamination control",
-    "automation equipment"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c16e81e6-4f75-5a6b-b843-c8007da4cb83"
 }

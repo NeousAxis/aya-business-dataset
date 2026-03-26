@@ -1,20 +1,11 @@
 {
   "entity_id": "dcb5725b-0e50-5793-9112-bc9cba555a28",
   "name": "OSRAM Global",
-  "what_it_does": "Osram manufactures lighting products and solutions, including lamps, luminaires, and lighting management systems.",
+  "what_it_does": "OSRAM manufactures and sells lighting products, including automotive, specialty, and general illumination lamps and systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "lighting products",
-    "lamps",
-    "light management systems",
-    "automotive lighting",
-    "building lighting",
-    "industrial lighting",
-    "specialty lighting",
-    "illumination"
-  ],
+  "keywords": [],
   "aio_score": 69.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dcb5725b-0e50-5793-9112-bc9cba555a28"
 }

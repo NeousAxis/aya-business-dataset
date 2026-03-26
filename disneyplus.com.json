@@ -1,20 +1,11 @@
 {
   "entity_id": "d23a9009-0ef8-57ed-b668-9868837dd2f4",
   "name": "Disney+",
-  "what_it_does": "Disney+ is a subscription-based video streaming service owned by The Walt Disney Company.",
+  "what_it_does": "Disney+ is a subscription-based video streaming service featuring content from Disney, Pixar, Marvel, Star Wars, and National Geographic.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [
-    "streaming video",
-    "subscription entertainment",
-    "movie streaming",
-    "tv shows",
-    "family entertainment",
-    "disney content",
-    "video on demand",
-    "entertainment platform"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d23a9009-0ef8-57ed-b668-9868837dd2f4"
 }

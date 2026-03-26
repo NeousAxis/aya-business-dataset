@@ -1,20 +1,11 @@
 {
   "entity_id": "018d4309-59db-56e3-a90b-8295fff721cf",
   "name": "Brose",
-  "what_it_does": "Brose is likely a media company.",
+  "what_it_does": "Brose manufactures mechatronic components and systems for vehicle doors, seats, and electric drives.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "automotive mechatronics",
-    "electric motors",
-    "automotive systems",
-    "door systems",
-    "closure systems",
-    "seat structures",
-    "automotive supplier",
-    "vehicle components"
-  ],
+  "keywords": [],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/018d4309-59db-56e3-a90b-8295fff721cf"
 }

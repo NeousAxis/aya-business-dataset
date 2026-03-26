@@ -1,20 +1,11 @@
 {
   "entity_id": "3472cd6b-c7d5-55f0-98e4-50782a5cba7b",
   "name": "Microland",
-  "what_it_does": "Microland is an Indian IT infrastructure services provider.",
+  "what_it_does": "Microland provides digital transformation services and infrastructure management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "India",
-  "keywords": [
-    "infrastructure informatique",
-    "services gérés it",
-    "centre de données",
-    "cloud hybride",
-    "automatisation it",
-    "réseau",
-    "cybersécurité",
-    "services infogérance"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3472cd6b-c7d5-55f0-98e4-50782a5cba7b"
 }

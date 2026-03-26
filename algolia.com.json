@@ -1,19 +1,11 @@
 {
   "entity_id": "27498135-07c0-545c-b42c-0e2b8e63d66b",
   "name": "Algolia",
-  "what_it_does": "Algolia provides a search and discovery platform for websites and applications.",
+  "what_it_does": "Algolia provides a search and discovery platform as a service for websites and applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "search API",
-    "discovery API",
-    "site search",
-    "mobile search",
-    "e-commerce search",
-    "search relevance",
-    "semantic search"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/27498135-07c0-545c-b42c-0e2b8e63d66b"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "bd059583-241c-57f6-9c29-25eab552d0e9",
   "name": "Ledger Crypto Wallet",
-  "what_it_does": "Ledger sells hardware wallets for securely storing cryptocurrency.",
+  "what_it_does": "Ledger manufactures hardware wallets for securely storing and managing cryptocurrencies.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Brazil",
-  "keywords": [
-    "cryptocurrency wallets",
-    "hardware wallets",
-    "crypto storage",
-    "bitcoin wallets",
-    "secure crypto",
-    "digital asset security",
-    "crypto security",
-    "cold storage wallets"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bd059583-241c-57f6-9c29-25eab552d0e9"
 }

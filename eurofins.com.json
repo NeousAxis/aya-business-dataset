@@ -1,20 +1,11 @@
 {
   "entity_id": "d7b1fbb3-d1f6-53c8-8124-1a636b95fae3",
   "name": "Worldwide laboratory testing services",
-  "what_it_does": "Eurofins provides laboratory testing services across various industries.",
+  "what_it_does": "Eurofins provides laboratory testing services across various industries, including food, pharmaceuticals, and environmental.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "laboratory testing",
-    "analytical testing",
-    "food testing",
-    "environmental testing",
-    "pharmaceutical analysis",
-    "genomics testing",
-    "agriScience testing",
-    "clinical diagnostics"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d7b1fbb3-d1f6-53c8-8124-1a636b95fae3"
 }

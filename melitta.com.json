@@ -1,20 +1,11 @@
 {
   "entity_id": "42a743d7-d4b6-504c-9303-01c56a24283a",
-  "name": "Melitta",
-  "what_it_does": "Melitta manufactures coffee filters, coffee makers, and related products.",
+  "name": "Melitta®",
+  "what_it_does": "Melitta manufactures and sells coffee filters, coffee makers, and coffee beans.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "coffee filters",
-    "coffee machines",
-    "coffee preparation",
-    "coffee brewing",
-    "coffee accessories",
-    "home coffee",
-    "filter coffee",
-    "automatic coffee makers"
-  ],
+  "keywords": [],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/42a743d7-d4b6-504c-9303-01c56a24283a"
 }

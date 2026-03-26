@@ -1,19 +1,11 @@
 {
   "entity_id": "c3d99cd4-0cc4-5100-83c4-a64db7e01d1b",
   "name": "Deepgram",
-  "what_it_does": "Deepgram offers speech recognition APIs for converting audio to text.",
+  "what_it_does": "Deepgram offers a speech-to-text platform for converting audio into actionable data using artificial intelligence.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "speech recognition api",
-    "audio to text",
-    "voice recognition",
-    "ai speech",
-    "automatic speech recognition",
-    "machine learning",
-    "voice technology"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c3d99cd4-0cc4-5100-83c4-a64db7e01d1b"
 }

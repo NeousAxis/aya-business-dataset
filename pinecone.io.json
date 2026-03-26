@@ -1,20 +1,11 @@
 {
   "entity_id": "a06dcb52-5300-521f-8303-28a51fa5815b",
   "name": "Pinecone",
-  "what_it_does": "Pinecone offers a vector database for machine learning applications.",
+  "what_it_does": "Pinecone provides a vector database for AI applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "vector database",
-    "machine learning",
-    "AI applications",
-    "similarity search",
-    "embedding vectors",
-    "data indexing",
-    "nearest neighbor search",
-    "cloud database"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a06dcb52-5300-521f-8303-28a51fa5815b"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "69b87a38-2f58-53a0-807e-14b4641b4d10",
   "name": "Gap",
-  "what_it_does": "Gap is a clothing retailer that sells apparel and accessories.",
+  "what_it_does": "Gap sells clothing and accessories for men, women, and children.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "vêtements",
-    "accessoires de mode",
-    "prêt-à-porter",
-    "mode décontractée",
-    "vente au détail",
-    "vêtements pour hommes",
-    "vêtements pour femmes"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/69b87a38-2f58-53a0-807e-14b4641b4d10"
 }

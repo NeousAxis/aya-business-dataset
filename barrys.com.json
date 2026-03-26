@@ -1,20 +1,11 @@
 {
   "entity_id": "a41a05dd-652b-5728-9895-955710fbb08f",
   "name": "Barry's",
-  "what_it_does": "Barry's likely provides transportation or tourism services, possibly within China.",
+  "what_it_does": "Barry's provides fitness studio services offering high-intensity interval training.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "China",
-  "keywords": [
-    "fitness classes",
-    "group workouts",
-    "HIIT training",
-    "cardio",
-    "strength training",
-    "gym",
-    "Barry's Bootcamp",
-    "exercise programs"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a41a05dd-652b-5728-9895-955710fbb08f"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "43c19372-71c0-5b77-b560-3a3e6d4e5f0e",
   "name": "Joomla Content Management System (CMS)",
-  "what_it_does": "Joomla is an open-source content management system (CMS) for building websites and online applications.",
+  "what_it_does": "Joomla is an open-source content management system for building websites and online applications.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "CMS",
-    "content management",
-    "website builder",
-    "open source CMS",
-    "website content",
-    "web publishing",
-    "template management",
-    "web development"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/43c19372-71c0-5b77-b560-3a3e6d4e5f0e"
 }

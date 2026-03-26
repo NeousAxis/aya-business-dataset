@@ -1,19 +1,11 @@
 {
   "entity_id": "7d0899de-bf91-5972-a829-632db8d15aa7",
   "name": "Arduino",
-  "what_it_does": "Arduino provides open-source hardware and software for building interactive electronic projects.",
+  "what_it_does": "Arduino manufactures open-source electronic development boards and software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "open source hardware",
-    "electronics prototyping",
-    "microcontroller boards",
-    "DIY electronics",
-    "embedded systems",
-    "physical computing",
-    "interactive projects"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7d0899de-bf91-5972-a829-632db8d15aa7"
 }

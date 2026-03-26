@@ -1,19 +1,11 @@
 {
   "entity_id": "e7e66e31-0274-5285-a9b0-682c93d5366f",
   "name": "Schneider Electric",
-  "what_it_does": "Schneider Electric provides energy and automation digital solutions for efficiency and sustainability.",
+  "what_it_does": "Schneider Electric manufactures and provides energy and automation digital solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "energy automation",
-    "industrial automation",
-    "power management",
-    "electrical distribution",
-    "renewable energy",
-    "grid automation",
-    "building automation"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e7e66e31-0274-5285-a9b0-682c93d5366f"
 }

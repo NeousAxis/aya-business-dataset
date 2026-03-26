@@ -1,20 +1,11 @@
 {
   "entity_id": "81516168-e665-5663-bb33-720ce86d2c70",
   "name": "Munich Re",
-  "what_it_does": "Munich Re is a reinsurance company providing insurance coverage to other insurance companies.",
+  "what_it_does": "Munich Re is a reinsurance company providing risk management and insurance solutions to other insurance companies.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "reinsurance",
-    "risk management",
-    "insurance solutions",
-    "global reinsurance",
-    "property casualty",
-    "life health",
-    "risk assessment",
-    "insurance industry"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/81516168-e665-5663-bb33-720ce86d2c70"
 }

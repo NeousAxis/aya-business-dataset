@@ -1,20 +1,11 @@
 {
   "entity_id": "8abdc2c3-910c-5067-872a-e32f6230cdd5",
   "name": "Groupe Euralis",
-  "what_it_does": "Groupe Euralis is a French agricultural cooperative focusing on food and farming.",
+  "what_it_does": "Groupe Euralis is likely a media and communications company based in France.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "agricultural cooperative",
-    "French agriculture",
-    "crop production",
-    "animal nutrition",
-    "food processing",
-    "grain farming",
-    "seed production",
-    "agribusiness"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8abdc2c3-910c-5067-872a-e32f6230cdd5"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "db472f1c-805f-5b88-b7aa-0797bad85367",
   "name": "FlixBus",
-  "what_it_does": "FlixBus provides long-distance bus transportation services.",
+  "what_it_does": "FlixBus operates a long-distance bus service across Europe and North America.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "long distance bus",
-    "European travel",
-    "affordable travel",
-    "intercity bus",
-    "bus routes",
-    "US travel",
-    "coach travel",
-    "low cost transportation"
-  ],
+  "keywords": [],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/db472f1c-805f-5b88-b7aa-0797bad85367"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "e576b4b7-f0a4-54a1-970a-0c44b14352c6",
   "name": "Energie Wasser Bern",
-  "what_it_does": "Energie Wasser Bern provides energy and water services for the city of Bern.",
+  "what_it_does": "Energie Wasser Bern supplies electricity, water, and other energy services to the city of Bern, Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "energy provider",
-    "electricity supplier",
-    "water supplier",
-    "bern utility",
-    "renewable energy",
-    "energy distribution",
-    "swiss energy"
-  ],
+  "keywords": [],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e576b4b7-f0a4-54a1-970a-0c44b14352c6"
 }

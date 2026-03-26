@@ -1,20 +1,11 @@
 {
   "entity_id": "1a147dc7-5307-5070-b1e7-7c27b4bc3c0b",
   "name": "TUI",
-  "what_it_does": "TUI Group is a multinational travel and tourism company.",
+  "what_it_does": "TUI Group is a multinational travel and tourism company providing package holidays, cruises, and hotel accommodations.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "travel packages",
-    "tourism",
-    "vacation planning",
-    "flights",
-    "hotels",
-    "cruises",
-    "holiday travel",
-    "group tours"
-  ],
+  "keywords": [],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1a147dc7-5307-5070-b1e7-7c27b4bc3c0b"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "ff74a5e3-81c8-529b-b95d-d764217d1fa8",
   "name": "die Handelsplattform für Gebrauchtwagen",
-  "what_it_does": "Auto1.com operates an online marketplace for buying and selling used cars.",
+  "what_it_does": "Auto1.com is a platform for buying and selling used cars.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "used car marketplace",
-    "car trading",
-    "car sales",
-    "vehicle purchase",
-    "second hand cars",
-    "automobile trading",
-    "pre-owned vehicles",
-    "car auction"
-  ],
+  "keywords": [],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ff74a5e3-81c8-529b-b95d-d764217d1fa8"
 }

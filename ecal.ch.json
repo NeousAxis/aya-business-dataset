@@ -1,20 +1,11 @@
 {
   "entity_id": "3957cfc6-5e48-53b7-b86b-96d896db73e8",
   "name": "ECAL",
-  "what_it_does": "ECAL (École Cantonale d'Art de Lausanne) is a Swiss art and design university.",
+  "what_it_does": "ECAL is a university of art and design in Lausanne, Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [
-    "art school",
-    "design school",
-    "Swiss art",
-    "Lausanne art",
-    "visual arts education",
-    "product design",
-    "graphic design",
-    "art university"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3957cfc6-5e48-53b7-b86b-96d896db73e8"
 }

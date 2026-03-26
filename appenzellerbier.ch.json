@@ -1,20 +1,11 @@
 {
   "entity_id": "81221176-c5fe-5a34-b8ec-0cdaac864ca2",
   "name": "Brauerei Locher AG",
-  "what_it_does": "Brauerei Locher AG is a Swiss brewery that produces Appenzeller Bier.",
+  "what_it_does": "Brauerei Locher AG brews and sells Appenzeller beer.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss beer",
-    "regional beer",
-    "Appenzell beer",
-    "craft brewery",
-    "beer production",
-    "alcoholic beverages",
-    "beer distribution",
-    "Swiss brewery"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/81221176-c5fe-5a34-b8ec-0cdaac864ca2"
 }

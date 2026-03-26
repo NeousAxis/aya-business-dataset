@@ -1,19 +1,11 @@
 {
   "entity_id": "2f54dd50-169a-570b-83af-fbe7c611445f",
   "name": "Orangetheory",
-  "what_it_does": "Orangetheory offers group fitness classes based on heart-rate monitored interval training.",
-  "for_who": "Students, educators, and institutions.",
-  "category": "Education & Training",
+  "what_it_does": "Orangetheory Fitness provides group fitness classes based on heart rate-monitored interval training.",
+  "for_who": "Businesses and professionals.",
+  "category": "E-commerce & Retail",
   "location": "CO",
-  "keywords": [
-    "group fitness classes",
-    "interval training",
-    "heart rate monitoring",
-    "fitness studios",
-    "workout programs",
-    "exercise routines",
-    "gym membership"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2f54dd50-169a-570b-83af-fbe7c611445f"
 }

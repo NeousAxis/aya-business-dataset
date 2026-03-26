@@ -1,19 +1,11 @@
 {
   "entity_id": "f394ac09-1473-56e6-af64-dc7470eb5219",
   "name": "Kinopoisk",
-  "what_it_does": "Kinopoisk is a Russian online database of information about films, TV series, and actors.",
+  "what_it_does": "Kinopoisk is a Russian online platform providing information and reviews about films and television shows.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "RU",
-  "keywords": [
-    "Russian films",
-    "TV series database",
-    "movie reviews",
-    "film information",
-    "streaming metadata",
-    "Russian entertainment",
-    "film industry data"
-  ],
+  "keywords": [],
   "aio_score": 29.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f394ac09-1473-56e6-af64-dc7470eb5219"
 }

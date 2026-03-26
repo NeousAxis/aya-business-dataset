@@ -1,19 +1,11 @@
 {
   "entity_id": "a8870ab2-ef37-5390-8494-41ef79f6b064",
   "name": "DJI",
-  "what_it_does": "DJI manufactures and sells drones and camera stabilization systems.",
+  "what_it_does": "DJI manufactures and sells civilian drones and aerial imaging technology.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Hong Kong",
-  "keywords": [
-    "drones",
-    "camera stabilizers",
-    "aerial photography",
-    "drone equipment",
-    "camera drones",
-    "aerial filming",
-    "drone technology"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a8870ab2-ef37-5390-8494-41ef79f6b064"
 }

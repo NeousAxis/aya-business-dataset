@@ -1,20 +1,11 @@
 {
   "entity_id": "f22d00d1-11e2-5e75-9beb-fa0544eb4190",
   "name": "McKesson",
-  "what_it_does": "McKesson Corporation distributes pharmaceuticals and provides health information technology, medical supplies and care management tools.",
+  "what_it_does": "McKesson distributes pharmaceuticals and provides healthcare information technology, medical supplies, and care management tools.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "pharmaceutical distribution",
-    "healthcare IT",
-    "medical supplies",
-    "drug distribution",
-    "pharmacy management",
-    "healthcare technology",
-    "medical equipment",
-    "pharmacy solutions"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f22d00d1-11e2-5e75-9beb-fa0544eb4190"
 }

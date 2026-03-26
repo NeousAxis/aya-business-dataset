@@ -1,20 +1,11 @@
 {
   "entity_id": "28bff368-4ed6-5950-b050-c1d34e84d39e",
   "name": "Gr",
-  "what_it_does": "gr.ch likely provides information or services related to the canton of Graubünden in Switzerland, given its domain and location.",
+  "what_it_does": "GR likely provides news and information related to the Graubünden region of Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "canton of Grisons",
-    "Swiss canton",
-    "regional information",
-    "government information",
-    "Grisons tourism",
-    "local services",
-    "public resources",
-    "cantonal administration"
-  ],
+  "keywords": [],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/28bff368-4ed6-5950-b050-c1d34e84d39e"
 }

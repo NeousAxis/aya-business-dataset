@@ -1,19 +1,11 @@
 {
   "entity_id": "6eabc087-9a34-5dad-9ea3-7ae0c80da64c",
   "name": "RCF",
-  "what_it_does": "RCF likely provides Resources, Courses, and/or Formations (training) in Italy (inferred from the common abbreviation and domain).",
+  "what_it_does": "RCF likely provides resources for education and training.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Spain",
-  "keywords": [
-    "training courses",
-    "educational resources",
-    "professional development",
-    "Italian education",
-    "skills training",
-    "RCF formation",
-    "vocational learning"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6eabc087-9a34-5dad-9ea3-7ae0c80da64c"
 }

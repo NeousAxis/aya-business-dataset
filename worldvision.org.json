@@ -1,20 +1,11 @@
 {
   "entity_id": "a890e047-2603-5693-a20c-f2698871c6f5",
   "name": "World Vision",
-  "what_it_does": "World Vision is an international humanitarian aid organization.",
+  "what_it_does": "World Vision is an international humanitarian aid organization focused on children.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "humanitarian aid",
-    "poverty reduction",
-    "international development",
-    "child sponsorship",
-    "disaster relief",
-    "community development",
-    "charitable organization",
-    "global aid"
-  ],
+  "keywords": [],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a890e047-2603-5693-a20c-f2698871c6f5"
 }

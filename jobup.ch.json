@@ -1,18 +1,11 @@
 {
   "entity_id": "d2db6cc6-5411-5f99-acb8-7740429772a4",
   "name": "Jobup",
-  "what_it_does": "Jobup is a Swiss online job portal.",
+  "what_it_does": "Jobup.ch is a Swiss online job portal for finding and applying for jobs.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "job board",
-    "Swiss employment",
-    "job listings",
-    "recruitment",
-    "career portal",
-    "Switzerland jobs"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d2db6cc6-5411-5f99-acb8-7740429772a4"
 }

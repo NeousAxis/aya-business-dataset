@@ -1,20 +1,11 @@
 {
   "entity_id": "4565bbaf-30a8-5b74-9fec-d5aa62dbb167",
   "name": "Qobuz",
-  "what_it_does": "Qobuz is a European music streaming and downloading service focused on high-quality audio.",
+  "what_it_does": "Qobuz is a subscription-based music streaming and download service offering high-resolution audio.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
-  "keywords": [
-    "hi-res music",
-    "streaming audio",
-    "music downloads",
-    "audiophile",
-    "lossless audio",
-    "european music",
-    "music store",
-    "high quality sound"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4565bbaf-30a8-5b74-9fec-d5aa62dbb167"
 }

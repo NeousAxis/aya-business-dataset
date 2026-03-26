@@ -1,19 +1,11 @@
 {
   "entity_id": "41841b3c-3d8c-520e-9350-8a620050cd99",
-  "name": "Europe1",
-  "what_it_does": "Europe 1 is a French radio station.",
+  "name": "Europe 1",
+  "what_it_does": "Europe 1 is a French radio station broadcasting news, talk shows, and music.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "french radio station",
-    "news broadcasting",
-    "talk radio",
-    "radio programming",
-    "French media",
-    "national radio",
-    "audio content"
-  ],
-  "aio_score": 40.0,
+  "keywords": [],
+  "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/41841b3c-3d8c-520e-9350-8a620050cd99"
 }

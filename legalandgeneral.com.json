@@ -1,19 +1,11 @@
 {
   "entity_id": "99f104ec-1e4e-5f8a-b0e4-a72c2540fbe4",
   "name": "Legal & General",
-  "what_it_does": "Legal & General is a financial services company offering insurance, investment management, and retirement solutions.",
+  "what_it_does": "Legal & General is a British multinational financial services company providing insurance, pensions, and investment management.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "financial services",
-    "insurance",
-    "investment management",
-    "retirement solutions",
-    "asset management",
-    "life insurance",
-    "pension plans"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/99f104ec-1e4e-5f8a-b0e4-a72c2540fbe4"
 }

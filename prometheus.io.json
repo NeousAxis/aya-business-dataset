@@ -1,19 +1,11 @@
 {
   "entity_id": "22cfdcf7-9126-53af-afe6-4c924bb9ff14",
   "name": "Prometheus",
-  "what_it_does": "Prometheus is an open-source systems monitoring and alerting toolkit.",
+  "what_it_does": "Prometheus likely provides travel or transportation-related services, possibly involving monitoring or data analysis based on the name.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "system monitoring",
-    "alerting toolkit",
-    "open-source monitoring",
-    "IT infrastructure",
-    "system observability",
-    "cloud monitoring",
-    "metrics collection"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/22cfdcf7-9126-53af-afe6-4c924bb9ff14"
 }

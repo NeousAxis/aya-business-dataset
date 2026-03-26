@@ -1,20 +1,11 @@
 {
   "entity_id": "a1add089-aa10-5db5-9262-96166ec3e539",
   "name": "Nequi",
-  "what_it_does": "Nequi is a mobile banking platform based in Colombia.",
+  "what_it_does": "Nequi is a digital bank providing financial services via a mobile app in Colombia.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "CO",
-  "keywords": [
-    "mobile banking",
-    "digital finance",
-    "financial services",
-    "colombian banking",
-    "mobile payments",
-    "digital wallets",
-    "banking application",
-    "financial inclusion"
-  ],
+  "keywords": [],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a1add089-aa10-5db5-9262-96166ec3e539"
 }

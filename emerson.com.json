@@ -1,20 +1,11 @@
 {
   "entity_id": "52a764de-e901-5abe-ab33-a3e6e7d86a29",
   "name": "Emerson Global",
-  "what_it_does": "Emerson Electric manufactures and provides technology and engineering solutions to industrial, commercial, and consumer markets.",
+  "what_it_does": "Emerson manufactures industrial automation and commercial and residential solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [
-    "industrial automation",
-    "engineering solutions",
-    "process management",
-    "climate technologies",
-    "commercial solutions",
-    "manufacturing solutions",
-    "control systems",
-    "power grids"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/52a764de-e901-5abe-ab33-a3e6e7d86a29"
 }

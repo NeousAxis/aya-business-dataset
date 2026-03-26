@@ -1,20 +1,11 @@
 {
   "entity_id": "1d3b60b6-14ed-50f7-a791-ff9d51f277b3",
   "name": "WIPO",
-  "what_it_does": "WIPO is the global forum for intellectual property services, policy, information and cooperation.",
+  "what_it_does": "WIPO is the World Intellectual Property Organization, promoting the protection of intellectual property rights worldwide.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "intellectual property",
-    "IP services",
-    "global IP policies",
-    "international cooperation",
-    "IP information",
-    "patent system",
-    "trademark registration",
-    "copyright laws"
-  ],
+  "keywords": [],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1d3b60b6-14ed-50f7-a791-ff9d51f277b3"
 }

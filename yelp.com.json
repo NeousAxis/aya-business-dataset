@@ -1,20 +1,11 @@
 {
   "entity_id": "3b929645-3a25-5a66-9562-a0c31ecc8aa9",
   "name": "Yelp",
-  "what_it_does": "Yelp is a platform for users to discover, review, and connect with local businesses.",
+  "what_it_does": "Yelp is a platform for user-generated reviews and recommendations for local businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "business directory",
-    "local reviews",
-    "user reviews",
-    "business listings",
-    "local businesses",
-    "restaurant reviews",
-    "community reviews",
-    "customer ratings"
-  ],
+  "keywords": [],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b929645-3a25-5a66-9562-a0c31ecc8aa9"
 }

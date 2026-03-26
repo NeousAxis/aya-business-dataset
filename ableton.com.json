@@ -1,20 +1,11 @@
 {
   "entity_id": "564c9823-1aae-5bab-9ae4-e1b7428212ab",
   "name": "Ableton",
-  "what_it_does": "Ableton develops music production software, including the popular Ableton Live digital audio workstation.",
+  "what_it_does": "Ableton develops music production software and hardware.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "music production software",
-    "digital audio workstation",
-    "audio sequencing",
-    "music creation tools",
-    "electronic music",
-    "live performance software",
-    "audio effects",
-    "virtual instruments"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/564c9823-1aae-5bab-9ae4-e1b7428212ab"
 }

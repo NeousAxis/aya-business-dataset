@@ -1,20 +1,11 @@
 {
   "entity_id": "c1c3dbe1-a649-5688-a317-bb7a7e165ebe",
   "name": "Groupe Mutuel assurances",
-  "what_it_does": "Groupe Mutuel provides health and property insurance services in Switzerland.",
+  "what_it_does": "Groupe Mutuel is a Swiss insurance company offering health, property, and life insurance.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "Health Insurance",
-    "Property Insurance",
-    "Swiss Insurance",
-    "Insurance Services",
-    "Healthcare coverage",
-    "Accident Insurance",
-    "Life Insurance",
-    "Insurance plans"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c1c3dbe1-a649-5688-a317-bb7a7e165ebe"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "c03326b6-3f57-515d-9944-082b8951e534",
   "name": "DAIHATSU",
-  "what_it_does": "Daihatsu is an automobile manufacturer.",
+  "what_it_does": "Daihatsu likely provides financial services, possibly including banking and insurance.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "automobile manufacturer",
-    "car production",
-    "kei cars",
-    "compact cars",
-    "Daihatsu",
-    "vehicle sales",
-    "automotive engineering"
-  ],
+  "keywords": [],
   "aio_score": 25.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c03326b6-3f57-515d-9944-082b8951e534"
 }

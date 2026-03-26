@@ -1,20 +1,11 @@
 {
   "entity_id": "8baf371c-82e8-54d4-a238-1e228aed3a48",
   "name": "Reliance Jio Infocomm Limited",
-  "what_it_does": "Reliance Jio Infocomm Limited provides telecommunications services in India.",
+  "what_it_does": "Reliance Jio Infocomm Limited provides mobile network and digital services in India.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "mobile network operator",
-    "telecommunications",
-    "digital services",
-    "4G LTE",
-    "5G network",
-    "Indian telecom",
-    "broadband",
-    "mobile internet"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8baf371c-82e8-54d4-a238-1e228aed3a48"
 }

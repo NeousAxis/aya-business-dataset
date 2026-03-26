@@ -1,20 +1,11 @@
 {
   "entity_id": "cd95513e-c87e-5acc-abc0-7caf745542a1",
   "name": "Teradata",
-  "what_it_does": "Teradata provides data warehousing and analytics solutions.",
+  "what_it_does": "Teradata provides database and analytics software and services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "data warehousing",
-    "analytical database",
-    "data analytics",
-    "enterprise data",
-    "data management",
-    "Teradata Vantage",
-    "cloud data",
-    "data solutions"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cd95513e-c87e-5acc-abc0-7caf745542a1"
 }

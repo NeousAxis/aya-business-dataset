@@ -1,20 +1,11 @@
 {
   "entity_id": "2d0f8bbb-93d1-512f-81d0-317c0e180f6c",
   "name": "Humanis",
-  "what_it_does": "Humanis is a French financial group focused on retirement and insurance.",
+  "what_it_does": "Humanis provides insurance and social protection services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "retirement plans",
-    "insurance products",
-    "French financial group",
-    "employee benefits",
-    "healthcare coverage",
-    "life insurance",
-    "financial services France",
-    "pension schemes"
-  ],
+  "keywords": [],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2d0f8bbb-93d1-512f-81d0-317c0e180f6c"
 }

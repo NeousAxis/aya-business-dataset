@@ -1,20 +1,11 @@
 {
   "entity_id": "d33aacca-9824-52cd-bbe6-202c7c827113",
   "name": "Devoted Health",
-  "what_it_does": "Devoted Health provides Medicare Advantage plans, aiming to offer coordinated healthcare for seniors.",
+  "what_it_does": "Devoted Health is a health insurance company offering Medicare Advantage plans.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
-  "keywords": [
-    "Medicare Advantage",
-    "senior healthcare",
-    "coordinated care",
-    "health plans",
-    "elderly care",
-    "Devoted Health",
-    "managed healthcare",
-    "Medicare insurance"
-  ],
+  "keywords": [],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d33aacca-9824-52cd-bbe6-202c7c827113"
 }

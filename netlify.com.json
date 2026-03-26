@@ -1,20 +1,11 @@
 {
   "entity_id": "ee7d5d30-e333-51fc-884f-2da701e46ebb",
   "name": "Netlify",
-  "what_it_does": "Netlify provides a platform for building, deploying, and scaling web applications.",
+  "what_it_does": "Netlify provides a platform for building, deploying, and hosting web applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "web applications",
-    "application deployment",
-    "web hosting",
-    "static sites",
-    "serverless functions",
-    "Netlify platform",
-    "JAMstack",
-    "website scaling"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ee7d5d30-e333-51fc-884f-2da701e46ebb"
 }

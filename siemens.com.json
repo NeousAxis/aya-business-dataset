@@ -1,20 +1,11 @@
 {
   "entity_id": "0c0f1306-06ba-5c2f-9d0d-c8c87cda5b97",
   "name": "Siemens",
-  "what_it_does": "Siemens provides industrial automation systems, building technologies, and energy solutions.",
+  "what_it_does": "Siemens is a multinational conglomerate focused on industrial manufacturing, automation, and electrification.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "BG",
-  "keywords": [
-    "industrial automation",
-    "building technology",
-    "energy solutions",
-    "engineering",
-    "manufacturing solutions",
-    "digitalization",
-    "automation systems",
-    "factory automation"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0c0f1306-06ba-5c2f-9d0d-c8c87cda5b97"
 }

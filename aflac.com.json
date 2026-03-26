@@ -1,20 +1,11 @@
 {
   "entity_id": "59832c00-b792-5faa-b4e8-acdc41b59d75",
   "name": "Aflac",
-  "what_it_does": "Aflac provides supplemental health insurance, primarily for accident, cancer, and other specific illnesses.",
+  "what_it_does": "Aflac provides supplemental insurance products, primarily for accidents and illnesses.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United States",
-  "keywords": [
-    "supplemental insurance",
-    "health insurance",
-    "accident insurance",
-    "cancer insurance",
-    "critical illness insurance",
-    "insurance policies",
-    "employee benefits",
-    "financial protection"
-  ],
+  "keywords": [],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/59832c00-b792-5faa-b4e8-acdc41b59d75"
 }

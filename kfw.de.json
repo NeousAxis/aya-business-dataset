@@ -1,20 +1,11 @@
 {
   "entity_id": "d7a8c1ba-9b2f-5636-95fb-317c60ba851b",
   "name": "KfW Bankengruppe",
-  "what_it_does": "KfW is a German state-owned development bank that provides financing for sustainable projects.",
-  "for_who": "Students, educators, and institutions.",
-  "category": "Education & Training",
+  "what_it_does": "KfW Bankengruppe is a German state-owned development bank.",
+  "for_who": "Media professionals and audiences.",
+  "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "German development bank",
-    "public investment financing",
-    "kfw bank",
-    "development loans",
-    "infrastructure projects",
-    "social investments",
-    "KfW finance",
-    "public sector funding"
-  ],
+  "keywords": [],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d7a8c1ba-9b2f-5636-95fb-317c60ba851b"
 }

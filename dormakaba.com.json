@@ -1,20 +1,19 @@
 {
-  "entity_id": "1d07e1fc-4c9a-5094-839e-2fb8aa997b6c",
-  "name": "dormakaba Sverige",
-  "what_it_does": "dormakaba provides access control and security solutions, including door hardware, locks, and access management systems.",
+  "entity_id": "602a7f66-a778-508b-985e-8774bc243fed",
+  "name": "Dormakaba",
+  "what_it_does": "Dormakaba provides access control and security solutions, including door hardware and electronic access systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Switzerland",
+  "location": "Mexico",
   "keywords": [
     "access control",
     "security solutions",
+    "door systems",
+    "entrance control",
     "door hardware",
-    "electronic locks",
-    "entrance systems",
-    "building security",
-    "Sweden access",
-    "Sverige security"
+    "physical access",
+    "security hardware"
   ],
-  "aio_score": 60.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/1d07e1fc-4c9a-5094-839e-2fb8aa997b6c"
+  "aio_score": 39.0,
+  "certificate_url": "https://ai-visionary.com/aya/e/602a7f66-a778-508b-985e-8774bc243fed"
 }

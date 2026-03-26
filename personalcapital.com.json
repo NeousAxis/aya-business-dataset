@@ -1,20 +1,11 @@
 {
   "entity_id": "f4d751dd-b9e2-51cd-940c-c543f360b3b0",
   "name": "Personal Finance Tools, Wealth Management, Guides",
-  "what_it_does": "Personal Capital offers financial planning and wealth management tools.",
+  "what_it_does": "Personal Capital offers financial planning tools and wealth management services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "financial planning tools",
-    "wealth management",
-    "investment advice",
-    "retirement planning",
-    "financial dashboards",
-    "asset allocation",
-    "financial analysis",
-    "investment tracking"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f4d751dd-b9e2-51cd-940c-c543f360b3b0"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "bc57da7f-f623-52ef-bb9b-aee8da03a5a0",
   "name": "Web. Mail. Server.",
-  "what_it_does": "Metanet likely offers web hosting, email services, and server infrastructure.",
+  "what_it_does": "Metanet provides web hosting, email, and server solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [
-    "web hosting",
-    "email servers",
-    "server hosting",
-    "domain registration",
-    "Swiss hosting",
-    "internet services",
-    "managed servers",
-    "IT infrastructure"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bc57da7f-f623-52ef-bb9b-aee8da03a5a0"
 }

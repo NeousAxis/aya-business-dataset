@@ -1,20 +1,11 @@
 {
   "entity_id": "10a2ad83-90c7-5f3e-bc38-b3dc5d6beada",
   "name": "Flywire",
-  "what_it_does": "Flywire provides global payment solutions, primarily for education, healthcare, and travel.",
+  "what_it_does": "Flywire provides payment processing solutions for education, healthcare, and travel industries.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "global payment solutions",
-    "international payments",
-    "education payments",
-    "healthcare payments",
-    "travel payments",
-    "cross-border payments",
-    "payment processing",
-    "receivables management"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/10a2ad83-90c7-5f3e-bc38-b3dc5d6beada"
 }

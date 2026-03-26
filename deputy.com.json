@@ -1,19 +1,11 @@
 {
   "entity_id": "2e706941-e344-5095-ba32-825da2f15630",
   "name": "Deputy",
-  "what_it_does": "Deputy provides workforce management software for scheduling, time tracking, and task management.",
+  "what_it_does": "Deputy provides a workforce management platform for scheduling, time tracking, and communication.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "workforce scheduling",
-    "employee time tracking",
-    "task",
-    "shift planning",
-    "attendance",
-    "employee",
-    "labor"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2e706941-e344-5095-ba32-825da2f15630"
 }

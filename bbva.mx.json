@@ -1,19 +1,11 @@
 {
   "entity_id": "9b8f2947-5fe9-5682-89b3-44b75ca5a577",
   "name": "BBVA",
-  "what_it_does": "BBVA Mexico provides banking and financial services within Mexico.",
+  "what_it_does": "BBVA Mexico is a banking institution providing financial services in Mexico.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Mexico",
-  "keywords": [
-    "Mexican banking",
-    "retail banking",
-    "corporate banking",
-    "BBVA Mexico",
-    "financial services Mexico",
-    "personal banking",
-    "business banking"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9b8f2947-5fe9-5682-89b3-44b75ca5a577"
 }

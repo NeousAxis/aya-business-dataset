@@ -1,20 +1,11 @@
 {
   "entity_id": "7aaedb4f-5cea-503e-bd9e-9d1bd5de5a48",
   "name": "HES-SO Genève",
-  "what_it_does": "HES-SO Genève is a university of applied sciences in Geneva, Switzerland.",
+  "what_it_does": "HES-SO Genève is the Geneva branch of the University of Applied Sciences and Arts Western Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [
-    "higher education",
-    "applied sciences",
-    "Geneva",
-    "Switzerland",
-    "vocational training",
-    "research",
-    "universities of applied sciences",
-    "professional education"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7aaedb4f-5cea-503e-bd9e-9d1bd5de5a48"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "f789439d-4145-5664-9ba8-b18239e6f367",
   "name": "ArcInfo",
-  "what_it_does": "ArcInfo provides information and communication services, likely focused on the Arc region in Switzerland.",
+  "what_it_does": "ArcInfo is a Swiss provider of geographical information systems (GIS) and related services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "actualités locales",
-    "informations régionales",
-    "journalisme suisse",
-    "arc jurassien",
-    "contenu multimédia",
-    "nouvelles en continu",
-    "informations cantonales"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f789439d-4145-5664-9ba8-b18239e6f367"
 }

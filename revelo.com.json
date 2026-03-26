@@ -1,20 +1,11 @@
 {
   "entity_id": "9159b5ad-f512-5de4-a94d-23d0c16e9998",
   "name": "Revelo",
-  "what_it_does": "Revelo is a technology company that connects Latin American tech talent with global companies.",
+  "what_it_does": "Revelo is a talent marketplace focused on connecting companies with remote software engineers in Latin America.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "Latin American tech talent",
-    "remote engineers",
-    "software developers",
-    "tech hiring",
-    "talent marketplace",
-    "global recruiting",
-    "nearshore staffing",
-    "Revelo"
-  ],
+  "keywords": [],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9159b5ad-f512-5de4-a94d-23d0c16e9998"
 }

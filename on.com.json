@@ -1,20 +1,11 @@
 {
   "entity_id": "3b0613e5-8799-5c5f-819b-a3428efd06bb",
   "name": "On",
-  "what_it_does": "On sells performance running shoes and apparel.",
+  "what_it_does": "On sells athletic shoes and apparel.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "running shoes",
-    "sportswear",
-    "athletic apparel",
-    "performance footwear",
-    "running clothing",
-    "sports equipment",
-    "activewear",
-    "outdoor gear"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b0613e5-8799-5c5f-819b-a3428efd06bb"
 }

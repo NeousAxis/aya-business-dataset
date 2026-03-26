@@ -1,19 +1,11 @@
 {
   "entity_id": "21c8dec7-3a1c-5320-a0cd-aa54d43996f0",
   "name": "Brigit",
-  "what_it_does": "Brigit offers a mobile app providing cash advances and financial planning tools.",
+  "what_it_does": "Brigit provides a financial app that offers cash advances and budgeting tools.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "cash advances",
-    "financial planning tools",
-    "mobile finance",
-    "personal finance",
-    "budgeting assistance",
-    "banking app",
-    "short-term loans"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/21c8dec7-3a1c-5320-a0cd-aa54d43996f0"
 }

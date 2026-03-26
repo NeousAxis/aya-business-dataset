@@ -1,19 +1,11 @@
 {
   "entity_id": "6126d0b0-7790-5023-8dd1-adf40682ca87",
   "name": "Savencia",
-  "what_it_does": "Savencia specializes in the production and distribution of cheese and other dairy products.",
+  "what_it_does": "Savencia is a food processing company, likely specializing in dairy products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "cheese production",
-    "dairy products",
-    "cheese distribution",
-    "specialty cheese",
-    "lactic products",
-    "savencia brands",
-    "cheese retail"
-  ],
+  "keywords": [],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6126d0b0-7790-5023-8dd1-adf40682ca87"
 }

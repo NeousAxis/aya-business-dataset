@@ -1,19 +1,11 @@
 {
   "entity_id": "4e5ed679-1b99-5232-8fa4-7c5dc51a46da",
   "name": "Airbrake",
-  "what_it_does": "Airbrake provides error monitoring and performance tracking software for web applications.",
+  "what_it_does": "Airbrake provides error monitoring and performance tracking tools for software developers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "error monitoring",
-    "exception tracking",
-    "application performance",
-    "web application errors",
-    "bug tracking",
-    "performance metrics",
-    "code monitoring"
-  ],
+  "keywords": [],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4e5ed679-1b99-5232-8fa4-7c5dc51a46da"
 }

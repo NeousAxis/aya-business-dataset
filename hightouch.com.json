@@ -1,19 +1,11 @@
 {
   "entity_id": "e5bb3972-c1ca-5035-ada6-95275506e965",
   "name": "Hightouch",
-  "what_it_does": "Hightouch provides a data activation platform that syncs data from data warehouses to various business tools.",
+  "what_it_does": "Hightouch offers a data activation platform that syncs data from data warehouses to various business tools.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "data activation",
-    "reverse ETL",
-    "data warehouse",
-    "marketing data",
-    "sales data",
-    "customer data",
-    "data synchronization"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e5bb3972-c1ca-5035-ada6-95275506e965"
 }

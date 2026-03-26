@@ -1,19 +1,11 @@
 {
   "entity_id": "1adeb4ae-0d98-590b-9280-ff1ef25f7936",
   "name": "Canva",
-  "what_it_does": "Canva is a web-based graphic design platform that offers tools to create visual content.",
+  "what_it_does": "Canva provides a web-based graphic design platform for creating visual content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "graphic design",
-    "design templates",
-    "online design",
-    "social media graphics",
-    "presentation design",
-    "marketing materials",
-    "visual communication"
-  ],
-  "aio_score": 35.0,
+  "keywords": [],
+  "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1adeb4ae-0d98-590b-9280-ff1ef25f7936"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "8499c3d0-de19-55c0-a415-fae62a012eb9",
   "name": "Linde Is Everywhere",
-  "what_it_does": "Linde supplies industrial gases and engineering services to various industries.",
+  "what_it_does": "Linde supplies industrial gases and engineering services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "industrial gases",
-    "engineering solutions",
-    "gas production",
-    "gas processing",
-    "chemical industry",
-    "healthcare gases",
-    "welding gases",
-    "atmospheric gases"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8499c3d0-de19-55c0-a415-fae62a012eb9"
 }

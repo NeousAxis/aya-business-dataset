@@ -1,20 +1,11 @@
 {
   "entity_id": "33c6d5fe-2ca1-500a-b87c-94edb64d69cd",
   "name": "Telkom Indonesia",
-  "what_it_does": "Telkom Indonesia is an Indonesian telecommunications company providing fixed-line, mobile, and internet services.",
+  "what_it_does": "Telkom Indonesia provides telecommunications, information, media, edutainment and network services in Indonesia.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "telecommunications",
-    "fixed telephony",
-    "mobile communication",
-    "internet",
-    "cellular network",
-    "broadband",
-    "Telkom",
-    "Indonesia telecom"
-  ],
+  "keywords": [],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/33c6d5fe-2ca1-500a-b87c-94edb64d69cd"
 }

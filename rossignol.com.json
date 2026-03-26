@@ -1,20 +1,11 @@
 {
   "entity_id": "2fb8926e-3497-590a-9762-cacd8927c3d4",
   "name": "Rossignol",
-  "what_it_does": "Rossignol manufactures skis, snowboards, and related winter sports equipment.",
+  "what_it_does": "Rossignol manufactures skis, snowboards, and other winter sports equipment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "skis",
-    "snowboards",
-    "winter sports equipment",
-    "skiing",
-    "snowboarding",
-    "alpine skiing",
-    "nordic skiing",
-    "ski gear"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2fb8926e-3497-590a-9762-cacd8927c3d4"
 }

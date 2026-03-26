@@ -1,20 +1,11 @@
 {
-  "entity_id": "81900c81-484d-5ec0-923b-8cbf5a56f954",
-  "name": "Orange Business",
-  "what_it_does": "Orange Business provides telecommunications and IT services to businesses.",
+  "entity_id": "494655d6-429a-5fa0-b8b0-93279d167b70",
+  "name": "Orange-business",
+  "what_it_does": "Orange Business Services provides network and digital services to multinational enterprises.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Belgium",
-  "keywords": [
-    "enterprise telecommunications",
-    "IT solutions",
-    "network solutions",
-    "cloud computing",
-    "cybersecurity",
-    "unified communications",
-    "global networks",
-    "managed IT"
-  ],
-  "aio_score": 74.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/81900c81-484d-5ec0-923b-8cbf5a56f954"
+  "location": "Global",
+  "keywords": [],
+  "aio_score": 50.0,
+  "certificate_url": "https://ai-visionary.com/aya/e/494655d6-429a-5fa0-b8b0-93279d167b70"
 }

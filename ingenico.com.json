@@ -1,20 +1,11 @@
 {
   "entity_id": "0b7d3a50-e840-5c6d-8355-6dc36f7c0b42",
   "name": "Ingenico",
-  "what_it_does": "Ingenico provides payment terminals and payment solutions for merchants.",
+  "what_it_does": "Ingenico provides point-of-sale (POS) payment terminals and related payment processing solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [
-    "payment terminals",
-    "payment solutions",
-    "point of sale",
-    "merchant services",
-    "payment processing",
-    "retail payments",
-    "credit card terminals",
-    "transaction processing"
-  ],
+  "keywords": [],
   "aio_score": 69.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0b7d3a50-e840-5c6d-8355-6dc36f7c0b42"
 }

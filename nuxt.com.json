@@ -1,20 +1,11 @@
 {
   "entity_id": "a285f99d-c862-53f8-b98d-9838d1a7685a",
   "name": "Nuxt",
-  "what_it_does": "Nuxt is a framework for building Vue.js applications, providing tools and conventions for server-side rendering and static site generation.",
+  "what_it_does": "Nuxt is an open-source web application framework based on Vue.js.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "vue.js framework",
-    "web application development",
-    "javascript framework",
-    "front-end development",
-    "developer tools",
-    "web development",
-    "UI framework",
-    "open source"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a285f99d-c862-53f8-b98d-9838d1a7685a"
 }

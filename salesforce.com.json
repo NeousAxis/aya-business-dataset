@@ -1,20 +1,11 @@
 {
   "entity_id": "5c5a6a16-d589-5285-9bf5-0c44143ae606",
   "name": "Salesforce",
-  "what_it_does": "Salesforce provides a cloud-based software platform for customer relationship management (CRM).",
+  "what_it_does": "Salesforce provides a cloud-based customer relationship management (CRM) platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "customer relationship",
-    "CRM",
-    "cloud CRM",
-    "sales ",
-    "marketing ",
-    " service",
-    "lead generation",
-    "customer data"
-  ],
+  "keywords": [],
   "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5c5a6a16-d589-5285-9bf5-0c44143ae606"
 }

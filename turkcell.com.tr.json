@@ -1,19 +1,11 @@
 {
   "entity_id": "6279809f-1383-5765-92bf-5da2f4553e3f",
   "name": "Turkcell",
-  "what_it_does": "Turkcell is a Turkish mobile network operator providing telecommunications services.",
+  "what_it_does": "Turkcell is a Turkish mobile phone operator and telecommunications provider.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Turkey",
-  "keywords": [
-    "mobile operator",
-    "telecommunications services",
-    "mobile internet",
-    "turkey telecom",
-    "cellular services",
-    "turkcell",
-    "mobile communication"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6279809f-1383-5765-92bf-5da2f4553e3f"
 }

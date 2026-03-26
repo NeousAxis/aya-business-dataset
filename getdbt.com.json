@@ -1,20 +1,11 @@
 {
   "entity_id": "9ab47d09-aa72-5f26-8003-acf53e8e0c2a",
   "name": "dbt Labs",
-  "what_it_does": "dbt Labs provides a data transformation tool (dbt) for analytics engineering workflows.",
+  "what_it_does": "dbt Labs develops and supports dbt (data build tool), a platform for data transformation in cloud data warehouses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "data transformation tool",
-    "analytics engineering",
-    "data pipelines",
-    "data modeling",
-    "ETL processes",
-    "data warehousing",
-    "SQL workflows",
-    "data integration"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9ab47d09-aa72-5f26-8003-acf53e8e0c2a"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "30df43d6-a568-53b8-8eac-64cc4a585adb",
   "name": "Lyft",
-  "what_it_does": "Lyft operates a ride-hailing service, connecting passengers with drivers for transportation.",
+  "what_it_does": "Lyft operates a ride-sharing service connecting passengers with drivers via a mobile app.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "ride sharing",
-    "transportation network",
-    "mobile transportation",
-    "on-demand rides",
-    "peer-to-peer rides",
-    "driver network",
-    "taxi alternative",
-    "car transportation"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/30df43d6-a568-53b8-8eac-64cc4a585adb"
 }

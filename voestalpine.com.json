@@ -1,18 +1,11 @@
 {
   "entity_id": "12e2abe9-5a60-509f-8f1e-82d6192f2741",
   "name": "voestalpine",
-  "what_it_does": "voestalpine is a global steel and technology group that processes steel into various products.",
+  "what_it_does": "voestalpine is a global steel and technology group producing steel products and providing related services.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "steel manufacturing",
-    "steel products",
-    "metal processing",
-    "automotive steel",
-    "railway systems",
-    "aerospace components"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/12e2abe9-5a60-509f-8f1e-82d6192f2741"
 }

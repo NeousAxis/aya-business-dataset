@@ -1,20 +1,11 @@
 {
   "entity_id": "7aca08b6-8990-5722-991d-bf162e07e136",
   "name": "Grant Thornton Switzerland / Liechtenstein",
-  "what_it_does": "Grant Thornton Switzerland/Liechtenstein provides audit, tax and advisory services.",
+  "what_it_does": "Grant Thornton Switzerland / Liechtenstein provides audit, tax, and advisory services to businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Switzerland",
-  "keywords": [
-    "audit",
-    "tax advisory",
-    "consulting",
-    "financial advisory",
-    "assurance",
-    "Switzerland",
-    "Liechtenstein",
-    "business advisory"
-  ],
+  "keywords": [],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7aca08b6-8990-5722-991d-bf162e07e136"
 }

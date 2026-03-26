@@ -1,20 +1,11 @@
 {
   "entity_id": "d4ec6b47-c253-5704-be40-62d2880c1fa3",
   "name": "Affirm",
-  "what_it_does": "Affirm provides point-of-sale financing for online and in-store purchases.",
+  "what_it_does": "Affirm offers buy-now-pay-later services for online and in-store purchases.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Canada",
-  "keywords": [
-    "point-of-sale financing",
-    "consumer loans",
-    "buy now pay later",
-    "e-commerce financing",
-    "retail financing",
-    "installment payments",
-    "consumer credit",
-    "alternative lending"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d4ec6b47-c253-5704-be40-62d2880c1fa3"
 }

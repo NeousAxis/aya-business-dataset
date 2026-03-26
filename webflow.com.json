@@ -1,20 +1,11 @@
 {
   "entity_id": "263d9440-8fc4-5a5c-91a0-b56aa771c26b",
   "name": "Webflow",
-  "what_it_does": "Webflow provides a no-code platform for designing, building, and hosting websites.",
+  "what_it_does": "Webflow is a no-code platform for designing and building websites.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "no-code",
-    "web design",
-    "website builder",
-    "visual development",
-    "hosting",
-    "cms",
-    "website creation",
-    "drag and drop website"
-  ],
-  "aio_score": 78.0,
+  "keywords": [],
+  "aio_score": 80.0,
   "certificate_url": "https://ai-visionary.com/aya/e/263d9440-8fc4-5a5c-91a0-b56aa771c26b"
 }

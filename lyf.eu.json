@@ -1,19 +1,11 @@
 {
   "entity_id": "d705a00f-3c6f-512a-be14-9fb496434d9a",
   "name": "Lyf, paiement et encaissement mobiles sécurisés",
-  "what_it_does": "Lyf offers a mobile payment platform focused on the restaurant and food industry in Europe.",
+  "what_it_does": "Lyf provides a mobile payment platform, likely for restaurants and food-related businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Global",
-  "keywords": [
-    "mobile payments",
-    "in-store payments",
-    "secure transactions",
-    "restaurant payments",
-    "food payments",
-    "point-of-sale systems",
-    "digital wallets"
-  ],
+  "keywords": [],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d705a00f-3c6f-512a-be14-9fb496434d9a"
 }

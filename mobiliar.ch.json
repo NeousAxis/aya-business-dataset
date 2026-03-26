@@ -1,20 +1,11 @@
 {
   "entity_id": "bd854d01-e939-5d6f-9854-97eb61e05a6b",
   "name": "die Mobiliar",
-  "what_it_does": "Die Mobiliar is a Swiss insurance company offering property and personal insurance.",
+  "what_it_does": "Die Mobiliar is a Swiss insurance company offering property and casualty insurance.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "assurance suisse",
-    "assurance habitation",
-    "assurance automobile",
-    "assurance responsabilité civile",
-    "assurance dommages",
-    "assurances pour entreprises",
-    "protection juridique",
-    "Swiss insurer"
-  ],
+  "keywords": [],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bd854d01-e939-5d6f-9854-97eb61e05a6b"
 }

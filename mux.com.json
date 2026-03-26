@@ -1,17 +1,11 @@
 {
   "entity_id": "10364160-c089-5429-9635-4600b01a1e36",
   "name": "Mux",
-  "what_it_does": "Mux provides video infrastructure and analytics for developers.",
+  "what_it_does": "Mux provides a video streaming platform for developers, offering APIs for video hosting, encoding, and analytics.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "video infrastructure",
-    "video analytics",
-    "video streaming",
-    "developer tools",
-    "video encoding"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/10364160-c089-5429-9635-4600b01a1e36"
 }

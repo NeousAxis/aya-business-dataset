@@ -1,20 +1,11 @@
 {
   "entity_id": "2bd4ce3a-61df-5ddc-bf84-b6c412092259",
   "name": "PreSonus",
-  "what_it_does": "PreSonus manufactures and sells audio recording equipment, software, and related products.",
+  "what_it_does": "PreSonus manufactures professional audio recording and production hardware and software.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [
-    "audio recording equipment",
-    "music production hardware",
-    "recording software",
-    "studio monitors",
-    "audio interfaces",
-    "mixers",
-    "music creation tools",
-    "professional audio"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2bd4ce3a-61df-5ddc-bf84-b6c412092259"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "098bf721-2f05-565e-9455-8abf8f4ccdb6",
   "name": "Ruckusnetworks",
-  "what_it_does": "Ruckus Networks (now part of Commscope) develops and sells wireless networking equipment.",
+  "what_it_does": "Ruckus Networks provides wireless networking equipment and software for enterprise and service provider markets.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "wireless networking equipment",
-    "Wi-Fi access points",
-    "enterprise networking",
-    "wireless solutions",
-    "network infrastructure",
-    "Commscope",
-    "wireless lan"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/098bf721-2f05-565e-9455-8abf8f4ccdb6"
 }

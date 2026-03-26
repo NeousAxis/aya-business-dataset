@@ -1,20 +1,11 @@
 {
   "entity_id": "5da08862-dee7-50f8-9994-d4dfdb069230",
   "name": "franceinfo",
-  "what_it_does": "Franceinfo is a French news radio station and television channel.",
+  "what_it_does": "Franceinfo provides real-time news and information across various media platforms in France.",
   "for_who": "Businesses and professionals.",
-  "category": "Tourisme & Transport",
+  "category": "Restauration & Alimentation",
   "location": "France",
-  "keywords": [
-    "news radio",
-    "news television",
-    "French news",
-    "current events",
-    "Franceinfo",
-    "all-news radio",
-    "public broadcasting",
-    "information media"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5da08862-dee7-50f8-9994-d4dfdb069230"
 }

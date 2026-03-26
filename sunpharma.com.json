@@ -1,20 +1,11 @@
 {
   "entity_id": "4950698a-ff9d-5363-bb53-3f848f99ec9b",
   "name": "Sunpharma",
-  "what_it_does": "Sunpharma is a pharmaceutical company that develops and manufactures a wide range of generic and specialty medicines.",
+  "what_it_does": "Sunpharma is an Indian multinational pharmaceutical company producing and marketing a wide range of generic and specialty pharmaceutical products.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "India",
-  "keywords": [
-    "pharmaceutical formulations",
-    "API manufacturing",
-    "generic drugs",
-    "drug manufacturing",
-    "branded generics",
-    "pharmaceutical products",
-    "active pharmaceutical ingredients",
-    "global pharma"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4950698a-ff9d-5363-bb53-3f848f99ec9b"
 }

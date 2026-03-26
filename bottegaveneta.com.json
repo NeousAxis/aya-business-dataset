@@ -1,20 +1,11 @@
 {
   "entity_id": "44d4a8a4-fb4e-547a-a6cc-69ce6ffcb055",
   "name": "Bottega Veneta",
-  "what_it_does": "Bottega Veneta designs and sells luxury leather goods and fashion items.",
+  "what_it_does": "Bottega Veneta is an online retailer of luxury leather goods and fashion items.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Canada",
-  "keywords": [
-    "luxury fashion",
-    "leather goods",
-    "high-end accessories",
-    "handbags",
-    "fashion design",
-    "luxury retail",
-    "Italian fashion",
-    "designer clothing"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/44d4a8a4-fb4e-547a-a6cc-69ce6ffcb055"
 }

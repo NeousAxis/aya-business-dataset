@@ -1,20 +1,11 @@
 {
   "entity_id": "f691e0a8-7451-5057-afb3-6ffd04ad0a11",
   "name": "OST",
-  "what_it_does": "OST provides university-level education in applied sciences in Switzerland.",
+  "what_it_does": "OST.ch likely provides courses and training in various fields in Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [
-    "university of applied sciences",
-    "higher education",
-    "swiss education",
-    "engineering degrees",
-    "technology programs",
-    "business degrees",
-    "master's programs",
-    "bachelor's programs"
-  ],
+  "keywords": [],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f691e0a8-7451-5057-afb3-6ffd04ad0a11"
 }

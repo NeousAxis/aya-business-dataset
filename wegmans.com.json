@@ -1,20 +1,11 @@
 {
   "entity_id": "41d08e6a-c13e-5c4d-93ae-824e47a7cdb7",
   "name": "Wegmans Food Markets",
-  "what_it_does": "Wegmans Food Markets is a regional supermarket chain that sells groceries and prepared foods.",
+  "what_it_does": "Wegmans Food Markets is a US supermarket chain known for high-quality groceries and prepared foods.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "grocery stores",
-    "supermarkets",
-    "prepared foods",
-    "regional grocery chain",
-    "retail food",
-    "fresh produce",
-    "deli",
-    "bakery"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/41d08e6a-c13e-5c4d-93ae-824e47a7cdb7"
 }

@@ -1,20 +1,11 @@
 {
-  "entity_id": "b06c83aa-872b-51c9-b8f2-d77afed0298f",
-  "name": "Google Cloud",
-  "what_it_does": "Google Cloud provides cloud computing services.",
+  "entity_id": "b5cdaf53-37f5-54b2-995e-2ed77bb2b731",
+  "name": "AI and Cloud Computing Services",
+  "what_it_does": "Google Cloud provides a suite of cloud computing services, including data storage, machine learning, and application development.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [
-    "cloud computing",
-    "cloud storage",
-    "cloud infrastructure",
-    "virtual machines",
-    "data analytics",
-    "cloud networking",
-    "serverless computing",
-    "cloud services"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/b06c83aa-872b-51c9-b8f2-d77afed0298f"
+  "certificate_url": "https://ai-visionary.com/aya/e/b5cdaf53-37f5-54b2-995e-2ed77bb2b731"
 }

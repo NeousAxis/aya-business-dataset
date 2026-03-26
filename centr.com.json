@@ -1,18 +1,11 @@
 {
   "entity_id": "3e2bc5e2-9ea3-561a-9175-13e4e941e7fe",
   "name": "Centr",
-  "what_it_does": "Centr is a digital health and fitness platform offering workout programs, meal plans, and mindfulness exercises.",
+  "what_it_does": "Centr offers a digital fitness and wellness platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "fitness programs",
-    "wellness programs",
-    "workout routines",
-    "nutrition plans",
-    "health coaching",
-    "exercise videos"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3e2bc5e2-9ea3-561a-9175-13e4e941e7fe"
 }

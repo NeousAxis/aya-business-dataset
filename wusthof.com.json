@@ -1,19 +1,11 @@
 {
   "entity_id": "c270cee1-a0cc-5c23-8cff-06de3896ee0c",
   "name": "WÜSTHOF",
-  "what_it_does": "WÜSTHOF manufactures high-end cutlery, particularly knives.",
+  "what_it_does": "WÜSTHOF manufactures and sells high-end kitchen knives.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "LT",
-  "keywords": [
-    "cutlery manufacturing",
-    "premium knives",
-    "kitchen knives",
-    "culinary tools",
-    "german knives",
-    "knife sets",
-    "chef knives"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c270cee1-a0cc-5c23-8cff-06de3896ee0c"
 }

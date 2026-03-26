@@ -1,19 +1,11 @@
 {
   "entity_id": "7cbac8ae-9380-550a-819a-cb7186973124",
   "name": "Loading",
-  "what_it_does": "Railway.com provides a cloud platform for deploying and managing web applications.",
+  "what_it_does": "Loading Railway likely provides SaaS solutions for rail transport companies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "cloud deployment",
-    "web application hosting",
-    "serverless platform",
-    "application infrastructure",
-    "cloud infrastructure",
-    "developer tools",
-    "container deployment"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7cbac8ae-9380-550a-819a-cb7186973124"
 }

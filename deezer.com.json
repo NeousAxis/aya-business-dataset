@@ -1,20 +1,11 @@
 {
   "entity_id": "f7a6fd0b-3c2c-5d2f-b53c-f9c74da20e6b",
   "name": "Deezer",
-  "what_it_does": "Deezer is a music streaming service.",
+  "what_it_does": "Deezer is a music streaming service providing access to a library of songs and podcasts.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "music streaming",
-    "audio streaming",
-    "music service",
-    "on-demand music",
-    "music playlists",
-    "audio entertainment",
-    "music library",
-    "streaming subscriptions"
-  ],
+  "keywords": [],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f7a6fd0b-3c2c-5d2f-b53c-f9c74da20e6b"
 }

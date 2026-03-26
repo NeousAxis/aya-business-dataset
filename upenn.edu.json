@@ -1,18 +1,11 @@
 {
   "entity_id": "12771180-a426-5153-8ef7-c1f5b140095f",
   "name": "University of Pennsylvania",
-  "what_it_does": "University of Pennsylvania is a private Ivy League research university offering undergraduate and graduate programs.",
+  "what_it_does": "The University of Pennsylvania is a private Ivy League research university in Philadelphia.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "private research university",
-    "Ivy League university",
-    "higher education",
-    "undergraduate programs",
-    "graduate programs",
-    "research programs"
-  ],
+  "keywords": [],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/12771180-a426-5153-8ef7-c1f5b140095f"
 }

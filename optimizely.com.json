@@ -1,20 +1,11 @@
 {
   "entity_id": "22ad3188-8228-5be3-b47b-ccc8c82d2729",
   "name": "Optimizely",
-  "what_it_does": "Optimizely provides a digital experience platform for A/B testing and personalization.",
+  "what_it_does": "Optimizely provides a digital experience platform for website experimentation and personalization.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "digital experience",
-    "A/B testing",
-    "personalization",
-    "experimentation",
-    "digital marketing",
-    "customer experience",
-    "website testing",
-    "conversion optimization"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/22ad3188-8228-5be3-b47b-ccc8c82d2729"
 }

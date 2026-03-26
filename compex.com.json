@@ -1,18 +1,11 @@
 {
   "entity_id": "c02732d0-4dba-5266-b93c-5d9c7e694084",
   "name": "Compex",
-  "what_it_does": "Compex sells electronic components, specializing in network and communication modules.",
+  "what_it_does": "Compex likely sells electronic components or related products online.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Belgium",
-  "keywords": [
-    "electronic components",
-    "network modules",
-    "communication modules",
-    "Compex",
-    "B2B electronics",
-    "component distributor"
-  ],
+  "keywords": [],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c02732d0-4dba-5266-b93c-5d9c7e694084"
 }

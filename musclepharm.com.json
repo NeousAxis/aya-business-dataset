@@ -1,20 +1,11 @@
 {
   "entity_id": "bebbbb25-6a94-508b-839b-320421cdfb33",
   "name": "MusclePharm",
-  "what_it_does": "MusclePharm sells sports nutrition supplements like protein powders, pre-workouts, and vitamins.",
+  "what_it_does": "MusclePharm manufactures and sells sports nutrition supplements.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "sports nutrition",
-    "dietary supplements",
-    "performance enhancers",
-    "muscle building",
-    "fitness products",
-    "athletic performance",
-    "bodybuilding supplements",
-    "workout recovery"
-  ],
-  "aio_score": 55.0,
+  "keywords": [],
+  "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bebbbb25-6a94-508b-839b-320421cdfb33"
 }

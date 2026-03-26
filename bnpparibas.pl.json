@@ -1,19 +1,11 @@
 {
   "entity_id": "584d8a05-2a88-50d9-84dd-3b7cc5c30038",
   "name": "Klienci indywidualni",
-  "what_it_does": "BNP Paribas Poland offers financial services to individual clients.",
+  "what_it_does": "BNP Paribas Poland provides financial services to individual clients.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Poland",
-  "keywords": [
-    "retail banking",
-    "personal finance",
-    "checking accounts",
-    "savings accounts",
-    "loan products",
-    "mortgage services",
-    "individual banking"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/584d8a05-2a88-50d9-84dd-3b7cc5c30038"
 }

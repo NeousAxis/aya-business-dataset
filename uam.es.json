@@ -1,20 +1,11 @@
 {
   "entity_id": "6de73756-3d59-5628-9f34-de7adce4f91a",
   "name": "UAM",
-  "what_it_does": "UAM likely hosts the website for the Autonomous University of Madrid.",
+  "what_it_does": "Universidad Autónoma de Madrid (UAM) is a public university in Madrid, Spain.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Spain",
-  "keywords": [
-    "university website",
-    "Madrid university",
-    "academic information",
-    "research website",
-    "educational institution",
-    "university services",
-    "student resources",
-    "higher education"
-  ],
+  "keywords": [],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6de73756-3d59-5628-9f34-de7adce4f91a"
 }

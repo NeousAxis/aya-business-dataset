@@ -1,20 +1,11 @@
 {
   "entity_id": "576d0127-95be-5824-a91e-2d53b9ca70b1",
   "name": "ACCIONA",
-  "what_it_does": "ACCIONA is a Spanish infrastructure and renewable energy company.",
+  "what_it_does": "ACCIONA is a Spanish conglomerate involved in infrastructure and renewable energy projects.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Spain",
-  "keywords": [
-    "infrastructure projects",
-    "renewable energy",
-    "sustainable solutions",
-    "construction",
-    "energy generation",
-    "spanish market",
-    "civil engineering",
-    "water treatment"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/576d0127-95be-5824-a91e-2d53b9ca70b1"
 }

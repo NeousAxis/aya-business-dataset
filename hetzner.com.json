@@ -1,20 +1,11 @@
 {
   "entity_id": "1b1aa2db-55cd-5fe2-b820-9e77ecbdf936",
   "name": "Hetzner",
-  "what_it_does": "Hetzner provides web hosting and data center services.",
+  "what_it_does": "Hetzner provides web hosting, dedicated servers, and cloud services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "web hosting",
-    "data center",
-    "dedicated servers",
-    "cloud servers",
-    "server colocation",
-    "domain registration",
-    "managed hosting",
-    "web infrastructure"
-  ],
+  "keywords": [],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1b1aa2db-55cd-5fe2-b820-9e77ecbdf936"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "5cb85eb4-be41-5f24-ae17-51308d63691b",
   "name": "Site officiel",
-  "what_it_does": "Geneve.ch is the official website for the Canton of Geneva, Switzerland, providing information and services for residents and visitors.",
+  "what_it_does": "geneve.ch is the official website for the city and canton of Geneva, Switzerland, providing information on local government, services, and tourism.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "Geneva canton",
-    "Swiss tourism",
-    "cantonal government",
-    "Geneva residents",
-    "local government",
-    "public information",
-    "municipal services",
-    "regional resources"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5cb85eb4-be41-5f24-ae17-51308d63691b"
 }

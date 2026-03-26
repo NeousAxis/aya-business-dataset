@@ -1,20 +1,11 @@
 {
   "entity_id": "da7c7bbb-aeac-5d73-bc93-d2fabd18daac",
   "name": "TechSmith Corporation LLC",
-  "what_it_does": "TechSmith Corporation provides screen recording and video editing software.",
+  "what_it_does": "TechSmith Corporation develops and sells screen recording and video editing software.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "screen recording",
-    "video editing",
-    "screen capture",
-    "tutorial creation",
-    "video software",
-    "content creation",
-    "video tutorials",
-    "instructional videos"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/da7c7bbb-aeac-5d73-bc93-d2fabd18daac"
 }

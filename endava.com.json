@@ -1,20 +1,11 @@
 {
   "entity_id": "6b6b373d-8beb-5ac9-a04c-93b502d24002",
   "name": "Endava",
-  "what_it_does": "Endava is a technology services company providing digital transformation and agile software development.",
+  "what_it_does": "Endava provides technology services, including software development and consulting, to various industries.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "IT services",
-    "digital transformation",
-    "outsourcing",
-    "software development",
-    "agile delivery",
-    "technology consulting",
-    "application development",
-    "enterprise solutions"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6b6b373d-8beb-5ac9-a04c-93b502d24002"
 }

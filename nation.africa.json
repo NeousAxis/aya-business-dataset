@@ -1,20 +1,11 @@
 {
   "entity_id": "adc94127-1fa1-516a-ad6d-e4ca4bce897f",
   "name": "Nation",
-  "what_it_does": "Nation is a news publication focused on African affairs.",
-  "for_who": "Media professionals and audiences.",
-  "category": "Media & Communication",
+  "what_it_does": "Nation likely promotes tourism and travel experiences within the African continent.",
+  "for_who": "Businesses and professionals.",
+  "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "African news",
-    "East Africa news",
-    "Kenyan news",
-    "business reporting",
-    "political analysis",
-    "investigative journalism",
-    "current affairs",
-    "Nation Media Group"
-  ],
+  "keywords": [],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/adc94127-1fa1-516a-ad6d-e4ca4bce897f"
 }

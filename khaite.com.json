@@ -1,20 +1,11 @@
 {
   "entity_id": "7fcbe9d0-eadc-5bd4-8257-c649b988742b",
   "name": "KHAITE",
-  "what_it_does": "KHAITE is a luxury fashion brand.",
+  "what_it_does": "KHAITE designs and sells luxury women's clothing and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [
-    "luxury fashion",
-    "designer clothing",
-    "womenswear",
-    "ready-to-wear",
-    "KHAITE clothing",
-    "high-end fashion",
-    "luxury apparel",
-    "fashion brand"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7fcbe9d0-eadc-5bd4-8257-c649b988742b"
 }

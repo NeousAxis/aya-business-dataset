@@ -1,20 +1,11 @@
 {
   "entity_id": "273d53fe-cbba-5405-9b13-cd0e0fd790a7",
   "name": "SiteGround",
-  "what_it_does": "SiteGround provides web hosting services.",
+  "what_it_does": "SiteGround provides web hosting services, including shared hosting, cloud hosting, and WordPress hosting.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "web hosting",
-    "shared hosting",
-    "cloud hosting",
-    "managed hosting",
-    "domain registration",
-    "hosting accounts",
-    "website hosting",
-    "email hosting"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/273d53fe-cbba-5405-9b13-cd0e0fd790a7"
 }

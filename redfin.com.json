@@ -1,20 +1,11 @@
 {
   "entity_id": "b9bfcb56-ceb0-58b5-966b-c27c233f854a",
   "name": "Redfin",
-  "what_it_does": "Redfin is a real estate brokerage that provides online real estate search and brokerage services.",
+  "what_it_does": "Redfin is a real estate brokerage that uses technology to help people buy and sell homes.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
-  "keywords": [
-    "real estate agency",
-    "property search",
-    "home buying",
-    "home selling",
-    "real estate listings",
-    "brokerage services",
-    "residential properties",
-    "online real estate"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b9bfcb56-ceb0-58b5-966b-c27c233f854a"
 }

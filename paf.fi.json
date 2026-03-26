@@ -1,20 +1,11 @@
 {
   "entity_id": "43f4d54d-2fdc-5f9f-b03f-d9c40436cb69",
   "name": "Paf",
-  "what_it_does": "Paf is a Finnish gaming company that offers online and land-based gambling services, with profits donated to charitable causes.",
+  "what_it_does": "Paf is a government-controlled online gambling operator in Finland that directs its profits to public good.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Finland",
-  "keywords": [
-    "gaming operator",
-    "government-controlled gaming",
-    "Finnish gaming",
-    "lottery games",
-    "casino games",
-    "online gambling",
-    "land-based casinos",
-    "responsible gaming"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/43f4d54d-2fdc-5f9f-b03f-d9c40436cb69"
 }

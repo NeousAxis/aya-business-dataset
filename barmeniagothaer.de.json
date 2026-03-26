@@ -1,20 +1,11 @@
 {
   "entity_id": "e1809e04-f5a7-512f-b357-2a1ded946502",
   "name": "BarmeniaGothaer",
-  "what_it_does": "BarmeniaGothaer is a German insurance group.",
+  "what_it_does": "BarmeniaGothaer is a German insurance company.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Germany",
-  "keywords": [
-    "insurance products",
-    "German insurance",
-    "financial security",
-    "risk coverage",
-    "life insurance",
-    "health insurance",
-    "property insurance",
-    "casualty insurance"
-  ],
-  "aio_score": 33.0,
+  "keywords": [],
+  "aio_score": 22.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e1809e04-f5a7-512f-b357-2a1ded946502"
 }

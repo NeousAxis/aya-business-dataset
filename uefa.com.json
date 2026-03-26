@@ -1,19 +1,11 @@
 {
   "entity_id": "463e2578-e746-52a4-94b8-bc42dade68fc",
   "name": "UEFA",
-  "what_it_does": "UEFA (Union of European Football Associations) governs European football.",
+  "what_it_does": "UEFA is the administrative body for football in Europe.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "european football",
-    "football governing body",
-    "soccer tournaments",
-    "championship leagues",
-    "football development",
-    "uefa competitions",
-    "national teams"
-  ],
+  "keywords": [],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/463e2578-e746-52a4-94b8-bc42dade68fc"
 }

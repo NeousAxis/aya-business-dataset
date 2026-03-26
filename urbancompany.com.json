@@ -1,20 +1,11 @@
 {
   "entity_id": "23941218-d46e-58ae-962d-a39fa1e71f92",
   "name": "Urban Company",
-  "what_it_does": "Urban Company provides home services like beauty, cleaning, and repairs via a mobile app.",
+  "what_it_does": "Urban Company connects customers with service professionals like cleaners and technicians.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [
-    "home cleaning",
-    "beauty services",
-    "appliance repairs",
-    "electrician",
-    "plumbing",
-    "carpentry",
-    "home maintenance",
-    "at-home beauty treatments"
-  ],
+  "keywords": [],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/23941218-d46e-58ae-962d-a39fa1e71f92"
 }

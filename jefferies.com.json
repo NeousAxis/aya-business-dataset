@@ -1,20 +1,11 @@
 {
   "entity_id": "35962a78-ba62-5ce6-862e-907e67920c80",
   "name": "Jefferies",
-  "what_it_does": "Jefferies is a global investment bank and capital markets firm.",
+  "what_it_does": "Jefferies is a global investment bank and financial services firm providing advisory, sales, and trading services.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "investment banking",
-    "financial markets",
-    "securities trading",
-    "financial advisory",
-    "capital markets",
-    "wealth advice",
-    "financial solutions",
-    "investment strategies"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/35962a78-ba62-5ce6-862e-907e67920c80"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "e4a4decd-f00e-5ba5-9b61-036200011d03",
   "name": "ecobee",
-  "what_it_does": "ecobee manufactures smart thermostats and home automation products.",
+  "what_it_does": "Ecobee designs and sells smart thermostats and related home automation products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
-  "keywords": [
-    "smart thermostats",
-    "home automation",
-    "energy conservation",
-    "connected home",
-    "HVAC control",
-    "smart home devices",
-    "temperature control",
-    "home climate"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e4a4decd-f00e-5ba5-9b61-036200011d03"
 }

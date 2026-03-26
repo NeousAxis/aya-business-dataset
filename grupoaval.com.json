@@ -1,19 +1,11 @@
 {
   "entity_id": "0fae6e89-21f5-5212-9080-bb7cce884369",
   "name": "Grupo Aval",
-  "what_it_does": "Grupo Aval is a Colombian financial holding company providing banking, pension, and investment services.",
+  "what_it_does": "Grupo Aval is a financial conglomerate offering banking and other financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Spain",
-  "keywords": [
-    "financial holding",
-    "Colombian banking",
-    "pension funds",
-    "investment services",
-    "banking",
-    "retirement planning",
-    "financial investments"
-  ],
+  "keywords": [],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0fae6e89-21f5-5212-9080-bb7cce884369"
 }

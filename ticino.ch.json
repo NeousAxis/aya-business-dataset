@@ -1,20 +1,11 @@
 {
   "entity_id": "a5378543-79f7-58df-83d7-4afa322a7d20",
   "name": "Information for travel and holidays in Ticino",
-  "what_it_does": "Ticino.ch provides travel information and resources for the Ticino region in Switzerland.",
+  "what_it_does": "Ticino.ch is the official tourism website for the Ticino region of Switzerland, providing information on travel, accommodation, and activities.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "ticino tourism",
-    "swiss travel",
-    "travel information",
-    "holiday planning",
-    "ticino region",
-    "swiss alps",
-    "lake lugano",
-    "travel resources"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a5378543-79f7-58df-83d7-4afa322a7d20"
 }

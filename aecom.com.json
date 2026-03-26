@@ -1,19 +1,11 @@
 {
   "entity_id": "126b3176-eff8-5b5b-870e-8149f2744570",
   "name": "AECOM",
-  "what_it_does": "AECOM provides infrastructure consulting and engineering services.",
+  "what_it_does": "AECOM provides infrastructure consulting services, including engineering, design, and construction management.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "infrastructure engineering",
-    "infrastructure consulting",
-    "engineering design",
-    "construction engineering",
-    "environmental consulting",
-    "transportation engineering",
-    "water infrastructure"
-  ],
+  "keywords": [],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/126b3176-eff8-5b5b-870e-8149f2744570"
 }

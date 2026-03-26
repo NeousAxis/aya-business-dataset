@@ -1,20 +1,11 @@
 {
   "entity_id": "94a9f848-0376-59ce-a455-25722d167dde",
   "name": "Hitachi, Ltd.",
-  "what_it_does": "Hitachi, Ltd. is a multinational conglomerate that manufactures a wide range of products, including industrial systems, power systems, and IT solutions.",
+  "what_it_does": "Hitachi, Ltd. is a Japanese multinational conglomerate corporation that manufactures and sells a wide range of products from power generation to information technology.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Japan",
-  "keywords": [
-    "industrial systems",
-    "power systems",
-    "mobility solutions",
-    "electronic equipment",
-    "information technology",
-    "manufacturing products",
-    "materials sector",
-    "digital solutions"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/94a9f848-0376-59ce-a455-25722d167dde"
 }

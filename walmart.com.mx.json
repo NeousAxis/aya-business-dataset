@@ -1,18 +1,11 @@
 {
-  "entity_id": "745c3eb2-59f0-54de-89d9-9cf2543cdb93",
+  "entity_id": "05551371-8161-5dd2-9f1e-574f841df474",
   "name": "Verifica tu identidad",
-  "what_it_does": "Walmart Mexico allows users to verify their identity, likely for online purchases or services.",
+  "what_it_does": "Walmart.com.mx is Walmart's online retail platform specifically for the Mexican market.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Mexico",
-  "keywords": [
-    "online identity verification",
-    "digital identity",
-    "Mexican e-commerce",
-    "Walmart Mexico",
-    "customer authentication",
-    "retail security"
-  ],
+  "keywords": [],
   "aio_score": 26.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/745c3eb2-59f0-54de-89d9-9cf2543cdb93"
+  "certificate_url": "https://ai-visionary.com/aya/e/05551371-8161-5dd2-9f1e-574f841df474"
 }

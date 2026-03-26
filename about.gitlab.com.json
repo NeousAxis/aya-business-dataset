@@ -1,18 +1,11 @@
 {
   "entity_id": "0e36fc14-1bd1-53f7-807d-3fd7b80d136e",
   "name": "GitLab",
-  "what_it_does": "GitLab provides a DevOps platform for software development, security, and operations.",
+  "what_it_does": "GitLab offers a web-based DevOps platform providing source code management, CI/CD, and other software development tools.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [
-    "DevOps",
-    "software development",
-    "software security",
-    "software operations",
-    "version control",
-    "CI/CD"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0e36fc14-1bd1-53f7-807d-3fd7b80d136e"
 }

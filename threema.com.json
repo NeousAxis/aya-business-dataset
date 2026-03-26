@@ -1,20 +1,11 @@
 {
   "entity_id": "d5c8e283-bf6f-525c-819f-94b7c58ae0e9",
   "name": "Threema",
-  "what_it_does": "Threema offers a secure messaging app with end-to-end encryption.",
+  "what_it_does": "Threema is a secure messaging app that prioritizes user privacy and data security through end-to-end encryption.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "secure messaging",
-    "encrypted messaging",
-    "privacy focused",
-    "mobile messaging",
-    "end-to-end encryption",
-    "private communication",
-    "secure chat",
-    "messaging application"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d5c8e283-bf6f-525c-819f-94b7c58ae0e9"
 }

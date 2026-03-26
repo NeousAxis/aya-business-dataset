@@ -1,20 +1,11 @@
 {
   "entity_id": "79667ef0-0210-565f-8401-a59448016e9c",
   "name": "Groupe AFNOR",
-  "what_it_does": "Groupe AFNOR provides standardization and certification services.",
+  "what_it_does": "Groupe AFNOR provides standardization and certification services for businesses.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "standards development",
-    "certification services",
-    "quality assurance",
-    "testing",
-    "training",
-    "french standards",
-    "industrial norms",
-    "regulatory compliance"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/79667ef0-0210-565f-8401-a59448016e9c"
 }

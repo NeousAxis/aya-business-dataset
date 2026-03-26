@@ -1,20 +1,11 @@
 {
   "entity_id": "b501fbac-670b-56d2-bea6-e6cfcc92cfa9",
   "name": "Das ist RWE",
-  "what_it_does": "RWE is a German energy company focusing on renewable energy generation.",
+  "what_it_does": "RWE is a German energy company that generates and trades electricity.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "renewable energy",
-    "energy generation",
-    "power",
-    "RWE",
-    "energy transition",
-    "wind energy",
-    "solar energy",
-    "sustainable"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b501fbac-670b-56d2-bea6-e6cfcc92cfa9"
 }

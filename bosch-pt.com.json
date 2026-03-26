@@ -1,19 +1,11 @@
 {
   "entity_id": "695bbd75-17e3-5c21-a8f7-52badefc2732",
   "name": "Bosch Power Tools",
-  "what_it_does": "Bosch Power Tools manufactures and sells power tools for professionals and consumers.",
+  "what_it_does": "Bosch-PT.com manufactures and sells power tools for construction and woodworking.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "EN",
-  "keywords": [
-    "power tools",
-    "cordless drills",
-    "sanding machines",
-    "measuring tools",
-    "woodworking tools",
-    "metalworking tools",
-    "construction tools"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/695bbd75-17e3-5c21-a8f7-52badefc2732"
 }

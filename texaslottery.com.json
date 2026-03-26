@@ -1,19 +1,11 @@
 {
   "entity_id": "897e4a3a-8eb2-5c22-b32d-e28f28692165",
   "name": "Texas Lottery",
-  "what_it_does": "The Texas Lottery operates and manages lottery games in the state of Texas.",
+  "what_it_does": "Texas Lottery operates the state-run lottery games for the state of Texas.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "lottery games",
-    "state lottery",
-    "Texas lottery",
-    "lotto",
-    "scratch tickets",
-    "gambling",
-    "lottery drawings"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/897e4a3a-8eb2-5c22-b32d-e28f28692165"
 }

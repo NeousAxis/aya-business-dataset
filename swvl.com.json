@@ -1,19 +1,11 @@
 {
   "entity_id": "65dc25c5-343f-50d9-83f2-bd57341ace6c",
   "name": "Swvl",
-  "what_it_does": "Swvl provides a tech-enabled mass transit platform offering fixed route and on-demand transportation services.",
+  "what_it_does": "Swvl provides a bus-hailing platform and mass transit solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Saudi Arabia",
-  "keywords": [
-    "mass transit",
-    "bus transportation",
-    "van pooling",
-    "ride-sharing",
-    "urban mobility",
-    "commute solutions",
-    "transport network"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/65dc25c5-343f-50d9-83f2-bd57341ace6c"
 }

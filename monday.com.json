@@ -1,20 +1,11 @@
 {
   "entity_id": "b0f9b20f-61c3-5c4b-8bcd-0c3f89303713",
   "name": "monday.com",
-  "what_it_does": "monday.com provides a work operating system (Work OS) platform that allows teams to plan, track, and manage their work.",
+  "what_it_does": "monday.com is a work management platform that helps teams plan, track, and manage their projects.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Taiwan",
-  "keywords": [
-    "work OS",
-    "project planning",
-    "team collaboration",
-    "workflow automation",
-    "task management",
-    "resource allocation",
-    "productivity tools",
-    "project management"
-  ],
+  "keywords": [],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b0f9b20f-61c3-5c4b-8bcd-0c3f89303713"
 }

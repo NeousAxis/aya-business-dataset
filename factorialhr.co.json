@@ -1,19 +1,11 @@
 {
   "entity_id": "ebd2a46c-c41f-5970-a59d-0a49c69146ea",
   "name": "Factorial",
-  "what_it_does": "Factorial provides HR software for small and medium-sized businesses.",
+  "what_it_does": "Factorial offers an HR software platform for managing employee data, payroll, and other HR processes.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [
-    "HR software",
-    "human resources",
-    "SME solutions",
-    "employee data",
-    "time off",
-    "factorial",
-    "hr automation"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ebd2a46c-c41f-5970-a59d-0a49c69146ea"
 }

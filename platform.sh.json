@@ -1,20 +1,11 @@
 {
   "entity_id": "a5f09658-c13d-5604-b93e-fd70f44dea72",
   "name": "Platform",
-  "what_it_does": "Platform.sh provides a platform-as-a-service for deploying and managing web applications.",
+  "what_it_does": "Platform.sh provides a platform as a service for deploying and managing web applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [
-    "PaaS",
-    "application deployment",
-    "web application hosting",
-    "application environment",
-    "cloud hosting",
-    "development workflow",
-    "continuous integration",
-    "cloud platform"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a5f09658-c13d-5604-b93e-fd70f44dea72"
 }

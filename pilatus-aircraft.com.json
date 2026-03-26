@@ -1,20 +1,11 @@
 {
   "entity_id": "227e19f7-e9fb-5001-9c8b-c7b119d50ff7",
   "name": "Pilatus Aircraft",
-  "what_it_does": "Pilatus Aircraft designs, develops, and manufactures single-engine turboprop aircraft.",
+  "what_it_does": "Pilatus Aircraft manufactures single-engine turboprop and jet aircraft.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "turboprop aircraft",
-    "single-engine aircraft",
-    "aircraft manufacturing",
-    "general aviation",
-    "business aircraft",
-    "aviation technology",
-    "Swiss aircraft",
-    "special mission aircraft"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/227e19f7-e9fb-5001-9c8b-c7b119d50ff7"
 }

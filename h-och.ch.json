@@ -1,18 +1,11 @@
 {
   "entity_id": "0a37c4a6-a1db-5a86-87ae-7db513910a9d",
   "name": "HOCH Health Ostschweiz",
-  "what_it_does": "HOCH Health Ostschweiz likely provides healthcare services in Eastern Switzerland.",
+  "what_it_does": "HOCH Health Ostschweiz provides laboratory diagnostic services and medical care in eastern Switzerland.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
-  "keywords": [
-    "Eastern Switzerland healthcare",
-    "Swiss medical provisions",
-    "health services",
-    "medical care",
-    "hospital network",
-    "Swiss health system"
-  ],
+  "keywords": [],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0a37c4a6-a1db-5a86-87ae-7db513910a9d"
 }

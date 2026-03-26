@@ -1,20 +1,11 @@
 {
   "entity_id": "90b086b4-8905-5c83-aadf-1a086622b030",
   "name": "sennder Technologies GmbH",
-  "what_it_does": "sennder Technologies GmbH is a digital freight forwarder offering technology-driven logistics solutions.",
+  "what_it_does": "sennder Technologies GmbH provides a digital freight forwarding platform connecting shippers and carriers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [
-    "frachttransport",
-    "logistik",
-    "speditionsdienste",
-    "lkw-fracht",
-    "frachtvermittlung",
-    "sennder",
-    "frachttechnologie",
-    "transport-logistik"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/90b086b4-8905-5c83-aadf-1a086622b030"
 }

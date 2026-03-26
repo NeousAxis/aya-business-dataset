@@ -1,20 +1,11 @@
 {
   "entity_id": "d0cd22b9-ade4-551a-a4d9-7f9baf12fee7",
   "name": "Bmax",
-  "what_it_does": "Bmax likely manufactures industrial products.",
+  "what_it_does": "Bmax manufactures and sells electronics, likely computers or related devices.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "bmax-produkte",
-    "industrieprodukte",
-    "herstellung",
-    "bmax",
-    "industriemaschinen",
-    "produktionsanlagen",
-    "maschinenbau",
-    "fertigung"
-  ],
+  "keywords": [],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d0cd22b9-ade4-551a-a4d9-7f9baf12fee7"
 }

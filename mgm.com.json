@@ -1,20 +1,11 @@
 {
   "entity_id": "ec64bcc7-f024-5168-b69c-7898258cee79",
   "name": "Home Page",
-  "what_it_does": "MGM Resorts International operates hotels, casinos, and entertainment venues.",
+  "what_it_does": "MGM Resorts International operates casinos and resorts.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [
-    "casinos",
-    "hotels",
-    "entertainment venues",
-    "resorts",
-    "gaming",
-    "hospitality",
-    "live entertainment",
-    "event spaces"
-  ],
+  "keywords": [],
   "aio_score": 22.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec64bcc7-f024-5168-b69c-7898258cee79"
 }

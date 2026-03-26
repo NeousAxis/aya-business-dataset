@@ -1,20 +1,11 @@
 {
-  "entity_id": "25384f56-a528-593e-a9d3-fb90a4a8c239",
-  "name": "LangChain",
-  "what_it_does": "LangChain provides a framework for building applications powered by large language models.",
+  "entity_id": "65744b6e-4e8c-5976-8535-43500681332c",
+  "name": "LangSmith",
+  "what_it_does": "LangSmith is a tool for debugging, testing, and evaluating language model applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "grands modèles linguistiques",
-    "framework IA",
-    "développement d'IA",
-    "outils IA",
-    "applications LLM",
-    "prototypage IA",
-    "chaînes de langage",
-    "IA générative"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/25384f56-a528-593e-a9d3-fb90a4a8c239"
+  "certificate_url": "https://ai-visionary.com/aya/e/65744b6e-4e8c-5976-8535-43500681332c"
 }

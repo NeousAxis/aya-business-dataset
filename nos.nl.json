@@ -1,19 +1,11 @@
 {
   "entity_id": "7734cf3f-8184-5fd5-b446-d72c94d5591d",
   "name": "Nederlandse Omroep Stichting",
-  "what_it_does": "NOS (Nederlandse Omroep Stichting) is the Dutch public broadcasting organization.",
+  "what_it_does": "NOS is a Dutch public broadcasting organization that produces news and sports programming.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Netherlands",
-  "keywords": [
-    "Dutch public broadcasting",
-    "Netherlands television",
-    "Netherlands radio",
-    "news broadcasting",
-    "public media",
-    "Dutch programming",
-    "national broadcasting"
-  ],
-  "aio_score": 42.0,
+  "keywords": [],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7734cf3f-8184-5fd5-b446-d72c94d5591d"
 }

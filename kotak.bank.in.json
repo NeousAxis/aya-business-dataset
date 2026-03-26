@@ -1,20 +1,11 @@
 {
   "entity_id": "2a5f4ef8-e7cf-5d40-a1e2-093a6ed37b05",
   "name": "Kotak Mahindra Bank Limited",
-  "what_it_does": "Kotak Mahindra Bank Limited is an Indian private sector bank.",
+  "what_it_does": "Kotak Mahindra Bank provides banking and financial services in India.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "India",
-  "keywords": [
-    "Indian banking",
-    "private sector bank",
-    "financial services",
-    "retail banking",
-    "corporate banking",
-    "investment banking",
-    "loan products",
-    "wealth management"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2a5f4ef8-e7cf-5d40-a1e2-093a6ed37b05"
 }

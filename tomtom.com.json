@@ -1,20 +1,11 @@
 {
   "entity_id": "132dae02-3bf7-507e-b349-a58a3b2befb9",
   "name": "TomTom",
-  "what_it_does": "TomTom provides navigation and location technology, including GPS devices and software.",
+  "what_it_does": "TomTom manufactures navigation and mapping products, including GPS devices and software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "GPS navigation",
-    "location technology",
-    "mapping software",
-    "navigation devices",
-    "automotive navigation",
-    "route planning",
-    "location APIs",
-    "fleet management"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/132dae02-3bf7-507e-b349-a58a3b2befb9"
 }

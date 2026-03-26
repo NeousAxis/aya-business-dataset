@@ -1,20 +1,11 @@
 {
   "entity_id": "a2d0d74d-a60a-58c2-9889-bdd9c98bbbe9",
   "name": "HiPP im Internet!",
-  "what_it_does": "Hipp sells organic baby food and childcare products.",
+  "what_it_does": "Hipp sells organic baby food and related products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "organic baby food",
-    "infant nutrition",
-    "children's skincare",
-    "baby products",
-    "organic ingredients",
-    "baby formula",
-    "childcare products",
-    "baby food brand"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a2d0d74d-a60a-58c2-9889-bdd9c98bbbe9"
 }

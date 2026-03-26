@@ -1,20 +1,11 @@
 {
   "entity_id": "f1247866-a97b-5791-8dc4-1698636acf9a",
   "name": "Davos Klosters Tourismus",
-  "what_it_does": "Davos Klosters Tourismus is the official tourism organization for the Davos Klosters region in Switzerland.",
+  "what_it_does": "Davos Klosters Tourismus promotes tourism and manages visitor services in the Davos Klosters region of Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "tourism",
-    "ski resorts",
-    "hiking trails",
-    "Davos Klosters",
-    "Swiss Alps",
-    "vacation rentals",
-    "mountain tourism",
-    "winter sports"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f1247866-a97b-5791-8dc4-1698636acf9a"
 }

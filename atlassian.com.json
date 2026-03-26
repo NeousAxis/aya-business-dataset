@@ -1,19 +1,11 @@
 {
-  "entity_id": "2981448a-7e50-5ffa-947c-f6e64cb87516",
+  "entity_id": "c8177dfb-bba4-5ff6-89a8-067578562539",
   "name": "Atlassian",
-  "what_it_does": "Atlassian develops software collaboration and project management tools.",
+  "what_it_does": "Atlassian provides software development and collaboration tools like Jira and Confluence.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [
-    "collaboration tools",
-    "project tracking",
-    "issue tracking",
-    "team collaboration",
-    "agile development",
-    "software development tools",
-    "project management"
-  ],
-  "aio_score": 50.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/2981448a-7e50-5ffa-947c-f6e64cb87516"
+  "keywords": [],
+  "aio_score": 61.0,
+  "certificate_url": "https://ai-visionary.com/aya/e/c8177dfb-bba4-5ff6-89a8-067578562539"
 }

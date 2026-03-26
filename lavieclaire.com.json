@@ -1,19 +1,11 @@
 {
   "entity_id": "f9a3ff9f-f1e0-5794-aba4-fab3c84b1cfd",
   "name": "La Vie Claire",
-  "what_it_does": "La Vie Claire is a retailer specializing in organic and natural food products.",
+  "what_it_does": "La Vie Claire is a retail chain specializing in organic and natural food products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "organic food",
-    "natural groceries",
-    "health food retailer",
-    "organic products",
-    "bio food",
-    "France grocery",
-    "dietary foods"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f9a3ff9f-f1e0-5794-aba4-fab3c84b1cfd"
 }

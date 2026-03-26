@@ -1,20 +1,11 @@
 {
   "entity_id": "10c29df1-a570-56ae-b82d-ada972260413",
-  "name": "Tenable",
-  "what_it_does": "Tenable offers cybersecurity solutions for vulnerability management and threat detection.",
+  "name": "Tenable®",
+  "what_it_does": "Tenable develops cybersecurity solutions for vulnerability management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [
-    "cybersecurity",
-    "vulnerability management",
-    "threat detection",
-    "security assessment",
-    "network security",
-    "cloud security",
-    "risk-based security",
-    "exposure management"
-  ],
-  "aio_score": 74.0,
+  "keywords": [],
+  "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/10c29df1-a570-56ae-b82d-ada972260413"
 }

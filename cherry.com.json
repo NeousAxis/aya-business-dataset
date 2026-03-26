@@ -1,19 +1,11 @@
 {
   "entity_id": "6dfa3546-e64a-5084-a059-02e83c908458",
   "name": "Cherry",
-  "what_it_does": "Cherry offers travel services and likely facilitates booking or transportation.",
+  "what_it_does": "Cherry likely provides transportation services, possibly ride-sharing or car rentals.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Sweden",
-  "keywords": [
-    "flights",
-    "travel accommodations",
-    "holiday packages",
-    "travel bookings",
-    "vacation rentals",
-    "resort bookings",
-    "airline tickets"
-  ],
+  "keywords": [],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6dfa3546-e64a-5084-a059-02e83c908458"
 }

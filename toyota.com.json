@@ -1,20 +1,11 @@
 {
   "entity_id": "871d4bf9-5f0e-5a01-b4c7-877e18b038a7",
   "name": "Toyota Official Site",
-  "what_it_does": "Toyota sells and services cars, trucks, and SUVs.",
+  "what_it_does": "Toyota manufactures and sells automobiles, trucks, and related parts and services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [
-    "automobiles",
-    "trucks",
-    "SUVs",
-    "vehicle sales",
-    "car maintenance",
-    "auto financing",
-    "new cars",
-    "used cars"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/871d4bf9-5f0e-5a01-b4c7-877e18b038a7"
 }

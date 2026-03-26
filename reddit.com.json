@@ -1,20 +1,11 @@
 {
   "entity_id": "77a2eb96-b335-5311-b5ef-cf6c59dabb64",
-  "name": "Reddit",
+  "name": "reddit",
   "what_it_does": "Reddit is a social news aggregation, web content rating, and discussion website.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "social news",
-    "content aggregation",
-    "web content rating",
-    "discussion forums",
-    "user-generated content",
-    "community platform",
-    "online forums",
-    "news aggregator"
-  ],
-  "aio_score": 35.0,
+  "keywords": [],
+  "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/77a2eb96-b335-5311-b5ef-cf6c59dabb64"
 }

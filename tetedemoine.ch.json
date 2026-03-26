@@ -1,20 +1,11 @@
 {
   "entity_id": "f6a4935f-0f6d-5338-a76b-01a1d2066881",
   "name": "Tête de moine AOP",
-  "what_it_does": "Tete de Moine AOP sells the Swiss cheese of the same name.",
+  "what_it_does": "Tête de Moine AOP sells the specific Swiss cheese of the same name online.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
-  "keywords": [
-    "Tête de Moine cheese",
-    "Swiss cheese",
-    "cheese specialty",
-    "AOP cheese",
-    "cheese rosette",
-    "Jura cheese",
-    "dairy products",
-    "artisanal cheese"
-  ],
+  "keywords": [],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f6a4935f-0f6d-5338-a76b-01a1d2066881"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "3d55cdb3-ef0b-5ac6-8702-1c0203d046f5",
   "name": "Wayfair",
-  "what_it_does": "Wayfair is an e-commerce company that sells furniture and home goods.",
+  "what_it_does": "Wayfair is an online retailer of furniture and home goods.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Canada",
-  "keywords": [
-    "home furnishings",
-    "furniture",
-    "home decor",
-    "e-commerce furniture",
-    "online furniture",
-    "housewares",
-    "home goods"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3d55cdb3-ef0b-5ac6-8702-1c0203d046f5"
 }

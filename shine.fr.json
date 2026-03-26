@@ -1,20 +1,11 @@
 {
   "entity_id": "5eaf79d0-1860-51fa-b9ac-68dbf28270fb",
   "name": "Shine",
-  "what_it_does": "Shine offers banking and financial management services for freelancers and small business owners.",
+  "what_it_does": "Shine provides online banking and financial management solutions for freelancers and small business owners in France.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
-  "keywords": [
-    "freelance banking",
-    "independent worker finance",
-    "SME banking",
-    "financial management tools",
-    "expense tracking",
-    "invoicing",
-    "business accounts",
-    "French fintech"
-  ],
+  "keywords": [],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5eaf79d0-1860-51fa-b9ac-68dbf28270fb"
 }

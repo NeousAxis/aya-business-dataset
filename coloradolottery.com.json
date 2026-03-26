@@ -1,20 +1,11 @@
 {
   "entity_id": "99019649-fa5e-51a0-94f8-d34212f73e79",
   "name": "Colorado Lottery",
-  "what_it_does": "Colorado Lottery sells lottery tickets.",
+  "what_it_does": "The Colorado Lottery sells lottery tickets and conducts lottery drawings within the state of Colorado.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "lottery tickets",
-    "draw games",
-    "scratch tickets",
-    "prize payouts",
-    "state lottery",
-    "gaming",
-    "Colorado games",
-    "chance games"
-  ],
+  "keywords": [],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/99019649-fa5e-51a0-94f8-d34212f73e79"
 }

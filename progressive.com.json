@@ -1,20 +1,11 @@
 {
   "entity_id": "2b6c18a7-48b5-53e0-bb49-565f3466201f",
   "name": "An Insurance Company You Can Rely On",
-  "what_it_does": "Progressive is an insurance company offering auto, home, and other types of insurance.",
+  "what_it_does": "Progressive Insurance sells auto and other insurance policies directly to consumers.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "car insurance",
-    "home insurance",
-    "insurance quotes",
-    "insurance policies",
-    "property insurance",
-    "personal insurance",
-    "coverage options",
-    "auto insurance policies"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2b6c18a7-48b5-53e0-bb49-565f3466201f"
 }

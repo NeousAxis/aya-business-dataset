@@ -1,20 +1,11 @@
 {
   "entity_id": "e153d998-f7ad-5f7c-8faf-21049d1c5810",
   "name": "TD Canada Trust",
-  "what_it_does": "TD Canada Trust is a Canadian bank offering a range of financial products and services.",
+  "what_it_does": "TD Canada Trust provides personal and commercial banking services in Canada.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "Canadian banking",
-    "retail banking",
-    "financial products",
-    "personal finance",
-    "commercial banking",
-    "wealth",
-    "mortgages",
-    "loans"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e153d998-f7ad-5f7c-8faf-21049d1c5810"
 }

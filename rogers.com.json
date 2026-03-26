@@ -1,20 +1,11 @@
 {
   "entity_id": "a754c386-53dd-5498-bfae-6ad1170287bc",
   "name": "Rogers Communications Inc",
-  "what_it_does": "Rogers Communications Inc. is a Canadian telecommunications and media company.",
+  "what_it_does": "Rogers Communications is a Canadian telecommunications and media company providing wireless, cable, and internet services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Canada",
-  "keywords": [
-    "telecommunications",
-    "media",
-    "cable tv",
-    "internet access",
-    "wireless communication",
-    "Canadian telecom",
-    "mobile network",
-    "broadcasting"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a754c386-53dd-5498-bfae-6ad1170287bc"
 }

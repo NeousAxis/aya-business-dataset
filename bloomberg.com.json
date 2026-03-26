@@ -1,20 +1,11 @@
 {
   "entity_id": "b7a788ed-1b73-579e-b032-22cd489724a9",
   "name": "Bloomberg",
-  "what_it_does": "Bloomberg provides financial data, news, and analysis through various platforms.",
+  "what_it_does": "Bloomberg provides financial news, data, and analytics to businesses and investors.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "financial data",
-    "financial news",
-    "economic analysis",
-    "bloomberg terminal",
-    "market data",
-    "bloomberg news",
-    "financial media",
-    "global finance"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b7a788ed-1b73-579e-b032-22cd489724a9"
 }

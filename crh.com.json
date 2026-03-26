@@ -1,20 +1,11 @@
 {
   "entity_id": "1e151b7d-fc95-50a9-a5b9-85092a94b7ca",
   "name": "CRH",
-  "what_it_does": "CRH manufactures and distributes building materials.",
+  "what_it_does": "CRH provides tour and transport services (inferred from domain).",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [
-    "building materials",
-    "construction aggregates",
-    "cement production",
-    "construction solutions",
-    "infrastructure materials",
-    "road construction",
-    "asphalt production",
-    "CRH construction"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1e151b7d-fc95-50a9-a5b9-85092a94b7ca"
 }

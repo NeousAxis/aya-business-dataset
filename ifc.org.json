@@ -1,20 +1,11 @@
 {
   "entity_id": "2afa62dc-730b-53dd-97ff-182bf6c984ff",
   "name": "International Finance Corporation (IFC)",
-  "what_it_does": "The International Finance Corporation (IFC) is an international financial institution that offers investment, advisory, and asset management services to encourage private sector development in develop",
-  "for_who": "Students, educators, and institutions.",
-  "category": "Education & Training",
+  "what_it_does": "The IFC provides investment, advisory, and asset-management services to encourage private sector development in developing countries.",
+  "for_who": "Businesses and professionals.",
+  "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "international finance",
-    "development finance",
-    "emerging markets investment",
-    "private sector funding",
-    "sustainable development",
-    "impact investing",
-    "financial institution",
-    "global investments"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2afa62dc-730b-53dd-97ff-182bf6c984ff"
 }

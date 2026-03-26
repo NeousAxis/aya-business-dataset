@@ -1,20 +1,11 @@
 {
   "entity_id": "cb1a594a-b9d0-5af9-a4ea-9b1716fcabf9",
   "name": "Fastly",
-  "what_it_does": "Fastly operates a content delivery network (CDN) and edge computing platform.",
+  "what_it_does": "Fastly operates a global edge cloud platform for content delivery and security services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "CDN",
-    "content delivery",
-    "edge computing",
-    "web performance",
-    "website acceleration",
-    "network security",
-    "cloud infrastructure",
-    "internet services"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cb1a594a-b9d0-5af9-a4ea-9b1716fcabf9"
 }

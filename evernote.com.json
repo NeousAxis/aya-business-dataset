@@ -1,20 +1,11 @@
 {
   "entity_id": "2df89122-1dbb-5716-a9ad-4de6f67536dc",
   "name": "Evernote",
-  "what_it_does": "Evernote provides a note-taking application for organizing information.",
+  "what_it_does": "Evernote provides a note-taking application for organizing information and tasks.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "note-taking",
-    "organization",
-    "productivity",
-    "information management",
-    "task management",
-    "document scanning",
-    "note synchronization",
-    "digital notes"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2df89122-1dbb-5716-a9ad-4de6f67536dc"
 }

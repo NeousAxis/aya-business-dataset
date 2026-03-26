@@ -1,20 +1,11 @@
 {
   "entity_id": "80c46cdb-584c-5ffc-bd81-1e7c8534a56f",
   "name": "Swile",
-  "what_it_does": "Swile offers employee benefits and engagement solutions through a digital platform.",
+  "what_it_does": "Swile provides employee benefits and engagement solutions, including meal vouchers and expense management.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "employee benefits",
-    "meal vouchers",
-    "employee engagement",
-    "corporate perks",
-    "employee cards",
-    "benefits programs",
-    "food allowances",
-    "employee rewards"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/80c46cdb-584c-5ffc-bd81-1e7c8534a56f"
 }

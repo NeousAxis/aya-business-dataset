@@ -1,20 +1,11 @@
 {
   "entity_id": "4c90274d-bfca-5798-b8bf-db67fd6a675c",
   "name": "Murata Manufacturing Co., Ltd.",
-  "what_it_does": "Murata Manufacturing manufactures electronic components and modules.",
+  "what_it_does": "Murata Manufacturing Co., Ltd. manufactures electronic components and solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "China",
-  "keywords": [
-    "electronic components",
-    "electronic modules",
-    "ceramic capacitors",
-    "inductors",
-    "circuit boards",
-    "noise suppression",
-    "sensor products",
-    "component manufacturing"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4c90274d-bfca-5798-b8bf-db67fd6a675c"
 }

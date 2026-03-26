@@ -1,20 +1,11 @@
 {
   "entity_id": "e1a99fbf-9871-518c-9d8f-48d80daf5b04",
   "name": "Equinor",
-  "what_it_does": "Equinor is a Norwegian energy company primarily focused on oil, gas, and renewable energy production.",
+  "what_it_does": "Equinor is likely a news or media outlet.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "oil production",
-    "gas production",
-    "energy production",
-    "renewable energy",
-    "offshore drilling",
-    "energy exploration",
-    "Norway energy",
-    "natural gas"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e1a99fbf-9871-518c-9d8f-48d80daf5b04"
 }

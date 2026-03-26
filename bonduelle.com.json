@@ -1,20 +1,11 @@
 {
   "entity_id": "f6900e78-d915-5f76-b9e1-b1c3a7fd9129",
   "name": "Bonduelle",
-  "what_it_does": "Bonduelle is a company specializing in processed vegetables.",
+  "what_it_does": "Bonduelle is a multinational company specializing in processed vegetables.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "canned vegetables",
-    "frozen vegetables",
-    "processed vegetables",
-    "packaged salads",
-    "vegetable products",
-    "ready-to-eat vegetables",
-    "preserved vegetables",
-    "plant-based food"
-  ],
+  "keywords": [],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f6900e78-d915-5f76-b9e1-b1c3a7fd9129"
 }

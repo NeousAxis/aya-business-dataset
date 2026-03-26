@@ -1,20 +1,11 @@
 {
   "entity_id": "966ddbbe-f6a5-504c-af3c-c7a7cf279e1c",
   "name": "PandaDoc",
-  "what_it_does": "PandaDoc provides a document automation software platform for creating, sending, and managing proposals, contracts, and other business documents.",
+  "what_it_does": "PandaDoc provides software for creating, sending, and managing proposals, contracts, and other business documents.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "document automation",
-    "document generation",
-    "e-signature",
-    "proposal creation",
-    "contract management",
-    "document workflow",
-    "sales documents",
-    "quote automation"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/966ddbbe-f6a5-504c-af3c-c7a7cf279e1c"
 }

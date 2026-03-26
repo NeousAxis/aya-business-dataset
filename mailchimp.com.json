@@ -1,20 +1,11 @@
 {
   "entity_id": "bc462f21-af53-519c-8cbf-65f3e64279f4",
   "name": "Mailchimp",
-  "what_it_does": "Mailchimp provides an email marketing and automation platform.",
+  "what_it_does": "Mailchimp provides an email marketing automation platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [
-    "email marketing",
-    "marketing automation",
-    "email campaigns",
-    "email newsletters",
-    "customer relationship management",
-    "marketing platform",
-    "small marketing",
-    "e-commerce marketing"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bc462f21-af53-519c-8cbf-65f3e64279f4"
 }

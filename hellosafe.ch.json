@@ -1,20 +1,11 @@
 {
   "entity_id": "b40e8879-bc7a-5b23-b973-f8bb3114f2b5",
   "name": "Hellosafe",
-  "what_it_does": "Hellosafe provides online comparison tools, likely for financial products like insurance.",
+  "what_it_does": "Hellosafe likely offers services related to online safety and security.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [
-    "insurance comparison",
-    "financial product comparison",
-    "insurance quotes",
-    "online comparison tools",
-    "personal finance",
-    "insurance products",
-    "price comparison",
-    "financial calculators"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b40e8879-bc7a-5b23-b973-f8bb3114f2b5"
 }

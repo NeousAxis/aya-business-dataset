@@ -1,19 +1,11 @@
 {
   "entity_id": "4d81a005-1346-5040-a361-c1791335f79f",
   "name": "National Bank of Pakistan",
-  "what_it_does": "National Bank of Pakistan provides commercial banking services in Pakistan.",
+  "what_it_does": "National Bank of Pakistan provides banking and financial services in Pakistan.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "commercial banking",
-    "pakistan banking",
-    "financial services",
-    "loans",
-    "trade finance",
-    "branch banking",
-    "sme banking"
-  ],
+  "keywords": [],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4d81a005-1346-5040-a361-c1791335f79f"
 }

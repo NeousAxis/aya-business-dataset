@@ -1,18 +1,11 @@
 {
   "entity_id": "aab87a1b-6617-5da9-92e6-59eb07d77057",
   "name": "Shell Global",
-  "what_it_does": "Shell Global is a multinational oil and gas company involved in exploration, production, refining, and distribution.",
+  "what_it_does": "Shell is a global group of energy and petrochemical companies.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
-  "keywords": [
-    "oil exploration",
-    "gas exploration",
-    "oil production",
-    "gas production",
-    "oil refining",
-    "gas distribution"
-  ],
+  "keywords": [],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aab87a1b-6617-5da9-92e6-59eb07d77057"
 }

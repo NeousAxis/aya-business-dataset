@@ -1,19 +1,11 @@
 {
   "entity_id": "2743323e-85c8-5836-a246-5a6503255530",
   "name": "Smartsheet",
-  "what_it_does": "Smartsheet offers a work management platform for collaboration and task tracking.",
+  "what_it_does": "Smartsheet provides a platform for work management and collaboration, with spreadsheet-like interface.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [
-    "work collaboration",
-    "task tracking",
-    "project execution",
-    "workflow automation",
-    "team collaboration",
-    "project visibility",
-    "collaborative work"
-  ],
+  "keywords": [],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2743323e-85c8-5836-a246-5a6503255530"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "692762c4-5d6f-5671-b6eb-28b1575dbd08",
   "name": "Basel Stadt [Schweiz]",
-  "what_it_does": "Basel.com promotes tourism and provides information about the city of Basel, Switzerland.",
-  "for_who": "Media professionals and audiences.",
-  "category": "Media & Communication",
-  "location": "Global",
-  "keywords": [
-    "basel tourism",
-    "city information",
-    "swiss tourism",
-    "travel guide",
-    "local attractions",
-    "basel events",
-    "cultural experiences"
-  ],
-  "aio_score": 46.0,
+  "what_it_does": "Basel.com provides tourism information about the city of Basel, Switzerland.",
+  "for_who": "Businesses and professionals.",
+  "category": "Tourisme & Transport",
+  "location": "Switzerland",
+  "keywords": [],
+  "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/692762c4-5d6f-5671-b6eb-28b1575dbd08"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "98dde5f0-cd9e-5d3d-bc32-881d4cf6c506",
   "name": "Deno",
-  "what_it_does": "Deno provides a secure runtime environment for JavaScript and TypeScript.",
+  "what_it_does": "Deno is a secure runtime for JavaScript and TypeScript.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "javascript runtime",
-    "typescript runtime",
-    "secure execution",
-    "server-side javascript",
-    "modern javascript",
-    "web development",
-    "command-line tools",
-    "scripting environment"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/98dde5f0-cd9e-5d3d-bc32-881d4cf6c506"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "d2424da2-e2b4-5d95-9e83-1868b908004b",
   "name": "Beautiful.ai",
-  "what_it_does": "Beautiful.ai provides a platform for creating presentations.",
+  "what_it_does": "Beautiful.ai is a presentation software platform that uses AI to help create visually appealing slides.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "presentation design",
-    "visual communication",
-    "presentation software",
-    "presentation templates",
-    "slide design",
-    "business presentations",
-    "design tools"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d2424da2-e2b4-5d95-9e83-1868b908004b"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "b4d92758-6c6c-55da-999a-18bcadf97164",
   "name": "Curve OS Ltd.",
-  "what_it_does": "Curve combines multiple payment cards into a single card and app.",
+  "what_it_does": "Curve offers a payment card that consolidates multiple debit and credit cards into one.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United Kingdom",
-  "keywords": [
-    "payment cards",
-    "card consolidation",
-    "financial card",
-    "payment",
-    "Curve card",
-    "Mastercard",
-    "credit cards",
-    "debit cards"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b4d92758-6c6c-55da-999a-18bcadf97164"
 }

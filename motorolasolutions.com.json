@@ -1,19 +1,11 @@
 {
   "entity_id": "f9a37a9a-5465-59a8-9839-c8bbabe8246f",
   "name": "Motorola Solutions, Inc.",
-  "what_it_does": "Motorola Solutions provides communication and safety solutions, including radios and software, for public safety and enterprise customers.",
+  "what_it_does": "Motorola Solutions provides communication and security solutions for public safety and enterprise customers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "public safety",
-    "communication systems",
-    "radio technology",
-    "dispatch software",
-    "video security",
-    "command center",
-    "situational awareness"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f9a37a9a-5465-59a8-9839-c8bbabe8246f"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "6e6c7b42-b951-5c02-8546-f4a809d4b587",
   "name": "BFM",
-  "what_it_does": "BFM TV is a French rolling news and weather channel.",
+  "what_it_does": "BFMTV.com is likely a travel news website, possibly related to rail travel, given the 'TV' in the name.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "French news channel",
-    "24/7 news",
-    "weather forecasts",
-    "current",
-    "television",
-    "live news",
-    "breaking news",
-    "weather"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6e6c7b42-b951-5c02-8546-f4a809d4b587"
 }

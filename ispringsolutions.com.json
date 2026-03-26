@@ -1,20 +1,11 @@
 {
   "entity_id": "7435eac8-34dd-5cdf-8366-23c16a932cd4",
   "name": "iSpring Solutions, Inc.",
-  "what_it_does": "iSpring Solutions develops e-learning software and tools.",
+  "what_it_does": "iSpring Solutions provides e-learning authoring tools for creating online courses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "apprentissage en ligne",
-    "outils elearning",
-    "logiciels de formation",
-    "création de cours en ligne",
-    "présentations interactives",
-    "modules de formation",
-    "authoring tools",
-    "e-learning software"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7435eac8-34dd-5cdf-8366-23c16a932cd4"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "e2023200-af47-5035-a2db-e027e9c469d5",
   "name": "Kontent.ai",
-  "what_it_does": "Kontent.ai provides a headless content management system (CMS).",
+  "what_it_does": "Kontent.ai offers a headless content management system (CMS) for building digital experiences.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "headless CMS",
-    "content management system",
-    "API-first CMS",
-    "developer tools",
-    "content delivery",
-    "digital experience platform",
-    "content infrastructure",
-    "composable DXP"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e2023200-af47-5035-a2db-e027e9c469d5"
 }

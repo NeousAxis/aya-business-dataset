@@ -1,20 +1,11 @@
 {
   "entity_id": "65465ad3-0ac0-5aa8-b5b1-9e3381f1ddd6",
   "name": "Nodalview",
-  "what_it_does": "Nodalview provides virtual tour software and services for real estate.",
+  "what_it_does": "Nodalview provides a platform for real estate professionals to create and share virtual tours.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "virtual tours",
-    "real estate photography",
-    "property marketing",
-    "360° photography",
-    "real estate technology",
-    "virtual property tours",
-    "immersive experiences",
-    "property visualization"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/65465ad3-0ac0-5aa8-b5b1-9e3381f1ddd6"
 }

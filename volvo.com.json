@@ -1,17 +1,11 @@
 {
   "entity_id": "e2a30553-d3ba-53d2-9965-e698dd60631c",
   "name": "Volvo",
-  "what_it_does": "Volvo manufactures and sells vehicles, including cars, trucks, and buses.",
+  "what_it_does": "Volvo manufactures and sells automobiles, trucks, buses, and construction equipment.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "Automobile",
-    "Trucks",
-    "Buses",
-    "Vehicle Manufacturing",
-    "Vehicle Sales"
-  ],
+  "keywords": [],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e2a30553-d3ba-53d2-9965-e698dd60631c"
 }

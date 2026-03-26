@@ -1,20 +1,11 @@
 {
   "entity_id": "6ce64e5b-84fe-5745-aaac-d001ca11eecf",
   "name": "UNEP",
-  "what_it_does": "The United Nations Environment Programme coordinates the UN's environmental activities.",
+  "what_it_does": "UNEP is the United Nations Environment Programme, coordinating environmental activities.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "environmental programs",
-    "environmental activities",
-    "UN environment",
-    "sustainable development",
-    "climate change",
-    "environmental protection",
-    "ecosystem management",
-    "global environment"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6ce64e5b-84fe-5745-aaac-d001ca11eecf"
 }

@@ -1,17 +1,11 @@
 {
   "entity_id": "b4a7b45b-cf8a-5d8a-a2a3-69509bf31322",
   "name": "Menarini Group",
-  "what_it_does": "Menarini Group is a pharmaceutical company that researches, develops, manufactures, and markets pharmaceutical products.",
+  "what_it_does": "Menarini Group researches, develops, manufactures, and commercializes pharmaceutical products.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
-  "keywords": [
-    "pharmaceuticals",
-    "research",
-    "development",
-    "manufacturing",
-    "marketing"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b4a7b45b-cf8a-5d8a-a2a3-69509bf31322"
 }

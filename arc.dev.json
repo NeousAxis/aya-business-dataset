@@ -1,19 +1,11 @@
 {
   "entity_id": "ea7653fe-35c7-5515-89f1-ca4821a52f27",
   "name": "Arc",
-  "what_it_does": "Arc helps software developers find remote jobs and companies hire remote talent.",
+  "what_it_does": "Arc provides a web browser built for developers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "emplois à distance",
-    "recrutement développeurs",
-    "développeurs de logiciels",
-    "travail à distance",
-    "arc.dev",
-    "plateforme développeurs",
-    "offres d'emploi it"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ea7653fe-35c7-5515-89f1-ca4821a52f27"
 }

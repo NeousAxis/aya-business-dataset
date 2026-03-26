@@ -1,20 +1,11 @@
 {
   "entity_id": "c0c27cdc-e3e3-5cf5-9486-acb0812455db",
   "name": "Marriott Bonvoy Hotels",
-  "what_it_does": "Marriott manages and franchises a global portfolio of hotels and resorts under various brands.",
+  "what_it_does": "Marriott Bonvoy Hotels is a global hotel chain offering lodging and hospitality services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [
-    "hotels",
-    "resorts",
-    "global lodging",
-    "hospitality",
-    "travel accommodations",
-    "Marriott",
-    "hotel booking",
-    "loyalty program"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c0c27cdc-e3e3-5cf5-9486-acb0812455db"
 }

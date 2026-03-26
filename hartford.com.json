@@ -1,20 +1,11 @@
 {
   "entity_id": "bf2d5b03-68f2-5795-9fd3-e52b178ff81a",
   "name": "Death of a Salesman",
-  "what_it_does": "Hartford.com likely provides travel information and booking services related to Hartford.",
+  "what_it_does": "hartford.com likely provides information and resources related to Hartford, Connecticut, possibly including tourism, events, and local services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "travel information",
-    "Hartford travel",
-    "Hartford tourism",
-    "trip planning",
-    "travel booking",
-    "Connecticut travel",
-    "Hartford attractions",
-    "destination guide"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bf2d5b03-68f2-5795-9fd3-e52b178ff81a"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "d6bcf1c5-cae6-5cde-9ef1-9fc3c8a92716",
   "name": "Bancolombia",
-  "what_it_does": "Bancolombia is a financial institution offering banking products and services in Colombia.",
+  "what_it_does": "Bancolombia is a Colombian bank offering financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "CO",
-  "keywords": [
-    "banking",
-    "financial services",
-    "Colombian bank",
-    "retail banking",
-    "corporate banking",
-    "loans",
-    "credit cards",
-    "wealth management"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6bcf1c5-cae6-5cde-9ef1-9fc3c8a92716"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "f915efde-f09c-5c7f-942e-f477282156c8",
   "name": "Capture, share, and collaborate in immersive 3D.",
-  "what_it_does": "Matterport offers a platform for creating and sharing immersive 3D models of real-world spaces.",
+  "what_it_does": "Matterport.com provides a platform for creating and sharing 3D models of real-world spaces.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [
-    "3D models",
-    "immersive spaces",
-    "reality capture",
-    "3D scanning",
-    "virtual tours",
-    "spatial data",
-    "3D visualization",
-    "digital twins"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f915efde-f09c-5c7f-942e-f477282156c8"
 }

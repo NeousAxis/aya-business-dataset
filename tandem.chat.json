@@ -1,19 +1,11 @@
 {
   "entity_id": "cfd1597c-7fe9-5e1b-b082-87bba5038e20",
   "name": "A virtual office for remote teams",
-  "what_it_does": "Tandem.chat provides a virtual office platform for remote teams, facilitating communication and collaboration.",
+  "what_it_does": "Tandem.chat provides a virtual office platform for remote teams.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "virtual office",
-    "remote collaboration",
-    "team communication",
-    "distributed teams",
-    "real-time meetings",
-    "workspace",
-    "video conferencing"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cfd1597c-7fe9-5e1b-b082-87bba5038e20"
 }

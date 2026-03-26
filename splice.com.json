@@ -1,19 +1,11 @@
 {
   "entity_id": "40af69d5-e987-5999-8b9b-a017554f3293",
   "name": "Splice",
-  "what_it_does": "Splice is a platform for music creators, offering samples, loops, and collaboration tools.",
+  "what_it_does": "Splice provides a platform for music creators with samples, plugins, and collaboration tools.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "music samples",
-    "audio loops",
-    "music creation tools",
-    "collaborative music production",
-    "sound libraries",
-    "music producers",
-    "DAW integration"
-  ],
+  "keywords": [],
   "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/40af69d5-e987-5999-8b9b-a017554f3293"
 }

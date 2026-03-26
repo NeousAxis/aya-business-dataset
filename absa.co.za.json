@@ -1,20 +1,11 @@
 {
   "entity_id": "b5c58fb7-2cc0-5300-b87b-bac4454370f5",
   "name": "Absa",
-  "what_it_does": "Absa Group Limited is a South African-based financial services provider offering banking and investment products.",
+  "what_it_does": "Absa Group Limited is a South African-based financial services provider.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "South Africa",
-  "keywords": [
-    "financial services",
-    "banking products",
-    "South African banking",
-    "retail banking",
-    "corporate banking",
-    "investment banking",
-    "insurance products",
-    "wealth management"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b5c58fb7-2cc0-5300-b87b-bac4454370f5"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "a0d0e708-f644-5f6a-b7bd-202a3f58f5cd",
   "name": "Genelec.com",
-  "what_it_does": "Genelec designs and manufactures active loudspeaker systems for professional audio monitoring.",
+  "what_it_does": "Genelec manufactures active loudspeaker systems for professional audio monitoring.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "active loudspeakers",
-    "studio monitors",
-    "audio monitoring",
-    "professional audio equipment",
-    "sound reproduction",
-    "audio engineering",
-    "loudspeaker design",
-    "acoustics"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a0d0e708-f644-5f6a-b7bd-202a3f58f5cd"
 }

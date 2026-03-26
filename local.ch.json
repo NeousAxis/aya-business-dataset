@@ -1,20 +1,11 @@
 {
   "entity_id": "6554ba4d-bcdc-5ad7-813e-c7689a23197c",
   "name": "local.ch",
-  "what_it_does": "Local.ch is a Swiss online directory for finding restaurants and food-related businesses.",
+  "what_it_does": "Local.ch provides a local search directory for businesses and services in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss directory",
-    "restaurant directory",
-    "local business search",
-    "Swiss businesses",
-    "business listings",
-    "Swiss restaurants",
-    "food listings",
-    "local search"
-  ],
+  "keywords": [],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6554ba4d-bcdc-5ad7-813e-c7689a23197c"
 }

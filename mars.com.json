@@ -1,19 +1,11 @@
 {
   "entity_id": "f27f147b-4fe4-5af3-b169-98a56ad37641",
   "name": "Mars",
-  "what_it_does": "Mars manufactures and distributes confectionery, food, and pet care products.",
+  "what_it_does": "Mars, Incorporated manufactures and sells confectionery, food, and petcare products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "confectionery products",
-    "pet food",
-    "food products",
-    "chocolate brands",
-    "pet care",
-    "snack foods",
-    "global distribution"
-  ],
+  "keywords": [],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f27f147b-4fe4-5af3-b169-98a56ad37641"
 }

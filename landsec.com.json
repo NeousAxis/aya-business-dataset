@@ -1,19 +1,11 @@
 {
   "entity_id": "8711e6d5-a251-5af6-aaf1-494ee6ec8adc",
   "name": "Landsec",
-  "what_it_does": "Landsec is a commercial property company that owns, manages, and develops buildings.",
+  "what_it_does": "Landsec is a UK commercial property development and investment company.",
   "for_who": "Businesses and professionals.",
-  "category": "Conseil & Services Pro",
+  "category": "Finance & Banque",
   "location": "United Kingdom",
-  "keywords": [
-    "commercial property",
-    "real estate investment",
-    "property development",
-    "asset management",
-    "retail property",
-    "office space",
-    "UK property market"
-  ],
+  "keywords": [],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8711e6d5-a251-5af6-aaf1-494ee6ec8adc"
 }

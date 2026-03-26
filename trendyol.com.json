@@ -1,20 +1,11 @@
 {
   "entity_id": "119df2cc-95eb-5b0e-aef0-ef7da5358334",
   "name": "Trendyol",
-  "what_it_does": "Trendyol operates an e-commerce platform offering fashion, electronics, home goods, and other products.",
-  "for_who": "Businesses and developers.",
-  "category": "Technology & SaaS",
+  "what_it_does": "Trendyol is a major online fashion and retail marketplace based in Turkey.",
+  "for_who": "Businesses and professionals.",
+  "category": "Luxe & Mode",
   "location": "Saudi Arabia",
-  "keywords": [
-    "e-commerce",
-    "fashion marketplace",
-    "electronic retail",
-    "home goods",
-    "turkish marketplace",
-    "online shopping",
-    "fashion e-commerce",
-    "retail platform"
-  ],
+  "keywords": [],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/119df2cc-95eb-5b0e-aef0-ef7da5358334"
 }

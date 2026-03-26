@@ -1,19 +1,11 @@
 {
   "entity_id": "9a47d50d-9236-5d89-8fd9-07e13efe80a9",
   "name": "DIE ZEIT",
-  "what_it_does": "DIE ZEIT is a German weekly newspaper.",
+  "what_it_does": "DIE ZEIT is a German weekly newspaper covering current events and cultural topics.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "journal hebdomadaire",
-    "DIE ZEIT",
-    "actualités allemandes",
-    "presse écrite",
-    "journalisme",
-    "Allemagne",
-    "informations générales"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9a47d50d-9236-5d89-8fd9-07e13efe80a9"
 }

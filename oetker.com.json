@@ -1,20 +1,11 @@
 {
   "entity_id": "98eff084-4097-5bd7-a769-1129d43a4e58",
   "name": "Dr. Oetker",
-  "what_it_does": "Dr. Oetker produces a wide range of food products, including frozen pizzas, baking mixes, and desserts.",
+  "what_it_does": "Dr. Oetker is a multinational company that produces baking powder, cake mixes, frozen pizzas, puddings, and other food products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "frozen pizzas",
-    "baking mixes",
-    "desserts",
-    "food products",
-    "home baking",
-    "cake decorations",
-    "culinary ingredients",
-    "food manufacturing"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/98eff084-4097-5bd7-a769-1129d43a4e58"
 }

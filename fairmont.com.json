@@ -1,20 +1,11 @@
 {
   "entity_id": "c5c16c68-1215-5741-a98b-622466d73bc6",
   "name": "Country selector",
-  "what_it_does": "Fairmont Hotels & Resorts operates a chain of luxury hotels and resorts.",
+  "what_it_does": "Fairmont.com likely allows users to select a country and subsequently view Fairmont hotels in that region.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [
-    "luxury hotels",
-    "resorts",
-    "hospitality",
-    "hotel bookings",
-    "vacation packages",
-    "hotel accommodations",
-    "travel destinations",
-    "luxury travel"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c5c16c68-1215-5741-a98b-622466d73bc6"
 }

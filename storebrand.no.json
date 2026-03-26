@@ -1,20 +1,11 @@
 {
   "entity_id": "88c2ec3c-1f4e-5383-a2d2-a0928ea15b7c",
   "name": "Storebrand",
-  "what_it_does": "Storebrand offers banking, insurance, and asset management services in the Nordic region.",
+  "what_it_does": "Storebrand is a Norwegian financial services group providing pensions, insurance, and asset management.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Norway",
-  "keywords": [
-    "financial ",
-    "insurance",
-    "pensions",
-    "asset ",
-    "Norway finance",
-    "investment ",
-    "life insurance",
-    "retirement savings"
-  ],
+  "keywords": [],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/88c2ec3c-1f4e-5383-a2d2-a0928ea15b7c"
 }

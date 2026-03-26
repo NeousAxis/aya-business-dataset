@@ -1,20 +1,11 @@
 {
   "entity_id": "294a5ed2-30c6-547a-a728-043ea919b522",
   "name": "BambooHR",
-  "what_it_does": "BambooHR offers human resources software for small and medium-sized businesses.",
+  "what_it_does": "BambooHR provides human resource management software for small and medium-sized businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "HRIS",
-    "human resources",
-    "employee database",
-    "time tracking",
-    "benefits administration",
-    "payroll processing",
-    "performance reviews",
-    "HR analytics"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/294a5ed2-30c6-547a-a728-043ea919b522"
 }

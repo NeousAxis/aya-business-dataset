@@ -1,20 +1,11 @@
 {
   "entity_id": "b46e7ebc-12ee-5588-a287-ab2fa48b8a32",
   "name": "Aiven",
-  "what_it_does": "Aiven provides managed open source data technologies like databases and streaming platforms.",
+  "what_it_does": "Aiven provides managed open-source data infrastructure services in the cloud.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "open source databases",
-    "data streaming",
-    "managed data",
-    "data infrastructure",
-    "cloud data",
-    "kafka",
-    "postgresql",
-    "cassandra"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b46e7ebc-12ee-5588-a287-ab2fa48b8a32"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "08a604a8-d755-5e5e-bbb7-53bc79f6d85d",
   "name": "flywheel.com",
-  "what_it_does": "Flywheel provides managed WordPress hosting and development tools for web designers and agencies.",
+  "what_it_does": "Flywheel provides managed WordPress hosting for designers and agencies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "managed WordPress hosting",
-    "web developer tools",
-    "web agency solutions",
-    "WordPress development",
-    "SaaS hosting",
-    "website hosting",
-    "WordPress servers"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/08a604a8-d755-5e5e-bbb7-53bc79f6d85d"
 }

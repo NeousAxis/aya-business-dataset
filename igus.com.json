@@ -1,20 +1,11 @@
 {
   "entity_id": "94928301-ca09-5fd3-a2b1-f4a1b88b64c9",
   "name": "igus",
-  "what_it_does": "igus manufactures plastic bearings, cable carriers, and other motion plastics products.",
+  "what_it_does": "igus manufactures plastic bearings, cable carriers, and linear motion components.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Belgium",
-  "keywords": [
-    "plastic bearings",
-    "cable carriers",
-    "motion plastics",
-    "polymer products",
-    "igus products",
-    "linear technology",
-    "energy chains",
-    "tribo-plastics"
-  ],
+  "keywords": [],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/94928301-ca09-5fd3-a2b1-f4a1b88b64c9"
 }

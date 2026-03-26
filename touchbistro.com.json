@@ -1,20 +1,11 @@
 {
   "entity_id": "fc17fd11-c47e-5200-b4cc-51b7fefcdb8b",
   "name": "TouchBistro",
-  "what_it_does": "TouchBistro provides point-of-sale (POS) and restaurant management software for restaurants and bars.",
+  "what_it_does": "TouchBistro provides point-of-sale (POS) and restaurant management software for the restaurant industry.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "restaurant POS",
-    "bar POS",
-    "point of sale systems",
-    "restaurant management",
-    "food service",
-    "payment processing",
-    "restaurant analytics",
-    "cloud POS"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fc17fd11-c47e-5200-b4cc-51b7fefcdb8b"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "a2f12de9-5eaa-56a1-b639-b92941a1a092",
   "name": "Stanbic IBTC Holdings",
-  "what_it_does": "Stanbic IBTC Holdings provides financial services including banking, investment management, and pension fund administration in Nigeria.",
+  "what_it_does": "Stanbic IBTC Holdings provides financial services, including banking and investment management, in Nigeria.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "financial services",
-    "banking services",
-    "investment banking",
-    "asset management",
-    "Nigerian bank",
-    "corporate banking",
-    "wealth management",
-    "investment solutions"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a2f12de9-5eaa-56a1-b639-b92941a1a092"
 }

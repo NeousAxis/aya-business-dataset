@@ -1,18 +1,11 @@
 {
   "entity_id": "4b97d117-d593-5939-a878-41dfdd43d938",
   "name": "Sanofi",
-  "what_it_does": "Sanofi is a global pharmaceutical company that researches, develops, manufactures, and markets therapeutic solutions.",
+  "what_it_does": "Sanofi is a global pharmaceutical company focused on researching, developing, and manufacturing medicines and vaccines.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "pharmaceuticals",
-    "drug development",
-    "healthcare products",
-    "biopharmaceuticals",
-    "prescription drugs",
-    "global pharmaceuticals"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4b97d117-d593-5939-a878-41dfdd43d938"
 }

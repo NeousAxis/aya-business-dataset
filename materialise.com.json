@@ -1,20 +1,11 @@
 {
   "entity_id": "896e1721-ec35-515f-bee5-6a794c331966",
   "name": "Materialise",
-  "what_it_does": "Materialise provides 3D printing solutions and services for various industries, including healthcare and manufacturing.",
+  "what_it_does": "Materialise.com provides 3D printing solutions and services for medical and industrial applications.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "3D printing",
-    "additive manufacturing",
-    "medical 3D printing",
-    "industrial 3D printing",
-    "3D printing ",
-    "prototyping ",
-    "manufacturing ",
-    "software"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/896e1721-ec35-515f-bee5-6a794c331966"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "159f0765-2548-5d56-9b7d-795ec1ce5016",
-  "name": "Bulk",
-  "what_it_does": "Bulk.com sells a wide variety of sports nutrition products and supplements.",
+  "name": "Bulk™",
+  "what_it_does": "Bulk sells sports nutrition, supplements, and healthy foods online.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Luxembourg",
-  "keywords": [
-    "sports nutrition",
-    "protein supplements",
-    "vitamins",
-    "minerals",
-    "performance nutrition",
-    "health foods",
-    "bodybuilding supplements",
-    "vegan protein"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/159f0765-2548-5d56-9b7d-795ec1ce5016"
 }

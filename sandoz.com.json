@@ -1,20 +1,11 @@
 {
   "entity_id": "ccf17c3a-185d-5199-a6e8-d7b39fc08dec",
   "name": "Sandoz",
-  "what_it_does": "Sandoz likely manufactures and distributes generic pharmaceuticals and biosimilars.",
+  "what_it_does": "Sandoz develops, manufactures, and markets generic pharmaceuticals and biosimilars.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
-  "keywords": [
-    "generic medications",
-    "biosimilars",
-    "pharmaceuticals",
-    "injectable drugs",
-    "dermatologicals",
-    "oncology drugs",
-    "anti-infectives",
-    "global generics"
-  ],
+  "keywords": [],
   "aio_score": 21.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ccf17c3a-185d-5199-a6e8-d7b39fc08dec"
 }

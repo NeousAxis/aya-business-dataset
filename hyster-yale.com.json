@@ -1,17 +1,11 @@
 {
   "entity_id": "e3f1409e-334f-55fd-8e34-0823cd82a07e",
   "name": "Hyster-Yale, Inc.",
-  "what_it_does": "Hyster-Yale designs, engineers, manufactures, sells, and services lift trucks and related parts and attachments.",
+  "what_it_does": "Hyster-Yale designs, engineers, manufactures, sells, and services lift trucks and related parts.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [
-    "lift trucks",
-    "forklifts",
-    "material handling",
-    "industrial trucks",
-    "warehouse equipment"
-  ],
+  "keywords": [],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e3f1409e-334f-55fd-8e34-0823cd82a07e"
 }

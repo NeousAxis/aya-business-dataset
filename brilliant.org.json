@@ -1,20 +1,11 @@
 {
   "entity_id": "ea64a710-10ec-5113-ab9e-8135992f49e1",
   "name": "Brilliant",
-  "what_it_does": "Brilliant offers interactive online courses and problem-solving activities in STEM fields.",
+  "what_it_does": "Brilliant.org offers online courses and problem-solving activities for STEM subjects.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Czech Republic",
-  "keywords": [
-    "STEM education",
-    "interactive courses",
-    "problem-solving",
-    "online learning",
-    "mathematics education",
-    "science education",
-    "engineering education",
-    "math puzzles"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ea64a710-10ec-5113-ab9e-8135992f49e1"
 }

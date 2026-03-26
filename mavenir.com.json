@@ -1,20 +1,11 @@
 {
   "entity_id": "af0a2895-d7ee-535e-b1df-9b55178263fc",
   "name": "MAVENIR",
-  "what_it_does": "Mavenir provides cloud-native network software solutions for telecommunications service providers.",
+  "what_it_does": "Mavenir provides cloud-native software solutions for communications service providers, including 4G and 5G network infrastructure.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "cloud-native software",
-    "telecommunications software",
-    "telco solutions",
-    "5G infrastructure",
-    "virtualized networks",
-    "mobile network operators",
-    "communication technology",
-    "network automation"
-  ],
+  "keywords": [],
   "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/af0a2895-d7ee-535e-b1df-9b55178263fc"
 }

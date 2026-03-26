@@ -1,20 +1,11 @@
 {
   "entity_id": "95be2894-99a7-552d-b6a1-54f288876e79",
   "name": "Professional Translation Services by Gengo",
-  "what_it_does": "Gengo offers on-demand translation services.",
+  "what_it_does": "Gengo offers professional translation services for various types of content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "translation",
-    "localization",
-    "language",
-    "on-demand translation",
-    "professional translation",
-    "multilingual content",
-    "translation marketplace",
-    "human translation"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/95be2894-99a7-552d-b6a1-54f288876e79"
 }

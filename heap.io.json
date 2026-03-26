@@ -1,20 +1,11 @@
 {
   "entity_id": "6baef92c-ce0d-5752-a8e3-6426a05ee8a9",
   "name": "Heap",
-  "what_it_does": "Heap provides a product analytics platform that automatically captures user interactions.",
+  "what_it_does": "Heap provides product analytics that automatically captures user interactions on web and mobile applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "product analytics",
-    "user behavior",
-    "event tracking",
-    "Heap analytics",
-    "data analytics",
-    "customer",
-    "behavioral",
-    "website"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6baef92c-ce0d-5752-a8e3-6426a05ee8a9"
 }

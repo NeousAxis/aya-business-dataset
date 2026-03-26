@@ -1,20 +1,11 @@
 {
   "entity_id": "6a829cea-dc4b-5f9f-9da7-a916cb326e2e",
   "name": "Chipotle Mexican Grill",
-  "what_it_does": "Chipotle Mexican Grill is a chain of fast-casual restaurants.",
+  "what_it_does": "Chipotle Mexican Grill operates a chain of fast-casual restaurants specializing in Mexican cuisine.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Global",
-  "keywords": [
-    "Mexican food",
-    "burritos",
-    "tacos",
-    "casual dining",
-    "fast food chain",
-    "fresh ingredients",
-    "restaurant chain",
-    "QSR"
-  ],
+  "keywords": [],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6a829cea-dc4b-5f9f-9da7-a916cb326e2e"
 }

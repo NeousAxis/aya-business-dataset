@@ -1,19 +1,11 @@
 {
   "entity_id": "837b9bb1-070f-51a9-8393-ba06fe1150eb",
   "name": "Anthropic",
-  "what_it_does": "Anthropic is an artificial intelligence research company focused on building safer AI systems.",
+  "what_it_does": "Anthropic develops advanced AI models with a focus on safety and alignment.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "South Korea",
-  "keywords": [
-    "AI safety research",
-    "interpretable AI",
-    "reliable AI systems",
-    "artificial intelligence",
-    "machine learning",
-    "AI ethics",
-    "responsible AI"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/837b9bb1-070f-51a9-8393-ba06fe1150eb"
 }

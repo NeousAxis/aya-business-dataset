@@ -1,19 +1,11 @@
 {
   "entity_id": "4b337e5c-45c4-59d0-aba4-7a57601c6016",
   "name": "Volkswagen Schweiz",
-  "what_it_does": "Volkswagen Schweiz is the Swiss branch of the Volkswagen automotive manufacturer.",
+  "what_it_does": "Volkswagen Schweiz distributes and sells Volkswagen vehicles and related services in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Switzerland",
-  "keywords": [
-    "Volkswagen vehicles",
-    "Swiss automotive",
-    "car sales",
-    "vehicle maintenance",
-    "automobile distribution",
-    "Volkswagen Switzerland",
-    "automotive repair"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4b337e5c-45c4-59d0-aba4-7a57601c6016"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "55405b9c-987a-58be-8878-8174c7bbe50a",
   "name": "Buy now, pay later with Tabby",
-  "what_it_does": "Tabby provides a buy now, pay later service for online purchases.",
+  "what_it_does": "Tabby provides a buy now, pay later service for online and in-store purchases.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "buy now pay later",
-    "BNPL",
-    "installment payments",
-    "online shopping",
-    "e-commerce financing",
-    "point of sale financing",
-    "deferred payments",
-    "consumer finance"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/55405b9c-987a-58be-8878-8174c7bbe50a"
 }

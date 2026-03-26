@@ -1,18 +1,11 @@
 {
   "entity_id": "26b158a5-3962-5ab1-a23a-74ce2b2c8d51",
   "name": "TELEFUNKEN |",
-  "what_it_does": "TELEFUNKEN produces consumer electronics and professional audio equipment.",
+  "what_it_does": "TELEFUNKEN licenses its brand name for consumer electronics products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "consumer electronics",
-    "audio equipment",
-    "professional audio",
-    "recording equipment",
-    "audio solutions",
-    "vintage audio"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/26b158a5-3962-5ab1-a23a-74ce2b2c8d51"
 }

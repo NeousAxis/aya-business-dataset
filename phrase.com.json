@@ -1,20 +1,11 @@
 {
   "entity_id": "b61df162-44d7-554b-9915-660845e571ac",
   "name": "Phrase (Frm. Memsource)",
-  "what_it_does": "Phrase provides a cloud-based translation management system.",
+  "what_it_does": "Phrase provides a cloud-based translation management system for software localization.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "translation system",
-    "translation",
-    "cloud translation",
-    "localization",
-    "translation management",
-    "language translation",
-    "cloud-based translation",
-    "localization platform"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b61df162-44d7-554b-9915-660845e571ac"
 }

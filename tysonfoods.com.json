@@ -1,19 +1,11 @@
 {
   "entity_id": "d46abf46-fa48-59d4-95ac-4259d6ecb815",
   "name": "Tyson Foods",
-  "what_it_does": "Tyson Foods processes and markets chicken, beef, and pork.",
+  "what_it_does": "Tyson Foods produces and markets chicken, beef, and pork products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "poultry processing",
-    "beef processing",
-    "pork processing",
-    "meat products",
-    "food processing",
-    "protein products",
-    "meat distribution"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d46abf46-fa48-59d4-95ac-4259d6ecb815"
 }

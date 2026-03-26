@@ -1,19 +1,11 @@
 {
   "entity_id": "9f41f6ef-5aa4-5719-a8a1-ae0021f2fb7f",
   "name": "Twitch",
-  "what_it_does": "Twitch is a live streaming video platform, primarily used for video game streaming.",
+  "what_it_does": "Twitch is a live video streaming service primarily for video games.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Mexico",
-  "keywords": [
-    "live streaming",
-    "video game broadcasts",
-    "eSports",
-    "content creators",
-    "gaming communities",
-    "interactive entertainment",
-    "video sharing"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f41f6ef-5aa4-5719-a8a1-ae0021f2fb7f"
 }

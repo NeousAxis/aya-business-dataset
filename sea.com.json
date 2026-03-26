@@ -1,19 +1,11 @@
 {
   "entity_id": "4c93bc2a-e225-507b-8f39-c4d7a1d390b9",
   "name": "Sea",
-  "what_it_does": "Sea Limited (formerly Garena) operates e-commerce (Shopee), digital entertainment (Garena), and digital financial service (SeaMoney) platforms.",
+  "what_it_does": "Sea is a global consumer internet company operating in e-commerce, digital entertainment, and financial services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Singapore",
-  "keywords": [
-    "e-commerce",
-    "digital entertainment",
-    "online shopping",
-    "gaming",
-    "Southeast Asia",
-    "Shopee",
-    "Garena"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4c93bc2a-e225-507b-8f39-c4d7a1d390b9"
 }

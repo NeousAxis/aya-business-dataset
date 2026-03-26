@@ -1,19 +1,11 @@
 {
   "entity_id": "fd3400f6-0496-5b7a-a1e6-7f37525b72b0",
   "name": "LINE Plus Corporation",
-  "what_it_does": "LINE Plus Corporation develops and operates mobile applications and services for the LINE messaging platform.",
+  "what_it_does": "LINE Plus Corporation develops and operates mobile messaging app LINE and related services outside of Japan.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "mobile messaging",
-    "mobile applications",
-    "social media",
-    "communication tools",
-    "digital services",
-    "mobile gaming",
-    "content distribution"
-  ],
+  "keywords": [],
   "aio_score": 25.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fd3400f6-0496-5b7a-a1e6-7f37525b72b0"
 }

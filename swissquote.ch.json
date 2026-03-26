@@ -1,20 +1,11 @@
 {
   "entity_id": "1e644c07-aa3c-53dc-8dc1-7ca271e470f0",
   "name": "Swissquote Trading Platform",
-  "what_it_does": "Swissquote Trading Platform is a platform for online trading and investing.",
+  "what_it_does": "Swissquote provides online trading and banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "stock trading",
-    "forex trading",
-    "currency trading",
-    "online trading",
-    "investment platform",
-    "Swiss trading",
-    "Swissquote finance",
-    "financial instruments trading"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1e644c07-aa3c-53dc-8dc1-7ca271e470f0"
 }

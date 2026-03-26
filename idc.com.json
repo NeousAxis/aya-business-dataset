@@ -1,20 +1,11 @@
 {
   "entity_id": "8d0b3c64-58e5-5b0c-9f40-147bfb02df55",
   "name": "IDC",
-  "what_it_does": "IDC (International Data Corporation) is a market research and advisory firm specializing in information technology.",
+  "what_it_does": "IDC provides market intelligence, advisory services, and events for the information technology, telecommunications, and consumer technology markets.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "market research",
-    "technology analysis",
-    "industry analysis",
-    "IT research",
-    "consulting",
-    "technology market data",
-    "competitive intelligence",
-    "tech trends"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8d0b3c64-58e5-5b0c-9f40-147bfb02df55"
 }

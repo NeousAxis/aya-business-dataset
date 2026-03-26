@@ -1,20 +1,11 @@
 {
   "entity_id": "bb77f8ed-f824-5cb6-b7d1-367d594236bd",
   "name": "Visa",
-  "what_it_does": "Visa provides payment technology services facilitating electronic funds transfers globally.",
+  "what_it_does": "Visa facilitates electronic funds transfers through its global payment network, enabling credit and debit card transactions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Morocco",
-  "keywords": [
-    "electronic payments",
-    "payment network",
-    "credit card payments",
-    "debit card payments",
-    "global payments",
-    "payment processing",
-    "digital payments",
-    "financial transactions"
-  ],
+  "keywords": [],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bb77f8ed-f824-5cb6-b7d1-367d594236bd"
 }

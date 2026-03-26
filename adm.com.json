@@ -1,19 +1,11 @@
 {
   "entity_id": "1e68edf1-bc1a-57ad-9ef1-4931fb9ab49c",
   "name": "Human, Pet and Animal Nutrition Company",
-  "what_it_does": "ADM processes and markets agricultural commodities and ingredients for human and animal nutrition.",
+  "what_it_does": "Archer Daniels Midland (ADM) processes agricultural commodities and manufactures ingredients for human and animal nutrition.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [
-    "animal nutrition",
-    "livestock feed",
-    "pet food ingredients",
-    "agricultural products",
-    "food ingredients",
-    "human nutrition",
-    "ADM products"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1e68edf1-bc1a-57ad-9ef1-4931fb9ab49c"
 }

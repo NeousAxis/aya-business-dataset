@@ -1,19 +1,11 @@
 {
   "entity_id": "c2fdd348-c1ae-5fc0-80fe-42ea63710708",
   "name": "OutSystems",
-  "what_it_does": "OutSystems offers a low-code platform for developing enterprise-grade applications.",
+  "what_it_does": "OutSystems provides a low-code development platform for building enterprise applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [
-    "low-code development",
-    "application development",
-    "enterprise applications",
-    "visual development",
-    "rapid application development",
-    "digital transformation",
-    "application platform"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c2fdd348-c1ae-5fc0-80fe-42ea63710708"
 }

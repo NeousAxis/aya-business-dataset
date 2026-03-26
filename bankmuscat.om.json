@@ -1,19 +1,11 @@
 {
   "entity_id": "3bb5d710-a1f8-5658-a1a9-658413282d7c",
   "name": "Bank Muscat",
-  "what_it_does": "Bank Muscat is a banking institution providing financial services in Oman.",
+  "what_it_does": "Bank Muscat is a commercial bank in Oman offering a range of financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "Oman banking",
-    "retail banking",
-    "corporate finance",
-    "investment banking",
-    "financial products",
-    "banking operations",
-    "Oman financial services"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3bb5d710-a1f8-5658-a1a9-658413282d7c"
 }

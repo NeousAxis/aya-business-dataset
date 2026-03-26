@@ -1,20 +1,11 @@
 {
   "entity_id": "038c9146-4c3e-504d-b809-56a42b713c12",
   "name": "STADA",
-  "what_it_does": "STADA is a pharmaceutical company that develops, manufactures, and distributes generic and branded healthcare products.",
+  "what_it_does": "STADA manufactures and markets generic pharmaceutical products and consumer healthcare goods.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United Kingdom",
-  "keywords": [
-    "generic drugs",
-    "pharmaceutical manufacturing",
-    "branded medicines",
-    "healthcare products",
-    "drug distribution",
-    "pharmaceutical company",
-    "prescription drugs",
-    "self-medication"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/038c9146-4c3e-504d-b809-56a42b713c12"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "1752820b-d8ed-5e08-ba80-568a8de0ad18",
   "name": "Allbirds",
-  "what_it_does": "Allbirds sells shoes and apparel made from sustainable materials directly to consumers.",
+  "what_it_does": "Allbirds manufactures and sells sustainable footwear and apparel made from natural materials.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Germany",
-  "keywords": [
-    "Sustainable footwear",
-    "Eco-friendly shoes",
-    "Natural materials",
-    "Direct-to-consumer shoes",
-    "Apparel",
-    "Comfortable shoes",
-    "Ethical shoes",
-    "Sustainable fashion"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1752820b-d8ed-5e08-ba80-568a8de0ad18"
 }

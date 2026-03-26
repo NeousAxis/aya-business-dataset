@@ -1,20 +1,11 @@
 {
   "entity_id": "97b63571-1245-5737-85a6-a853afdbefc6",
   "name": "Raiffeisenbank",
-  "what_it_does": "Raiffeisenbank is an Austrian cooperative banking group offering retail and commercial financial services.",
+  "what_it_does": "Raiffeisen.at provides banking and financial services in Austria.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Austria",
-  "keywords": [
-    "Austrian cooperative bank",
-    "retail banking",
-    "financial services",
-    "loan products",
-    "savings accounts",
-    "investment banking",
-    "Raiffeisen banking",
-    "mortgage loans"
-  ],
+  "keywords": [],
   "aio_score": 23.0,
   "certificate_url": "https://ai-visionary.com/aya/e/97b63571-1245-5737-85a6-a853afdbefc6"
 }

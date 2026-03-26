@@ -1,19 +1,11 @@
 {
   "entity_id": "d92b6c7e-00a7-505f-9ad0-a5d7836878f9",
   "name": "Pirelli Global",
-  "what_it_does": "Pirelli designs, develops, manufactures, and markets tires for cars, motorcycles, and bicycles.",
+  "what_it_does": "Pirelli is a global tire manufacturer.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "car tires",
-    "motorcycle tires",
-    "bicycle tires",
-    "performance tires",
-    "tire technology",
-    "automotive tires",
-    "tire manufacturing"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d92b6c7e-00a7-505f-9ad0-a5d7836878f9"
 }

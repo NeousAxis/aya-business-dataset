@@ -1,20 +1,11 @@
 {
   "entity_id": "5e90c389-9866-5772-b5ef-15f459ffc1a6",
   "name": "Init7",
-  "what_it_does": "Init7 is an internet service provider offering fiber optic internet access and related services.",
+  "what_it_does": "Init7 is a Swiss internet service provider offering high-speed fiber optic internet connections.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "fiber optic internet",
-    "internet service provider",
-    "high-speed internet",
-    "Swiss internet",
-    "residential internet",
-    "business internet",
-    "data transmission",
-    "telecommunications"
-  ],
+  "keywords": [],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5e90c389-9866-5772-b5ef-15f459ffc1a6"
 }

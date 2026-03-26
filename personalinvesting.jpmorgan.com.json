@@ -1,20 +1,11 @@
 {
   "entity_id": "05f6fb10-72b1-59ad-8790-fe032ab23c5a",
-  "name": "J.P. Morgan",
-  "what_it_does": "J.P. Morgan provides wealth management and investment services to individual investors.",
+  "name": "J.P. Morgan PersonalÂ Investing",
+  "what_it_does": "J.P. Morgan Personal Investing provides an online brokerage platform for individual investors.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "wealth ",
-    "investment ",
-    "individual investors",
-    "financial ",
-    "portfolio ",
-    "investment advice",
-    "retirement ",
-    "brokerage "
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/05f6fb10-72b1-59ad-8790-fe032ab23c5a"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "53ee70fa-f83a-51cb-a355-d3b2d885412f",
   "name": "Mustakbil",
-  "what_it_does": "Mustakbil is likely a recruitment or career platform providing job listings and related services.",
+  "what_it_does": "Mustakbil is a job platform in Pakistan.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "career development",
-    "job search",
-    "recruitment solutions",
-    "talent acquisition",
-    "HR technology",
-    "employment marketplace",
-    "professional networking",
-    "candidate matching"
-  ],
+  "keywords": [],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/53ee70fa-f83a-51cb-a355-d3b2d885412f"
 }

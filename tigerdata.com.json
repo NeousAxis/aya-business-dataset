@@ -1,19 +1,11 @@
 {
   "entity_id": "0706c52f-f3d1-524f-aa4c-9b198ad55cf8",
   "name": "Tiger Data",
-  "what_it_does": "Tiger Data likely offers data-related services, potentially including data storage, analysis, or management.",
+  "what_it_does": "Tiger Data likely provides data management, security, or analytics solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "data storage",
-    "data analytics",
-    "data solutions",
-    "data management",
-    "data services",
-    "data infrastructure",
-    "storage solutions"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0706c52f-f3d1-524f-aa4c-9b198ad55cf8"
 }

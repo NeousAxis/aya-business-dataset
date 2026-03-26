@@ -1,20 +1,11 @@
 {
   "entity_id": "3a4f3e10-a45f-5eb7-ac19-08b8703bd718",
   "name": "AP International",
-  "what_it_does": "AP International sells beauty products online.",
+  "what_it_does": "AP International distributes beauty products and brands.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "beauty products",
-    "cosmetics",
-    "skincare",
-    "online retail",
-    "e-commerce",
-    "fragrances",
-    "makeup",
-    "haircare"
-  ],
+  "keywords": [],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3a4f3e10-a45f-5eb7-ac19-08b8703bd718"
 }

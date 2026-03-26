@@ -1,20 +1,11 @@
 {
   "entity_id": "e4ac1da6-60f0-550f-acea-b8b34f0f73de",
   "name": "University of St.Gallen",
-  "what_it_does": "University of St.Gallen is a business school in St. Gallen, Switzerland.",
+  "what_it_does": "University of St.Gallen is a research university in St. Gallen, Switzerland, specializing in business administration, economics, law, and international affairs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [
-    "business school",
-    "Swiss university",
-    "management education",
-    "finance studies",
-    "economics research",
-    "international affairs",
-    "executive education",
-    "St.Gallen education"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e4ac1da6-60f0-550f-acea-b8b34f0f73de"
 }

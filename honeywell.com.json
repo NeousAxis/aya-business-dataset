@@ -1,20 +1,11 @@
 {
   "entity_id": "10a3ed16-26ca-5169-9187-1c1db7b2c3a3",
   "name": "Honeywell",
-  "what_it_does": "Honeywell is a multinational conglomerate that produces a variety of commercial and consumer products, engineering services and aerospace systems.",
+  "what_it_does": "Honeywell is a diversified technology and manufacturing company focused on aerospace, building technologies, performance materials, and safety and productivity solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
-  "keywords": [
-    "aerospace products",
-    "building technologies",
-    "performance materials",
-    "safety products",
-    "industrial automation",
-    "control systems",
-    "sensing solutions",
-    "internet of things"
-  ],
+  "keywords": [],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/10a3ed16-26ca-5169-9187-1c1db7b2c3a3"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "9f0448d1-527b-5f0d-a4d3-766ed906e144",
   "name": "UBS",
-  "what_it_does": "UBS is a global financial services firm offering wealth management, investment banking, and asset management services.",
+  "what_it_does": "UBS is a global financial services firm providing wealth management, investment banking, and asset management services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "wealth management",
-    "investment banking",
-    "asset management",
-    "global finance",
-    "private banking",
-    "financial advisory",
-    "institutional investors"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f0448d1-527b-5f0d-a4d3-766ed906e144"
 }

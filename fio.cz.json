@@ -1,20 +1,11 @@
 {
   "entity_id": "9912ca9b-2e3e-5767-b294-5edff7543655",
   "name": "Fio banka",
-  "what_it_does": "Fio banka is a Czech bank providing retail and business banking services.",
+  "what_it_does": "Fio banka is a Czech bank that provides retail and business banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Czech Republic",
-  "keywords": [
-    "czech bank",
-    "banking services",
-    "personal banking",
-    "business banking",
-    "online banking",
-    "payment services",
-    "loans",
-    "current accounts"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9912ca9b-2e3e-5767-b294-5edff7543655"
 }

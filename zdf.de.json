@@ -1,20 +1,11 @@
 {
   "entity_id": "5d25874f-97d3-5f15-a775-44473bdadcc7",
   "name": "ZDF",
-  "what_it_does": "ZDF is a German public-service television broadcaster.",
+  "what_it_does": "ZDF is a German public service television broadcaster.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "German television",
-    "public broadcaster",
-    "TV programming",
-    "news broadcasting",
-    "German TV",
-    "television network",
-    "entertainment programs",
-    "German news"
-  ],
+  "keywords": [],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5d25874f-97d3-5f15-a775-44473bdadcc7"
 }

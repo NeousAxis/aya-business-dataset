@@ -1,19 +1,11 @@
 {
   "entity_id": "f4b86eec-0c1e-5733-9f00-5a6ec0d1bd95",
   "name": "PZU",
-  "what_it_does": "PZU is a Polish insurance company.",
+  "what_it_does": "PZU is a Polish insurance company offering a range of insurance products and financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Poland",
-  "keywords": [
-    "insurance",
-    "financial protection",
-    "polish insurance",
-    "life insurance",
-    "property insurance",
-    "casualty insurance",
-    "risk management"
-  ],
+  "keywords": [],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f4b86eec-0c1e-5733-9f00-5a6ec0d1bd95"
 }

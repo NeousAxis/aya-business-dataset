@@ -1,20 +1,11 @@
 {
   "entity_id": "aa6ea4be-e241-5ff5-884a-4275e7df2193",
   "name": "ITM",
-  "what_it_does": "ITM Power designs and manufactures electrolyzers for hydrogen production.",
+  "what_it_does": "ITM Power manufactures hydrogen energy solutions, including electrolyzers.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "electrolyzer systems",
-    "hydrogen production",
-    "PEM electrolyzers",
-    "alkaline electrolyzers",
-    "green hydrogen",
-    "hydrogen technology",
-    "energy storage",
-    "fuel cells"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aa6ea4be-e241-5ff5-884a-4275e7df2193"
 }

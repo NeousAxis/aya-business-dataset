@@ -1,18 +1,11 @@
 {
   "entity_id": "c0eaa27d-15d4-5904-a9cb-87a7061d8560",
   "name": "{{ __('CLARK",
-  "what_it_does": "CLARK is a digital insurance broker platform.",
+  "what_it_does": "CLARK is a digital insurance broker offering personalized insurance management through an app.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [
-    "insurance platform",
-    "insurance comparison",
-    "policy",
-    "insurance",
-    "insurance",
-    "insurance management"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c0eaa27d-15d4-5904-a9cb-87a7061d8560"
 }

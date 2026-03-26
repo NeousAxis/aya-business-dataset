@@ -1,20 +1,11 @@
 {
   "entity_id": "375a119b-ba68-5ffe-8b8c-6275e7808612",
   "name": "Baxter",
-  "what_it_does": "Baxter manufactures and sells medical products, including dialysis equipment and intravenous solutions.",
+  "what_it_does": "Baxter provides medical products and therapies for critical care, kidney disease, and other conditions.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "dialysis equipment",
-    "intravenous solutions",
-    "medical products",
-    "renal care",
-    "hospital supplies",
-    "surgical products",
-    "infusion therapy",
-    "pharmaceutical products"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/375a119b-ba68-5ffe-8b8c-6275e7808612"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "67541f50-f204-5a2c-b083-912ee4b67e61",
   "name": "Avolta",
-  "what_it_does": "Avolta operates duty-free stores in airports and other travel retail locations.",
+  "what_it_does": "Avolta operates duty-free and travel retail businesses in airports and other travel locations.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [
-    "duty-free shopping",
-    "airport retail",
-    "travel retail",
-    "confectionery",
-    "fragrances",
-    "spirits",
-    "luxury goods",
-    "airport stores"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/67541f50-f204-5a2c-b083-912ee4b67e61"
 }

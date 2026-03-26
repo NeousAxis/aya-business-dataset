@@ -1,20 +1,11 @@
 {
   "entity_id": "da2fc07e-7768-55ac-9a3a-948a11ee7763",
   "name": "Le Matin",
-  "what_it_does": "Le Matin is a Swiss tabloid newspaper.",
+  "what_it_does": "Le Matin is a Swiss French-language daily newspaper providing news and current affairs coverage.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss tabloid",
-    "news publication",
-    "current events",
-    "French-language media",
-    "local journalism",
-    "Le Matin newspaper",
-    "Swiss news",
-    "daily newspaper"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/da2fc07e-7768-55ac-9a3a-948a11ee7763"
 }

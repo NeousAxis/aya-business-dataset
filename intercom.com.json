@@ -1,20 +1,11 @@
 {
   "entity_id": "768d5f95-6047-5f15-83a9-9cce50d51b66",
   "name": "Intercom",
-  "what_it_does": "Intercom provides a customer messaging platform for businesses.",
+  "what_it_does": "Intercom provides a platform for businesses to communicate with customers through messaging.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "customer messaging",
-    "live chat",
-    "customer communication",
-    "business messaging",
-    "customer support",
-    "sales communication",
-    "CRM integration",
-    "in-app messaging"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/768d5f95-6047-5f15-83a9-9cce50d51b66"
 }

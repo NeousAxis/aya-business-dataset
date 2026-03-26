@@ -1,20 +1,11 @@
 {
   "entity_id": "93be963b-e600-514d-9e1a-320c791b7eff",
   "name": "Obwaldner Kantonalbank",
-  "what_it_does": "Obwaldner Kantonalbank is a cantonal bank providing financial services in Obwalden, Switzerland.",
+  "what_it_does": "Obwaldner Kantonalbank is a cantonal bank providing financial services in the canton of Obwalden, Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "cantonal bank",
-    "financial institution",
-    "banking services",
-    "mortgages",
-    "loans",
-    "Obwalden Switzerland",
-    "retail banking",
-    "Swiss banking"
-  ],
+  "keywords": [],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/93be963b-e600-514d-9e1a-320c791b7eff"
 }

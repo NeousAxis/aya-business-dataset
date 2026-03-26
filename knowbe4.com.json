@@ -1,20 +1,11 @@
 {
   "entity_id": "2e306b79-54e5-536c-a541-23d91fce0c38",
   "name": "KnowBe4 Human Risk Mgmt Platform",
-  "what_it_does": "KnowBe4 provides a security awareness training and simulated phishing platform.",
+  "what_it_does": "KnowBe4 provides a security awareness training platform to educate employees about phishing and other cyber threats.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "security awareness training",
-    "phishing simulations",
-    "human risk management",
-    "security training",
-    "IT security",
-    "employee training",
-    "security awareness",
-    "risk reduction"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2e306b79-54e5-536c-a541-23d91fce0c38"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "ff116e56-82ab-5a59-ab4b-9b22e49c75ed",
   "name": "Samba TV Home Page",
-  "what_it_does": "Samba TV collects and analyzes television viewing data to provide audience insights and advertising solutions.",
+  "what_it_does": "Samba TV provides television audience data and analytics for advertising and media companies.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "television data",
-    "audience analytics",
-    "TV viewership",
-    "advertising insights",
-    "TV intelligence",
-    "video data",
-    "audience measurement"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ff116e56-82ab-5a59-ab4b-9b22e49c75ed"
 }

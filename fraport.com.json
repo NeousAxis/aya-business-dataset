@@ -1,20 +1,11 @@
 {
   "entity_id": "a9c72eb2-5376-554e-825f-6b2afbd9b0f6",
   "name": "Fraport AG",
-  "what_it_does": "Fraport AG operates Frankfurt Airport and other airports worldwide.",
+  "what_it_does": "Fraport AG manages and operates Frankfurt Airport and other airports worldwide.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "airport operations",
-    "airport management",
-    "aviation infrastructure",
-    "Frankfurt airport",
-    "airport services",
-    "ground handling",
-    "air traffic control",
-    "global airports"
-  ],
+  "keywords": [],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a9c72eb2-5376-554e-825f-6b2afbd9b0f6"
 }

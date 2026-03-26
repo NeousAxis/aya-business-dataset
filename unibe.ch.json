@@ -1,19 +1,11 @@
 {
   "entity_id": "51e0b863-9bc1-5bb0-9a9d-d6be3bcaf471",
   "name": "Portal",
-  "what_it_does": "Portal is likely a portal website for the University of Bern.",
+  "what_it_does": "Portal is likely part of the University of Bern in Switzerland, focusing on specific academic programs or research.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [
-    "university portal",
-    "Bern University",
-    "student resources",
-    "academic information",
-    "course catalog",
-    "university services",
-    "education portal"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/51e0b863-9bc1-5bb0-9a9d-d6be3bcaf471"
 }

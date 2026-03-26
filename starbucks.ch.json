@@ -1,20 +1,11 @@
 {
   "entity_id": "7f8b7721-3869-5cbc-bd38-b406a24518b5",
   "name": "Starbucks",
-  "what_it_does": "Starbucks operates coffeehouses and sells coffee, tea, and related products in Switzerland.",
+  "what_it_does": "Starbucks.ch operates Starbucks coffee shops and sells related products in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [
-    "coffee",
-    "tea",
-    "espresso",
-    "latte",
-    "pastries",
-    "Swiss cafes",
-    "retail coffee",
-    "Starbucks Switzerland"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7f8b7721-3869-5cbc-bd38-b406a24518b5"
 }

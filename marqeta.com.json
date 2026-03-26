@@ -1,20 +1,11 @@
 {
   "entity_id": "9bfa2f14-8dac-5e24-bee8-67e211eccec9",
   "name": "Marqeta",
-  "what_it_does": "Marqeta provides a modern card issuing platform for businesses to create customized payment solutions.",
+  "what_it_does": "Marqeta provides a card issuing and processing platform for businesses to create and manage payment programs.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [
-    "card issuing",
-    "payment processing",
-    "payment cards",
-    "API platform",
-    "financial technology",
-    "card program management",
-    "virtual cards",
-    "payment solutions"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9bfa2f14-8dac-5e24-bee8-67e211eccec9"
 }

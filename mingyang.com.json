@@ -1,20 +1,11 @@
 {
   "entity_id": "0d488647-1bed-5a02-ae3c-c359c9fa8a9a",
   "name": "Ming Yang",
-  "what_it_does": "Ming Yang manufactures wind turbines and provides renewable energy solutions.",
+  "what_it_does": "Ming Yang manufactures wind turbines and related renewable energy equipment.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "wind turbines",
-    "renewable energy",
-    "wind power",
-    "clean energy solutions",
-    "sustainable energy",
-    "wind turbine generators",
-    "offshore wind",
-    "onshore wind"
-  ],
+  "keywords": [],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0d488647-1bed-5a02-ae3c-c359c9fa8a9a"
 }

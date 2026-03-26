@@ -1,20 +1,11 @@
 {
   "entity_id": "a6eb50c1-f01e-5815-8db1-6063c87e6182",
   "name": "Flipdish",
-  "what_it_does": "Flipdish provides online ordering and digital solutions for restaurants.",
+  "what_it_does": "Flipdish provides a platform for restaurants to manage online ordering, marketing, and customer loyalty programs.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [
-    "restaurant ordering",
-    "restaurant e-commerce",
-    "restaurant branding",
-    "online ordering",
-    "order management",
-    "digital ordering",
-    "food ordering",
-    "qr code ordering"
-  ],
+  "keywords": [],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a6eb50c1-f01e-5815-8db1-6063c87e6182"
 }

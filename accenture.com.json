@@ -1,19 +1,11 @@
 {
   "entity_id": "6278ef69-436c-56ab-bddc-880f1ed86a35",
   "name": "Accenture",
-  "what_it_does": "Accenture is a global professional services company providing consulting, technology, and outsourcing services.",
+  "what_it_does": "Accenture is a global professional services company providing services in strategy, consulting, digital, technology and operations.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
-  "keywords": [
-    "IT consulting",
-    "management consulting",
-    "technology services",
-    "business strategy",
-    "outsourcing",
-    "Accenture",
-    "consulting services"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6278ef69-436c-56ab-bddc-880f1ed86a35"
 }

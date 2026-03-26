@@ -1,20 +1,11 @@
 {
   "entity_id": "66ec3333-08c4-582b-9fd9-f2df6b786f7f",
   "name": "Dataiku",
-  "what_it_does": "Dataiku develops a collaborative data science platform for building and deploying machine learning models.",
+  "what_it_does": "Dataiku develops a platform for collaborative data science, machine learning, and AI projects.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "data science",
-    "machine learning",
-    "AI model deployment",
-    "collaborative platform",
-    "predictive analytics",
-    "data engineering",
-    "data visualization",
-    "AI pipelines"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/66ec3333-08c4-582b-9fd9-f2df6b786f7f"
 }

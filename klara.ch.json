@@ -1,19 +1,11 @@
 {
   "entity_id": "2c0b3a8a-963e-5a82-b2cb-91574769f6fc",
   "name": "KLARA",
-  "what_it_does": "KLARA offers digital solutions for Swiss SMEs, focusing on simplifying administrative tasks.",
+  "what_it_does": "KLARA provides a software platform for small and medium-sized businesses in Switzerland, focusing on automation and efficiency.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss media",
-    "Swiss communication",
-    "news dissemination",
-    "content distribution",
-    "press releases",
-    "public relations",
-    "media relations"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2c0b3a8a-963e-5a82-b2cb-91574769f6fc"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "205af0fd-d1ca-59af-b90f-94ff1ce1b57b",
   "name": "Abbott Laboratories",
-  "what_it_does": "Abbott Laboratories develops and manufactures a wide range of healthcare products, including medical devices, diagnostics, nutritional products, and branded generic pharmaceuticals.",
+  "what_it_does": "Abbott Laboratories develops and manufactures healthcare products, including medical devices, diagnostics, and nutritional products.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "medical devices",
-    "pharmaceuticals",
-    "nutritional products",
-    "diagnostics",
-    "healthcare products",
-    "cardiovascular devices",
-    "diabetes care",
-    "point-of-care diagnostics"
-  ],
-  "aio_score": 60.0,
+  "keywords": [],
+  "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/205af0fd-d1ca-59af-b90f-94ff1ce1b57b"
 }

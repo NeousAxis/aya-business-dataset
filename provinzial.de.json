@@ -1,19 +1,11 @@
 {
   "entity_id": "1eaf65b6-2c28-5456-8889-07c6e5a92898",
   "name": "Versicherung",
-  "what_it_does": "Provinzial offers insurance products and services in Germany.",
+  "what_it_does": "Provinzial is a German insurance company offering a range of insurance products.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Germany",
-  "keywords": [
-    "insurance products",
-    "German insurance",
-    "property insurance",
-    "life insurance",
-    "casualty insurance",
-    "car insurance",
-    "financial protection"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1eaf65b6-2c28-5456-8889-07c6e5a92898"
 }

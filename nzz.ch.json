@@ -1,19 +1,11 @@
 {
   "entity_id": "b17d4cf5-c6b1-5a1f-89a6-5af7ab0a0b98",
   "name": "Neue Zürcher Zeitung",
-  "what_it_does": "Neue Zürcher Zeitung publishes a German-language daily newspaper covering Swiss and international news.",
+  "what_it_does": "NZZ is a Swiss German-language newspaper providing news and analysis.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "swiss newspaper",
-    "german-language news",
-    "news analysis",
-    "political commentary",
-    "business news",
-    "financial analysis",
-    "international affairs"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b17d4cf5-c6b1-5a1f-89a6-5af7ab0a0b98"
 }

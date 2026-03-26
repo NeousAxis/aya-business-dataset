@@ -1,20 +1,11 @@
 {
   "entity_id": "9678a3e1-9fef-520b-9c1f-2237e531b5ac",
   "name": "SUEZ",
-  "what_it_does": "SUEZ provides water and waste management solutions.",
+  "what_it_does": "SUEZ provides water and waste management solutions to businesses and communities.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "water treatment",
-    "waste management",
-    "environmental solutions",
-    "wastewater treatment",
-    "resource recovery",
-    "water infrastructure",
-    "waste disposal",
-    "environmental protection"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9678a3e1-9fef-520b-9c1f-2237e531b5ac"
 }

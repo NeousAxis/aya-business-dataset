@@ -1,20 +1,11 @@
 {
   "entity_id": "54da1eac-6285-559a-8556-3000b368528f",
   "name": "Kredyt, pożyczka, konto, lokata, bankowość mobilna",
-  "what_it_does": "Alior Bank is a Polish bank offering retail and corporate banking services.",
+  "what_it_does": "Alior Bank provides banking services including loans, accounts, and mobile banking to customers in Poland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Poland",
-  "keywords": [
-    "personal banking",
-    "business banking",
-    "loans",
-    "deposits",
-    "mobile banking",
-    "Polish bank",
-    "retail banking",
-    "financial products"
-  ],
+  "keywords": [],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/54da1eac-6285-559a-8556-3000b368528f"
 }

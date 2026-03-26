@@ -1,19 +1,11 @@
 {
   "entity_id": "9a17f678-8523-5033-8502-3398c4f5327c",
-  "name": "TUI Suisse",
-  "what_it_does": "TUI Suisse offers travel packages and tourism services in Switzerland.",
+  "name": "Ferien buchen Â» sicher und gÃ¼nstig reisen",
+  "what_it_does": "TUI Suisse is a Swiss travel agency offering packaged holidays and travel services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "voyages à forfait",
-    "services touristiques",
-    "TUI",
-    "Suisse",
-    "vacances",
-    "réservations de voyages",
-    "TUI Suisse"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9a17f678-8523-5033-8502-3398c4f5327c"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "eb22bbfd-9d26-527d-99e0-7a5fb6bd8155",
   "name": "Rolling Stone",
-  "what_it_does": "Rolling Stone is a magazine and media brand focused on music, politics, and popular culture.",
+  "what_it_does": "Rolling Stone publishes a magazine and website featuring music, politics, and popular culture.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "music magazine",
-    "popular culture",
-    "political commentary",
-    "entertainment news",
-    "rock and roll",
-    "celebrity interviews",
-    "music reviews"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eb22bbfd-9d26-527d-99e0-7a5fb6bd8155"
 }

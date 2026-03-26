@@ -1,19 +1,11 @@
 {
   "entity_id": "cdc48a93-d858-5a99-9baa-f435cafebb98",
   "name": "amU",
-  "what_it_does": "amU (Aix-Marseille Université) is a French public research university offering undergraduate and postgraduate programs.",
+  "what_it_does": "Aix-Marseille Université (AMU) is a public research university in France.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
-  "keywords": [
-    "French university",
-    "higher education",
-    "research university",
-    "undergraduate programs",
-    "graduate programs",
-    "Aix-Marseille",
-    "public university"
-  ],
+  "keywords": [],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cdc48a93-d858-5a99-9baa-f435cafebb98"
 }

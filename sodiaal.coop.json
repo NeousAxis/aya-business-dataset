@@ -1,19 +1,11 @@
 {
   "entity_id": "844784f3-e185-517e-abe6-5390cc67c8c1",
   "name": "Sodiaal",
-  "what_it_does": "Sodiaal is a French dairy cooperative that produces and markets milk and other dairy products.",
+  "what_it_does": "Sodiaal is a French dairy cooperative producing and selling dairy products.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Global",
-  "keywords": [
-    "dairy cooperative",
-    "milk production",
-    "dairy products",
-    "French dairy",
-    "milk processing",
-    "cheese",
-    "yogurt"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/844784f3-e185-517e-abe6-5390cc67c8c1"
 }

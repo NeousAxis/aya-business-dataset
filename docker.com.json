@@ -1,20 +1,11 @@
 {
   "entity_id": "2abcf36a-8662-57cf-b42c-754c9b6f0f9e",
   "name": "Docker",
-  "what_it_does": "Docker provides a platform for containerizing and deploying applications.",
+  "what_it_does": "Docker provides a platform for containerizing and running applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Japan",
-  "keywords": [
-    "containerization",
-    "application deployment",
-    "container orchestration",
-    "DevOps tools",
-    "application packaging",
-    "runtime environment",
-    "software containers",
-    "microservices"
-  ],
+  "keywords": [],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2abcf36a-8662-57cf-b42c-754c9b6f0f9e"
 }

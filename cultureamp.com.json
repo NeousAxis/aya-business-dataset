@@ -1,20 +1,11 @@
 {
   "entity_id": "e39c1b44-f321-5ea9-a9c6-458301c97db3",
   "name": "Culture Amp",
-  "what_it_does": "Culture Amp provides a platform for employee feedback and engagement.",
+  "what_it_does": "Culture Amp provides a platform for employee experience and feedback.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [
-    "employee feedback",
-    "employee engagement",
-    "HR analytics",
-    "performance reviews",
-    "employee surveys",
-    "workplace culture",
-    "people ",
-    "employee experience"
-  ],
-  "aio_score": 72.0,
+  "location": "United Kingdom",
+  "keywords": [],
+  "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e39c1b44-f321-5ea9-a9c6-458301c97db3"
 }

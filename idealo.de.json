@@ -1,20 +1,11 @@
 {
   "entity_id": "12fc4792-2592-5016-bc8e-b43827b5c1cc",
   "name": "idealo",
-  "what_it_does": "idealo is a German price comparison website.",
+  "what_it_does": "Idealo is a price comparison website.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Italy",
-  "keywords": [
-    "price comparison",
-    "online shopping",
-    "product search",
-    "e-commerce comparison",
-    "German retail",
-    "consumer goods",
-    "discount shopping",
-    "shopping portal"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/12fc4792-2592-5016-bc8e-b43827b5c1cc"
 }

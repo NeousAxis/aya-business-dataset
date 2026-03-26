@@ -1,20 +1,11 @@
 {
   "entity_id": "435f2257-e297-551e-8805-ac0d54937622",
   "name": "John Lewis & Partners",
-  "what_it_does": "John Lewis & Partners is a British department store chain selling a wide range of products including clothing, home goods, and electronics.",
+  "what_it_does": "John Lewis & Partners is a British department store chain selling a wide variety of goods.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "department store",
-    "retail products",
-    "home goods",
-    "fashion retail",
-    "consumer electronics",
-    "furniture retail",
-    "UK retail",
-    "general merchandise"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/435f2257-e297-551e-8805-ac0d54937622"
 }

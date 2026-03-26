@@ -1,20 +1,11 @@
 {
   "entity_id": "f2d8de84-1f75-5a1a-a9e3-2f1880dc9964",
   "name": "Caisse d'Epargne",
-  "what_it_does": "Caisse d'Epargne is a French banking group.",
+  "what_it_does": "Caisse d'Epargne is a French savings bank.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
-  "keywords": [
-    "french bank",
-    "retail banking",
-    "savings accounts",
-    "mortgage loans",
-    "consumer credit",
-    "banking services",
-    "financial services",
-    "caisse d'epargne"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f2d8de84-1f75-5a1a-a9e3-2f1880dc9964"
 }

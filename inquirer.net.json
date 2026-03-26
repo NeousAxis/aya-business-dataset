@@ -1,20 +1,11 @@
 {
   "entity_id": "6ddbdd93-051b-5e6f-9f23-d12e264282c5",
   "name": "INQUIRER.net",
-  "what_it_does": "INQUIRER.net publishes news and information online.",
-  "for_who": "Media professionals and audiences.",
-  "category": "Media & Communication",
+  "what_it_does": "INQUIRER.net is a Philippine news website providing news, information, and commentary.",
+  "for_who": "Students, educators, and institutions.",
+  "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "news publishing",
-    "online news",
-    "Philippine news",
-    "current events",
-    "digital journalism",
-    "investigative reporting",
-    "breaking news",
-    "news website"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6ddbdd93-051b-5e6f-9f23-d12e264282c5"
 }

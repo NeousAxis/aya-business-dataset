@@ -1,17 +1,11 @@
 {
   "entity_id": "574b7f61-9555-55bb-aad1-d7e7d688aee6",
   "name": "Repsol, con toda la energía",
-  "what_it_does": "Repsol is a global multi-energy company involved in exploration, production, refining, and marketing of oil and gas.",
+  "what_it_does": "Repsol is a Spanish energy company involved in oil and gas exploration, production, refining, and marketing.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "exploration",
-    "production",
-    "refining",
-    "marketing",
-    "energy"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/574b7f61-9555-55bb-aad1-d7e7d688aee6"
 }

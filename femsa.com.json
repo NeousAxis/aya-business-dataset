@@ -1,19 +1,11 @@
 {
   "entity_id": "82dbcca6-c817-57f2-a809-6ebe549ce2b2",
   "name": "FEMSA",
-  "what_it_does": "FEMSA (Fomento Económico Mexicano, S.A.B. de C.V.) is a multinational beverage and retail company.",
+  "what_it_does": "FEMSA is a multinational beverage and retail company, operating Coca-Cola bottlers and OXXO convenience stores.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Global",
-  "keywords": [
-    "Coca-Cola bottler",
-    "beverage distribution",
-    "retail chains",
-    "Latin America",
-    "food industry",
-    "drinks production",
-    "convenience stores"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/82dbcca6-c817-57f2-a809-6ebe549ce2b2"
 }

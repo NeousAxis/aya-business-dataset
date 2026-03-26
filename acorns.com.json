@@ -1,17 +1,11 @@
 {
   "entity_id": "9e7a0820-465c-549c-9461-e884d10f7b0c",
   "name": "Easy Investing App For Saving & Growing Your Money",
-  "what_it_does": "Acorns is a micro-investing platform that allows users to invest spare change.",
+  "what_it_does": "Acorns is a micro-investing app that helps users save and invest spare change.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "micro-investing",
-    "investment platform",
-    "stock market",
-    "financial investments",
-    "savings"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9e7a0820-465c-549c-9461-e884d10f7b0c"
 }

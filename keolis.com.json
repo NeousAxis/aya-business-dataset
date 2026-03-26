@@ -1,20 +1,11 @@
 {
   "entity_id": "664d907a-7889-58e7-b4a2-a54c912766c3",
   "name": "Keolis",
-  "what_it_does": "Keolis is a public transport operator.",
+  "what_it_does": "Keolis operates public transportation networks including buses, trains, trams, and metros.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "public transport operator",
-    "bus networks",
-    "tram systems",
-    "rail transport",
-    "mobility solutions",
-    "passenger transportation",
-    "urban transport",
-    "transportation services"
-  ],
+  "keywords": [],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/664d907a-7889-58e7-b4a2-a54c912766c3"
 }

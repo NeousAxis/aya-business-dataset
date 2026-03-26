@@ -1,19 +1,11 @@
 {
   "entity_id": "ea58253d-cc99-5af7-b202-84ad0517aa3c",
   "name": "Nothing",
-  "what_it_does": "Nothing designs and sells consumer electronics products with a focus on minimalist design and transparent technology.",
+  "what_it_does": "Nothing designs and manufactures consumer electronics, including audio products and smartphones.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Arab Emirates",
-  "keywords": [
-    "consumer electronics",
-    "audio products",
-    "earbuds",
-    "smartphone accessories",
-    "tech gadgets",
-    "transparent design",
-    "audio technology"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ea58253d-cc99-5af7-b202-84ad0517aa3c"
 }

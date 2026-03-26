@@ -1,19 +1,11 @@
 {
   "entity_id": "5ab137c7-bd59-5b40-8309-9afbd2c7ef72",
   "name": "Spotify",
-  "what_it_does": "Spotify provides a music and podcast streaming service.",
+  "what_it_does": "Spotify is a digital music, podcast, and video streaming service that provides access to millions of songs and other content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "music streaming",
-    "podcast platform",
-    "audio entertainment",
-    "digital music",
-    "music playlists",
-    "audio content",
-    "on-demand music"
-  ],
+  "keywords": [],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5ab137c7-bd59-5b40-8309-9afbd2c7ef72"
 }

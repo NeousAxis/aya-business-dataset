@@ -1,19 +1,11 @@
 {
   "entity_id": "847d573b-21fd-5f23-9be8-a8dcde679d9d",
   "name": "Paddle",
-  "what_it_does": "Paddle provides a payments infrastructure platform for SaaS businesses.",
+  "what_it_does": "Paddle is a payment infrastructure provider for SaaS businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "payment infrastructure",
-    "saas payments",
-    "merchant payments",
-    "subscription billing",
-    "global payments",
-    "revenue delivery",
-    "recurring payments"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/847d573b-21fd-5f23-9be8-a8dcde679d9d"
 }

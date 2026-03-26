@@ -1,20 +1,11 @@
 {
   "entity_id": "66ea490e-e4f7-5a5a-b064-759b724884f8",
   "name": "Fidelity International Usage Agreement",
-  "what_it_does": "Fidelity International provides investment management services to institutions and individuals outside the US.",
+  "what_it_does": "Fidelity Investments offers financial products and services, including investment management and retirement planning.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "investment management",
-    "financial investments",
-    "institutional investors",
-    "global investments",
-    "investment funds",
-    "asset allocation",
-    "retirement planning",
-    "wealth accumulation"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/66ea490e-e4f7-5a5a-b064-759b724884f8"
 }

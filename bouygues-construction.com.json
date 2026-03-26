@@ -1,20 +1,11 @@
 {
   "entity_id": "d7b98f51-0715-5e0a-a66a-acc12c039cff",
   "name": "Bouygues Construction",
-  "what_it_does": "Bouygues Construction is a construction company specializing in building and civil engineering projects.",
+  "what_it_does": "Bouygues Construction is a global construction company.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "building construction",
-    "civil engineering",
-    "infrastructure projects",
-    "construction projects",
-    "public works",
-    "building renovation",
-    "design-build",
-    "construction management"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d7b98f51-0715-5e0a-a66a-acc12c039cff"
 }

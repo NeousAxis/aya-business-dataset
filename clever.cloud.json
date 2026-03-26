@@ -1,20 +1,11 @@
 {
   "entity_id": "7dfa0e75-bd51-5914-abc6-6a020fbf71bf",
   "name": "Clever Cloud",
-  "what_it_does": "Clever Cloud provides a platform-as-a-service (PaaS) solution.",
+  "what_it_does": "Clever Cloud is a platform-as-a-service (PaaS) provider.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "PaaS",
-    "cloud",
-    "application",
-    "hosting",
-    "development",
-    "automation",
-    "deployment",
-    "cloud-native"
-  ],
+  "keywords": [],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7dfa0e75-bd51-5914-abc6-6a020fbf71bf"
 }

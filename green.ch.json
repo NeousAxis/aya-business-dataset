@@ -1,19 +1,11 @@
 {
   "entity_id": "a6a43835-deef-50e2-ac69-6e9c28925aa7",
   "name": "Green",
-  "what_it_does": "Green.ch likely provides telecommunications services, including internet and phone access.",
+  "what_it_does": "Green provides internet, TV, and phone services in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "internet access",
-    "telecommunication services",
-    "phone services",
-    "swiss telecom",
-    "data communication",
-    "network solutions",
-    "fiber optic internet"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a6a43835-deef-50e2-ac69-6e9c28925aa7"
 }

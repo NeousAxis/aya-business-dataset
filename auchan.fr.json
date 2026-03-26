@@ -1,20 +1,11 @@
 {
   "entity_id": "59432669-5ab7-51bd-87fe-c36c090e461d",
   "name": "Auchan. Promos",
-  "what_it_does": "Auchan is a French multinational retail group operating hypermarkets and supermarkets.",
+  "what_it_does": "Auchan.fr provides online grocery shopping and other retail products in France.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
-  "keywords": [
-    "French hypermarket",
-    "supermarket chain",
-    "grocery retail",
-    "consumer goods",
-    "food products",
-    "household items",
-    "retail promotions",
-    "Auchan"
-  ],
+  "keywords": [],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/59432669-5ab7-51bd-87fe-c36c090e461d"
 }

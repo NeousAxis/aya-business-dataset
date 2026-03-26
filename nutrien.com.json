@@ -1,20 +1,11 @@
 {
   "entity_id": "e18fe145-723c-5c05-9397-6890249a7bb8",
   "name": "Nutrien",
-  "what_it_does": "Nutrien produces and distributes agricultural nutrients and related products and services.",
+  "what_it_does": "Nutrien produces and distributes agricultural nutrients and products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "agricultural inputs",
-    "fertilizers",
-    "seeds",
-    "crop protection products",
-    "agronomic services",
-    "farming supplies",
-    "plant nutrients",
-    "agricultural retail"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e18fe145-723c-5c05-9397-6890249a7bb8"
 }

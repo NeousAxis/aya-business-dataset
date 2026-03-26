@@ -1,20 +1,11 @@
 {
   "entity_id": "22972f5e-2a5a-5964-b875-c8caa87bc8d5",
   "name": "VICE",
-  "what_it_does": "VICE is a media company producing news, documentaries, and entertainment content.",
+  "what_it_does": "VICE Media is a media company focused on producing and distributing news, entertainment, and cultural content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "news media",
-    "documentary production",
-    "entertainment content",
-    "digital media",
-    "video production",
-    "youth culture",
-    "news reporting",
-    "editorial content"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/22972f5e-2a5a-5964-b875-c8caa87bc8d5"
 }

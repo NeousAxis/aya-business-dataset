@@ -1,19 +1,11 @@
 {
   "entity_id": "d1d5e076-662f-59c3-9152-52a27611a12c",
   "name": "Ingredion USCA",
-  "what_it_does": "Ingredion manufactures and sells starch, sweeteners, and other ingredients for various industries.",
+  "what_it_does": "Ingredion produces and sells starches, sweeteners, and other ingredients for various industries.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "food ingredients",
-    "starch",
-    "sweeteners",
-    "ingredient",
-    "food manufacturing",
-    "industrial ingredients",
-    "food additives"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d1d5e076-662f-59c3-9152-52a27611a12c"
 }

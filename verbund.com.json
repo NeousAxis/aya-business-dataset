@@ -1,19 +1,11 @@
 {
   "entity_id": "7115c8c4-2708-58b5-8c11-9e731b67e7e7",
   "name": "VERBUND",
-  "what_it_does": "VERBUND is Austria's largest electricity company, primarily generating power from hydropower.",
+  "what_it_does": "VERBUND is Austria's largest electricity company, generating power primarily from hydropower.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "austrian electricity",
-    "renewable energy",
-    "hydroelectric power",
-    "energy generation",
-    "electricity supply",
-    "power transmission",
-    "green energy"
-  ],
+  "keywords": [],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7115c8c4-2708-58b5-8c11-9e731b67e7e7"
 }

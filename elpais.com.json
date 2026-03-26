@@ -1,19 +1,11 @@
 {
   "entity_id": "8eccc671-1f6d-528e-b019-186721290bc9",
   "name": "EL PAÍS: el periódico global",
-  "what_it_does": "El País is a Spanish-language global newspaper.",
+  "what_it_does": "EL PAÍS is a Spanish-language news publication providing coverage of national and international events.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "Spanish-language newspaper",
-    "global news",
-    "international journalism",
-    "Spain news",
-    "current affairs",
-    "Spanish media",
-    "world news"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8eccc671-1f6d-528e-b019-186721290bc9"
 }

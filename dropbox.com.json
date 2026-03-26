@@ -1,20 +1,11 @@
 {
   "entity_id": "b46bbf22-b60e-588e-81b4-cb997b3bd0ce",
   "name": "Dropbox",
-  "what_it_does": "Dropbox provides cloud-based file storage and synchronization services.",
+  "what_it_does": "Dropbox provides cloud-based file storage, sharing, and collaboration services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "cloud storage",
-    "file synchronization",
-    "cloud collaboration",
-    "file sharing",
-    "productivity tools",
-    "team collaboration",
-    "document storage",
-    "cloud based"
-  ],
+  "keywords": [],
   "aio_score": 71.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b46bbf22-b60e-588e-81b4-cb997b3bd0ce"
 }

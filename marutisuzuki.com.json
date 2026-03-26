@@ -1,20 +1,11 @@
 {
   "entity_id": "d25ca8a5-330c-5403-8639-71973c5e8de0",
   "name": "Maruti Suzuki India Corporate",
-  "what_it_does": "Maruti Suzuki manufactures and sells automobiles in India.",
+  "what_it_does": "Maruti Suzuki India manufactures and sells passenger vehicles in India.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "Indian automobiles",
-    "car manufacturing",
-    "vehicle sales India",
-    "passenger vehicles",
-    "automotive engineering",
-    "car models",
-    "automobile production",
-    "compact cars"
-  ],
+  "keywords": [],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d25ca8a5-330c-5403-8639-71973c5e8de0"
 }

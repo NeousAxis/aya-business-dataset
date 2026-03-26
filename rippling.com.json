@@ -1,7 +1,7 @@
 {
   "entity_id": "31585c53-6035-5d26-ab21-601e63a39d2e",
   "name": "Rippling",
-  "what_it_does": "Rippling provides a platform for managing employee data, payroll, benefits, and HR functions.",
+  "what_it_does": "Rippling provides a unified platform for managing HR, IT, and finance processes for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "{\"@type\":\"Country\",\"name\":\"US\"}",

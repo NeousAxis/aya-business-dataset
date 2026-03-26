@@ -1,20 +1,11 @@
 {
   "entity_id": "565f41bc-45d7-5d49-9101-ae906a517ca1",
   "name": "Arabbank",
-  "what_it_does": "Arab Bank provides a range of banking and financial services throughout the Middle East and internationally.",
+  "what_it_does": "Arabbank provides commercial banking services throughout the Arab world.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "retail banking",
-    "corporate banking",
-    "investment services",
-    "Middle East banking",
-    "financial institution",
-    "personal loans",
-    "business accounts",
-    "online banking"
-  ],
+  "keywords": [],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/565f41bc-45d7-5d49-9101-ae906a517ca1"
 }

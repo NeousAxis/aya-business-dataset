@@ -1,20 +1,11 @@
 {
-  "entity_id": "d91d099d-de4a-5145-83ff-3deb5d0b1bf0",
-  "name": "Yuh Finance App",
-  "what_it_does": "Yuh Finance App offers a mobile banking and investment platform.",
+  "entity_id": "da46dc94-59cd-5408-a284-d3ca1b72b932",
+  "name": "Yuh Finanz- App",
+  "what_it_does": "Yuh is a Swiss mobile banking app offering multi-currency accounts, investments, and payments.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "mobile banking",
-    "investment platform",
-    "digital finance",
-    "Swiss banking",
-    "cryptocurrency trading",
-    "mobile payments",
-    "banking app",
-    "investment app"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/d91d099d-de4a-5145-83ff-3deb5d0b1bf0"
+  "certificate_url": "https://ai-visionary.com/aya/e/da46dc94-59cd-5408-a284-d3ca1b72b932"
 }

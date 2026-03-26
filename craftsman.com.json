@@ -1,20 +1,11 @@
 {
   "entity_id": "cc1abf5a-d43b-5bc2-bfb3-46d1173cc573",
-  "name": "Craftsman",
-  "what_it_does": "Craftsman sells tools, equipment, and work gear, likely marketing and publishing content related to these.",
+  "name": "CRAFTSMAN® Home",
+  "what_it_does": "CRAFTSMAN manufactures and sells tools, equipment, and storage solutions for home improvement and construction.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "tool sales",
-    "workwear",
-    "equipment retail",
-    "power tools",
-    "hand tools",
-    "tool storage",
-    "outdoor equipment",
-    "hardware products"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cc1abf5a-d43b-5bc2-bfb3-46d1173cc573"
 }

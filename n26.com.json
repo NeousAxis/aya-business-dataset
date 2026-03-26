@@ -1,20 +1,11 @@
 {
   "entity_id": "a2ddff0d-9c34-5595-b3b6-9dba7dafcbcb",
   "name": "N26",
-  "what_it_does": "N26 is a mobile bank offering current accounts, savings accounts, and investment products.",
+  "what_it_does": "N26 is a mobile bank offering banking services through a smartphone app.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "mobile banking",
-    "banking app",
-    "personal finance",
-    "digital bank",
-    "Euro accounts",
-    "financial services",
-    "retail banking",
-    "smartphone banking"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a2ddff0d-9c34-5595-b3b6-9dba7dafcbcb"
 }

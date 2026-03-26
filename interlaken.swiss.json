@@ -1,20 +1,11 @@
 {
   "entity_id": "9e8ef81b-b8d8-54e3-aec2-3d599ebd2235",
   "name": "Ferienregion Interlaken",
-  "what_it_does": "Ferienregion Interlaken promotes tourism in the Interlaken region of Switzerland.",
+  "what_it_does": "Ferienregion Interlaken promotes tourism and travel experiences in the Interlaken region of Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Germany",
-  "keywords": [
-    "Interlaken tourism",
-    "Swiss Alps travel",
-    "Adventure tourism",
-    "Lake Thun",
-    "Lake Brienz",
-    "Hiking trails",
-    "Ski resorts",
-    "Jungfrau region"
-  ],
+  "keywords": [],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9e8ef81b-b8d8-54e3-aec2-3d599ebd2235"
 }

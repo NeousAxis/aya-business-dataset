@@ -1,19 +1,11 @@
 {
   "entity_id": "62a075d2-c21f-5a59-8edb-f497af409fff",
   "name": "FC Internazionale Milano",
-  "what_it_does": "FC Internazionale Milano is a professional football club.",
+  "what_it_does": "FC Internazionale Milano operates a professional football club based in Milan, Italy.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Italy",
-  "keywords": [
-    "football club",
-    "soccer team",
-    "Italian football",
-    "professional soccer",
-    "sports entertainment",
-    "football league",
-    "Inter Milan"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/62a075d2-c21f-5a59-8edb-f497af409fff"
 }

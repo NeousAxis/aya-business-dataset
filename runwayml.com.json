@@ -1,20 +1,11 @@
 {
   "entity_id": "29b9a613-047a-58a2-90a8-4244287e90c3",
   "name": "Runway",
-  "what_it_does": "RunwayML provides a platform for creating and deploying AI models for creative tasks.",
+  "what_it_does": "RunwayML provides a platform for creating and deploying machine learning models with a focus on creative applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "AI video editing",
-    "video creation tools",
-    "machine learning video",
-    "video effects",
-    "content creation",
-    "video production",
-    "AI tools",
-    "video platform"
-  ],
+  "keywords": [],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/29b9a613-047a-58a2-90a8-4244287e90c3"
 }

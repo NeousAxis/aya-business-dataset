@@ -1,20 +1,11 @@
 {
   "entity_id": "2f8bcd59-4447-55a7-99ac-a16746500b28",
   "name": "Vaillant!",
-  "what_it_does": "Vaillant manufactures and sells heating, ventilation, and air conditioning technology.",
+  "what_it_does": "Vaillant manufactures heating, cooling, and ventilation systems.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Kingdom",
-  "keywords": [
-    "heating systems",
-    "cooling systems",
-    "ventilation systems",
-    "HVAC",
-    "climate control",
-    "home comfort",
-    "building technology",
-    "thermal energy"
-  ],
+  "keywords": [],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2f8bcd59-4447-55a7-99ac-a16746500b28"
 }

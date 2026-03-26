@@ -1,19 +1,11 @@
 {
   "entity_id": "0dde756e-5f6a-5461-8366-db9e2ce1c22b",
   "name": "Ipsen Global",
-  "what_it_does": "Ipsen is a global biopharmaceutical company focused on specialty care.",
+  "what_it_does": "Ipsen Global is a pharmaceutical company focused on specialty care and biopharmaceuticals.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "biopharmaceuticals",
-    "specialty care",
-    "oncology",
-    "neuroscience",
-    "rare diseases",
-    "pharmaceutical products",
-    "global healthcare"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0dde756e-5f6a-5461-8366-db9e2ce1c22b"
 }

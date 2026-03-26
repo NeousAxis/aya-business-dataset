@@ -1,19 +1,11 @@
 {
   "entity_id": "c41d9887-00c6-5177-b45a-48c6477fc8d0",
   "name": "BCV",
-  "what_it_does": "BCV (Banque Cantonale Vaudoise) provides banking and financial services in the canton of Vaud, Switzerland.",
+  "what_it_does": "BCV is a Swiss cantonal bank providing financial services to individuals and businesses in the Vaud region.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "cantonal bank",
-    "Swiss banking",
-    "banking services",
-    "financial products",
-    "Vaud banking",
-    "mortgages",
-    "wealth management"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c41d9887-00c6-5177-b45a-48c6477fc8d0"
 }

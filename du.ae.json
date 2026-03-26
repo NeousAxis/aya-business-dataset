@@ -1,19 +1,11 @@
 {
   "entity_id": "cc464b78-660d-5594-8c0d-d91ce850b2fe",
   "name": "du",
-  "what_it_does": "du is a telecommunications company in the United Arab Emirates offering mobile, fixed-line, and broadband services.",
+  "what_it_does": "du provides telecommunications services, including mobile, internet, and television, in the United Arab Emirates.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Arab Emirates",
-  "keywords": [
-    "telecommunications",
-    "mobile services",
-    "fixed-line services",
-    "broadband services",
-    "UAE telecom",
-    "mobile internet",
-    "home internet"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cc464b78-660d-5594-8c0d-d91ce850b2fe"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "10a81ba2-d676-5eee-9d46-438903e8c033",
   "name": "Bundesamt für Gesundheit",
-  "what_it_does": "The Bundesamt für Gesundheit (Federal Office of Public Health) is the Swiss government agency responsible for public health.",
+  "what_it_does": "Bundesamt für Gesundheit is the Swiss Federal Office of Public Health.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
-  "keywords": [
-    "swiss public health",
-    "national health policy",
-    "disease prevention",
-    "health promotion",
-    "public health research",
-    "healthcare regulation",
-    "swiss healthcare system",
-    "health insurance"
-  ],
+  "keywords": [],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/10a81ba2-d676-5eee-9d46-438903e8c033"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "93e029eb-7d8c-5d02-9915-9d83204fb864",
   "name": "Sectigo",
-  "what_it_does": "Sectigo is a certificate authority providing digital certificates including SSL/TLS certificates.",
+  "what_it_does": "Sectigo provides digital certificates and cybersecurity solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "digital certificates",
-    "SSL certificates",
-    "cybersecurity solutions",
-    "PKI",
-    "certificate authority",
-    "website security",
-    "code signing",
-    "IoT security"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/93e029eb-7d8c-5d02-9915-9d83204fb864"
 }

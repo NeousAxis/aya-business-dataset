@@ -1,19 +1,11 @@
 {
   "entity_id": "dee3881e-cbb9-5ad6-bb01-50cb62a7e5ab",
   "name": "Genesis Autos",
-  "what_it_does": "Genesis Autos appears to be a media and communications company, possibly focused on automotive content.",
+  "what_it_does": "Genesis is a luxury automotive brand.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
-  "location": "Global",
-  "keywords": [
-    "automotive media",
-    "car reviews",
-    "automotive news",
-    "vehicle information",
-    "automobile content",
-    "car culture",
-    "auto journalism"
-  ],
-  "aio_score": 35.0,
+  "location": "Switzerland",
+  "keywords": [],
+  "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dee3881e-cbb9-5ad6-bb01-50cb62a7e5ab"
 }

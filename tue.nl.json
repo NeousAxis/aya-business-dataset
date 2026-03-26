@@ -1,19 +1,11 @@
 {
   "entity_id": "d052b4d3-5f89-5e5d-86c2-28db80c6091e",
   "name": "Eindhoven University of Technology",
-  "what_it_does": "Eindhoven University of Technology is a Dutch university focusing on science and technology education and research.",
+  "what_it_does": "Eindhoven University of Technology is a Dutch university focused on science and technology education and research.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Netherlands",
-  "keywords": [
-    "Dutch university",
-    "Technical education",
-    "Engineering research",
-    "Science programs",
-    "Higher education",
-    "Technology studies",
-    "Eindhoven academics"
-  ],
+  "keywords": [],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d052b4d3-5f89-5e5d-86c2-28db80c6091e"
 }

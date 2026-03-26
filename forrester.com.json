@@ -1,19 +1,11 @@
 {
   "entity_id": "cf1296d4-f4f8-5ec4-b70c-9bb2fd1df5be",
   "name": "Forrester",
-  "what_it_does": "Forrester is a market research company that provides advisory services on technology and market trends.",
+  "what_it_does": "Forrester is a market research company that advises businesses on technology and market trends, particularly in e-commerce and retail.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "market research",
-    "technology trends",
-    "advisory ",
-    "consumer behavior",
-    "business ",
-    "market analysis",
-    "Forrester Research"
-  ],
+  "keywords": [],
   "aio_score": 71.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cf1296d4-f4f8-5ec4-b70c-9bb2fd1df5be"
 }

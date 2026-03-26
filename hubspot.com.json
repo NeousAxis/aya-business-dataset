@@ -1,20 +1,11 @@
 {
   "entity_id": "13f6c172-a67c-502a-93b1-939c03e66211",
   "name": "HubSpot",
-  "what_it_does": "HubSpot develops and markets software for marketing, sales, and customer service.",
+  "what_it_does": "HubSpot provides a marketing, sales, and customer service platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [
-    "marketing automation",
-    "sales enablement",
-    "CRM",
-    "customer support",
-    "inbound marketing",
-    "lead generation",
-    "marketing software",
-    "customer relationship"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/13f6c172-a67c-502a-93b1-939c03e66211"
 }

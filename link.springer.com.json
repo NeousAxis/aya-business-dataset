@@ -1,18 +1,11 @@
 {
   "entity_id": "bbbe3ff5-84e9-5e16-acc4-8b7784ea6820",
   "name": "Springer",
-  "what_it_does": "Springer publishes scientific, technical, and medical books and journals.",
-  "for_who": "Businesses and developers.",
-  "category": "Technology & SaaS",
+  "what_it_does": "Springer publishes academic journals, books, and other scientific content.",
+  "for_who": "Students, educators, and institutions.",
+  "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "scientific books",
-    "technical books",
-    "medical books",
-    "scientific journals",
-    "technical journals",
-    "medical journals"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bbbe3ff5-84e9-5e16-acc4-8b7784ea6820"
 }

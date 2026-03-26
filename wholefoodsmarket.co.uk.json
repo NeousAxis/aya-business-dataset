@@ -1,19 +1,11 @@
 {
   "entity_id": "0379a7b4-dbe8-5aae-afda-1710c09b921a",
   "name": "Whole Foods Market UK",
-  "what_it_does": "Whole Foods Market UK is a grocery retailer specializing in natural and organic foods.",
+  "what_it_does": "Whole Foods Market UK is a retailer of natural and organic foods.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Kingdom",
-  "keywords": [
-    "natural foods",
-    "organic foods",
-    "specialty groceries",
-    "gourmet foods",
-    "health foods",
-    "UK groceries",
-    "premium food retail"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0379a7b4-dbe8-5aae-afda-1710c09b921a"
 }

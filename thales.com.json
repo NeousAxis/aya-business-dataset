@@ -1,19 +1,11 @@
 {
   "entity_id": "6a4683dd-b7a2-57e1-bc1d-46231aafbb97",
   "name": "Thalēs",
-  "what_it_does": "Thales provides technology and security services to various industries, including defense and aerospace.",
+  "what_it_does": "Thales provides consulting and professional services, possibly related to technology or engineering.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "United States",
-  "keywords": [
-    "services technologiques",
-    "conseil en ingénierie",
-    "aérospatiale",
-    "défense",
-    "transport",
-    "sécurité",
-    "solutions numériques"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6a4683dd-b7a2-57e1-bc1d-46231aafbb97"
 }

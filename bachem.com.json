@@ -1,20 +1,11 @@
 {
   "entity_id": "2d955c33-75fe-54fb-8fdd-f0a040531e5a",
   "name": "Bachem",
-  "what_it_does": "Bachem is a pharmaceutical and biotechnology company specializing in peptides and oligonucleotides.",
+  "what_it_does": "Bachem is a peptide manufacturer providing products and services to the pharmaceutical and biotech industries.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
-  "keywords": [
-    "peptides",
-    "oligonucleotides",
-    "pharmaceutical peptides",
-    "biotech peptides",
-    "peptide synthesis",
-    "drug development",
-    "therapeutic peptides",
-    "nucleotide therapeutics"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2d955c33-75fe-54fb-8fdd-f0a040531e5a"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "4a2a5b41-f7f7-5f24-bcc7-6929a5869d0b",
   "name": "ULB",
-  "what_it_does": "ULB (Université libre de Bruxelles) is a French-speaking research university in Brussels, Belgium.",
+  "what_it_does": "ULB is a Belgian university offering undergraduate and postgraduate education.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Belgium",
-  "keywords": [
-    "French-speaking university",
-    "Brussels university",
-    "research university",
-    "higher education Belgium",
-    "graduate programs",
-    "undergraduate studies",
-    "academic research",
-    "liberal arts"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a2a5b41-f7f7-5f24-bcc7-6929a5869d0b"
 }

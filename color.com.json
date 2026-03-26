@@ -1,19 +1,11 @@
 {
   "entity_id": "60abbbdb-3c6a-5781-b517-7605d061591e",
   "name": "Color Health",
-  "what_it_does": "Color Health offers genetic testing and data-driven health programs.",
+  "what_it_does": "Color Health provides genetic testing and digital health programs for population health management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "genetic testing",
-    "population health",
-    "data-driven healthcare",
-    "preventive health",
-    "cancer screening",
-    "genetic counseling",
-    "health programs"
-  ],
+  "keywords": [],
   "aio_score": 66.0,
   "certificate_url": "https://ai-visionary.com/aya/e/60abbbdb-3c6a-5781-b517-7605d061591e"
 }

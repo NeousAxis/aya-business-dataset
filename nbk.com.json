@@ -1,19 +1,11 @@
 {
   "entity_id": "5adbec2e-e260-5fd1-bb23-d271fdd96739",
   "name": "NBK Group",
-  "what_it_does": "NBK Group is a financial institution providing banking and investment services.",
+  "what_it_does": "NBK Group provides a range of commercial and investment banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "banking services",
-    "financial services",
-    "Kuwait banking",
-    "investment banking",
-    "retail banking",
-    "corporate finance",
-    "wealth management"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5adbec2e-e260-5fd1-bb23-d271fdd96739"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "e5c6e60a-c665-5061-8030-235cf7e97d94",
   "name": "Boston Consulting Group",
-  "what_it_does": "Boston Consulting Group is a management consulting firm advising businesses and organizations.",
+  "what_it_does": "Boston Consulting Group is a management consulting firm providing strategic advice to businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Japan",
-  "keywords": [
-    "management consulting",
-    "corporate strategy",
-    "business transformation",
-    "organizational change",
-    "strategic advisory",
-    "leadership consulting",
-    "performance improvement",
-    "business consulting"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e5c6e60a-c665-5061-8030-235cf7e97d94"
 }

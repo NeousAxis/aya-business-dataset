@@ -1,20 +1,11 @@
 {
   "entity_id": "f1d79c78-1226-5a8b-80bc-489e12496582",
   "name": "Mangopay",
-  "what_it_does": "Mangopay provides payment infrastructure for online marketplaces and platforms.",
+  "what_it_does": "Mangopay provides payment infrastructure for marketplaces and crowdfunding platforms.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "payment infrastructure",
-    "marketplace payments",
-    "e-commerce payments",
-    "payment processing",
-    "payment APIs",
-    "online payment solutions",
-    "platform payments",
-    "escrow accounts"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f1d79c78-1226-5a8b-80bc-489e12496582"
 }

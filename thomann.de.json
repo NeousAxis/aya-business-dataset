@@ -1,19 +1,11 @@
 {
   "entity_id": "2f162843-c32d-5e4f-8cca-3411cdd94e85",
   "name": "Musikhaus Thomann",
-  "what_it_does": "Musikhaus Thomann is a large online retailer of musical instruments and equipment based in Germany.",
+  "what_it_does": "Musikhaus Thomann is a large retailer of musical instruments and equipment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "musical instruments",
-    "music equipment",
-    "guitar sales",
-    "studio equipment",
-    "audio gear",
-    "music accessories",
-    "instrument retailer"
-  ],
+  "keywords": [],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2f162843-c32d-5e4f-8cca-3411cdd94e85"
 }

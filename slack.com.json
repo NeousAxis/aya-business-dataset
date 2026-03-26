@@ -1,20 +1,11 @@
 {
   "entity_id": "71840c83-e874-5e4c-81f7-26687bfe3b14",
   "name": "Slack",
-  "what_it_does": "Slack is a messaging and collaboration platform for businesses.",
+  "what_it_does": "Slack is a messaging platform designed for workplace communication and collaboration.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "team collaboration",
-    "enterprise messaging",
-    "instant messaging",
-    "communication hub",
-    "workflow automation",
-    "channel-based communication",
-    "internal communication",
-    "group messaging"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/71840c83-e874-5e4c-81f7-26687bfe3b14"
 }

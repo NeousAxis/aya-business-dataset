@@ -1,20 +1,11 @@
 {
   "entity_id": "f049dacf-989e-5d9f-b195-ca6eaa4d123b",
   "name": "ENS",
-  "what_it_does": "ENS (École Normale Supérieure) is a prestigious French higher education institution.",
+  "what_it_does": "ENS (École Normale Supérieure) is a French higher education and research institution.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
-  "keywords": [
-    "higher education",
-    "research",
-    "French",
-    "graduate",
-    "academic",
-    "Paris",
-    "science",
-    "teacher training"
-  ],
+  "keywords": [],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f049dacf-989e-5d9f-b195-ca6eaa4d123b"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "10580414-f639-5f34-b9e2-1b97002b4b99",
   "name": "Databricks",
-  "what_it_does": "Databricks provides a unified data analytics platform built on Apache Spark.",
+  "what_it_does": "Databricks provides a unified analytics platform based on Apache Spark for data engineering, data science, and machine learning.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [
-    "data analytics",
-    "apache spark",
-    "data science platform",
-    "machine learning",
-    "big data processing",
-    "cloud data warehousing",
-    "data engineering",
-    "real-time analytics"
-  ],
+  "location": "Brazil",
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/10580414-f639-5f34-b9e2-1b97002b4b99"
 }

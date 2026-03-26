@@ -1,20 +1,11 @@
 {
   "entity_id": "41fefc69-86cb-55d2-ada3-1de6cf53e4c4",
   "name": "Pingan",
-  "what_it_does": "Pingan is a Chinese financial services conglomerate providing insurance, banking, and investment services.",
+  "what_it_does": "Pingan is a Chinese financial services conglomerate providing insurance, banking, and investment products.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "financial services",
-    "insurance products",
-    "banking",
-    "investment products",
-    "asset management",
-    "China finance",
-    "wealth management",
-    "financial planning"
-  ],
+  "keywords": [],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/41fefc69-86cb-55d2-ada3-1de6cf53e4c4"
 }

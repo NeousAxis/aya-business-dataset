@@ -1,20 +1,11 @@
 {
   "entity_id": "90158961-1af4-542e-97c8-00bfba7b597e",
   "name": "Platzi",
-  "what_it_does": "Platzi is an online education platform focused on technology and software development.",
+  "what_it_does": "Platzi is an online education platform offering courses in technology and digital skills.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "online-kurse",
-    "technologie-ausbildung",
-    "berufliche-fähigkeiten",
-    "spanischsprachige-kurse",
-    "e-learning",
-    "softwareentwicklung",
-    "designkurse",
-    "marketingkurse"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/90158961-1af4-542e-97c8-00bfba7b597e"
 }

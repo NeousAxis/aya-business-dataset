@@ -1,18 +1,11 @@
 {
   "entity_id": "26f42375-aeab-51ee-bbf9-8ea79fc9c6e1",
   "name": "Qualys, Inc.",
-  "what_it_does": "Qualys provides cloud-based IT, security, and compliance solutions.",
+  "what_it_does": "Qualys offers a cloud-based platform for IT security and compliance solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "cloud security",
-    "IT security",
-    "vulnerability management",
-    "compliance solutions",
-    "cybersecurity",
-    "cloud compliance"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/26f42375-aeab-51ee-bbf9-8ea79fc9c6e1"
 }

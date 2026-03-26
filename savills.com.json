@@ -1,20 +1,11 @@
 {
   "entity_id": "5cf0c41a-c225-5165-a97e-2e15028f4e7a",
   "name": "Savills",
-  "what_it_does": "Savills is a global real estate services provider offering property advice and transaction support.",
+  "what_it_does": "Savills provides real estate services including sales, leasing, and property management.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United Kingdom",
-  "keywords": [
-    "real estate services",
-    "property advice",
-    "property transactions",
-    "real estate consultancy",
-    "commercial property",
-    "residential property",
-    "property investment",
-    "global real estate"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5cf0c41a-c225-5165-a97e-2e15028f4e7a"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "91ed6c39-0bc0-5d58-a543-7dcae9a7b853",
   "name": "The Daily Star",
-  "what_it_does": "The Daily Star is a newspaper publishing news and information.",
-  "for_who": "Students, educators, and institutions.",
-  "category": "Education & Training",
+  "what_it_does": "The Daily Star is a newspaper, although the .net TLD instead of a usual news domain might indicate it is a non-standard health-related publication.",
+  "for_who": "Healthcare professionals and patients.",
+  "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "Bangladeshi newspaper",
-    "English daily",
-    "news publication",
-    "print media",
-    "Bangladesh news",
-    "current affairs",
-    "daily news"
-  ],
-  "aio_score": 57.0,
+  "keywords": [],
+  "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/91ed6c39-0bc0-5d58-a543-7dcae9a7b853"
 }

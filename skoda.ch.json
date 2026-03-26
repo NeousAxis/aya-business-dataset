@@ -1,19 +1,11 @@
 {
   "entity_id": "4ebe6d2c-e7ef-5c56-9862-d7b3db9f108c",
   "name": "AMAG Import AG",
-  "what_it_does": "AMAG Import AG imports and distributes Škoda vehicles in Switzerland.",
+  "what_it_does": "AMAG Import AG is the official importer of Skoda vehicles in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "Škoda vehicles",
-    "car importer",
-    "Swiss automotive",
-    "automotive import",
-    "vehicle distribution",
-    "Škoda Switzerland",
-    "car sales"
-  ],
+  "keywords": [],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4ebe6d2c-e7ef-5c56-9862-d7b3db9f108c"
 }

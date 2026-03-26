@@ -1,20 +1,11 @@
 {
   "entity_id": "095c3119-0bfb-5d32-9390-e37fe550c781",
   "name": "France-IX",
-  "what_it_does": "France-IX operates an internet exchange point in France.",
+  "what_it_does": "France-IX operates an internet exchange point, facilitating network interconnection and traffic exchange between internet service providers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "internet exchange point",
-    "IXP France",
-    "network peering",
-    "IP transit",
-    "interconnection services",
-    "network infrastructure",
-    "bandwidth exchange",
-    "telecommunications France"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/095c3119-0bfb-5d32-9390-e37fe550c781"
 }

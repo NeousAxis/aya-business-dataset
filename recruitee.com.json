@@ -1,20 +1,11 @@
 {
   "entity_id": "9dcc4ee4-9cfd-55b4-9730-82ed17756e48",
   "name": "Tellent Recruitee",
-  "what_it_does": "Recruitee provides a recruiting software platform for businesses to manage their hiring process.",
+  "what_it_does": "Recruitee provides recruiting software for talent acquisition.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "recruiting",
-    "applicant tracking",
-    "recruitment software",
-    "hiring platform",
-    "talent acquisition",
-    "HR software",
-    "recruitment marketing",
-    "candidate management"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9dcc4ee4-9cfd-55b4-9730-82ed17756e48"
 }

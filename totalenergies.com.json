@@ -1,20 +1,11 @@
 {
   "entity_id": "f471a753-59b5-59f7-bf08-de718aa01fb3",
   "name": "TotalEnergies",
-  "what_it_does": "TotalEnergies is a global multi-energy company involved in the production and supply of oil, gas, electricity, and renewable energy.",
+  "what_it_does": "TotalEnergies is a global multi-energy company producing and supplying oil, natural gas, and renewable energy.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [
-    "global multi-energy",
-    "oil production",
-    "gas production",
-    "energy supply",
-    "petroleum products",
-    "renewable energy",
-    "energy solutions",
-    "fuel distribution"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f471a753-59b5-59f7-bf08-de718aa01fb3"
 }

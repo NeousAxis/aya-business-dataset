@@ -1,20 +1,11 @@
 {
   "entity_id": "7247e505-03e3-5634-b078-9a9b53d6b8c7",
   "name": "Concept2",
-  "what_it_does": "Concept2 manufactures rowing machines, SkiErgs, and other fitness equipment.",
+  "what_it_does": "Concept2 manufactures rowing machines, ski ergs, and related fitness equipment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "Rowing machines",
-    "SkiErgs",
-    "Fitness equipment",
-    "Indoor rowing",
-    "Ergometers",
-    "Exercise equipment",
-    "Fitness training",
-    "Performance training"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7247e505-03e3-5634-b078-9a9b53d6b8c7"
 }

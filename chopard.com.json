@@ -1,20 +1,11 @@
 {
   "entity_id": "ca323012-e4d3-5ce4-96b3-b389a35b55df",
   "name": "Chopard",
-  "what_it_does": "Chopard is a Swiss manufacturer of luxury watches and jewelry.",
+  "what_it_does": "Chopard is a Swiss manufacturer and retailer of luxury watches, jewelry, and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Switzerland",
-  "keywords": [
-    "luxury watches",
-    "swiss watches",
-    "high jewelry",
-    "chopard watches",
-    "luxury jewelry",
-    "fine jewelry",
-    "haute horlogerie",
-    "swiss craftsmanship"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ca323012-e4d3-5ce4-96b3-b389a35b55df"
 }

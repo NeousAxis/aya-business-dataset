@@ -1,19 +1,11 @@
 {
   "entity_id": "873b4242-a79c-5b9e-a6eb-a7a9e74ec60a",
   "name": "NIIT Managed Learning Services",
-  "what_it_does": "NIIT Managed Learning Services provides training and development solutions for businesses.",
-  "for_who": "Businesses and developers.",
-  "category": "Technology & SaaS",
+  "what_it_does": "NIIT Managed Learning Services provides technology-led training and managed learning solutions for businesses.",
+  "for_who": "Businesses and professionals.",
+  "category": "Finance & Banque",
   "location": "United States",
-  "keywords": [
-    "corporate training",
-    "learning outsourcing",
-    "training programs",
-    "employee development",
-    "skills training",
-    "learning solutions",
-    "enterprise learning"
-  ],
+  "keywords": [],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/873b4242-a79c-5b9e-a6eb-a7a9e74ec60a"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "c3fe1c03-f18e-5704-b6d6-a2f48fcd3ff5",
   "name": "Universität Luzern",
-  "what_it_does": "Universität Luzern is the University of Lucerne in Switzerland.",
+  "what_it_does": "Universität Luzern is a university located in Lucerne, Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss university",
-    "higher education",
-    "university research",
-    "academic programs",
-    "Lucerne education",
-    "university courses",
-    "student enrollment"
-  ],
-  "aio_score": 30.0,
+  "keywords": [],
+  "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c3fe1c03-f18e-5704-b6d6-a2f48fcd3ff5"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "6919cb7b-9036-515a-9ba1-c87e3959a691",
   "name": "Navigating uncertainties",
-  "what_it_does": "EY provides assurance, tax, transaction and advisory services to businesses.",
+  "what_it_does": "EY (formerly Ernst & Young) provides professional services including assurance, tax, consulting, and strategy.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "audit",
-    "tax advisory",
-    "transaction advisory",
-    "financial consulting",
-    "business advisory",
-    "assurance services",
-    "enterprise solutions"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6919cb7b-9036-515a-9ba1-c87e3959a691"
 }

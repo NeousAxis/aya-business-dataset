@@ -1,20 +1,11 @@
 {
   "entity_id": "0e96943a-0f39-5cd2-899d-6cf10c647a3b",
   "name": "Lidl lohnt sich",
-  "what_it_does": "Lidl.de likely provides news and media related to the German division of the discount supermarket chain.",
+  "what_it_does": "Lidl lohnt sich is the German website for the Lidl discount supermarket chain, promoting deals and products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "supermarket offers",
-    "grocery products",
-    "discount groceries",
-    "retail deals",
-    "German supermarket",
-    "food products",
-    "household goods",
-    "consumer goods"
-  ],
+  "keywords": [],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0e96943a-0f39-5cd2-899d-6cf10c647a3b"
 }

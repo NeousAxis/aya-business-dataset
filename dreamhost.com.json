@@ -1,19 +1,11 @@
 {
   "entity_id": "3c2c61b9-7027-56da-bfd9-1ebb7ec313f5",
   "name": "Web Hosting Platform",
-  "what_it_does": "DreamHost offers web hosting services and domain name registration.",
+  "what_it_does": "DreamHost provides web hosting services and domain registration.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "web hosting",
-    "domain registration",
-    "VPS hosting",
-    "dedicated servers",
-    "cloud hosting",
-    "managed WordPress hosting",
-    "website infrastructure"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3c2c61b9-7027-56da-bfd9-1ebb7ec313f5"
 }

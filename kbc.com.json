@@ -1,20 +1,11 @@
 {
   "entity_id": "2a82dca8-879d-5d5d-8e4e-5a919be471ff",
   "name": "EN",
-  "what_it_does": "KBC Group is a Belgian bank and insurance company.",
+  "what_it_does": "KBC is a Belgian bank and insurance company.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Belgium",
-  "keywords": [
-    "banking services",
-    "insurance products",
-    "financial solutions",
-    "retail banking",
-    "corporate banking",
-    "Belgian bank",
-    "banking group",
-    "insurance services"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2a82dca8-879d-5d5d-8e4e-5a919be471ff"
 }

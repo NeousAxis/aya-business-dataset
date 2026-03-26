@@ -1,19 +1,11 @@
 {
   "entity_id": "08f60f77-11f6-5202-8d85-724d35bec553",
   "name": "Better Stack",
-  "what_it_does": "Better Stack offers infrastructure monitoring tools for software development and operations.",
+  "what_it_does": "Better Stack provides a platform for log management, monitoring, and incident management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "infrastructure monitoring",
-    "software observability",
-    "application monitoring",
-    "server monitoring",
-    "uptime monitoring",
-    "log management",
-    "software development operations"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/08f60f77-11f6-5202-8d85-724d35bec553"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "27ddb8d0-673d-5989-be21-66796d41d310",
   "name": "originell und günstig, Edelweiss Shop",
-  "what_it_does": "Edelweiss Shop sells Swiss food products and related items online.",
+  "what_it_does": "Edelweiss Shop sells Swiss food products and specialties (inferred from domain and sector).",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss food",
-    "online grocery",
-    "specialty foods",
-    "alpine products",
-    "gourmet food",
-    "Swiss chocolate",
-    "e-commerce",
-    "gift baskets"
-  ],
+  "keywords": [],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/27ddb8d0-673d-5989-be21-66796d41d310"
 }

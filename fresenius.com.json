@@ -1,20 +1,11 @@
 {
   "entity_id": "22a0f137-17fd-5318-9903-607801345527",
   "name": "FSE",
-  "what_it_does": "Fresenius SE is a global healthcare group providing dialysis products and services, hospital management, and engineering.",
+  "what_it_does": "Fresenius SE is a global healthcare group providing dialysis products, hospital management, and medical services.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Germany",
-  "keywords": [
-    "dialysis products",
-    "healthcare services",
-    "hospital management",
-    "dialysis care",
-    "medical products",
-    "healthcare solutions",
-    "kidney dialysis",
-    "clinical services"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/22a0f137-17fd-5318-9903-607801345527"
 }

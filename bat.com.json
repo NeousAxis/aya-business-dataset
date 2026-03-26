@@ -1,19 +1,11 @@
 {
   "entity_id": "e9fc1391-94ed-510b-b825-bc9dc045ab39",
   "name": "British American Tobacco",
-  "what_it_does": "British American Tobacco produces and sells cigarettes, tobacco and related products.",
+  "what_it_does": "British American Tobacco manufactures and sells cigarettes, tobacco and other nicotine products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [
-    "cigarette manufacturing",
-    "tobacco products",
-    "nicotine products",
-    "global tobacco",
-    "vapor products",
-    "smokeless tobacco",
-    "tobacco sales"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e9fc1391-94ed-510b-b825-bc9dc045ab39"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "9ff2c3f2-da41-5777-8cbb-e1c3e240d9c5",
   "name": "YouTube",
-  "what_it_does": "YouTube is a global online video sharing and social media platform.",
+  "what_it_does": "YouTube is a video-sharing platform where users can upload, view, and share videos.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "video sharing",
-    "social media",
-    "video content",
-    "online video",
-    "user-generated content",
-    "video platform",
-    "vlogging",
-    "content creators"
-  ],
+  "keywords": [],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9ff2c3f2-da41-5777-8cbb-e1c3e240d9c5"
 }

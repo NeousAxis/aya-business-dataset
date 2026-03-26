@@ -1,20 +1,11 @@
 {
   "entity_id": "fa7282b9-159c-5d22-b39b-24ff1a18f916",
   "name": "Zynga",
-  "what_it_does": "Zynga develops and publishes social games for web and mobile platforms.",
+  "what_it_does": "Zynga develops and publishes social games for mobile and web platforms.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "social games",
-    "mobile games",
-    "web games",
-    "casual games",
-    "game development",
-    "interactive entertainment",
-    "online gaming",
-    "virtual worlds"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fa7282b9-159c-5d22-b39b-24ff1a18f916"
 }

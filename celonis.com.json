@@ -1,20 +1,11 @@
 {
   "entity_id": "0120cef8-3297-5039-b06c-9690f1b4b4b6",
   "name": "Celonis",
-  "what_it_does": "Celonis provides process mining software to analyze and improve business processes.",
+  "what_it_does": "Celonis provides process mining software that analyzes and optimizes business processes.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "process mining",
-    "process improvement",
-    "execution management",
-    "data analytics",
-    "business process",
-    "process analysis",
-    "process automation",
-    "workflow optimization"
-  ],
-  "aio_score": 62.0,
+  "keywords": [],
+  "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0120cef8-3297-5039-b06c-9690f1b4b4b6"
 }

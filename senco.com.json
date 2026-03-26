@@ -1,20 +1,11 @@
 {
   "entity_id": "292dee81-8cbf-5ab0-a265-76e4fb261db2",
   "name": "SENCO",
-  "what_it_does": "SENCO manufactures and sells pneumatic and cordless fastening systems.",
+  "what_it_does": "SENCO manufactures and sells pneumatic and battery-powered fastening tools.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "pneumatic fastening systems",
-    "cordless fastening tools",
-    "construction fasteners",
-    "industrial staplers",
-    "nail guns",
-    "power tools",
-    "fastener solutions",
-    "woodworking tools"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/292dee81-8cbf-5ab0-a265-76e4fb261db2"
 }

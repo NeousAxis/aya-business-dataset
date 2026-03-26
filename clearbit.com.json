@@ -1,19 +1,11 @@
 {
   "entity_id": "31452674-9d92-547f-b6f3-cfd395f2da37",
   "name": "Clearbit Capabilities",
-  "what_it_does": "Clearbit provides B2B sales and marketing intelligence data.",
+  "what_it_does": "Clearbit provides data enrichment APIs and intelligence for sales and marketing.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "B2B data",
-    "sales intelligence",
-    "marketing data",
-    "business intelligence",
-    "lead enrichment",
-    "data enrichment",
-    "customer data"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/31452674-9d92-547f-b6f3-cfd395f2da37"
 }

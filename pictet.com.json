@@ -1,20 +1,11 @@
 {
   "entity_id": "67759d26-f103-52be-9f44-a157bb8529a6",
   "name": "Pictet",
-  "what_it_does": "Pictet is a Swiss private bank specializing in wealth management, asset management, and related services.",
+  "what_it_does": "Pictet is a private wealth and asset management group based in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "wealth management",
-    "asset management",
-    "private banking",
-    "investment solutions",
-    "financial planning",
-    "portfolio management",
-    "swiss banking",
-    "investment advisory"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/67759d26-f103-52be-9f44-a157bb8529a6"
 }

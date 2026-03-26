@@ -1,20 +1,11 @@
 {
   "entity_id": "d3ed9262-a210-574d-b0f6-980c6d070176",
   "name": "Homepage-July16",
-  "what_it_does": "EDF Energy, despite the category, probably provides electricity and gas services.",
+  "what_it_does": "EDF Energy generates and supplies electricity and gas to homes and businesses in the UK (inferred from domain and sector).",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "electricity supply",
-    "gas supply",
-    "energy provider",
-    "UK energy market",
-    "domestic energy",
-    "power generation",
-    "utilities",
-    "energy solutions"
-  ],
+  "keywords": [],
   "aio_score": 68.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d3ed9262-a210-574d-b0f6-980c6d070176"
 }

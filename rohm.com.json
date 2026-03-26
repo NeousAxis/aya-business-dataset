@@ -1,20 +1,11 @@
 {
   "entity_id": "c044ed5e-aac5-5f67-8a41-305c069f4d60",
   "name": "ROHM Co., Ltd.",
-  "what_it_does": "ROHM Co., Ltd. manufactures electronic components and semiconductors.",
+  "what_it_does": "ROHM manufactures semiconductors, integrated circuits, and other electronic components.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Japan",
-  "keywords": [
-    "electronic components",
-    "integrated circuits",
-    "semiconductors",
-    "resistors",
-    "ROHM",
-    "passive components",
-    "circuit design",
-    "electronic manufacturing"
-  ],
+  "keywords": [],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c044ed5e-aac5-5f67-8a41-305c069f4d60"
 }

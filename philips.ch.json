@@ -1,20 +1,11 @@
 {
   "entity_id": "20c1874d-18a8-5daf-a296-baab09f76eb0",
   "name": "Philips Schweiz",
-  "what_it_does": "Philips Schweiz sells Philips consumer products, professional healthcare, and lighting solutions in Switzerland.",
+  "what_it_does": "Philips Schweiz sells consumer electronics and healthcare products in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "consumer electronics",
-    "healthcare solutions",
-    "personal care",
-    "professional healthcare",
-    "lighting products",
-    "Swiss retail",
-    "mother & child care",
-    "domestic appliances"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/20c1874d-18a8-5daf-a296-baab09f76eb0"
 }

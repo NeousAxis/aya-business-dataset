@@ -1,20 +1,11 @@
 {
   "entity_id": "90e66905-4bf6-51cf-97a5-9ea804f3d482",
-  "name": "Cnews",
-  "what_it_does": "Cnews is a French news website and television channel.",
+  "name": "CNEWS",
+  "what_it_does": "CNEWS is a French news channel broadcasting 24/7.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "French news channel",
-    "news website",
-    "current affairs",
-    "political news",
-    "breaking news",
-    "24/7 news",
-    "French television",
-    "Cnews"
-  ],
-  "aio_score": 29.0,
+  "keywords": [],
+  "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/90e66905-4bf6-51cf-97a5-9ea804f3d482"
 }

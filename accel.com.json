@@ -1,20 +1,11 @@
 {
   "entity_id": "f42d88a8-fe1d-5477-971e-b554ac031d0b",
   "name": "Accel",
-  "what_it_does": "Accel is a venture capital firm that invests in early-stage startups.",
+  "what_it_does": "Accel is a venture capital firm that invests in technology companies.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [
-    "venture capital",
-    "startup funding",
-    "seed stage investments",
-    "early stage investments",
-    "growth capital",
-    "equity financing",
-    "private equity",
-    "startup acceleration"
-  ],
+  "keywords": [],
   "aio_score": 22.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f42d88a8-fe1d-5477-971e-b554ac031d0b"
 }

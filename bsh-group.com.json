@@ -1,19 +1,11 @@
 {
   "entity_id": "72a91dab-6a3e-5699-a32d-1b537542935e",
-  "name": "BSH Group",
-  "what_it_does": "BSH Group manufactures and sells home appliances.",
+  "name": "BSH HausgerÃ¤te GmbH",
+  "what_it_does": "BSH Hausgeräte GmbH manufactures home appliances such as refrigerators, washing machines, and ovens.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "home appliances",
-    "kitchen appliances",
-    "washing machines",
-    "refrigerators",
-    "cooking appliances",
-    "consumer electronics",
-    "household products"
-  ],
+  "keywords": [],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/72a91dab-6a3e-5699-a32d-1b537542935e"
 }

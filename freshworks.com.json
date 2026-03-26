@@ -1,19 +1,11 @@
 {
   "entity_id": "cac50546-ac53-5431-ba6d-92f215ccfcc3",
   "name": "Freshworks",
-  "what_it_does": "Freshworks provides cloud-based customer engagement software.",
+  "what_it_does": "Freshworks provides cloud-based customer engagement software for sales, marketing, and customer support.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "cloud CRM",
-    "customer relationship",
-    "sales automation",
-    "marketing automation",
-    "helpdesk software",
-    "cloud software",
-    "customer support tools"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cac50546-ac53-5431-ba6d-92f215ccfcc3"
 }

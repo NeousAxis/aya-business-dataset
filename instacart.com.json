@@ -1,20 +1,11 @@
 {
   "entity_id": "84c4c875-1717-55e2-b6fc-95e533cf6a28",
   "name": "Instacart",
-  "what_it_does": "Instacart provides a same-day grocery delivery and pick-up service.",
+  "what_it_does": "Instacart provides a grocery delivery and pick-up service.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "grocery delivery",
-    "same-day grocery",
-    "grocery pickup",
-    "personal shoppers",
-    "local grocery",
-    "retail grocery",
-    "e-grocery",
-    "food delivery"
-  ],
+  "keywords": [],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/84c4c875-1717-55e2-b6fc-95e533cf6a28"
 }

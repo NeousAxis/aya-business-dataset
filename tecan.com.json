@@ -1,19 +1,11 @@
 {
   "entity_id": "a6b7ca06-fe5c-5d82-b740-e1a8ecbb6a6b",
   "name": "Tecan Group Home",
-  "what_it_does": "Tecan develops and manufactures laboratory automation and liquid handling solutions for the life sciences industry.",
+  "what_it_does": "Tecan develops and manufactures laboratory instruments and automation solutions for the life sciences industry.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
-  "keywords": [
-    "laboratory automation",
-    "life science solutions",
-    "biotechnology instruments",
-    "genomics",
-    "drug discovery",
-    "laboratory equipment",
-    "automated liquid handling"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a6b7ca06-fe5c-5d82-b740-e1a8ecbb6a6b"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "1dccb793-d881-5bb7-8454-47740cd98feb",
   "name": "McCain Foods Global Corporate Website",
-  "what_it_does": "McCain Foods manufactures and distributes frozen french fries and other potato products.",
+  "what_it_does": "McCain Foods is a global manufacturer of frozen french fries and potato specialties.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "frozen potato products",
-    "french fries",
-    "potato specialties",
-    "food processing",
-    "frozen food",
-    "potato manufacturer",
-    "McCain foods",
-    "potato industry"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1dccb793-d881-5bb7-8454-47740cd98feb"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "5941d947-523c-5f2e-8099-574b7c2c0ea9",
   "name": "Udemy",
-  "what_it_does": "Udemy is an online learning platform offering courses in various subjects.",
+  "what_it_does": "Udemy is an online learning platform offering courses on a wide range of topics.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "online courses",
-    "e-learning",
-    "skill development",
-    "video tutorials",
-    "instructor-led courses",
-    "professional training",
-    "academic courses",
-    "remote learning"
-  ],
-  "aio_score": 57.0,
+  "keywords": [],
+  "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5941d947-523c-5f2e-8099-574b7c2c0ea9"
 }

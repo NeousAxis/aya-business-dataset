@@ -1,19 +1,11 @@
 {
   "entity_id": "29f1e612-bc14-5a8c-9239-a7eb36105475",
   "name": "Erlebnisgeschenke",
-  "what_it_does": "Erlebnisgeschenke.de sells experience gifts in Germany.",
+  "what_it_does": "Erlebnisgeschenke.de sells experience-based gifts, such as driving experiences or weekend getaways.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Germany",
-  "keywords": [
-    "coffrets cadeaux d'expériences",
-    "activités de loisirs",
-    "cadeaux d'aventure",
-    "Erlebnisgeschenke",
-    "Allemagne",
-    "bons cadeaux",
-    "activités cadeaux"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/29f1e612-bc14-5a8c-9239-a7eb36105475"
 }

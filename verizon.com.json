@@ -1,20 +1,11 @@
 {
   "entity_id": "0e3f60f5-0b9f-5cc8-b373-b4aafdb6c4f2",
   "name": "Verizon",
-  "what_it_does": "Verizon is a telecommunications company providing wireless services and internet access.",
+  "what_it_does": "Verizon is a telecommunications company providing wireless, internet, and cable services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "wireless communication",
-    "internet access",
-    "telecommunications",
-    "mobile network",
-    "data plans",
-    "consumer electronics",
-    "mobile devices",
-    "US telecom"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0e3f60f5-0b9f-5cc8-b373-b4aafdb6c4f2"
 }

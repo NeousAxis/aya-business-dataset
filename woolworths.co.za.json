@@ -1,20 +1,11 @@
 {
   "entity_id": "e19f6d1b-17d0-5303-b117-a07727631c72",
   "name": "Woolworths Online Shopping",
-  "what_it_does": "Woolworths South Africa offers online shopping for groceries, clothing, and home goods.",
+  "what_it_does": "Woolworths.co.za offers online grocery and retail shopping in South Africa.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "South Africa",
-  "keywords": [
-    "grocery",
-    "clothing",
-    "homeware",
-    "online retail",
-    "south africa",
-    "e-commerce",
-    "fashion retail",
-    "food delivery"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e19f6d1b-17d0-5303-b117-a07727631c72"
 }

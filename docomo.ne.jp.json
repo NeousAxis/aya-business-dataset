@@ -1,19 +1,11 @@
 {
   "entity_id": "69f1955b-3334-500d-afdb-965e22702476",
-  "name": "NTT Docomo",
-  "what_it_does": "NTT Docomo is a Japanese mobile phone operator and provider of mobile communication services.",
+  "name": "NTTドコモ",
+  "what_it_does": "NTT Docomo is a mobile phone operator in Japan.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Japan",
-  "keywords": [
-    "mobile operator",
-    "mobile communication",
-    "japanese telecom",
-    "wireless communication",
-    "5G network",
-    "telecommunication services",
-    "mobile internet"
-  ],
+  "keywords": [],
   "aio_score": 22.0,
   "certificate_url": "https://ai-visionary.com/aya/e/69f1955b-3334-500d-afdb-965e22702476"
 }

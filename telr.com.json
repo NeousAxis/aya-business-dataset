@@ -1,20 +1,11 @@
 {
   "entity_id": "7f6978ca-0b3a-544f-9ce7-9888464f6f02",
   "name": "Telr",
-  "what_it_does": "Telr is an online payment gateway processing platform for businesses in emerging markets.",
+  "what_it_does": "Telr provides an online payment gateway for e-commerce businesses in the Middle East and Africa.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Arab Emirates",
-  "keywords": [
-    "payment gateway",
-    "online payments",
-    "e-commerce payments",
-    "emerging markets payments",
-    "secure payments",
-    "merchant accounts",
-    "digital payments",
-    "payment processing"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7f6978ca-0b3a-544f-9ce7-9888464f6f02"
 }

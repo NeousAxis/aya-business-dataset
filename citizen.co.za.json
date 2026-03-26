@@ -1,20 +1,11 @@
 {
   "entity_id": "ed851cff-acbe-5356-ae02-c8ed8c9971a4",
   "name": "The Citizen",
-  "what_it_does": "The Citizen is a South African daily newspaper.",
+  "what_it_does": "The Citizen is a South African news publication providing local and national news.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "South Africa",
-  "keywords": [
-    "South African news",
-    "daily newspaper",
-    "local news",
-    "national news",
-    "political news",
-    "business news",
-    "sports news",
-    "current events"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ed851cff-acbe-5356-ae02-c8ed8c9971a4"
 }

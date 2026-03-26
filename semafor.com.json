@@ -1,20 +1,11 @@
 {
   "entity_id": "b876d93f-f94f-5303-93d9-520b638829e4",
   "name": "Semafor",
-  "what_it_does": "Semafor is a news website providing global news and analysis.",
+  "what_it_does": "Semafor is a news organization that publishes global news with a distinct format.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "global news",
-    "news organization",
-    "journalism",
-    "current affairs",
-    "international news",
-    "business news",
-    "politics coverage",
-    "investigative journalism"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b876d93f-f94f-5303-93d9-520b638829e4"
 }

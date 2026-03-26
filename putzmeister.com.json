@@ -1,20 +1,11 @@
 {
   "entity_id": "b0f86fc4-94aa-5454-996f-95bf9dd172e3",
   "name": "Welcome at Putzmeister",
-  "what_it_does": "Putzmeister manufactures concrete pumps and other construction machinery.",
+  "what_it_does": "Putzmeister manufactures concrete pumps and other specialized machinery for the construction and mining industries.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "India",
-  "keywords": [
-    "concrete pumps",
-    "construction machinery",
-    "mortar conveying",
-    "tunnel construction",
-    "industrial pumps",
-    "concrete technology",
-    "mining equipment",
-    "material placement"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b0f86fc4-94aa-5454-996f-95bf9dd172e3"
 }

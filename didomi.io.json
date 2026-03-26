@@ -1,20 +1,11 @@
 {
   "entity_id": "631bb99b-f290-5a8b-9618-880bc8e9dc53",
   "name": "Didomi",
-  "what_it_does": "Didomi provides a consent management platform (CMP) for privacy compliance and managing user data preferences.",
+  "what_it_does": "Didomi provides a consent management platform for websites and apps to comply with privacy regulations.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "consent management",
-    "privacy compliance",
-    "CMP",
-    "data privacy",
-    "GDPR compliance",
-    "cookie consent",
-    "preference management",
-    "privacy platform"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/631bb99b-f290-5a8b-9618-880bc8e9dc53"
 }

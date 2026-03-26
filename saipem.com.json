@@ -1,19 +1,11 @@
 {
   "entity_id": "8dcbd62d-235b-595b-a827-234e3432679c",
   "name": "Saipem",
-  "what_it_does": "Saipem is an Italian oil and gas industry contractor providing engineering, procurement, construction and installation services.",
+  "what_it_does": "Saipem is an oil and gas industry contractor providing engineering, procurement, construction, and installation services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "oil and gas contractor",
-    "offshore drilling",
-    "pipeline construction",
-    "engineering services",
-    "procurement services",
-    "construction services",
-    "energy infrastructure"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8dcbd62d-235b-595b-a827-234e3432679c"
 }

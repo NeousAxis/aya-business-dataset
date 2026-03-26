@@ -1,19 +1,11 @@
 {
   "entity_id": "09f269ac-9258-5a66-b2e7-7dc090a92e3d",
   "name": "Swisscanto",
-  "what_it_does": "Swisscanto offers investment funds and asset management services.",
+  "what_it_does": "Swisscanto provides investment and pension fund solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "investment solutions",
-    "pension funds",
-    "institutional investments",
-    "private investments",
-    "asset management",
-    "investment funds",
-    "financial planning"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/09f269ac-9258-5a66-b2e7-7dc090a92e3d"
 }

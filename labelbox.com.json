@@ -1,20 +1,11 @@
 {
   "entity_id": "2ba5601d-206b-5169-bad2-f7a0582e310b",
   "name": "Labelbox",
-  "what_it_does": "Labelbox offers a data labeling platform for machine learning.",
+  "what_it_does": "Labelbox provides a data labeling platform for training machine learning models.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "data annotation",
-    "machine learning",
-    "ai training data",
-    "computer vision",
-    "image annotation",
-    "video annotation",
-    "natural language processing",
-    "AI data"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2ba5601d-206b-5169-bad2-f7a0582e310b"
 }

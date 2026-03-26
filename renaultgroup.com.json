@@ -1,20 +1,11 @@
 {
   "entity_id": "05da4171-aa52-576e-ac4d-910e5a722ac0",
   "name": "Renault Group, constructeur automobile",
-  "what_it_does": "Renault Group manufactures and sells automobiles.",
+  "what_it_does": "Renault Group designs, manufactures, and sells automobiles.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "automobiles",
-    "passenger vehicles",
-    "electric vehicles",
-    "commercial vehicles",
-    "car manufacturer",
-    "automotive engineering",
-    "vehicle sales",
-    "automotive industry"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/05da4171-aa52-576e-ac4d-910e5a722ac0"
 }

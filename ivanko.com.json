@@ -1,20 +1,11 @@
 {
   "entity_id": "b5fc74ff-ccbe-5f6c-aca2-d8f6ff342b1f",
   "name": "Ivanko",
-  "what_it_does": "Ivanko designs, manufactures, and sells precision weightlifting equipment.",
+  "what_it_does": "Ivanko sells fitness equipment, specifically weight plates and barbells.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "weightlifting equipment",
-    "strength training",
-    "fitness equipment",
-    "barbells",
-    "dumbbells",
-    "weight plates",
-    "gym equipment",
-    "exercise equipment"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b5fc74ff-ccbe-5f6c-aca2-d8f6ff342b1f"
 }

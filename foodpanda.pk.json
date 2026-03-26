@@ -1,17 +1,11 @@
 {
   "entity_id": "d936eaa5-23d1-5b66-af20-506c0cd49a15",
   "name": "Food & Grocery Delivery",
-  "what_it_does": "Foodpanda is a platform for ordering food and groceries online for delivery.",
+  "what_it_does": "Foodpanda is a food and grocery delivery service operating in Pakistan.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Global",
-  "keywords": [
-    "Food Delivery",
-    "Grocery Delivery",
-    "Online Ordering",
-    "Restauration",
-    "Alimentation"
-  ],
+  "keywords": [],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d936eaa5-23d1-5b66-af20-506c0cd49a15"
 }

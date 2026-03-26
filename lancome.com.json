@@ -1,19 +1,11 @@
 {
   "entity_id": "b1bf04cf-2605-560a-a010-d77b07c9670b",
   "name": "GIFT SETS",
-  "what_it_does": "Lancome.com sells Lancôme cosmetics, skincare, and fragrances online.",
+  "what_it_does": "Lancome sells luxury cosmetics, skincare, and fragrances.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "United States",
-  "keywords": [
-    "cosmetics",
-    "skincare products",
-    "perfume",
-    "fragrance",
-    "beauty products",
-    "luxury beauty",
-    "gift sets"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b1bf04cf-2605-560a-a010-d77b07c9670b"
 }

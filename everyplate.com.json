@@ -1,20 +1,11 @@
 {
   "entity_id": "34fd398d-8389-5e6f-8689-2d20eb74779a",
   "name": "EveryPlate Meal Kits",
-  "what_it_does": "EveryPlate provides a meal kit delivery service.",
+  "what_it_does": "EveryPlate delivers meal kits with pre-portioned ingredients and recipes for home cooking.",
   "for_who": "Businesses and professionals.",
-  "category": "E-commerce & Retail",
+  "category": "Industrie & Manufacturing",
   "location": "Australia",
-  "keywords": [
-    "kits repas",
-    "recettes faciles",
-    "livraison de repas",
-    "cuisine à domicile",
-    "ingrédients frais",
-    "dîners rapides",
-    "repas abordables",
-    "boîtes repas"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/34fd398d-8389-5e6f-8689-2d20eb74779a"
 }

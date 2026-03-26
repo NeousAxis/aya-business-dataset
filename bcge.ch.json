@@ -1,20 +1,11 @@
 {
   "entity_id": "ec256866-521a-567a-a2ab-150dcfd1161e",
   "name": "BCGE",
-  "what_it_does": "BCGE is a Swiss cantonal bank offering financial services.",
+  "what_it_does": "BCGE is a Swiss cantonal bank offering a range of banking and financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "cantonal bank",
-    "Swiss banking",
-    "Geneva bank",
-    "retail banking",
-    "corporate banking",
-    "private banking",
-    "mortgages",
-    "wealth"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec256866-521a-567a-a2ab-150dcfd1161e"
 }

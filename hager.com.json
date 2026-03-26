@@ -1,19 +1,11 @@
 {
   "entity_id": "60704b52-af05-55f3-a588-07380ff8f397",
   "name": "Hager worldwide",
-  "what_it_does": "Hager manufactures electrical installation systems and solutions.",
+  "what_it_does": "Hager provides solutions and services for electrical installations in residential, commercial, and industrial buildings.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [
-    "electrical installation systems",
-    "circuit protection",
-    "wiring accessories",
-    "smart home solutions",
-    "energy distribution",
-    "building automation",
-    "electrical solutions"
-  ],
+  "keywords": [],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/60704b52-af05-55f3-a588-07380ff8f397"
 }

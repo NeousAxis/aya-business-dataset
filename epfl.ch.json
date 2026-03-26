@@ -1,19 +1,11 @@
 {
   "entity_id": "be66a017-630a-5aa0-8116-1b6865c781e9",
   "name": "EPFL",
-  "what_it_does": "EPFL (École Polytechnique Fédérale de Lausanne) is a Swiss federal institute of technology.",
+  "what_it_does": "EPFL (École Polytechnique Fédérale de Lausanne) is a Swiss university of science and technology.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss technology institute",
-    "engineering education",
-    "science research",
-    "federal polytechnic school",
-    "Lausanne university",
-    "EPFL",
-    "higher education"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/be66a017-630a-5aa0-8116-1b6865c781e9"
 }

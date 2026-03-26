@@ -1,20 +1,11 @@
 {
   "entity_id": "584f32e7-b898-51c3-be5d-d50fdebd8d2c",
   "name": "Wacker Chemie AG",
-  "what_it_does": "Wacker Chemie AG is a chemical company that produces silicones, polymers, and other specialty chemicals.",
+  "what_it_does": "Wacker Chemie manufactures specialty chemical products including silicones, polymers, and polysilicon.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [
-    "silicones",
-    "polymers",
-    "chemical products",
-    "specialty chemicals",
-    "chemical manufacturing",
-    "material science",
-    "advanced materials",
-    "chemical solutions"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/584f32e7-b898-51c3-be5d-d50fdebd8d2c"
 }

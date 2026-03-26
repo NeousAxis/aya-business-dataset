@@ -1,20 +1,11 @@
 {
   "entity_id": "6fc3f7c4-116c-542b-846b-8302ae4c1597",
   "name": "Hootsuite",
-  "what_it_does": "Hootsuite is a social media management platform used for scheduling posts and analyzing results.",
+  "what_it_does": "Hootsuite is a social media management platform used for scheduling and analytics.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "social media management",
-    "social media scheduling",
-    "social media analytics",
-    "social listening",
-    "social media marketing",
-    "brand monitoring",
-    "social media publishing",
-    "engagement tools"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6fc3f7c4-116c-542b-846b-8302ae4c1597"
 }

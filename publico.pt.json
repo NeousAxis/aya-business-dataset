@@ -1,19 +1,11 @@
 {
   "entity_id": "3850e521-46e5-5d82-a859-fd303647ddd1",
   "name": "Público",
-  "what_it_does": "Público is a Portuguese news publication.",
+  "what_it_does": "Público is a Portuguese daily newspaper.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Portugal",
-  "keywords": [
-    "Portuguese news",
-    "news publication",
-    "current affairs",
-    "political news",
-    "economic news",
-    "international news",
-    "Portugal news"
-  ],
+  "keywords": [],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3850e521-46e5-5d82-a859-fd303647ddd1"
 }

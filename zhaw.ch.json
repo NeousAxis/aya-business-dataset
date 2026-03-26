@@ -1,19 +1,11 @@
 {
   "entity_id": "29ed42f7-2d60-509f-9e18-02475e3b4ebf",
   "name": "ZHAW",
-  "what_it_does": "ZHAW is the Zurich University of Applied Sciences.",
+  "what_it_does": "ZHAW is a university of applied sciences in Switzerland offering education, research, and development.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "Zurich applied sciences",
-    "university education",
-    "applied research",
-    "higher education",
-    "swiss university",
-    "zhaw courses",
-    "degree programs"
-  ],
+  "keywords": [],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/29ed42f7-2d60-509f-9e18-02475e3b4ebf"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "6facae61-751f-5ea0-bb2c-cf8468c1063c",
   "name": "LTM",
-  "what_it_does": "LTM likely offers technology or SaaS solutions, based on its domain.",
+  "what_it_does": "LTM likely provides language translation and localization management software or services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "tech solutions",
-    "IT enablement",
-    "process automation",
-    "SaaS offerings",
-    "digital workflows",
-    "data management",
-    "cloud infrastructure",
-    "software provision"
-  ],
+  "keywords": [],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6facae61-751f-5ea0-bb2c-cf8468c1063c"
 }

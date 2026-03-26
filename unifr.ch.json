@@ -1,20 +1,11 @@
 {
   "entity_id": "77b4904d-c860-5979-bbb3-09dcf2bc11fc",
   "name": "Université de Fribourg",
-  "what_it_does": "Université de Fribourg is a university in Fribourg, Switzerland.",
+  "what_it_does": "Université de Fribourg is a bilingual university located in Fribourg, Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss university",
-    "higher education",
-    "academic research",
-    "university studies",
-    "Fribourg",
-    "multilingual university",
-    "research institution",
-    "bachelor programs"
-  ],
+  "keywords": [],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/77b4904d-c860-5979-bbb3-09dcf2bc11fc"
 }

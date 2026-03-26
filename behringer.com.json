@@ -1,20 +1,11 @@
 {
   "entity_id": "597f1860-6bd5-5a4d-84dd-fbb00801e3ad",
   "name": "Behringer",
-  "what_it_does": "Behringer manufactures audio equipment, including mixers, amplifiers, and synthesizers.",
+  "what_it_does": "Behringer designs, manufactures, and distributes professional audio equipment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "audio equipment",
-    "mixing consoles",
-    "amplifiers",
-    "loudspeakers",
-    "audio interfaces",
-    "signal processors",
-    "studio monitors",
-    "music production"
-  ],
+  "keywords": [],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/597f1860-6bd5-5a4d-84dd-fbb00801e3ad"
 }

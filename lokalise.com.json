@@ -1,20 +1,11 @@
 {
   "entity_id": "3b814565-cba5-5807-be13-94062db83ee1",
   "name": "Lokalise",
-  "what_it_does": "Lokalise provides a translation management system (TMS) for software localization.",
+  "what_it_does": "Lokalise provides a translation management system for software localization.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "translation management system",
-    "localization software",
-    "software localization",
-    "translation automation",
-    "globalization",
-    "multilingual content",
-    "TMS platform",
-    "translation workflow"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b814565-cba5-5807-be13-94062db83ee1"
 }

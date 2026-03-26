@@ -1,20 +1,11 @@
 {
   "entity_id": "1dbc3831-0cff-54da-b501-76487f205a35",
   "name": "Rawbank",
-  "what_it_does": "Rawbank is a commercial bank operating in the Democratic Republic of Congo.",
+  "what_it_does": "Rawbank is a commercial bank offering financial services to individuals and businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "commercial bank",
-    "banking Congo",
-    "financial Congo",
-    "loans Congo",
-    "deposit accounts",
-    "business banking",
-    "personal banking",
-    "Rawbank finance"
-  ],
+  "keywords": [],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1dbc3831-0cff-54da-b501-76487f205a35"
 }

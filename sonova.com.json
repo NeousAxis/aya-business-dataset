@@ -1,19 +1,11 @@
 {
   "entity_id": "febdbf38-a8d6-5998-b4bc-3e5e152fa54a",
   "name": "Sonova International",
-  "what_it_does": "Sonova International manufactures and distributes hearing care solutions, including hearing aids and cochlear implants.",
+  "what_it_does": "Sonova International manufactures and distributes hearing care solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Switzerland",
-  "keywords": [
-    "hearing aids",
-    "hearing solutions",
-    "audiological devices",
-    "hearing implants",
-    "wireless connectivity",
-    "hearing healthcare",
-    "audiology"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/febdbf38-a8d6-5998-b4bc-3e5e152fa54a"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "47a566bc-99ed-57fa-8c8f-06c854118248",
   "name": "Takeda Pharmaceutical Company Limited",
-  "what_it_does": "Takeda Pharmaceutical Company Limited is a global pharmaceutical company focused on research and development of innovative medicines.",
+  "what_it_does": "Takeda Pharmaceutical Company Limited develops and markets pharmaceutical products.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Japan",
-  "keywords": [
-    "pharmaceuticals",
-    "drug development",
-    "global pharma",
-    "research and development",
-    "prescription drugs",
-    "oncology",
-    "gastroenterology",
-    "rare diseases"
-  ],
-  "aio_score": 64.0,
+  "keywords": [],
+  "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/47a566bc-99ed-57fa-8c8f-06c854118248"
 }

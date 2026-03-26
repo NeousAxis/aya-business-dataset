@@ -1,20 +1,11 @@
 {
   "entity_id": "357ba06d-8000-56db-a3d8-384060ee93e6",
   "name": "Spitfire Audio",
-  "what_it_does": "Spitfireaudio.com sells virtual instruments and sample libraries for composers and producers.",
+  "what_it_does": "Spitfire Audio sells virtual instruments and sample libraries for music production.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Austria",
-  "keywords": [
-    "virtual instruments",
-    "sample libraries",
-    "music production",
-    "audio samples",
-    "composer tools",
-    "sound design",
-    "audio software",
-    "music creation"
-  ],
+  "keywords": [],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/357ba06d-8000-56db-a3d8-384060ee93e6"
 }

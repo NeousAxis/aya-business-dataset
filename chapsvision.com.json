@@ -1,19 +1,11 @@
 {
   "entity_id": "1a412774-d69c-5a05-b5a4-c08c99241b52",
   "name": "ChapsVision",
-  "what_it_does": "ChapsVision likely provides communication or media-related services, potentially involving vision or visual technologies.",
+  "what_it_does": "ChapsVision offers data intelligence and cybersecurity solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
-  "location": "United States",
-  "keywords": [
-    "media monitoring",
-    "reputation defence",
-    "data processing",
-    "information analysis",
-    "brand protection",
-    "risk detection",
-    "data aggregation"
-  ],
+  "location": "United Kingdom",
+  "keywords": [],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1a412774-d69c-5a05-b5a4-c08c99241b52"
 }

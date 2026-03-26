@@ -1,19 +1,11 @@
 {
   "entity_id": "7ed84863-13bf-55d9-b60e-c60e2ee14bc9",
   "name": "Tata Communications",
-  "what_it_does": "Tata Communications provides telecommunications and digital services to businesses globally.",
+  "what_it_does": "Tata Communications provides network, cloud, and mobility services to businesses.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "telecommunications provider",
-    "enterprise connectivity",
-    "global network",
-    "cloud enablement",
-    "data solutions",
-    "managed security",
-    "VoIP services"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7ed84863-13bf-55d9-b60e-c60e2ee14bc9"
 }

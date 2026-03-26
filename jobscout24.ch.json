@@ -1,19 +1,11 @@
 {
   "entity_id": "3795546a-507d-53fa-aae8-b8f79291cbcf",
   "name": "Jobs Schweiz Stellen Stellenangebote Job CH",
-  "what_it_does": "JobScout24.ch is a Swiss online job portal that lists job vacancies across various sectors.",
+  "what_it_does": "JobScout24.ch is a Swiss online job board listing available positions.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss job board",
-    "employment listings",
-    "job postings",
-    "recruiting portal",
-    "career opportunities",
-    "Switzerland jobs",
-    "online recruitment"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3795546a-507d-53fa-aae8-b8f79291cbcf"
 }

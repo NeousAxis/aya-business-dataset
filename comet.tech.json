@@ -1,20 +1,11 @@
 {
   "entity_id": "38e7923f-9f00-5df2-a5af-f3854864b16c",
   "name": "Comet",
-  "what_it_does": "Comet manufactures and provides high-voltage and RF technology components.",
+  "what_it_does": "Comet likely provides technology solutions for industrial applications.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [
-    "high voltage",
-    "RF components",
-    "x-ray modules",
-    "power supplies",
-    "plasma control",
-    "generators",
-    "industrial components",
-    "testing equipment"
-  ],
+  "keywords": [],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/38e7923f-9f00-5df2-a5af-f3854864b16c"
 }

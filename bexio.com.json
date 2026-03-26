@@ -1,19 +1,11 @@
 {
   "entity_id": "3c287e2d-2913-558d-8672-fe746dc78f59",
   "name": "bexio",
-  "what_it_does": "bexio provides cloud-based business software for small businesses, primarily in Switzerland, focusing on accounting, CRM, and project management.",
+  "what_it_does": "bexio offers cloud-based business software for small businesses in Switzerland, focusing on accounting, CRM, and project management.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "cloud accounting",
-    "Swiss small business",
-    "ERP",
-    "CRM",
-    "project tracking",
-    "time tracking",
-    "invoicing"
-  ],
+  "keywords": [],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3c287e2d-2913-558d-8672-fe746dc78f59"
 }

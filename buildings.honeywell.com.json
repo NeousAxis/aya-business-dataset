@@ -1,19 +1,11 @@
 {
   "entity_id": "ec142480-8edd-5337-8bc5-31dfa03af50e",
   "name": "LenelS2",
-  "what_it_does": "LenelS2, part of Honeywell, provides access control and security systems for buildings.",
+  "what_it_does": "LenelS2, a part of Honeywell, provides access control and security systems for buildings.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "access control systems",
-    "security systems",
-    "building security",
-    "Honeywell",
-    "security hardware",
-    "facility management",
-    "intrusion detection"
-  ],
+  "keywords": [],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec142480-8edd-5337-8bc5-31dfa03af50e"
 }

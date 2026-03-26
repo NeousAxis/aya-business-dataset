@@ -1,20 +1,11 @@
 {
   "entity_id": "9001ccbc-cd33-569d-a664-a86b480cc306",
   "name": "Liebherr",
-  "what_it_does": "Liebherr manufactures construction machinery, mining equipment, and other industrial products.",
-  "for_who": "Media professionals and audiences.",
-  "category": "Media & Communication",
+  "what_it_does": "Liebherr manufactures a wide range of products including construction machinery, mining equipment, and domestic appliances.",
+  "for_who": "Businesses and professionals.",
+  "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [
-    "construction machinery",
-    "mining equipment",
-    "industrial products",
-    "crane manufacture",
-    "earthmoving equipment",
-    "material handling",
-    "refrigeration equipment",
-    "aerospace components"
-  ],
+  "keywords": [],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9001ccbc-cd33-569d-a664-a86b480cc306"
 }

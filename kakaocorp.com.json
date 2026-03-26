@@ -1,20 +1,11 @@
 {
   "entity_id": "53fcfcdd-878e-50da-a56b-07f182dd577a",
   "name": "Kakao Corp",
-  "what_it_does": "Kakao Corp provides a suite of services including a messaging app, games, and payment platforms.",
+  "what_it_does": "Kakao Corp is a South Korean internet company that offers a variety of services including messaging, social networking, and digital content.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
-  "keywords": [
-    "South Korean internet ",
-    "mobile messaging",
-    "web portal",
-    "mobile games",
-    "social networking",
-    "digital content",
-    "e-commerce",
-    "online services"
-  ],
+  "keywords": [],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/53fcfcdd-878e-50da-a56b-07f182dd577a"
 }

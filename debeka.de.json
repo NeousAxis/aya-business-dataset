@@ -1,20 +1,11 @@
 {
   "entity_id": "cdfcf2ed-1dd5-5b8f-93e3-c817689f70f1",
   "name": "Debeka",
-  "what_it_does": "Debeka is a German insurance company offering health, life, and property insurance.",
+  "what_it_does": "Debeka provides insurance and financial services, primarily health insurance in Germany.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "insurance company",
-    "german insurance",
-    "health insurance",
-    "life insurance",
-    "property insurance",
-    "financial security",
-    "insurance policies",
-    "risk coverage"
-  ],
+  "keywords": [],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cdfcf2ed-1dd5-5b8f-93e3-c817689f70f1"
 }

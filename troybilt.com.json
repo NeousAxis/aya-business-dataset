@@ -1,20 +1,11 @@
 {
   "entity_id": "8076e33a-dce4-5974-be83-31362d2ff1ae",
   "name": "Troy-Bilt",
-  "what_it_does": "Troy-Bilt manufactures outdoor power equipment such as lawn mowers and tillers.",
+  "what_it_does": "Troy-Bilt manufactures and sells outdoor power equipment such as lawn mowers and snow blowers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "lawn mowers",
-    "garden tillers",
-    "outdoor power equipment",
-    "lawn care",
-    "yard maintenance",
-    "home gardening",
-    "garden tools",
-    "power tools"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8076e33a-dce4-5974-be83-31362d2ff1ae"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "e0cbb8bf-0aa8-53ee-8e06-63504cebe3ef",
   "name": "HORNBACH Baumarkt AG",
-  "what_it_does": "Hornbach Baumarkt AG is a retailer of hardware, building materials, and gardening supplies in Switzerland.",
+  "what_it_does": "Hornbach is a German-based DIY and home improvement retail chain.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Luxembourg",
-  "keywords": [
-    "Hardware Retail",
-    "Construction Materials",
-    "Gardening Supplies",
-    "DIY products",
-    "Home Improvement",
-    "Building Supplies",
-    "Hand tools",
-    "Power tools"
-  ],
+  "keywords": [],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e0cbb8bf-0aa8-53ee-8e06-63504cebe3ef"
 }

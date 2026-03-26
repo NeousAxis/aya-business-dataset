@@ -1,20 +1,11 @@
 {
   "entity_id": "70f74004-feb8-504a-8d1d-0d7127583768",
   "name": "Purplebricks Estate Agents",
-  "what_it_does": "Purplebricks is an online estate agency in the UK.",
+  "what_it_does": "Purplebricks is an online estate agent that facilitates property sales and rentals in the UK.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "United Kingdom",
-  "keywords": [
-    "estate agency",
-    "UK property",
-    "real estate",
-    "property sales",
-    "online estate agent",
-    "residential property",
-    "house sales",
-    "property listings"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/70f74004-feb8-504a-8d1d-0d7127583768"
 }

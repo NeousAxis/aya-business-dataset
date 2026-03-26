@@ -1,20 +1,11 @@
 {
   "entity_id": "183a1ef7-609e-5cae-bb4e-0d09bae41be8",
   "name": "NAVER Corporation",
-  "what_it_does": "NAVER Corporation operates South Korea's leading search portal and related online services.",
+  "what_it_does": "NAVER Corporation operates a South Korean web portal and search engine.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "search portal",
-    "Korean search engine",
-    "online services",
-    "internet portal",
-    "web search",
-    "content platform",
-    "Naver",
-    "South Korea"
-  ],
+  "keywords": [],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/183a1ef7-609e-5cae-bb4e-0d09bae41be8"
 }

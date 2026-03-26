@@ -1,19 +1,11 @@
 {
   "entity_id": "76fb936d-a741-5e4f-a2a0-68e390f82a84",
   "name": "Garmin",
-  "what_it_does": "Garmin designs and manufactures GPS navigation and wearable technology products for various markets including automotive, aviation, marine, outdoor, and fitness.",
+  "what_it_does": "Garmin designs and manufactures GPS navigation and wearable technology devices.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [
-    "GPS navigation",
-    "wearable",
-    "fitness trackers",
-    "smartwatches",
-    "aviation",
-    "marine electronics",
-    "automotive GPS"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/76fb936d-a741-5e4f-a2a0-68e390f82a84"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "3d7c49ad-908c-5adc-8ef7-85ae1a1595cf",
   "name": "Assa-abloy",
-  "what_it_does": "Assa Abloy manufactures and sells locks, doors, gates, and entrance automation systems.",
+  "what_it_does": "Assa-abloy manufactures and sells door-opening solutions and access control systems.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "locks",
-    "doors",
-    "gates",
-    "entrance automation",
-    "access control",
-    "security hardware",
-    "electromechanical locks"
-  ],
+  "keywords": [],
   "aio_score": 20.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3d7c49ad-908c-5adc-8ef7-85ae1a1595cf"
 }

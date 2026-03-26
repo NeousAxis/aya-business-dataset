@@ -1,18 +1,11 @@
 {
   "entity_id": "0fe4ded5-cc4d-59bf-8ac7-6b312bbc588c",
   "name": "['Home', 'Phones', 'Tablets', 'Accessories']",
-  "what_it_does": "Tecno Mobile manufactures and sells mobile phones, tablets and accessories.",
+  "what_it_does": "Tecno Mobile sells smartphones, tablets, and accessories.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Saudi Arabia",
-  "keywords": [
-    "mobile phones",
-    "smartphones",
-    "tablets",
-    "mobile accessories",
-    "consumer electronics",
-    "handheld devices"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0fe4ded5-cc4d-59bf-8ac7-6b312bbc588c"
 }

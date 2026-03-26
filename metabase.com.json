@@ -1,20 +1,11 @@
 {
   "entity_id": "d0094a09-910d-5aa2-bc89-a6b888236e51",
   "name": "Metabase",
-  "what_it_does": "Metabase provides an open-source business intelligence and analytics platform.",
+  "what_it_does": "Metabase is an open-source business intelligence tool that allows users to explore and visualize data.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "business intelligence",
-    "data analytics",
-    "open source",
-    "data visualization",
-    "reporting",
-    "data dashboards",
-    "BI tools",
-    "data exploration"
-  ],
+  "keywords": [],
   "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d0094a09-910d-5aa2-bc89-a6b888236e51"
 }

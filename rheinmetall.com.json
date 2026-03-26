@@ -1,18 +1,11 @@
 {
   "entity_id": "815401a6-2251-5caf-812d-a4e5452f9f5d",
   "name": "Rheinmetall AG",
-  "what_it_does": "Rheinmetall AG is a technology group focused on defense and automotive industries.",
+  "what_it_does": "Rheinmetall AG is a German defense contractor and automotive parts manufacturer.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Germany",
-  "keywords": [
-    "defense industry",
-    "automotive",
-    "weapon systems",
-    "vehicle technology",
-    "military equipment",
-    "engineering"
-  ],
+  "keywords": [],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/815401a6-2251-5caf-812d-a4e5452f9f5d"
 }

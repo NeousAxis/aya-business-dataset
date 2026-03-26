@@ -1,19 +1,11 @@
 {
   "entity_id": "9f05c2fb-b0ef-5072-8f1f-cd4f03d3d17b",
   "name": "JWX",
-  "what_it_does": "JWX provides software-as-a-service solutions.",
+  "what_it_does": "JWX likely provides technology and SaaS solutions based on the 'jwx' domain.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "SaaS solutions",
-    "cloud ",
-    "enterprise ",
-    "business operations",
-    "workflow automation",
-    "cloud applications",
-    "subscription "
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f05c2fb-b0ef-5072-8f1f-cd4f03d3d17b"
 }

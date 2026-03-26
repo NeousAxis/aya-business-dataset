@@ -1,20 +1,11 @@
 {
   "entity_id": "31b16753-dd32-5ccc-adf4-d6e1fc1e9447",
   "name": "SunPower",
-  "what_it_does": "SunPower designs, manufactures, and installs solar panels and energy storage solutions.",
+  "what_it_does": "SunPower designs and manufactures solar panels and energy storage solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "solar panels",
-    "energy storage",
-    "solar energy solutions",
-    "residential solar",
-    "commercial solar",
-    "renewable energy",
-    "solar installation",
-    "solar power systems"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/31b16753-dd32-5ccc-adf4-d6e1fc1e9447"
 }

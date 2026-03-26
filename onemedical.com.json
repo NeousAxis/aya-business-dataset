@@ -1,20 +1,11 @@
 {
   "entity_id": "8dcd672f-6ef0-5fc6-9018-2e155802727d",
   "name": "Find a Doctor Near You",
-  "what_it_does": "One Medical operates primary care practices that offer both in-person and virtual care.",
+  "what_it_does": "One Medical operates primary care medical practices with a focus on technology and member experience.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "primary care",
-    "in-person medical care",
-    "virtual healthcare",
-    "preventative care",
-    "medical clinics",
-    "membership healthcare",
-    "doctor visits",
-    "healthcare services"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8dcd672f-6ef0-5fc6-9018-2e155802727d"
 }

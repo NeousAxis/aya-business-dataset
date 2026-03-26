@@ -1,19 +1,11 @@
 {
   "entity_id": "6087eed2-f3c5-56bd-b91d-4f99ef7f65dc",
   "name": "TrueLayer",
-  "what_it_does": "TrueLayer provides an open banking platform for secure data and payments.",
+  "what_it_does": "TrueLayer provides open banking APIs that allow businesses to securely access bank account data and initiate payments.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [
-    "open banking",
-    "payment APIs",
-    "data APIs",
-    "financial data",
-    "secure payments",
-    "PSD2 compliance",
-    "bank connectivity"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6087eed2-f3c5-56bd-b91d-4f99ef7f65dc"
 }

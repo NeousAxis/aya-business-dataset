@@ -1,19 +1,11 @@
 {
   "entity_id": "58453e79-cf82-584d-8a19-b53949756145",
   "name": "PG&E",
-  "what_it_does": "PG&E is a utility company that provides natural gas and electricity services.",
+  "what_it_does": "PG&E (Pacific Gas and Electric) provides natural gas and electricity services to customers in California.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "natural gas distribution",
-    "electricity distribution",
-    "utility ",
-    "energy ",
-    "power grid",
-    "residential energy",
-    "commercial energy"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/58453e79-cf82-584d-8a19-b53949756145"
 }

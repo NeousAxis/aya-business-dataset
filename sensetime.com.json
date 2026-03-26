@@ -1,20 +1,11 @@
 {
   "entity_id": "032aac14-5f7d-5d8b-9f0f-944cf428f684",
   "name": "SenseTime",
-  "what_it_does": "SenseTime develops artificial intelligence technologies, including computer vision and deep learning.",
+  "what_it_does": "SenseTime develops artificial intelligence technologies, including facial recognition and image analysis.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Taiwan",
-  "keywords": [
-    "artificial intelligence",
-    "computer vision",
-    "deep learning",
-    "AI algorithms",
-    "facial recognition",
-    "AI solutions",
-    "machine learning",
-    "image analysis"
-  ],
+  "keywords": [],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/032aac14-5f7d-5d8b-9f0f-944cf428f684"
 }

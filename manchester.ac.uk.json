@@ -1,20 +1,11 @@
 {
   "entity_id": "ddc2aade-f118-5a2b-86f0-bf6657f9f544",
   "name": "Manchester",
-  "what_it_does": "Manchester is a university offering higher education degrees.",
+  "what_it_does": "The University of Manchester is a public research university.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
-  "keywords": [
-    "university degrees",
-    "higher education",
-    "academic research",
-    "undergraduate studies",
-    "postgraduate studies",
-    "research university",
-    "academic programs",
-    "student education"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ddc2aade-f118-5a2b-86f0-bf6657f9f544"
 }

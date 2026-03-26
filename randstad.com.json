@@ -1,18 +1,11 @@
 {
   "entity_id": "121527d4-82df-5cf2-bc62-83f3ded23982",
   "name": "Randstad",
-  "what_it_does": "Randstad is a global staffing agency providing temporary and permanent employment solutions.",
+  "what_it_does": "Randstad provides human resource services, including temporary staffing and permanent placement.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Netherlands",
-  "keywords": [
-    "global staffing",
-    "temporary employment",
-    "permanent placement",
-    "recruitment agency",
-    "HR solutions",
-    "job placement"
-  ],
+  "keywords": [],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/121527d4-82df-5cf2-bc62-83f3ded23982"
 }

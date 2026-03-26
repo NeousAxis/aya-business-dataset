@@ -1,20 +1,11 @@
 {
   "entity_id": "f4d5eecf-e2d0-5233-acd9-94cd84e51d68",
   "name": "Petit Bateau",
-  "what_it_does": "Petit Bateau is a French brand selling clothing for babies and children.",
+  "what_it_does": "Petit Bateau sells children's and baby clothing online.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Belgium",
-  "keywords": [
-    "baby clothing",
-    "childrenswear",
-    "French fashion",
-    "kidswear",
-    "infant clothing",
-    "e-commerce",
-    "retail apparel",
-    "cotton clothing"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f4d5eecf-e2d0-5233-acd9-94cd84e51d68"
 }

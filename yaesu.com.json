@@ -1,19 +1,11 @@
 {
   "entity_id": "c345dd53-41ec-58bd-aacd-45031ffac466",
   "name": "Yaesu",
-  "what_it_does": "Yaesu sells amateur radio equipment, including transceivers, receivers, and accessories.",
+  "what_it_does": "Yaesu manufactures amateur radio equipment and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "amateur radio equipment",
-    "ham radio transceivers",
-    "radio receivers",
-    "radio accessories",
-    "two-way radios",
-    "communication devices",
-    "electronic retail"
-  ],
+  "keywords": [],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c345dd53-41ec-58bd-aacd-45031ffac466"
 }

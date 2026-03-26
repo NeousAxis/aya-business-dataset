@@ -1,20 +1,11 @@
 {
   "entity_id": "8b463871-4ad5-5e1f-9c34-415241b189de",
   "name": "Octopus Energy",
-  "what_it_does": "Octopus Energy is a UK-based energy supplier focused on renewable energy.",
+  "what_it_does": "Octopus Energy is a renewable energy retailer supplying electricity and gas to homes and businesses.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [
-    "renewable energy",
-    "UK energy supplier",
-    "green energy",
-    "electricity provider",
-    "gas provider",
-    "sustainable energy",
-    "domestic energy",
-    "energy retailer"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8b463871-4ad5-5e1f-9c34-415241b189de"
 }

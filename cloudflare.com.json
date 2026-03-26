@@ -1,20 +1,11 @@
 {
   "entity_id": "a568d1ad-c947-56c5-9cf5-ce3e2d817a99",
   "name": "Cloudflare",
-  "what_it_does": "Cloudflare provides content delivery network (CDN) and DDoS mitigation services.",
+  "what_it_does": "Cloudflare provides a content delivery network, DDoS mitigation, and internet security services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "China",
-  "keywords": [
-    "content delivery network",
-    "CDN",
-    "cybersecurity",
-    "DDoS protection",
-    "website security",
-    "network security",
-    "internet infrastructure",
-    "DNS services"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a568d1ad-c947-56c5-9cf5-ce3e2d817a99"
 }

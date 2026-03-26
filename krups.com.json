@@ -1,20 +1,11 @@
 {
   "entity_id": "0e83705c-2564-5b51-8a93-cfac876e0e69",
   "name": "Krups",
-  "what_it_does": "Krups manufactures small kitchen appliances, such as coffee makers and blenders.",
+  "what_it_does": "Krups manufactures small kitchen appliances like coffee makers and blenders.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Poland",
-  "keywords": [
-    "kitchen appliances",
-    "coffee makers",
-    "blenders",
-    "food processors",
-    "small appliances",
-    "home appliances",
-    "espresso machines",
-    "breakfast appliances"
-  ],
+  "keywords": [],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0e83705c-2564-5b51-8a93-cfac876e0e69"
 }

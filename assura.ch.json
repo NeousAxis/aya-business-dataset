@@ -1,19 +1,11 @@
 {
   "entity_id": "21ad141f-ae9d-5c2f-8673-f91f9fcf6639",
   "name": "Assura",
-  "what_it_does": "Assura provides health insurance services in Switzerland.",
+  "what_it_does": "Assura is likely a Swiss financial institution, possibly offering banking or insurance services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "health insurance",
-    "Swiss insurance",
-    "medical coverage",
-    "insurance provider",
-    "healthcare plans",
-    "Switzerland insurance",
-    "supplementary insurance"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/21ad141f-ae9d-5c2f-8673-f91f9fcf6639"
 }

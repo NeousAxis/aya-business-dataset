@@ -1,20 +1,11 @@
 {
   "entity_id": "2e2c7364-a8ac-52ff-961b-242f256ae254",
   "name": "Kraft Heinz",
-  "what_it_does": "Kraft Heinz manufactures and markets packaged food products.",
+  "what_it_does": "Kraft Heinz manufactures and markets packaged food products, including condiments, sauces, cheese, and beverages.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "United States",
-  "keywords": [
-    "packaged foods",
-    "condiments",
-    "sauces",
-    "food products",
-    "beverages",
-    "grocery products",
-    "consumer packaged goods",
-    "ketchup"
-  ],
+  "keywords": [],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2e2c7364-a8ac-52ff-961b-242f256ae254"
 }

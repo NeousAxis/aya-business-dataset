@@ -1,20 +1,11 @@
 {
   "entity_id": "82a55034-0fd5-54b1-bdcf-05d4bd47b2ce",
   "name": "Health tech for the digital age",
-  "what_it_does": "Medtronic develops, manufactures, and sells medical devices and therapies.",
+  "what_it_does": "Medtronic develops and manufactures medical devices and technologies.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Canada",
-  "keywords": [
-    "medical devices",
-    "medical therapies",
-    "cardiac devices",
-    "diabetes management",
-    "surgical technologies",
-    "neuromodulation",
-    "spinal devices",
-    "healthcare solutions"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/82a55034-0fd5-54b1-bdcf-05d4bd47b2ce"
 }

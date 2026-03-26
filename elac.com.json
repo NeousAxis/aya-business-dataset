@@ -1,19 +1,11 @@
 {
   "entity_id": "4c874e3a-7b16-54cb-b245-edaf1591934d",
   "name": "Elac",
-  "what_it_does": "Elac manufactures loudspeakers, electronics, and related audio equipment.",
+  "what_it_does": "Elac manufactures and sells high-end audio speakers and electronics.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "loudspeakers",
-    "audio equipment",
-    "speaker design",
-    "audio components",
-    "home audio",
-    "hi-fi speakers",
-    "sound systems"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4c874e3a-7b16-54cb-b245-edaf1591934d"
 }

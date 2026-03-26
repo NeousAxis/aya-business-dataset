@@ -1,20 +1,11 @@
 {
   "entity_id": "c29cf941-e061-5e81-ab1b-84a909929990",
   "name": "Varo NV",
-  "what_it_does": "Varo NV manufactures and distributes a range of power tools and garden equipment.",
+  "what_it_does": "Varo NV likely manufactures industrial products.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Belgium",
-  "keywords": [
-    "outils électriques",
-    "outils de jardin",
-    "bricolage",
-    "équipements d'extérieur",
-    "tronçonneuses",
-    "perceuses",
-    "scies",
-    "outillage"
-  ],
+  "keywords": [],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c29cf941-e061-5e81-ab1b-84a909929990"
 }

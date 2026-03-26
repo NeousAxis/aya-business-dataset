@@ -1,20 +1,11 @@
 {
   "entity_id": "171d853b-fe9c-5aee-8098-f60c4e17def2",
   "name": "Promod",
-  "what_it_does": "Promod is a French fashion retailer that sells women's clothing and accessories.",
+  "what_it_does": "Promod sells women's apparel and accessories online and in retail stores.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
-  "keywords": [
-    "French women's fashion",
-    "Womenswear",
-    "Clothing retail",
-    "Fashion accessories",
-    "European fashion",
-    "Apparel",
-    "Womens clothing",
-    "French fashion"
-  ],
+  "keywords": [],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/171d853b-fe9c-5aee-8098-f60c4e17def2"
 }

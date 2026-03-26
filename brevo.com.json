@@ -1,19 +1,11 @@
 {
   "entity_id": "fb01d7ab-2bbb-581c-b99e-fdd546ef28b4",
   "name": "Brevo",
-  "what_it_does": "Brevo provides a marketing automation platform for email marketing and SMS campaigns.",
+  "what_it_does": "Brevo.com provides a customer relationship management (CRM) platform with marketing automation tools.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "CRM",
-    "customer relationship",
-    "marketing automation",
-    "email marketing",
-    "sales tools",
-    "brevo",
-    "email campaigns"
-  ],
+  "keywords": [],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fb01d7ab-2bbb-581c-b99e-fdd546ef28b4"
 }

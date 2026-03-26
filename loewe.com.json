@@ -1,19 +1,11 @@
 {
   "entity_id": "dac61c8a-3eb6-53ae-9c80-391279dfe3e3",
   "name": "Loewe",
-  "what_it_does": "Loewe sells high-end consumer electronics, including televisions and audio equipment.",
+  "what_it_does": "Loewe sells consumer electronics, including televisions and audio equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [
-    "électronique grand public haut de gamme",
-    "téléviseurs",
-    "équipement audio",
-    "Loewe",
-    "produits audio",
-    "téléviseurs haut de gamme",
-    "audio de luxe"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dac61c8a-3eb6-53ae-9c80-391279dfe3e3"
 }

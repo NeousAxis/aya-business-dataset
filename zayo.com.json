@@ -1,20 +1,11 @@
 {
   "entity_id": "ef4ab9a7-f020-5290-8364-de78d1714046",
   "name": "Zayo",
-  "what_it_does": "Zayo provides fiber-based communications solutions including bandwidth, cloud connectivity, and colocation.",
+  "what_it_does": "Zayo provides bandwidth infrastructure and network-neutral colocation and connectivity solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "fiber optic networks",
-    "bandwidth infrastructure",
-    "dark fiber",
-    "telecommunications",
-    "enterprise connectivity",
-    "data center connectivity",
-    "wavelength services",
-    "network infrastructure"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ef4ab9a7-f020-5290-8364-de78d1714046"
 }

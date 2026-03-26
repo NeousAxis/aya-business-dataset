@@ -1,19 +1,11 @@
 {
   "entity_id": "955db427-1936-5d18-86b6-76159fb0e093",
   "name": "SUPSI",
-  "what_it_does": "SUPSI is the University of Applied Sciences and Arts of Southern Switzerland.",
+  "what_it_does": "SUPSI (Scuola Universitaria Professionale della Svizzera Italiana) is a university of applied sciences and arts in Southern Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Italy",
-  "keywords": [
-    "applied sciences",
-    "southern Switzerland college",
-    "higher education",
-    "professional training",
-    "research programmes",
-    "continuing education",
-    "Swiss university"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/955db427-1936-5d18-86b6-76159fb0e093"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "03279d15-0ca2-55fe-952f-2c90576c3af9",
   "name": "Withings",
-  "what_it_does": "Withings designs and sells connected health devices such as scales, watches, and blood pressure monitors.",
+  "what_it_does": "Withings manufactures and sells smart health devices such as scales and watches.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
-  "keywords": [
-    "connected health devices",
-    "smart scales",
-    "smartwatches",
-    "blood pressure monitors",
-    "health tracking",
-    "wearable technology",
-    "digital health",
-    "consumer electronics"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/03279d15-0ca2-55fe-952f-2c90576c3af9"
 }

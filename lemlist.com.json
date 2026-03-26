@@ -1,20 +1,11 @@
 {
   "entity_id": "4cd76e5d-d2ce-534c-b7dd-f784ba7ea936",
   "name": "lemlist",
-  "what_it_does": "Lemlist offers a sales automation platform for personalized outreach and email marketing.",
+  "what_it_does": "Lemlist is a sales automation platform focused on cold email outreach and personalization.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "sales automation",
-    "email prospecting",
-    "personalized outreach",
-    "cold email marketing",
-    "lead generation",
-    "sales engagement",
-    "B2B sales",
-    "outreach automation"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4cd76e5d-d2ce-534c-b7dd-f784ba7ea936"
 }

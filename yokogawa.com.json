@@ -1,20 +1,11 @@
 {
   "entity_id": "4a7ddc7b-1dbc-5baf-883c-8e8c10a1c18f",
   "name": "Yokogawa Electric Corporation",
-  "what_it_does": "Yokogawa Electric Corporation provides industrial automation and control solutions.",
+  "what_it_does": "Yokogawa provides industrial automation and control, test and measurement, and other technology solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Belgium",
-  "keywords": [
-    "industrial automation",
-    "process control",
-    "control systems",
-    "measurement instruments",
-    "automation solutions",
-    "industrial instruments",
-    "plant automation",
-    "field instruments"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a7ddc7b-1dbc-5baf-883c-8e8c10a1c18f"
 }

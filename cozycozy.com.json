@@ -1,19 +1,11 @@
 {
   "entity_id": "d593ed29-8650-55db-8738-1ac910601432",
   "name": "cozycozy.com",
-  "what_it_does": "cozycozy.com aggregates accommodation options from various travel websites to help users find the best deals.",
+  "what_it_does": "cozycozy.com is a metasearch engine for comparing vacation rentals, hotels, and other accommodations.",
   "for_who": "Businesses and professionals.",
-  "category": "Immobilier",
+  "category": "Tourisme & Transport",
   "location": "Belgium",
-  "keywords": [
-    "accommodation search",
-    "travel metasearch",
-    "vacation rentals",
-    "hotel comparison",
-    "holiday accommodation",
-    "travel planning",
-    "rental search engine"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d593ed29-8650-55db-8738-1ac910601432"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "d08425cb-87a6-5622-be56-f60489813375",
   "name": "Khadas.com",
-  "what_it_does": "Khadas designs and manufactures single-board computers and development boards.",
+  "what_it_does": "Khadas.com sells single-board computers and related accessories.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Hong Kong",
-  "keywords": [
-    "single board computers",
-    "online computer sales",
-    "electronics accessories",
-    "khadas computer",
-    "sbc boards",
-    "diy electronics",
-    "maker community",
-    "open source hardware"
-  ],
+  "keywords": [],
   "aio_score": 63.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d08425cb-87a6-5622-be56-f60489813375"
 }

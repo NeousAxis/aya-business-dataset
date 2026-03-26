@@ -1,20 +1,11 @@
 {
   "entity_id": "f4a931ac-ec06-57c7-8d21-1cf34b80aeae",
   "name": "Realtor",
-  "what_it_does": "Realtor.com is a real estate listing website providing information to home buyers, sellers, and renters.",
+  "what_it_does": "Realtor.com lists real estate properties for sale and rent.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
-  "keywords": [
-    "real estate listings",
-    "property search",
-    "home buying",
-    "home selling",
-    "rental properties",
-    "real estate market",
-    "property information",
-    "housing market"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f4a931ac-ec06-57c7-8d21-1cf34b80aeae"
 }

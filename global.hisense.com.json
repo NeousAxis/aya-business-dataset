@@ -1,20 +1,11 @@
 {
   "entity_id": "5877ea77-704a-53e5-89a3-f473ef974081",
   "name": "Hisense Global Website",
-  "what_it_does": "Hisense manufactures consumer electronics, including televisions and appliances.",
+  "what_it_does": "Hisense manufactures and sells consumer electronics and home appliances.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [
-    "televisions",
-    "home appliances",
-    "consumer electronics",
-    "TVs",
-    "refrigerators",
-    "washing machines",
-    "smart TVs",
-    "electronics manufacturing"
-  ],
+  "keywords": [],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5877ea77-704a-53e5-89a3-f473ef974081"
 }

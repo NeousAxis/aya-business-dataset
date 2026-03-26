@@ -1,19 +1,11 @@
 {
   "entity_id": "7a21366f-2b34-5ce7-bc5b-82ea26c1d7c1",
   "name": "Dropbox Sign",
-  "what_it_does": "Dropbox Sign provides electronic signature solutions for businesses.",
+  "what_it_does": "Dropbox Sign provides electronic signature services for documents.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Denmark",
-  "keywords": [
-    "electronic signature",
-    "e-signature",
-    "document workflow",
-    "digital signatures",
-    "contract management",
-    "agreement software",
-    "paperless office"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7a21366f-2b34-5ce7-bc5b-82ea26c1d7c1"
 }

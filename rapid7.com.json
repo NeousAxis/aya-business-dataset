@@ -1,20 +1,11 @@
 {
   "entity_id": "e454cc9c-f8b8-500f-b878-d1ec720278f9",
   "name": "Rapid7",
-  "what_it_does": "Rapid7 offers cybersecurity solutions, including vulnerability management and incident detection.",
+  "what_it_does": "Rapid7 provides cybersecurity solutions for vulnerability management, incident detection, and response.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "cybersecurity solutions",
-    "vulnerability management",
-    "incident detection",
-    "security analytics",
-    "Rapid7",
-    "security monitoring",
-    "penetration testing",
-    "risk management"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e454cc9c-f8b8-500f-b878-d1ec720278f9"
 }

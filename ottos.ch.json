@@ -1,18 +1,20 @@
 {
-  "entity_id": "8d4aad04-94e4-5b7c-b0fe-99849f511d0a",
-  "name": "OTTO’S",
-  "what_it_does": "OTTO’S is a Swiss retail chain of discount department stores.",
+  "entity_id": "47559f98-f172-5673-90db-f8e51c349a5f",
+  "name": "Ottos",
+  "what_it_does": "Ottos is a Swiss retail company selling a variety of products including clothing, electronics, and household goods.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
   "keywords": [
-    "Swiss media",
-    "Swiss communication",
-    "media buying",
-    "communication strategy",
-    "advertising campaigns",
-    "public relations"
+    "discount retailer",
+    "Swiss retail",
+    "consumer goods",
+    "variety store",
+    "household products",
+    "budget shopping",
+    "non-food retail",
+    "value retailer"
   ],
-  "aio_score": 47.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/8d4aad04-94e4-5b7c-b0fe-99849f511d0a"
+  "aio_score": 39.0,
+  "certificate_url": "https://ai-visionary.com/aya/e/47559f98-f172-5673-90db-f8e51c349a5f"
 }

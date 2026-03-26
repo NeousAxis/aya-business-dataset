@@ -1,19 +1,11 @@
 {
   "entity_id": "7a0df40f-3d40-5564-aa8d-022938543418",
   "name": "RTX",
-  "what_it_does": "RTX Corporation (formerly Raytheon Technologies) focuses on aerospace, defense, and intelligence.",
+  "what_it_does": "RTX Corporation (formerly Raytheon Technologies) develops and manufactures advanced technology systems and services for the aerospace and defense industries.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "aerospace",
-    "defense",
-    "intelligence",
-    "aviation",
-    "military technology",
-    "security systems",
-    "defense contractor"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7a0df40f-3d40-5564-aa8d-022938543418"
 }

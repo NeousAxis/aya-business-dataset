@@ -1,19 +1,11 @@
 {
   "entity_id": "3e2de1f5-163e-5e46-b76e-f2534c211d7a",
   "name": "BioNTech",
-  "what_it_does": "BioNTech develops immunotherapies for cancer and other diseases, including mRNA-based vaccines.",
+  "what_it_does": "BioNTech is a biotechnology company that develops and manufactures immunotherapies, including mRNA-based vaccines.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "EN",
-  "keywords": [
-    "mRNA vaccines",
-    "immunotherapies",
-    "cancer treatment",
-    "biotechnology research",
-    "drug development",
-    "vaccine production",
-    "personalized medicine"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3e2de1f5-163e-5e46-b76e-f2534c211d7a"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "82f332ce-9fc2-5a4e-b0e2-cbe8b4ab6c6c",
   "name": "Gulf Air",
-  "what_it_does": "Gulf Air is the national airline of Bahrain providing passenger and cargo air transport services.",
+  "what_it_does": "Gulf Air is the national airline of Bahrain, providing passenger and cargo transportation services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "Bahrain national airline",
-    "passenger flights",
-    "cargo transportation",
-    "Middle East aviation",
-    "international flights",
-    "air travel",
-    "aviation services"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/82f332ce-9fc2-5a4e-b0e2-cbe8b4ab6c6c"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "2dec225b-35a3-51a4-a40e-14061c3e9aa5",
   "name": "Unavailable In Your Region",
-  "what_it_does": "PeacockTV is a platform, despite the name, that facilitates real estate transactions.",
+  "what_it_does": "PeacockTV provides a streaming service offering television shows and movies.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "United States",
-  "keywords": [
-    "streaming",
-    "TV series",
-    "movies",
-    "video on demand",
-    "entertainment content",
-    "premium content",
-    "NBCUniversal"
-  ],
+  "keywords": [],
   "aio_score": 25.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2dec225b-35a3-51a4-a40e-14061c3e9aa5"
 }

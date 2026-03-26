@@ -1,19 +1,11 @@
 {
   "entity_id": "7ce6bfba-145b-5608-86f3-a31e08b1486e",
   "name": "JOKR",
-  "what_it_does": "JOKR is a rapid grocery delivery service.",
+  "what_it_does": "JOKR provides rapid grocery delivery services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [
-    "rapid grocery delivery",
-    "instant commerce",
-    "food delivery",
-    "grocery shopping",
-    "urban delivery",
-    "last-mile delivery",
-    "convenience store"
-  ],
+  "keywords": [],
   "aio_score": 66.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7ce6bfba-145b-5608-86f3-a31e08b1486e"
 }

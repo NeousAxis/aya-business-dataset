@@ -1,19 +1,11 @@
 {
   "entity_id": "2184edf5-d026-5ac3-8bce-ee12c295df89",
   "name": "Foodics",
-  "what_it_does": "Foodics provides a cloud-based point-of-sale and restaurant management system.",
+  "what_it_does": "Foodics provides a cloud-based point of sale and management system for restaurants.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "restaurant point of sale",
-    "cloud-based POS",
-    "restaurant management",
-    "food and beverage tech",
-    "restaurant technology",
-    "POS systems",
-    "hospitality software"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2184edf5-d026-5ac3-8bce-ee12c295df89"
 }

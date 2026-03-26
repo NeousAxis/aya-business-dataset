@@ -1,19 +1,11 @@
 {
   "entity_id": "f70f7514-426b-56e9-a1f8-e4ade160b96a",
   "name": "Ferienregion Lenzerheide",
-  "what_it_does": "Ferienregion Lenzerheide promotes tourism and provides information about the Lenzerheide holiday region in Switzerland.",
+  "what_it_does": "Arosa Lenzerheide promotes tourism and manages related services in the Arosa and Lenzerheide region of Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "tourisme suisse",
-    "région de lenzerheide",
-    "vacances à la montagne",
-    "sports d'hiver",
-    "randonnée",
-    "hébergement touristique",
-    "attractions touristiques"
-  ],
+  "keywords": [],
   "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f70f7514-426b-56e9-a1f8-e4ade160b96a"
 }

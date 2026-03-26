@@ -1,20 +1,11 @@
 {
   "entity_id": "20935436-0153-5fce-b13c-641cddc4324f",
   "name": "Job Search on Dice.com",
-  "what_it_does": "Dice.com is a job board focused on technology and engineering positions.",
+  "what_it_does": "Dice.com is a career website for technology and engineering professionals.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "IT jobs",
-    "engineering jobs",
-    "technology recruitment",
-    "job board",
-    "technical positions",
-    "career opportunities",
-    "developer jobs",
-    "software engineer roles"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/20935436-0153-5fce-b13c-641cddc4324f"
 }

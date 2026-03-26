@@ -1,20 +1,11 @@
 {
   "entity_id": "75247b32-49df-5fad-99eb-d6fa7a0d1c28",
   "name": "Gozem",
-  "what_it_does": "Gozem provides ride-hailing, delivery, and other on-demand services in Africa.",
+  "what_it_does": "Gozem is an e-commerce platform in Africa focused on transportation, delivery, and financial services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "ride-hailing",
-    "on-demand delivery",
-    "super app",
-    "transportation services",
-    "logistics solutions",
-    "African markets",
-    "mobile payments",
-    "e-hailing"
-  ],
+  "keywords": [],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/75247b32-49df-5fad-99eb-d6fa7a0d1c28"
 }

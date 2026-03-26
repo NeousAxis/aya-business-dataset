@@ -1,20 +1,11 @@
 {
   "entity_id": "6b557d3b-013a-562c-8ec8-e7aeaae99f5a",
   "name": "beyerdynamic",
-  "what_it_does": "beyerdynamic likely provides financial services.",
+  "what_it_does": "beyerdynamic manufactures headphones, microphones, and conference systems.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "headphones",
-    "microphones",
-    "conference systems",
-    "audio equipment",
-    "pro audio",
-    "German audio",
-    "headsets",
-    "studio equipment"
-  ],
+  "keywords": [],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6b557d3b-013a-562c-8ec8-e7aeaae99f5a"
 }

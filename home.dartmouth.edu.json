@@ -1,19 +1,11 @@
 {
   "entity_id": "415f024c-9f1c-57d5-81b7-44434d446d43",
   "name": "Dartmouth",
-  "what_it_does": "Dartmouth is a private Ivy League research university offering undergraduate and graduate programs.",
+  "what_it_does": "Dartmouth College is a private Ivy League research university offering undergraduate and graduate programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "ivy league university",
-    "higher education",
-    "liberal arts college",
-    "graduate programs",
-    "undergraduate education",
-    "research university",
-    "Hanover NH"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/415f024c-9f1c-57d5-81b7-44434d446d43"
 }

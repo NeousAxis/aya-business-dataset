@@ -1,20 +1,11 @@
 {
   "entity_id": "df099509-fdc9-557c-8c39-25e0188fd402",
   "name": "Arturia",
-  "what_it_does": "Arturia develops and sells music software and hardware synthesizers.",
-  "for_who": "Businesses and developers.",
-  "category": "Technology & SaaS",
+  "what_it_does": "Arturia develops and manufactures music software and hardware synthesizers.",
+  "for_who": "Media professionals and audiences.",
+  "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "music synthesizers",
-    "audio software",
-    "MIDI controllers",
-    "music production tools",
-    "virtual instruments",
-    "music hardware",
-    "sound design",
-    "audio engineering"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/df099509-fdc9-557c-8c39-25e0188fd402"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "d78dd83d-89fe-5aba-a344-bcb81ae202e4",
   "name": "Customer.io Platform",
-  "what_it_does": "Customer.io provides a platform for automating personalized messaging to customers.",
+  "what_it_does": "Customer.io provides a marketing automation platform for sending targeted messages to customers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "customer messaging",
-    "marketing automation",
-    "email marketing",
-    "customer engagement",
-    "behavioral targeting",
-    "personalized messaging",
-    "customer communication",
-    "email campaigns"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d78dd83d-89fe-5aba-a344-bcb81ae202e4"
 }

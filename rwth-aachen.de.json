@@ -1,20 +1,11 @@
 {
   "entity_id": "452ca312-1ee1-5657-b75d-ec7e8ea1bfa3",
   "name": "RWTH Aachen University",
-  "what_it_does": "RWTH Aachen University is a research university in Aachen, Germany.",
+  "what_it_does": "RWTH Aachen University is a public research university in Germany, specializing in engineering and technology.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Germany",
-  "keywords": [
-    "research university",
-    "higher education",
-    "engineering degrees",
-    "science programs",
-    "german university",
-    "aachen",
-    "technical studies",
-    "academic research"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/452ca312-1ee1-5657-b75d-ec7e8ea1bfa3"
 }

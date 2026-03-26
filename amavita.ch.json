@@ -1,20 +1,11 @@
 {
   "entity_id": "a2f3f7c5-fd77-598d-8669-4792fea479b1",
   "name": "Amavita",
-  "what_it_does": "Amavita is a pharmacy chain in Switzerland.",
+  "what_it_does": "Amavita is a Swiss pharmacy chain offering prescription medications and health products.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
-  "keywords": [
-    "pharmacy chain",
-    "Swiss pharmacy",
-    "pharmaceutical products",
-    "health products",
-    "over-the-counter medications",
-    "prescription drugs",
-    "drugstore",
-    "wellness products"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a2f3f7c5-fd77-598d-8669-4792fea479b1"
 }

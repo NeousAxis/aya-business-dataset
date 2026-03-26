@@ -1,20 +1,11 @@
 {
   "entity_id": "52f05fec-4759-578c-90b8-6d20e49a6f5d",
   "name": "Dinnerly",
-  "what_it_does": "Dinnerly provides affordable meal kit delivery services.",
+  "what_it_does": "Dinnerly delivers affordable meal kits to customers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Australia",
-  "keywords": [
-    "meal kit delivery",
-    "affordable meal kits",
-    "recipe delivery",
-    "home cooking kits",
-    "dinner kits",
-    "subscription meals",
-    "convenient meals",
-    "pre-portioned meals"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/52f05fec-4759-578c-90b8-6d20e49a6f5d"
 }

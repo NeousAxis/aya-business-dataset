@@ -1,19 +1,11 @@
 {
   "entity_id": "ff9ccf6e-f227-52d8-9926-874c7c96db24",
   "name": "Crowdin",
-  "what_it_does": "Crowdin is a cloud-based localization management platform for translating software and content.",
+  "what_it_does": "Crowdin offers a cloud-based localization management platform for translating software, apps, and websites.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "localization management",
-    "cloud translation",
-    "software translation",
-    "content translation",
-    "translation workflows",
-    "multilingual content",
-    "translation collaboration"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ff9ccf6e-f227-52d8-9926-874c7c96db24"
 }

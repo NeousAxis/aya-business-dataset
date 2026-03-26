@@ -1,20 +1,11 @@
 {
   "entity_id": "87bd2025-2098-5522-8fd1-be9fdabb58ef",
   "name": "Morrisons",
-  "what_it_does": "Morrisons is a British supermarket chain.",
+  "what_it_does": "Morrisons is a British supermarket chain selling groceries and general merchandise.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "supermarket chain",
-    "grocery",
-    "food retail",
-    "fresh produce",
-    "Morrisons",
-    "UK supermarket",
-    "food shopping",
-    "retail grocery"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/87bd2025-2098-5522-8fd1-be9fdabb58ef"
 }

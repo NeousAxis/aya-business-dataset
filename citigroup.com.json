@@ -1,20 +1,11 @@
 {
   "entity_id": "b0aa2730-eb35-504c-baf5-867a005298a8",
   "name": "Citi",
-  "what_it_does": "Citi provides a range of financial services including banking, credit cards, and investment management.",
+  "what_it_does": "Citigroup is a global financial services company providing banking, credit, and investment services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "global financial services",
-    "investment banking",
-    "consumer banking",
-    "corporate banking",
-    "wealth management",
-    "credit cards",
-    "financial institutions",
-    "securities trading"
-  ],
+  "keywords": [],
   "aio_score": 29.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b0aa2730-eb35-504c-baf5-867a005298a8"
 }

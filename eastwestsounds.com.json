@@ -1,20 +1,11 @@
 {
   "entity_id": "178f7599-c481-582f-aad1-4b7961cd9313",
   "name": "EastWest Sounds (soundsonline.com)",
-  "what_it_does": "EastWest Sounds produces and sells virtual instruments and sample libraries.",
+  "what_it_does": "EastWest Sounds develops and sells virtual instrument software and sound libraries for music production.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "Virtual instruments",
-    "Sound libraries",
-    "Audio samples",
-    "Music production",
-    "Software instruments",
-    "Sampled sounds",
-    "Digital audio workstation",
-    "Audio tools"
-  ],
+  "keywords": [],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/178f7599-c481-582f-aad1-4b7961cd9313"
 }

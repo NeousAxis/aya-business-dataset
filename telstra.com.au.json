@@ -1,19 +1,11 @@
 {
   "entity_id": "7c58ecc2-637c-5cd8-a058-9eb50df16d59",
   "name": "Telstra",
-  "what_it_does": "Telstra provides telecommunications services, including mobile, internet, and pay television, in Australia.",
+  "what_it_does": "Telstra is an Australian telecommunications company providing mobile, internet, and entertainment services.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Australia",
-  "keywords": [
-    "telecommunications",
-    "mobile network",
-    "internet services",
-    "media streaming",
-    "Australian telecom",
-    "fixed line services",
-    "enterprise solutions"
-  ],
+  "keywords": [],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7c58ecc2-637c-5cd8-a058-9eb50df16d59"
 }

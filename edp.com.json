@@ -1,20 +1,11 @@
 {
   "entity_id": "7487e2d1-f608-5295-be98-872ffd505285",
   "name": "Homepage EDP",
-  "what_it_does": "EDP (Energias de Portugal) is a global energy company.",
+  "what_it_does": "EDP is likely a media and communications company, possibly providing news or advertising services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "energy generation",
-    "electricity distribution",
-    "renewable energy",
-    "global energy",
-    "power utility",
-    "energy solutions",
-    "hydroelectric power",
-    "wind energy"
-  ],
+  "keywords": [],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7487e2d1-f608-5295-be98-872ffd505285"
 }

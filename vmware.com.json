@@ -1,19 +1,11 @@
 {
   "entity_id": "36c23b99-cc5c-5806-930c-11ab461ef92b",
   "name": "VMware by Broadcom",
-  "what_it_does": "VMware by Broadcom provides virtualization and cloud computing software and services.",
+  "what_it_does": "VMware, now part of Broadcom, provides virtualization and cloud computing infrastructure software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "virtualization",
-    "cloud computing",
-    "data center ",
-    "server ",
-    "network virtualization",
-    "multi-cloud ",
-    "application modernization"
-  ],
+  "keywords": [],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/36c23b99-cc5c-5806-930c-11ab461ef92b"
 }

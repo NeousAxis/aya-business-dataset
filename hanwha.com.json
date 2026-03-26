@@ -1,20 +1,11 @@
 {
   "entity_id": "aeab4508-5039-5005-81a1-b58f586407bc",
   "name": "Hanwha Group",
-  "what_it_does": "Hanwha Group is a South Korean conglomerate involved in various industries including aerospace, chemicals, finance, and construction.",
+  "what_it_does": "Hanwha Group is a South Korean conglomerate involved in manufacturing, construction, finance, and other industries.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "aerospace",
-    "chemicals",
-    "finance",
-    "manufacturing",
-    "solar energy",
-    "defense",
-    "south korea",
-    "industrial conglomerate"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aeab4508-5039-5005-81a1-b58f586407bc"
 }

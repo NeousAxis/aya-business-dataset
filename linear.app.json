@@ -1,20 +1,11 @@
 {
   "entity_id": "b87e0fe0-1fab-5648-affa-89feba1f1b9d",
   "name": "Linear",
-  "what_it_does": "Linear is a project management tool designed for software development teams.",
+  "what_it_does": "Linear offers an issue tracking and project management tool for software development teams.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "project tool",
-    "issue tracking",
-    "software teams",
-    "development workflow",
-    "project management",
-    "sprint planning",
-    "bug tracking",
-    "team collaboration"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b87e0fe0-1fab-5648-affa-89feba1f1b9d"
 }

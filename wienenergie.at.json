@@ -1,19 +1,11 @@
 {
   "entity_id": "71032c79-96c7-51cf-a825-c212ad99d17c",
-  "name": "Wien Energie",
-  "what_it_does": "Wien Energie is likely an energy provider in Vienna, Austria providing public transport services.",
+  "name": "Wien Energie » Angebote zu Strom, Gas & Fernwärme",
+  "what_it_does": "Wien Energie supplies electricity, gas, and district heating in Vienna, Austria.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Austria",
-  "keywords": [
-    "energy provider",
-    "vienna energy",
-    "austrian energy",
-    "electricity supply",
-    "heating solutions",
-    "renewable energy",
-    "energy services"
-  ],
+  "keywords": [],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/71032c79-96c7-51cf-a825-c212ad99d17c"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "e5d6a92b-40ee-5d3c-875d-938969465676",
   "name": "mBank SA in Polen",
-  "what_it_does": "mBank SA, a subsidiary of Commerzbank, is a Polish bank offering retail, corporate, and investment banking services.",
+  "what_it_does": "mBank is a Polish retail and commercial bank, part of the Commerzbank group.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Poland",
-  "keywords": [
-    "Polish bank",
-    "retail banking",
-    "corporate banking",
-    "investment banking",
-    "financial ",
-    "Polish financial ",
-    "SME banking",
-    "Commerzbank subsidiary"
-  ],
+  "keywords": [],
   "aio_score": 25.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e5d6a92b-40ee-5d3c-875d-938969465676"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "adfbdcbb-5c0c-5919-a63b-a8db0bb6ec75",
   "name": "Mode & Beauty online kaufen :: BREUNINGER",
-  "what_it_does": "Breuninger is a German department store chain selling fashion, beauty, and lifestyle products.",
-  "for_who": "Businesses and professionals.",
-  "category": "Luxe & Mode",
+  "what_it_does": "Breuninger.com is a German department store selling fashion and beauty products online.",
+  "for_who": "Students, educators, and institutions.",
+  "category": "Education & Training",
   "location": "Germany",
-  "keywords": [
-    "fashion retail",
-    "beauty products",
-    "luxury fashion",
-    "online fashion",
-    "department store",
-    "designer clothing",
-    "style products",
-    "premium fashion"
-  ],
+  "keywords": [],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/adfbdcbb-5c0c-5919-a63b-a8db0bb6ec75"
 }

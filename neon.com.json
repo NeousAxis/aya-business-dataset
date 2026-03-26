@@ -1,20 +1,11 @@
 {
   "entity_id": "6fd91e73-5fdd-51e5-b1a0-2117ad41e03b",
   "name": "Neon Serverless Postgres",
-  "what_it_does": "Neon provides a serverless Postgres database platform.",
+  "what_it_does": "Neon Serverless Postgres offers a serverless Postgres database platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "serverless database",
-    "Postgres database",
-    "cloud database",
-    "scalable database",
-    "managed Postgres",
-    "database as a service",
-    "Postgres cloud",
-    "pay-as-you-go database"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6fd91e73-5fdd-51e5-b1a0-2117ad41e03b"
 }

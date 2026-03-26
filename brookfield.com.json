@@ -1,20 +1,11 @@
 {
   "entity_id": "84dcf0e5-a1d6-5fdf-9274-009f4ba12ce7",
   "name": "Brookfield",
-  "what_it_does": "Brookfield is likely a media company operating in Brazil.",
+  "what_it_does": "Brookfield (BR) likely provides media and communication services in Brazil.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Brazil",
-  "keywords": [
-    "asset management",
-    "real estate investments",
-    "infrastructure investments",
-    "renewable energy investments",
-    "private equity",
-    "alternative investments",
-    "property management",
-    "global investments"
-  ],
+  "keywords": [],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/84dcf0e5-a1d6-5fdf-9274-009f4ba12ce7"
 }

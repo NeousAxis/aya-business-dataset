@@ -1,20 +1,11 @@
 {
   "entity_id": "663bb896-02ea-5f3b-878b-f95e2ddf82ad",
   "name": "Pearson",
-  "what_it_does": "Pearson provides educational content, assessment tools, and services to schools, universities, and professionals.",
+  "what_it_does": "Pearson is a global education company providing educational materials, assessments, and services.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "educational content",
-    "textbooks",
-    "assessment tools",
-    "learning resources",
-    "higher education",
-    "k-12 education",
-    "professional training",
-    "academic publishing"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/663bb896-02ea-5f3b-878b-f95e2ddf82ad"
 }

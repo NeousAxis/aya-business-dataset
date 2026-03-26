@@ -1,20 +1,11 @@
 {
   "entity_id": "37d34be3-945c-545e-9c3f-5401724f46c5",
   "name": "Money Fellows",
-  "what_it_does": "Money Fellows is a rotating savings and credit association (ROSCA) platform.",
+  "what_it_does": "Money Fellows provides a mobile platform for rotating savings and credit associations (ROSCA) or \"money circles\".",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "rotating savings",
-    "credit associations",
-    "ROSCA",
-    "digital finance",
-    "microfinance",
-    "group lending",
-    "savings pools",
-    "financial inclusion"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/37d34be3-945c-545e-9c3f-5401724f46c5"
 }

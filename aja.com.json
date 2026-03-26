@@ -1,17 +1,11 @@
 {
   "entity_id": "d1cf041e-1a26-5819-9701-9c4546f406f2",
   "name": "Aja",
-  "what_it_does": "Aja manufactures video capture, recording, and streaming solutions for broadcast and post-production.",
+  "what_it_does": "AJA Video Systems manufactures professional video and audio input/output devices for broadcast and post-production.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "video capture",
-    "video recording",
-    "video streaming",
-    "broadcast",
-    "post-production"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d1cf041e-1a26-5819-9701-9c4546f406f2"
 }

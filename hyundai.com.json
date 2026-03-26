@@ -1,20 +1,11 @@
 {
   "entity_id": "bc7fae74-4023-5ab1-90b9-b59ab9fa2ecb",
   "name": "Hyundai Switzerland",
-  "what_it_does": "Hyundai Switzerland distributes and sells Hyundai vehicles in Switzerland.",
+  "what_it_does": "Hyundai Switzerland sells and services Hyundai vehicles in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Switzerland",
-  "keywords": [
-    "Hyundai vehicles",
-    "car sales",
-    "automotive retail",
-    "vehicle distribution",
-    "Swiss automotive",
-    "passenger vehicles",
-    "electric vehicles",
-    "Switzerland car sales"
-  ],
+  "keywords": [],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bc7fae74-4023-5ab1-90b9-b59ab9fa2ecb"
 }

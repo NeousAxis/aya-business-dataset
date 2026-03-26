@@ -1,19 +1,11 @@
 {
   "entity_id": "02e06601-df53-54a9-ac2e-7c15289991dc",
   "name": "Rice",
-  "what_it_does": "Rice University is a private research university located in Houston, Texas.",
+  "what_it_does": "Rice University is a private research university offering undergraduate and graduate programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "Texas university",
-    "higher education",
-    "research university",
-    "Houston education",
-    "private university",
-    "undergraduate studies",
-    "graduate programs"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/02e06601-df53-54a9-ac2e-7c15289991dc"
 }

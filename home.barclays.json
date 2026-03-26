@@ -1,20 +1,11 @@
 {
   "entity_id": "06ab8d80-53c3-5298-9a51-fdaaf0447e56",
   "name": "Barclays",
-  "what_it_does": "Barclays is a global financial services company offering retail, corporate, and investment banking services.",
+  "what_it_does": "Barclays is a global financial services company offering banking, investment, and wealth management products.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "financial ",
-    "banking",
-    "retail banking",
-    "corporate banking",
-    "investment banking",
-    "personal finance",
-    "mortgages",
-    "loans"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/06ab8d80-53c3-5298-9a51-fdaaf0447e56"
 }

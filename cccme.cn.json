@@ -1,19 +1,11 @@
 {
   "entity_id": "3709a93c-167d-532b-aa35-f6cc43441518",
   "name": "CCCME",
-  "what_it_does": "CCCME is the China Chamber of Commerce for Machinery and Electronic Products Import and Export.",
+  "what_it_does": "CCCME is the China Chamber of Commerce for Import and Export of Machinery and Electronic Products.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "China",
-  "keywords": [
-    "mechanical products",
-    "electronic products",
-    "Chinese trade",
-    "import",
-    "export",
-    "machinery",
-    "international commerce"
-  ],
+  "keywords": [],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3709a93c-167d-532b-aa35-f6cc43441518"
 }

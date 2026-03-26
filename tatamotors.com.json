@@ -1,20 +1,11 @@
 {
   "entity_id": "a4b774fc-dff3-5ebe-950a-87a7d29c8baa",
   "name": "Tata Motors",
-  "what_it_does": "Tata Motors manufactures passenger and commercial vehicles.",
+  "what_it_does": "Tata Motors manufactures automobiles, including passenger vehicles and commercial vehicles.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "automobiles",
-    "passenger vehicles",
-    "commercial vehicles",
-    "trucks",
-    "buses",
-    "indian automotive",
-    "vehicle manufacturing",
-    "automotive engineering"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a4b774fc-dff3-5ebe-950a-87a7d29c8baa"
 }

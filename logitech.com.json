@@ -1,19 +1,11 @@
 {
   "entity_id": "da62a04d-f566-5c49-82da-cb647154bccc",
   "name": "Logitech",
-  "what_it_does": "Logitech designs and manufactures computer peripherals and software.",
+  "what_it_does": "Logitech designs and manufactures computer peripherals and accessories such as mice, keyboards, and webcams.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "computer peripherals",
-    "PC accessories",
-    "keyboards",
-    "mice",
-    "webcams",
-    "audio equipment",
-    "gaming peripherals"
-  ],
+  "keywords": [],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/da62a04d-f566-5c49-82da-cb647154bccc"
 }

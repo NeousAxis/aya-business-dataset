@@ -1,19 +1,11 @@
 {
   "entity_id": "617e49ea-1835-583b-b7a4-8641a9fd1276",
   "name": "Pitch",
-  "what_it_does": "Pitch provides a collaborative presentation software platform.",
+  "what_it_does": "Pitch is a collaborative presentation software platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "presentation creation",
-    "collaborative presentation",
-    "presentation design",
-    "pitch decks",
-    "presentation software",
-    "team presentations",
-    "slide design"
-  ],
+  "keywords": [],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/617e49ea-1835-583b-b7a4-8641a9fd1276"
 }

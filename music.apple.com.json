@@ -1,20 +1,11 @@
 {
   "entity_id": "1a160972-d2de-5ee7-bbcb-6cfb033f6e35",
   "name": "Apple Music",
-  "what_it_does": "Apple Music provides a subscription-based music streaming service.",
+  "what_it_does": "Apple Music is a subscription-based music streaming service.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "United States",
-  "keywords": [
-    "music streaming",
-    "subscription music",
-    "audio entertainment",
-    "music playlists",
-    "digital music",
-    "audio streaming",
-    "music service",
-    "on-demand music"
-  ],
+  "keywords": [],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1a160972-d2de-5ee7-bbcb-6cfb033f6e35"
 }

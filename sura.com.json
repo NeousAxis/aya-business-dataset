@@ -1,19 +1,11 @@
 {
   "entity_id": "948393e7-81d6-5908-b383-c305e4ab395a",
   "name": "Home regional de SURA",
-  "what_it_does": "SURA likely offers financial services, such as insurance and investment products, within Latin America.",
+  "what_it_does": "SURA offers financial services, including insurance, asset management, and pensions, in Latin America.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "investment management",
-    "asset management",
-    "insurance products",
-    "financial security",
-    "retirement planning",
-    "risk management",
-    "Latin America finance"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/948393e7-81d6-5908-b383-c305e4ab395a"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "8bd67b0f-d54e-5a25-af11-03a84e1e01cb",
   "name": "The Hindu",
-  "what_it_does": "The Hindu is an English-language Indian newspaper.",
+  "what_it_does": "The Hindu is an Indian English-language daily newspaper.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "Indian newspaper",
-    "English-language newspaper",
-    "daily news",
-    "Indian news",
-    "national news",
-    "international news",
-    "political reporting",
-    "business news"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8bd67b0f-d54e-5a25-af11-03a84e1e01cb"
 }

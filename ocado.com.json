@@ -1,17 +1,11 @@
 {
   "entity_id": "5470e069-2e28-5aff-a970-971d253481eb",
   "name": "Ocado",
-  "what_it_does": "Ocado is an online supermarket that utilizes advanced robotics and automation in its warehouses.",
+  "what_it_does": "Ocado is an online supermarket operating with advanced warehousing and logistics technology.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "online grocery",
-    "robotics",
-    "warehouse automation",
-    "e-commerce",
-    "supermarket"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5470e069-2e28-5aff-a970-971d253481eb"
 }

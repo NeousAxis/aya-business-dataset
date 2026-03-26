@@ -1,20 +1,11 @@
 {
   "entity_id": "4f0e1a69-1f1e-596b-bcd3-c57ed3949503",
   "name": "Groupe coopératif sucrier français",
-  "what_it_does": "Tereos is a French cooperative that produces and processes sugar, alcohol, and starch.",
+  "what_it_does": "Tereos is a French cooperative that processes and sells sugar, alcohol and starch.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "sugar production",
-    "alcohol manufacturing",
-    "starch processing",
-    "agricultural cooperative",
-    "French agriculture",
-    "bioethanol",
-    "sweeteners",
-    "crop processing"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4f0e1a69-1f1e-596b-bcd3-c57ed3949503"
 }

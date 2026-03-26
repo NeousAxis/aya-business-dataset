@@ -1,20 +1,11 @@
 {
   "entity_id": "b3d7bacd-7abe-595d-a404-0cb9700c640f",
   "name": "Sodexo Group",
-  "what_it_does": "Sodexo Group provides food and facilities management services.",
+  "what_it_does": "Sodexo provides food and facilities management services.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "food services",
-    "facility management",
-    "catering",
-    "on-site services",
-    "employee benefits",
-    "healthcare support",
-    "remote site management",
-    "integrated facilities"
-  ],
+  "keywords": [],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b3d7bacd-7abe-595d-a404-0cb9700c640f"
 }

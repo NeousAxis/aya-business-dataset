@@ -1,20 +1,11 @@
 {
   "entity_id": "c58a4111-6530-5055-9f98-3651f0ce6bf6",
   "name": "Hulu",
-  "what_it_does": "Hulu is a streaming service providing on-demand video content.",
+  "what_it_does": "Hulu is a streaming service offering a variety of television shows and movies.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [
-    "video streaming",
-    "on-demand video",
-    "subscription video",
-    "movie streaming",
-    "TV shows",
-    "entertainment ",
-    "OTT content",
-    "streaming media"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c58a4111-6530-5055-9f98-3651f0ce6bf6"
 }

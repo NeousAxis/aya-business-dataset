@@ -1,20 +1,11 @@
 {
   "entity_id": "74076ae3-f7b0-5ae3-84df-31a93bf7c7bd",
   "name": "Intel Inside",
-  "what_it_does": "Intel promotes their computer processors and related technologies.",
+  "what_it_does": "Intel Inside Germany promotes and sells Intel's processors and technology solutions to German customers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [
-    "processeurs",
-    "CPU",
-    "unités centrales",
-    "semi-conducteurs",
-    "technologie informatique",
-    "microprocesseurs",
-    "calculateurs",
-    "cartes mères"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/74076ae3-f7b0-5ae3-84df-31a93bf7c7bd"
 }

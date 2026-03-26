@@ -1,17 +1,11 @@
 {
   "entity_id": "a8db4b68-9853-551e-a713-a1560f41873c",
   "name": "Leading Software for Nonprofits and Education",
-  "what_it_does": "Blackbaud provides cloud software, services, and expertise to nonprofits and educational institutions.",
+  "what_it_does": "Blackbaud develops software solutions for nonprofits, educational institutions, and foundations.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
-  "keywords": [
-    "nonprofit software",
-    "education software",
-    "CRM",
-    "fundraising",
-    "student information systems"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a8db4b68-9853-551e-a713-a1560f41873c"
 }

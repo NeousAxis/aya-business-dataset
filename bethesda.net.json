@@ -1,20 +1,11 @@
 {
   "entity_id": "204b9c69-e30b-5e12-892e-9cb274bcc63a",
   "name": "Bethesda.net",
-  "what_it_does": "Bethesda.net is a platform for playing and managing Bethesda Softworks video games.",
+  "what_it_does": "Bethesda.net publishes video games like Fallout and Elder Scrolls.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "video game",
-    "game publishing",
-    "PC games",
-    "console games",
-    "game community",
-    "game downloads",
-    "Bethesda games",
-    "online game access"
-  ],
+  "keywords": [],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/204b9c69-e30b-5e12-892e-9cb274bcc63a"
 }

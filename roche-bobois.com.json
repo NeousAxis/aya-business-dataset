@@ -1,20 +1,11 @@
 {
   "entity_id": "13fb03e5-0c3c-5ec5-a23d-b450cd221ba2",
   "name": "Roche Bobois",
-  "what_it_does": "Roche Bobois is a high-end furniture retailer.",
+  "what_it_does": "Roche Bobois designs, manufactures, and distributes high-end furniture.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [
-    "luxury furniture",
-    "high-end furniture",
-    "furniture retailer",
-    "contemporary furniture",
-    "designer furniture",
-    "home furnishings",
-    "modern furniture",
-    "furniture showrooms"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/13fb03e5-0c3c-5ec5-a23d-b450cd221ba2"
 }

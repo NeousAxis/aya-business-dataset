@@ -1,19 +1,11 @@
 {
   "entity_id": "d222b068-b862-5783-a978-819bf9830770",
   "name": "Scout24 -",
-  "what_it_does": "Scout24 likely operates online marketplaces for real estate and/or automobiles.",
+  "what_it_does": "Scout24 operates online marketplaces for real estate and automobiles.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "immobilienportale",
-    "automobilportale",
-    "online-marktplätze",
-    "immobilienanzeigen",
-    "fahrzeuganzeigen",
-    "deutschland",
-    "scout24"
-  ],
+  "keywords": [],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d222b068-b862-5783-a978-819bf9830770"
 }

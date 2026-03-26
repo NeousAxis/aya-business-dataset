@@ -1,20 +1,11 @@
 {
   "entity_id": "d6c0026c-7381-52c0-9fd8-21287940ddd7",
   "name": "CaixaBank",
-  "what_it_does": "CaixaBank is a Spanish financial services company offering banking products and services.",
+  "what_it_does": "CaixaBank is a Spanish financial institution offering banking and insurance services.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Spain",
-  "keywords": [
-    "retail banking",
-    "financial products",
-    "insurance products",
-    "Spanish banking",
-    "banking services",
-    "consumer banking",
-    "loan products",
-    "investment products"
-  ],
+  "keywords": [],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6c0026c-7381-52c0-9fd8-21287940ddd7"
 }

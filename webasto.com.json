@@ -1,18 +1,11 @@
 {
   "entity_id": "27169f2e-1c87-5836-ba6a-c5d068cf372b",
   "name": "Webasto",
-  "what_it_does": "Webasto develops and manufactures automotive roof systems, heating, and cooling systems.",
+  "what_it_does": "Webasto develops and manufactures automotive roof and heating systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "automotive",
-    "roof systems",
-    "heating systems",
-    "cooling systems",
-    "auto industry",
-    "vehicle climate control"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/27169f2e-1c87-5836-ba6a-c5d068cf372b"
 }

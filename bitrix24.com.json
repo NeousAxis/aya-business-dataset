@@ -1,20 +1,11 @@
 {
   "entity_id": "42346890-4893-5191-8968-27867ec4de78",
   "name": "Alaio Inc.",
-  "what_it_does": "Alaio Inc. offers Bitrix24, a collaboration platform with tools like CRM, project management, and communication features.",
+  "what_it_does": "Bitrix24 provides a suite of online collaboration, project management, and CRM tools.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "CRM",
-    "project collaboration",
-    "task management",
-    "internal communication",
-    "lead management",
-    "automation tools",
-    "team collaboration",
-    "SaaS collaboration"
-  ],
+  "keywords": [],
   "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/42346890-4893-5191-8968-27867ec4de78"
 }

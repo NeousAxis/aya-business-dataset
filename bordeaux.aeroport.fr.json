@@ -1,19 +1,11 @@
 {
   "entity_id": "dcaef62c-b893-559e-9eb5-61c0f12038fd",
   "name": "Page d'accueil passagers",
-  "what_it_does": "Bordeaux Airport provides information and services related to flights and passenger travel at the Bordeaux Airport.",
+  "what_it_does": "Bordeaux Airport provides flight information and airport services for passengers.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
-  "keywords": [
-    "airport services",
-    "flight information",
-    "passenger services",
-    "bordeaux airport",
-    "travel information",
-    "airport transportation",
-    "flights schedule"
-  ],
+  "keywords": [],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dcaef62c-b893-559e-9eb5-61c0f12038fd"
 }

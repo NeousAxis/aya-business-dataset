@@ -1,20 +1,11 @@
 {
   "entity_id": "b92e21ab-03e9-51ec-b4e4-38dff69c6165",
   "name": "Knight Frank",
-  "what_it_does": "Knight Frank is a global real estate consultancy providing property services.",
+  "what_it_does": "Knight Frank provides residential and commercial property consultancy services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "commercial real estate",
-    "property valuation",
-    "real estate advisory",
-    "global property market",
-    "property sales",
-    "real estate investment",
-    "property management",
-    "real estate consulting"
-  ],
+  "keywords": [],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b92e21ab-03e9-51ec-b4e4-38dff69c6165"
 }

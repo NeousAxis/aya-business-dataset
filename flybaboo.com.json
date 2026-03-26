@@ -1,20 +1,11 @@
 {
   "entity_id": "db4ea2a0-7dfc-50b8-99a7-d328fc3c98cd",
   "name": "FlyBaboo",
-  "what_it_does": "FlyBaboo appears to have been a defunct airline providing air travel services (domain parked).",
+  "what_it_does": "FlyBaboo was a regional airline operating in Switzerland before going out of business.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "regional airline",
-    "air transportation",
-    "flight routes",
-    "passenger flights",
-    "aviation",
-    "scheduled flights",
-    "regional travel",
-    "air travel"
-  ],
+  "keywords": [],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/db4ea2a0-7dfc-50b8-99a7-d328fc3c98cd"
 }

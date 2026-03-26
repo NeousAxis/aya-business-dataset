@@ -1,20 +1,11 @@
 {
   "entity_id": "b47683b9-cf0f-5087-853d-91616a71f889",
   "name": "BASF",
-  "what_it_does": "BASF is a chemical company that produces a wide range of products.",
+  "what_it_does": "BASF is a chemical company that produces a wide variety of products, including chemicals, plastics, and agricultural solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "chemical products",
-    "industrial chemicals",
-    "agricultural solutions",
-    "performance products",
-    "chemical intermediates",
-    "coatings",
-    "catalysts",
-    "petrochemicals"
-  ],
+  "keywords": [],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b47683b9-cf0f-5087-853d-91616a71f889"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "1884d4c7-121e-5eaa-956a-b0546a3ecc8d",
   "name": "Dynamite Jobs",
-  "what_it_does": "Dynamite Jobs is a job board specializing in remote positions.",
+  "what_it_does": "Dynamite Jobs is a job board specializing in remote and distributed technology roles.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "remote jobs",
-    "remote careers",
-    "remote hiring",
-    "remote job board",
-    "telecommuting positions",
-    "distributed teams",
-    "work from home",
-    "location independent"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1884d4c7-121e-5eaa-956a-b0546a3ecc8d"
 }

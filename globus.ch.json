@@ -1,19 +1,11 @@
 {
   "entity_id": "83e2e183-ef4b-5e52-829b-33522a573d0f",
   "name": "Globus",
-  "what_it_does": "Globus is a Swiss department store chain selling a variety of goods, including food and clothing.",
+  "what_it_does": "Globus Switzerland operates a chain of department stores and restaurants selling food and non-food products.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Switzerland",
-  "keywords": [
-    "swiss department store",
-    "luxury goods",
-    "food retail",
-    "clothing retail",
-    "consumer goods",
-    "premium brands",
-    "department store chain"
-  ],
+  "keywords": [],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/83e2e183-ef4b-5e52-829b-33522a573d0f"
 }

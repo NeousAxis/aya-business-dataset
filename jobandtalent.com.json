@@ -1,20 +1,11 @@
 {
   "entity_id": "0b3eb8ac-2b5e-56f2-9b9f-d28a8632d3bd",
   "name": "Job&Talent US",
-  "what_it_does": "Job&Talent US is a staffing platform that matches temporary workers with companies.",
+  "what_it_does": "Job&Talent is a staffing platform that connects workers with temporary job opportunities.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Portugal",
-  "keywords": [
-    "temporary staffing",
-    "recruitment",
-    "hourly workers",
-    "gig economy",
-    "blue-collar jobs",
-    "staffing marketplace",
-    "US employment",
-    "temp agencies"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0b3eb8ac-2b5e-56f2-9b9f-d28a8632d3bd"
 }

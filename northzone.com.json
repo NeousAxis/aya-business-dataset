@@ -1,20 +1,11 @@
 {
   "entity_id": "4991e26f-fb13-5e29-b235-953f0616244d",
   "name": "Northzone multi-stage venture capital fund",
-  "what_it_does": "Northzone is a venture capital firm that invests in early-stage technology companies.",
+  "what_it_does": "Northzone invests in early-stage technology companies across Europe and the US.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "venture capital",
-    "early-stage investments",
-    "technology startups",
-    "Nordic funding",
-    "European investments",
-    "seed funding",
-    "growth equity",
-    "Series A funding"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4991e26f-fb13-5e29-b235-953f0616244d"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "1af65695-33ee-5f01-9462-af8a1314df29",
   "name": "Servier",
-  "what_it_does": "Servier is a global pharmaceutical company researching, developing, and distributing prescription medications.",
+  "what_it_does": "Servier is a pharmaceutical company.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "pharmaceuticals",
-    "drug research",
-    "medicine development",
-    "prescription drugs",
-    "healthcare",
-    "pharmaceutical research",
-    "therapeutic",
-    "drug distribution"
-  ],
+  "keywords": [],
   "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1af65695-33ee-5f01-9462-af8a1314df29"
 }

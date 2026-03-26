@@ -1,20 +1,11 @@
 {
   "entity_id": "0776a044-892b-507e-8bd6-c22f05bcf8b5",
   "name": "Doctolib",
-  "what_it_does": "Doctolib is an online booking platform for medical appointments.",
+  "what_it_does": "Doctolib is a platform for online appointment booking and management for healthcare professionals and patients.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "medical appointments",
-    "doctor booking",
-    "appointment scheduling",
-    "healthcare",
-    "patient management",
-    "France",
-    "online booking",
-    "medical professionals"
-  ],
-  "aio_score": 29.0,
+  "keywords": [],
+  "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0776a044-892b-507e-8bd6-c22f05bcf8b5"
 }

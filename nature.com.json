@@ -1,20 +1,11 @@
 {
   "entity_id": "4d36d000-afae-5f9d-bec7-9b89963f7bc0",
   "name": "Nature",
-  "what_it_does": "Nature publishes peer-reviewed scientific research papers and related news and commentary.",
+  "what_it_does": "Nature publishes peer-reviewed scientific research and news.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "wissenschaftliche-zeitschriften",
-    "naturwissenschaften",
-    "forschungsergebnisse",
-    "wissenschaftliche-publikationen",
-    "wissenschaftsjournalismus",
-    "nature",
-    "wissenschaft",
-    "forschungsberichte"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4d36d000-afae-5f9d-bec7-9b89963f7bc0"
 }

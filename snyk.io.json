@@ -1,20 +1,11 @@
 {
   "entity_id": "6db32ee1-a39d-5a57-834c-54011185e876",
   "name": "Snyk",
-  "what_it_does": "Snyk provides a developer security platform to identify and fix vulnerabilities in code.",
+  "what_it_does": "Snyk provides a developer security platform that helps find and fix vulnerabilities in code.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [
-    "developer security",
-    "vulnerability scanning",
-    "code analysis",
-    "security platform",
-    "open source security",
-    "application security",
-    "cloud security",
-    "SaaS security"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6db32ee1-a39d-5a57-834c-54011185e876"
 }

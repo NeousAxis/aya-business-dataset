@@ -1,19 +1,11 @@
 {
   "entity_id": "27dcb212-3df9-5756-a45e-bdee9d152acd",
   "name": "Flexport",
-  "what_it_does": "Flexport is a platform providing technology and services for global freight forwarding and logistics.",
+  "what_it_does": "Flexport provides a platform for global freight forwarding and logistics.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "freight forwarding",
-    "global logistics",
-    "supply chain",
-    "shipping",
-    "import-export",
-    "cargo transport",
-    "freight visibility"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/27dcb212-3df9-5756-a45e-bdee9d152acd"
 }

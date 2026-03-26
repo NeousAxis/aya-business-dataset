@@ -1,18 +1,11 @@
 {
   "entity_id": "4b80b555-9266-5432-9b1c-29dbd3ff696c",
   "name": "Travis CI",
-  "what_it_does": "Travis CI provides a continuous integration service for software development.",
+  "what_it_does": "Travis CI is a continuous integration service used for building and testing software projects.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "continuous integration",
-    "CI/CD",
-    "software development",
-    "build automation",
-    "testing automation",
-    "code integration"
-  ],
+  "keywords": [],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4b80b555-9266-5432-9b1c-29dbd3ff696c"
 }

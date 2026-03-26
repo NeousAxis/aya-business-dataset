@@ -1,20 +1,11 @@
 {
   "entity_id": "8a2bbc59-1466-5d55-ba16-8b442b38ed93",
   "name": "Virginia Lottery",
-  "what_it_does": "The Virginia Lottery sells lottery tickets online and in retail locations.",
+  "what_it_does": "The Virginia Lottery sells lottery tickets and related merchandise online and at retail locations in Virginia.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "Virginia lottery",
-    "lotto games",
-    "scratchers",
-    "lottery results",
-    "online lottery",
-    "state lottery",
-    "powerball",
-    "mega millions"
-  ],
+  "keywords": [],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8a2bbc59-1466-5d55-ba16-8b442b38ed93"
 }

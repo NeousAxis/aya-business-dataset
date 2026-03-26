@@ -1,19 +1,11 @@
 {
   "entity_id": "3ee1b7d4-203e-5035-8892-5a9f0e523684",
   "name": "Verbier",
-  "what_it_does": "Verbier is a Swiss resort town offering tourism and transportation services.",
+  "what_it_does": "Verbier is a village and major ski resort in the Swiss Alps.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss tourism",
-    "ski resort",
-    "mountain resort",
-    "travel services",
-    "transportation services",
-    "Verbier Switzerland",
-    "holiday destination"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3ee1b7d4-203e-5035-8892-5a9f0e523684"
 }

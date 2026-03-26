@@ -1,20 +1,11 @@
 {
   "entity_id": "eae3c000-b942-5801-b91e-55869d2c2d52",
   "name": "Radio France",
-  "what_it_does": "Radio France is the French public service radio broadcaster.",
+  "what_it_does": "Radio France is a French public service radio broadcaster operating multiple national and local radio stations.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "French radio",
-    "public radio",
-    "radio broadcasting",
-    "news radio",
-    "cultural radio",
-    "Radio France",
-    "French audio",
-    "radio programs"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eae3c000-b942-5801-b91e-55869d2c2d52"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "84b6b711-a529-5613-a23d-60f1b6a29e9e",
   "name": "Airbyte",
-  "what_it_does": "Airbyte provides an open-source data integration platform for syncing data from various sources to data warehouses.",
+  "what_it_does": "Airbyte provides an open-source data integration platform for building and managing data pipelines.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "data integration",
-    "open source data",
-    "data synchronization",
-    "ETL",
-    "ELT",
-    "data pipelines",
-    "data replication",
-    "cloud data"
-  ],
+  "keywords": [],
   "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/84b6b711-a529-5613-a23d-60f1b6a29e9e"
 }

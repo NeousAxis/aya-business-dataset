@@ -1,20 +1,11 @@
 {
   "entity_id": "82348204-3fb8-5085-b2bd-598636c92c2e",
   "name": "The Atlantic",
-  "what_it_does": "The Atlantic is a magazine and website publishing articles on politics, culture, and current events.",
+  "what_it_does": "The Atlantic publishes a magazine and website featuring journalism, essays, and cultural commentary.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "news magazine",
-    "political commentary",
-    "cultural analysis",
-    "current affairs",
-    "journalism",
-    "longform articles",
-    "online publishing",
-    "investigative reporting"
-  ],
+  "keywords": [],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/82348204-3fb8-5085-b2bd-598636c92c2e"
 }

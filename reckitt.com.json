@@ -1,20 +1,11 @@
 {
   "entity_id": "82d0a3c2-21b1-5a50-b900-05124a10d31a",
   "name": "Reckitt.com",
-  "what_it_does": "Reckitt manufactures and sells health, hygiene, and nutrition products.",
-  "for_who": "Businesses and developers.",
-  "category": "Technology & SaaS",
-  "location": "United States",
-  "keywords": [
-    "consumer health",
-    "hygiene products",
-    "nutrition products",
-    "household products",
-    "OTC medicines",
-    "personal care",
-    "health hygiene",
-    "infant formula"
-  ],
-  "aio_score": 61.0,
+  "what_it_does": "Reckitt.com likely provides educational and training resources related to health and hygiene (inferred from Reckitt Benckiser).",
+  "for_who": "Students, educators, and institutions.",
+  "category": "Education & Training",
+  "location": "Global",
+  "keywords": [],
+  "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/82d0a3c2-21b1-5a50-b900-05124a10d31a"
 }

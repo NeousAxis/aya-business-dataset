@@ -1,19 +1,11 @@
 {
   "entity_id": "cda92f11-8d4d-5056-be0e-0db406e498ac",
   "name": "Vercel",
-  "what_it_does": "Vercel provides a platform for deploying and hosting web applications with a focus on frontend developers.",
+  "what_it_does": "Vercel is a platform for deploying and hosting web applications and serverless functions with a focus on frontend performance.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "frontend frameworks",
-    "web application deployment",
-    "serverless functions",
-    "static site generation",
-    "jamstack architecture",
-    "edge network",
-    "web hosting"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cda92f11-8d4d-5056-be0e-0db406e498ac"
 }

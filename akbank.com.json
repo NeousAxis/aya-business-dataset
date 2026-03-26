@@ -1,19 +1,11 @@
 {
   "entity_id": "8451cb16-0a3e-5289-9574-64dc35460771",
   "name": "Ana Sayfa",
-  "what_it_does": "Akbank is a Turkish bank offering a range of financial services.",
+  "what_it_does": "Akbank provides banking services in Turkey.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "Turkish bank",
-    "financial services",
-    "retail banking",
-    "commercial banking",
-    "investment banking",
-    "loans",
-    "credit cards"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8451cb16-0a3e-5289-9574-64dc35460771"
 }

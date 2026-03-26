@@ -1,20 +1,11 @@
 {
   "entity_id": "8658f46f-0265-5519-8503-d94812f1dbab",
   "name": "LANDR",
-  "what_it_does": "LANDR provides an AI-powered platform for music mastering, distribution, and collaboration.",
+  "what_it_does": "LANDR provides an online platform for music mastering, distribution, and collaboration.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Canada",
-  "keywords": [
-    "AI mastering",
-    "music distribution",
-    "music collaboration",
-    "audio mastering",
-    "music publishing",
-    "music licensing",
-    "independent artists",
-    "music production tools"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8658f46f-0265-5519-8503-d94812f1dbab"
 }

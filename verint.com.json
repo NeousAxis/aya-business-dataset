@@ -1,20 +1,11 @@
 {
   "entity_id": "49c0d48b-e52a-54a7-80ba-6d164acb580f",
   "name": "Verint",
-  "what_it_does": "Verint provides customer engagement solutions and security intelligence products and services.",
+  "what_it_does": "Verint provides customer engagement solutions, including call center software, workforce management, and analytics.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Brazil",
-  "keywords": [
-    "customer engagement",
-    "security intelligence",
-    "data analytics",
-    "call center analytics",
-    "fraud detection",
-    "risk management",
-    "customer service",
-    "compliance solutions"
-  ],
+  "keywords": [],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/49c0d48b-e52a-54a7-80ba-6d164acb580f"
 }

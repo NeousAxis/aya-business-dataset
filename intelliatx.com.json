@@ -1,20 +1,11 @@
 {
   "entity_id": "3feae96a-80c7-500d-9ae1-16ce546d7983",
   "name": "Intellia Therapeutics",
-  "what_it_does": "Intellia Therapeutics is a biotechnology company focused on developing CRISPR-based gene editing therapies.",
+  "what_it_does": "Intellia Therapeutics is a biotechnology company focused on developing CRISPR/Cas9-based gene editing therapies.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "gene editing therapeutics",
-    "biotechnology",
-    "CRISPR technology",
-    "gene therapies",
-    "pharmaceutical development",
-    "genome editing",
-    "precision medicine",
-    "genetic medicine"
-  ],
+  "keywords": [],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3feae96a-80c7-500d-9ae1-16ce546d7983"
 }

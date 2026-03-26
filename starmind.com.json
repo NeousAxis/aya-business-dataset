@@ -1,20 +1,11 @@
 {
   "entity_id": "c1e118a4-fe45-5202-9e57-488beccedbbd",
   "name": "Starmind",
-  "what_it_does": "Starmind provides a knowledge-sharing platform using AI to connect employees with internal experts.",
+  "what_it_does": "Starmind offers a platform to connect employees with internal experts to solve business problems.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "United States",
-  "keywords": [
-    "Knowledge Sharing",
-    "AI-powered Knowledge Network",
-    "Expert Identification",
-    "Employee Collaboration",
-    "Corporate Knowledge",
-    "Organizational Intelligence",
-    "Internal expertise",
-    "Knowledge base"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c1e118a4-fe45-5202-9e57-488beccedbbd"
 }

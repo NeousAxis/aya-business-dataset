@@ -1,20 +1,11 @@
 {
   "entity_id": "b28c874c-7c41-548c-9883-96c1b7db2bb5",
   "name": "The Ascend Group",
-  "what_it_does": "The Ascend Group likely provides software or technological solutions, potentially including SaaS offerings, to businesses.",
+  "what_it_does": "The Ascend Group likely provides technology or business consulting services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "enterprise",
-    "software",
-    "corporate",
-    "growth",
-    "business",
-    "technology",
-    "scalability",
-    "solutions"
-  ],
+  "keywords": [],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b28c874c-7c41-548c-9883-96c1b7db2bb5"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "6c5a79e5-9fcc-5c28-85f9-4ddd4bdde931",
   "name": "Collibra",
-  "what_it_does": "Collibra provides a data intelligence platform for data governance, data catalog, data quality, and data privacy.",
+  "what_it_does": "Collibra provides a data intelligence platform for data governance, data quality, and data catalog.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "data intelligence",
-    "data governance",
-    "data catalog",
-    "metadata management",
-    "data quality",
-    "data lineage",
-    "data privacy",
-    "data management"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6c5a79e5-9fcc-5c28-85f9-4ddd4bdde931"
 }

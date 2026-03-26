@@ -1,6 +1,6 @@
 # AYA Business Dataset — Individual JSON Files
 
-> Auto-generated on 2026-03-25 from the [AYA Registry](https://ai-visionary.com/aya) by AI Visionary.
+> Auto-generated on 2026-03-26 from the [AYA Registry](https://ai-visionary.com/aya) by AI Visionary.
 
 ## What is this?
 
@@ -24,8 +24,8 @@ The same data is available via:
 
 ## Stats
 
-- **3339** entities
-- **71** countries
+- **4436** entities
+- **74** countries
 - **17** sectors
 
 ## License

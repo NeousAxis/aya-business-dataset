@@ -1,20 +1,11 @@
 {
   "entity_id": "c1b377cc-80bb-5eb7-883b-e896975dd003",
   "name": "Washington's Lottery",
-  "what_it_does": "Washington's Lottery manages and operates lottery games in the state of Washington.",
+  "what_it_does": "Washington's Lottery operates and manages lottery games within the state of Washington.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "lottery games",
-    "state lottery",
-    "scratch tickets",
-    "drawing games",
-    "Washington State",
-    "lottery winners",
-    "revenue generation",
-    "public funding"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c1b377cc-80bb-5eb7-883b-e896975dd003"
 }

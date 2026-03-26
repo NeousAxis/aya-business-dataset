@@ -1,20 +1,11 @@
 {
   "entity_id": "4c9c52a8-4f6d-5a03-a12a-337e46cdd3ef",
   "name": "Intesa Sanpaolo",
-  "what_it_does": "Intesa Sanpaolo is a banking group providing financial services to individuals, businesses and institutions.",
+  "what_it_does": "Intesa Sanpaolo is an Italian banking group offering a range of financial services to individuals, businesses, and institutions.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Italy",
-  "keywords": [
-    "retail banking",
-    "corporate banking",
-    "financial services",
-    "wealth management",
-    "investment banking",
-    "SME financing",
-    "consumer loans",
-    "asset management"
-  ],
+  "keywords": [],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4c9c52a8-4f6d-5a03-a12a-337e46cdd3ef"
 }

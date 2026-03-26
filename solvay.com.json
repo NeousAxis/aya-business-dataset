@@ -1,20 +1,11 @@
 {
   "entity_id": "1e2ffcef-7177-51c6-8f96-370b38a1fde9",
   "name": "Solvay",
-  "what_it_does": "Solvay is a global company producing specialty chemicals and advanced materials.",
+  "what_it_does": "Solvay is a science company providing specialty chemicals and materials.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "specialty chemicals",
-    "advanced materials",
-    "chemical manufacturing",
-    "chemical products",
-    "material solutions",
-    "chemical industry",
-    "Solvay chemicals",
-    "Solvay materials"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1e2ffcef-7177-51c6-8f96-370b38a1fde9"
 }

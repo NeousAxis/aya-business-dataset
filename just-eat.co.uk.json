@@ -1,20 +1,11 @@
 {
   "entity_id": "9b64c685-b7ce-56e7-badc-a6ac03f2b7a3",
   "name": "Just Eat",
-  "what_it_does": "Just Eat operates an online food delivery platform connecting customers with restaurants.",
+  "what_it_does": "Just Eat is an online food order and delivery service in the United Kingdom.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "United Kingdom",
-  "keywords": [
-    "food ordering",
-    "takeaway delivery",
-    "restaurant aggregator",
-    "local restaurants",
-    "food marketplace",
-    "meal delivery",
-    "UK food",
-    "cuisine delivery"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9b64c685-b7ce-56e7-badc-a6ac03f2b7a3"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "8f73a71e-8734-5e30-9270-e54c9aa83d01",
   "name": "PhonePe",
-  "what_it_does": "PhonePe is an Indian mobile payment app facilitating UPI-based transactions.",
+  "what_it_does": "PhonePe is an Indian digital payments and financial services company.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "mobile payments",
-    "UPI payments",
-    "digital wallet",
-    "financial transactions",
-    "Indian fintech",
-    "payment ",
-    "PhonePe India"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8f73a71e-8734-5e30-9270-e54c9aa83d01"
 }

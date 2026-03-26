@@ -1,20 +1,11 @@
 {
   "entity_id": "518a6c4a-4870-5f36-8dda-c2be5ba8376f",
   "name": "Wiz",
-  "what_it_does": "Wiz offers a cloud security platform that identifies and prioritizes risks across cloud environments.",
+  "what_it_does": "Wiz provides a cloud security platform to identify and remediate risks.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "cloud security",
-    "cloud risk assessment",
-    "cloud threat detection",
-    "cloud vulnerability",
-    "cloud compliance",
-    "cloud environments",
-    "cloud security posture",
-    "cloud security platform"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/518a6c4a-4870-5f36-8dda-c2be5ba8376f"
 }

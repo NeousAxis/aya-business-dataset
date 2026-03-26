@@ -1,20 +1,11 @@
 {
   "entity_id": "5729dd46-783f-57d6-b5a3-41e12716e54f",
   "name": "Waze",
-  "what_it_does": "Waze is a GPS navigation app that provides real-time traffic information and route optimization.",
+  "what_it_does": "Waze is a GPS navigation app providing real-time traffic and routing information.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Australia",
-  "keywords": [
-    "GPS navigation",
-    "real-time traffic",
-    "route optimization",
-    "driving directions",
-    "mapping",
-    "carpooling",
-    "location sharing",
-    "traffic alerts"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5729dd46-783f-57d6-b5a3-41e12716e54f"
 }

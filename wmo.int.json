@@ -1,19 +1,11 @@
 {
   "entity_id": "e44cc0e6-fc75-56f0-aa1d-fdd57f218e56",
   "name": "World Meteorological Organization",
-  "what_it_does": "The World Meteorological Organization coordinates global efforts related to weather, climate, and water resources.",
+  "what_it_does": "The World Meteorological Organization coordinates international efforts on weather, climate, and water resources.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "weather forecasting",
-    "climate monitoring",
-    "hydrological resources",
-    "meteorological data",
-    "global weather",
-    "climate change",
-    "weather observations"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e44cc0e6-fc75-56f0-aa1d-fdd57f218e56"
 }

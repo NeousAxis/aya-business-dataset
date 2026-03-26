@@ -1,20 +1,11 @@
 {
   "entity_id": "0cc01d1d-626f-5e3a-bb8e-238c8dd6a2a8",
   "name": "OLAY Official Site",
-  "what_it_does": "Olay sells skincare and beauty products directly to consumers.",
+  "what_it_does": "OLAY sells skincare and beauty products directly to consumers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "skincare products",
-    "beauty products",
-    "anti-aging creams",
-    "facial cleansers",
-    "direct-to-consumer",
-    "online cosmetics",
-    "women's skincare",
-    "dermatological skincare"
-  ],
+  "keywords": [],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0cc01d1d-626f-5e3a-bb8e-238c8dd6a2a8"
 }

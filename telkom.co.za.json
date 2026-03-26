@@ -1,20 +1,11 @@
 {
   "entity_id": "67f28627-b930-523c-a078-1de413faa75a",
   "name": "Telkom South Africa",
-  "what_it_does": "Telkom South Africa provides telecommunications services, including fixed-line, mobile, and internet access.",
+  "what_it_does": "Telkom South Africa is a telecommunications company providing fixed-line and mobile services.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "South Africa",
-  "keywords": [
-    "South African telecommunications",
-    "fixed-line telephony",
-    "mobile telephony",
-    "internet services",
-    "data services",
-    "voice communication",
-    "fiber optic network",
-    "telecom infrastructure"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/67f28627-b930-523c-a078-1de413faa75a"
 }

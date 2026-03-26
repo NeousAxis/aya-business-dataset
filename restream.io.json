@@ -1,20 +1,11 @@
 {
   "entity_id": "9c11e4ff-692a-56b7-96c0-79f58498af87",
   "name": "Create and Multistream Live Video",
-  "what_it_does": "Restream allows users to simultaneously broadcast live video streams to multiple platforms.",
+  "what_it_does": "Restream.io provides a platform for live video multistreaming to multiple platforms simultaneously.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "live video streaming",
-    "multistreaming",
-    "video broadcasting",
-    "live events",
-    "social media streaming",
-    "content delivery",
-    "video production",
-    "video distribution"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9c11e4ff-692a-56b7-96c0-79f58498af87"
 }

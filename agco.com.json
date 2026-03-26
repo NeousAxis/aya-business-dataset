@@ -1,13 +1,11 @@
 {
   "entity_id": "ac88bfd2-6543-5b3a-8cda-40ac1d7e4760",
   "name": "Auerbach Grayson",
-  "what_it_does": "Auerbach Grayson likely facilitates cross-border securities trading for institutional investors.",
+  "what_it_does": "Auerbach Grayson provides global investment brokerage services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United States",
-  "keywords": [
-    "securities trading"
-  ],
+  "keywords": [],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ac88bfd2-6543-5b3a-8cda-40ac1d7e4760"
 }

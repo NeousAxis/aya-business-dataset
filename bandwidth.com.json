@@ -1,20 +1,11 @@
 {
   "entity_id": "d5c5dd6b-0422-5260-a2cc-15f55b0405fe",
   "name": "Bandwidth",
-  "what_it_does": "Bandwidth provides communication APIs and software platform for voice and messaging.",
+  "what_it_does": "Bandwidth provides communication APIs and network services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "communication APIs",
-    "CPaaS",
-    "voice API",
-    "messaging API",
-    "telecommunications",
-    "cloud communications",
-    "VoIP",
-    "SMS API"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d5c5dd6b-0422-5260-a2cc-15f55b0405fe"
 }

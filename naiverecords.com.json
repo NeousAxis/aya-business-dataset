@@ -1,13 +1,11 @@
 {
   "entity_id": "e20e9627-28cc-5ab9-a5bf-ebb9cd3347e3",
   "name": "naïve",
-  "what_it_does": "naïve is an independent record label.",
+  "what_it_does": "Naiverecords.com likely sells recordings and merchandise related to a record label.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "record label"
-  ],
+  "keywords": [],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e20e9627-28cc-5ab9-a5bf-ebb9cd3347e3"
 }

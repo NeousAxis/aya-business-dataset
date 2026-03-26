@@ -1,20 +1,11 @@
 {
   "entity_id": "6371bbb8-a09e-5841-a25a-b48887b206ad",
   "name": "Galliker Transport AG",
-  "what_it_does": "Galliker Transport AG provides temperature-controlled logistics services, specializing in pharmaceutical transport.",
+  "what_it_does": "Galliker Transport AG offers temperature-controlled logistics services.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "temperature controlled logistics",
-    "pharmaceutical logistics",
-    "healthcare transport",
-    "cold chain logistics",
-    "refrigerated transport",
-    "Swiss transport",
-    "logistics solutions",
-    "medical transport"
-  ],
+  "keywords": [],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6371bbb8-a09e-5841-a25a-b48887b206ad"
 }

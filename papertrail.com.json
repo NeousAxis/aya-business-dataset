@@ -1,19 +1,11 @@
 {
   "entity_id": "09c4e1d9-80bd-50db-908b-c444a87af0f3",
   "name": "Papertrail",
-  "what_it_does": "Papertrail is a cloud-based log management service.",
+  "what_it_does": "Papertrail provides cloud-based log management and analysis services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "cloud log management",
-    "log aggregation",
-    "log analysis",
-    "log monitoring",
-    "server logs",
-    "application logs",
-    "centralized logging"
-  ],
+  "keywords": [],
   "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/09c4e1d9-80bd-50db-908b-c444a87af0f3"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "2d0d41b0-7384-5e9a-9548-4a597a7a3490",
   "name": "Busuu",
-  "what_it_does": "Busuu offers online language learning courses and a social network for language learners.",
+  "what_it_does": "Busuu provides online language learning courses and community interaction.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "language courses",
-    "language learning",
-    "online education",
-    "language practice",
-    "language community",
-    "foreign languages",
-    "e-learning",
-    "vocabulary building"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2d0d41b0-7384-5e9a-9548-4a597a7a3490"
 }

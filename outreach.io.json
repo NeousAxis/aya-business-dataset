@@ -1,20 +1,11 @@
 {
   "entity_id": "283e836d-7082-53d2-b588-37bd0b3907e2",
   "name": "Outreach",
-  "what_it_does": "Outreach provides a sales engagement platform that helps sales teams automate and optimize their outreach efforts.",
+  "what_it_does": "Outreach provides a sales engagement platform for managing customer interactions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "sales engagement",
-    "customer interaction",
-    "sales communication",
-    "sales intelligence",
-    "sales workflow",
-    "revenue acceleration",
-    "sales platform",
-    "B2B sales automation"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/283e836d-7082-53d2-b588-37bd0b3907e2"
 }

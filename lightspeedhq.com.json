@@ -1,20 +1,11 @@
 {
   "entity_id": "9dc57ee7-c2d9-5ca7-8617-a014be5b6948",
   "name": "Lightspeedhq",
-  "what_it_does": "Lightspeed provides point-of-sale and e-commerce software for retailers and restaurants.",
+  "what_it_does": "Lightspeed provides point-of-sale software and e-commerce solutions for retailers and restaurants.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Canada",
-  "keywords": [
-    "retail POS",
-    "ecommerce POS",
-    "point of sale",
-    "retail management",
-    "restaurant management",
-    "cloud POS",
-    "payment processing",
-    "inventory management"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9dc57ee7-c2d9-5ca7-8617-a014be5b6948"
 }

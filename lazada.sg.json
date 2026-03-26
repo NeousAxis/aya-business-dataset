@@ -1,19 +1,11 @@
 {
   "entity_id": "cbbf9ab6-6f4e-5718-ba88-9a11f2109570",
   "name": "Lazada Singapore",
-  "what_it_does": "Lazada Singapore is an online retailer selling a variety of products to consumers in Singapore.",
+  "what_it_does": "Lazada Singapore is the Singaporean branch of the Lazada online marketplace.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "online retail",
-    "Singapore shopping",
-    "consumer goods",
-    "e-commerce marketplace",
-    "Lazada",
-    "product marketplace",
-    "Singapore retail"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cbbf9ab6-6f4e-5718-ba88-9a11f2109570"
 }

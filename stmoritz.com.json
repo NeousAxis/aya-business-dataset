@@ -1,20 +1,11 @@
 {
   "entity_id": "e5b05b76-0930-5100-8a82-d5bd416f393b",
   "name": "St. Moritz",
-  "what_it_does": "St. Moritz promotes tourism and related services for the St. Moritz resort town.",
+  "what_it_does": "St. Moritz likely provides information and booking services related to the St. Moritz resort area, possibly including restaurants and food.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Global",
-  "keywords": [
-    "swiss alps",
-    "luxury travel",
-    "ski resort",
-    "mountain tourism",
-    "vacation destination",
-    "winter sports",
-    "st moritz",
-    "alpine holidays"
-  ],
-  "aio_score": 36.0,
+  "keywords": [],
+  "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e5b05b76-0930-5100-8a82-d5bd416f393b"
 }

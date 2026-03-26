@@ -1,20 +1,11 @@
 {
   "entity_id": "d7c20ada-14a3-53b7-9448-f6fc6542bd1c",
   "name": "VF Corporation",
-  "what_it_does": "VF Corporation is an apparel and footwear company with brands such as Vans, The North Face, and Timberland.",
+  "what_it_does": "VF Corporation is an apparel and footwear company with brands like Vans, The North Face, and Timberland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "apparel",
-    "footwear",
-    "outdoor gear",
-    "lifestyle brands",
-    "activewear",
-    "workwear",
-    "fashion apparel",
-    "clothing"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d7c20ada-14a3-53b7-9448-f6fc6542bd1c"
 }

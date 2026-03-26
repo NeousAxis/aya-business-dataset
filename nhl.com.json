@@ -1,19 +1,11 @@
 {
   "entity_id": "cd932b1c-22d5-5e09-b67f-51c66284cb54",
   "name": "NHL",
-  "what_it_does": "The NHL provides news, scores, and content related to professional ice hockey.",
+  "what_it_does": "The NHL is a professional ice hockey league in North America.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "ice hockey",
-    "hockey news",
-    "hockey scores",
-    "nhl games",
-    "hockey highlights",
-    "professional hockey",
-    "hockey league"
-  ],
+  "keywords": [],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cd932b1c-22d5-5e09-b67f-51c66284cb54"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "19928cce-6c2f-5572-a15c-20f44a39f96f",
   "name": "Rai.it",
-  "what_it_does": "Rai.it is the website for Radiotelevisione Italiana, the Italian public broadcaster, providing news and entertainment content.",
+  "what_it_does": "Rai.it is the online portal for the Italian public broadcasting company, offering news, entertainment, and streaming services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Italy",
-  "keywords": [
-    "italian news",
-    "public broadcasting",
-    "italian television",
-    "italian radio",
-    "streaming content",
-    "news programming",
-    "italian culture",
-    "entertainment content"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/19928cce-6c2f-5572-a15c-20f44a39f96f"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "98cca3cb-6024-5c23-80a4-793e2fe48384",
   "name": "Swissquote",
-  "what_it_does": "Swissquote offers online banking and financial services.",
+  "what_it_does": "Swissquote provides online trading and banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "brokerage",
-    "forex trading",
-    "swiss banking",
-    "financial markets",
-    "investment banking",
-    "asset management",
-    "wealth management",
-    "stock trading"
-  ],
+  "keywords": [],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/98cca3cb-6024-5c23-80a4-793e2fe48384"
 }

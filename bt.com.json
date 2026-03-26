@@ -1,20 +1,11 @@
 {
   "entity_id": "530b9947-56ed-5699-861b-230ef18118db",
   "name": "BT Group",
-  "what_it_does": "BT Group is a telecommunications company providing broadband, mobile, and fixed-line services in the UK.",
+  "what_it_does": "BT Group provides telecommunications services including broadband, mobile and TV.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [
-    "telecommunications",
-    "broadband services",
-    "mobile services",
-    "landline services",
-    "BT group",
-    "fixed-line telephony",
-    "internet services",
-    "UK telecom"
-  ],
+  "keywords": [],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/530b9947-56ed-5699-861b-230ef18118db"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "1c983b37-5455-56f1-9ee6-17fd05ba8a54",
   "name": "McCormick",
-  "what_it_does": "McCormick & Company manufactures, markets, and distributes spices, seasoning mixes, condiments, and other flavoring products.",
+  "what_it_does": "McCormick manufactures, markets, and distributes spices, seasoning mixes, condiments, and other flavor products.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "spices",
-    "seasoning blends",
-    "condiments",
-    "flavorings",
-    "herbs",
-    "recipe mixes",
-    "food manufacturing",
-    "flavor solutions"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1c983b37-5455-56f1-9ee6-17fd05ba8a54"
 }

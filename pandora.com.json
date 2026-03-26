@@ -1,20 +1,11 @@
 {
   "entity_id": "ac0de190-b19c-5ce8-bf4a-68aedf61ff21",
   "name": "Pandora",
-  "what_it_does": "Pandora is a personalized internet radio and music streaming service.",
+  "what_it_does": "Pandora operates a music streaming and internet radio platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "charm bracelets",
-    "jewelry retailer",
-    "personalized jewelry",
-    "hand-finished jewelry",
-    "danish jewelry",
-    "bracelets",
-    "rings",
-    "necklaces"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ac0de190-b19c-5ce8-bf4a-68aedf61ff21"
 }

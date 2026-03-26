@@ -1,20 +1,11 @@
 {
   "entity_id": "5a61bc26-3616-5c4a-9d03-ed86303e6846",
   "name": "Suunto",
-  "what_it_does": "Suunto designs and manufactures sports watches, dive computers, and precision instruments for outdoor activities.",
+  "what_it_does": "Suunto designs and manufactures sports watches, dive computers, and precision instruments.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [
-    "sports watches",
-    "dive computers",
-    "precision instruments",
-    "outdoor ",
-    "adventure ",
-    "fitness trackers",
-    "GPS watches",
-    "wearable technology"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5a61bc26-3616-5c4a-9d03-ed86303e6846"
 }

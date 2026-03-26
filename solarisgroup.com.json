@@ -1,20 +1,11 @@
 {
   "entity_id": "adeab918-a7b7-5f0d-8280-5b52a19e5ea6",
   "name": "Solaris",
-  "what_it_does": "Solaris manufactures electric buses and related public transportation vehicles.",
+  "what_it_does": "Solaris provides Banking-as-a-Service platform to businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [
-    "electric buses",
-    "public transportation vehicles",
-    "electric vehicles",
-    "bus manufacturer",
-    "urban mobility",
-    "zero-emission buses",
-    "transport solutions",
-    "city buses"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/adeab918-a7b7-5f0d-8280-5b52a19e5ea6"
 }

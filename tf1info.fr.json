@@ -1,20 +1,11 @@
 {
   "entity_id": "462fd86c-a701-5d51-b2e1-2c99486f8d17",
   "name": "À LA UNE",
-  "what_it_does": "TF1info.fr is the news website for the French television channel TF1.",
+  "what_it_does": "À LA UNE is the news website of French TV channel TF1.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "french news",
-    "tf1 television",
-    "current events",
-    "breaking news",
-    "news website",
-    "french media",
-    "political news",
-    "world news"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/462fd86c-a701-5d51-b2e1-2c99486f8d17"
 }

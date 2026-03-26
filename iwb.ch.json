@@ -1,20 +1,11 @@
 {
   "entity_id": "bb615680-5c39-50fd-ae0b-a5334c2db1ce",
   "name": "IWB",
-  "what_it_does": "IWB (Industrielle Werke Basel) supplies energy, water, and telecommunications services in Basel.",
+  "what_it_does": "IWB likely provides media and communication services in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "energy Basel",
-    "water Basel",
-    "utility Basel",
-    "energy provider",
-    "water provider",
-    "Basel Switzerland",
-    "power grid",
-    "renewable energy"
-  ],
+  "keywords": [],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bb615680-5c39-50fd-ae0b-a5334c2db1ce"
 }

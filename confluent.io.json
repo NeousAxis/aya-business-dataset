@@ -1,20 +1,11 @@
 {
-  "entity_id": "0c208d5f-271c-5e79-92cc-9d9bd4d420d0",
+  "entity_id": "e7ffe8ec-d210-5627-b242-f1df5f3121d1",
   "name": "Confluent",
   "what_it_does": "Confluent provides a data streaming platform based on Apache Kafka.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "data streaming",
-    "apache kafka",
-    "event streaming",
-    "real-time data",
-    "distributed systems",
-    "kafka platform",
-    "data integration",
-    "data pipelines"
-  ],
-  "aio_score": 79.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/0c208d5f-271c-5e79-92cc-9d9bd4d420d0"
+  "keywords": [],
+  "aio_score": 59.0,
+  "certificate_url": "https://ai-visionary.com/aya/e/e7ffe8ec-d210-5627-b242-f1df5f3121d1"
 }

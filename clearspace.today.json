@@ -1,20 +1,11 @@
 {
   "entity_id": "6bd6fc71-8dac-5be7-9584-805159f07289",
   "name": "ClearSpace",
-  "what_it_does": "ClearSpace is developing technology to remove space debris.",
+  "what_it_does": "ClearSpace is developing technology to remove orbital debris from space.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "space debris removal",
-    "space sustainability",
-    "orbital debris",
-    "satellite",
-    "debris",
-    "space technology",
-    "space junk",
-    "ClearSpace"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6bd6fc71-8dac-5be7-9584-805159f07289"
 }

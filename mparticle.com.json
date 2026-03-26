@@ -1,20 +1,11 @@
 {
   "entity_id": "2dd5f4b6-962d-518e-83bf-f542cc395b75",
   "name": "Mparticle",
-  "what_it_does": "mParticle provides a customer data platform that helps businesses collect, manage, and integrate customer data across various sources.",
+  "what_it_does": "mParticle provides a customer data platform for managing and integrating data across various marketing and analytics tools.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "customer data",
-    "data unification",
-    "customer profiles",
-    "data governance",
-    "CDP",
-    "customer data platform",
-    "marketing data",
-    "data management"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2dd5f4b6-962d-518e-83bf-f542cc395b75"
 }

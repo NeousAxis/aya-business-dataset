@@ -1,19 +1,11 @@
 {
   "entity_id": "1f65253b-8d9d-5409-b5c7-1f83e8dd229f",
   "name": "Tajir",
-  "what_it_does": "Tajir provides a platform/app for businesses (likely in Pakistan) to manage inventory and sales.",
+  "what_it_does": "Tajir provides a platform for small retailers in Pakistan to manage their inventory and finances.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "inventory",
-    "wholesale marketplace",
-    "Pakistan B2B",
-    "retail supply chain",
-    "supplier sourcing",
-    "inventory management",
-    "small business solutions"
-  ],
+  "keywords": [],
   "aio_score": 22.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1f65253b-8d9d-5409-b5c7-1f83e8dd229f"
 }

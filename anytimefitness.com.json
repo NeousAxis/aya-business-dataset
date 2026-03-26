@@ -1,20 +1,11 @@
 {
   "entity_id": "cc5f7ef7-0c17-5b21-86aa-72e3f14b66bb",
   "name": "Anytime Fitness",
-  "what_it_does": "Anytime Fitness is a global franchise of 24-hour fitness centers.",
+  "what_it_does": "Anytime Fitness provides a network of 24-hour access fitness centers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "fitness franchise",
-    "health clubs",
-    "gym memberships",
-    "24-hour fitness",
-    "global fitness",
-    "exercise facilities",
-    "strength training",
-    "cardio fitness"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cc5f7ef7-0c17-5b21-86aa-72e3f14b66bb"
 }

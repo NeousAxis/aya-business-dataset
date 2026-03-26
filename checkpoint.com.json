@@ -1,20 +1,11 @@
 {
   "entity_id": "ec5395d2-cc81-5b58-ac28-d7db4bc2009e",
   "name": "Check Point Software",
-  "what_it_does": "Check Point Software provides cybersecurity solutions.",
+  "what_it_does": "Check Point Software provides cybersecurity solutions, including firewalls and threat prevention.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Japan",
-  "keywords": [
-    "cybersecurity",
-    "network security",
-    "endpoint security",
-    "cloud security",
-    "threat prevention",
-    "security products",
-    "data protection",
-    "checkpoint software"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec5395d2-cc81-5b58-ac28-d7db4bc2009e"
 }

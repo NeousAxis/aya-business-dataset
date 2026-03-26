@@ -1,20 +1,11 @@
 {
   "entity_id": "21cc4436-80fa-54aa-acba-cb1e1fabc4de",
   "name": "Plug Power",
-  "what_it_does": "Plug Power designs and manufactures hydrogen fuel cell systems.",
+  "what_it_does": "Plug Power designs and manufactures hydrogen fuel cell systems for electric mobility and stationary power applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "hydrogen fuel cells",
-    "fuel cell systems",
-    "electric vehicles",
-    "hydrogen power",
-    "alternative energy",
-    "clean energy",
-    "zero-emission vehicles",
-    "fuel cell technology"
-  ],
+  "keywords": [],
   "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/21cc4436-80fa-54aa-acba-cb1e1fabc4de"
 }

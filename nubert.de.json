@@ -1,20 +1,11 @@
 {
   "entity_id": "202f413c-4b12-5f75-8fc6-71e127ae67d0",
   "name": "Nubert",
-  "what_it_does": "Nubert manufactures and sells loudspeakers and audio equipment.",
+  "what_it_does": "Nubert sells loudspeakers and audio equipment directly to consumers in Germany.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "German speakers",
-    "loudspeakers",
-    "audio equipment",
-    "direct sales",
-    "speaker design",
-    "audio engineering",
-    "consumer audio",
-    "Hi-Fi speakers"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/202f413c-4b12-5f75-8fc6-71e127ae67d0"
 }

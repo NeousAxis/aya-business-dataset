@@ -1,20 +1,11 @@
 {
   "entity_id": "a2157811-3964-5678-a5b4-87896c88bcff",
   "name": "Spark New Zealand",
-  "what_it_does": "Spark New Zealand is a telecommunications and digital services company providing mobile, internet, and cloud services in New Zealand.",
+  "what_it_does": "Spark New Zealand provides telecommunications and digital services in New Zealand.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "New Zealand",
-  "keywords": [
-    "telecommunications",
-    "mobile ",
-    "internet ",
-    "landline ",
-    "digital ",
-    "New Zealand telecom",
-    "broadband ",
-    "cloud solutions"
-  ],
+  "keywords": [],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a2157811-3964-5678-a5b4-87896c88bcff"
 }

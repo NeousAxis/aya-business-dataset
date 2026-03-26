@@ -1,20 +1,11 @@
 {
   "entity_id": "625e8268-2b33-5fa3-862b-3f4a634e9e27",
   "name": "Walmart",
-  "what_it_does": "Walmart operates a chain of retail stores, including hypermarkets, discount department stores, and grocery stores.",
+  "what_it_does": "Walmart operates a chain of hypermarkets, discount department stores, and grocery stores.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "retail chain",
-    "hypermarkets",
-    "discount stores",
-    "grocery stores",
-    "consumer goods",
-    "walmart brands",
-    "mass merchandise",
-    "walmart marketplace"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/625e8268-2b33-5fa3-862b-3f4a634e9e27"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "7a64e1e0-a86d-501d-b32b-a19c767ee5de",
   "name": "PlanetScale, Inc.",
-  "what_it_does": "PlanetScale provides a serverless MySQL database platform.",
+  "what_it_does": "PlanetScale offers a serverless, distributed SQL database platform built on Vitess.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "serverless MySQL",
-    "database",
-    "cloud database",
-    "MySQL",
-    "database scaling",
-    "data management",
-    "open source database"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7a64e1e0-a86d-501d-b32b-a19c767ee5de"
 }

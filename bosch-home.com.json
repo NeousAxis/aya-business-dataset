@@ -1,20 +1,11 @@
 {
   "entity_id": "2302bce4-dfd0-527e-aad9-d7fc00fc6ddc",
   "name": "Home Appliances Global Website",
-  "what_it_does": "Bosch Home Appliances manufactures and sells household appliances.",
+  "what_it_does": "Bosch-Home.com manufactures and sells home appliances such as refrigerators and washing machines.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "home appliances",
-    "refrigerators",
-    "washing machines",
-    "dishwashers",
-    "cooking appliances",
-    "kitchen appliances",
-    "laundry appliances",
-    "european household"
-  ],
-  "aio_score": 41.0,
+  "keywords": [],
+  "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2302bce4-dfd0-527e-aad9-d7fc00fc6ddc"
 }

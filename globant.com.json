@@ -1,20 +1,11 @@
 {
   "entity_id": "db279474-b44c-54dd-90fa-2e89bd247367",
   "name": "Globant AI Powerhouse",
-  "what_it_does": "Globant is a digital transformation and IT services company.",
+  "what_it_does": "Globant offers software development and IT consulting services, emphasizing AI solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [
-    "it modernisation",
-    "digital transformation",
-    "application development",
-    "cloud enablement",
-    "big data",
-    "ux design",
-    "agile development",
-    "digital platforms"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/db279474-b44c-54dd-90fa-2e89bd247367"
 }

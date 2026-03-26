@@ -1,18 +1,11 @@
 {
   "entity_id": "e618aacb-2c2a-5a76-b799-8608d25eab78",
   "name": "Bitwarden",
-  "what_it_does": "Bitwarden provides an open-source password management solution for individuals and businesses.",
+  "what_it_does": "Bitwarden offers a password management and security solution.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [
-    "password management",
-    "cybersecurity",
-    "data security",
-    "authentication",
-    "password storage",
-    "open source"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e618aacb-2c2a-5a76-b799-8608d25eab78"
 }

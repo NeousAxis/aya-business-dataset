@@ -1,19 +1,11 @@
 {
   "entity_id": "72550e09-98ac-55d5-a70c-5b86305ec53b",
   "name": "Cybereason",
-  "what_it_does": "Cybereason offers a cybersecurity platform for endpoint detection and response.",
+  "what_it_does": "Cybereason offers a cybersecurity platform that detects and prevents cyberattacks.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "endpoint detection",
-    "cybersecurity platform",
-    "threat response",
-    "security analytics",
-    "incident investigation",
-    "malware detection",
-    "cyber threat hunting"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/72550e09-98ac-55d5-a70c-5b86305ec53b"
 }

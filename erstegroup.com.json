@@ -1,20 +1,11 @@
 {
   "entity_id": "e844054e-a128-5997-8b71-4425ef1e6766",
   "name": "Erste Group",
-  "what_it_does": "Erste Group is a Central and Eastern European banking group.",
+  "what_it_does": "Erste Group is a banking group providing financial services in Central and Eastern Europe.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "financial institution",
-    "banking services",
-    "Central Europe banking",
-    "Eastern Europe banking",
-    "retail banking",
-    "corporate finance",
-    "investment banking",
-    "financial products"
-  ],
+  "keywords": [],
   "aio_score": 20.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e844054e-a128-5997-8b71-4425ef1e6766"
 }

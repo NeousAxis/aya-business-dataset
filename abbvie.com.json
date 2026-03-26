@@ -1,20 +1,11 @@
 {
   "entity_id": "dcd07be5-f02b-5a0d-9eac-d0af43b718e3",
   "name": "Pharmaceutical Research & Development",
-  "what_it_does": "AbbVie is a pharmaceutical company focused on researching and developing new drugs.",
+  "what_it_does": "AbbVie is a biopharmaceutical company that discovers, develops, and commercializes pharmaceutical products.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "pharmaceuticals",
-    "drug development",
-    "biopharmaceuticals",
-    "prescription drugs",
-    "therapeutic areas",
-    "oncology drugs",
-    "immunology drugs",
-    "clinical trials"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dcd07be5-f02b-5a0d-9eac-d0af43b718e3"
 }

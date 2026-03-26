@@ -1,20 +1,11 @@
 {
   "entity_id": "19426cf7-4ac4-5207-b57b-c5d7cf0df19b",
   "name": "NiCE",
-  "what_it_does": "NICE provides cloud-based customer experience software for contact centers.",
+  "what_it_does": "NICE provides cloud and on-premises enterprise software solutions for customer experience and workforce engagement management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [
-    "customer experience",
-    "cloud contact center",
-    "workforce engagement",
-    "customer interaction",
-    "CX software",
-    "call center",
-    "agent performance",
-    "customer analytics"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/19426cf7-4ac4-5207-b57b-c5d7cf0df19b"
 }

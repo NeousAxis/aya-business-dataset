@@ -1,20 +1,11 @@
 {
   "entity_id": "502966a9-c43e-5bcd-8994-2104db6d2551",
   "name": "Capital One",
-  "what_it_does": "Capital One offers credit cards, banking, and loan products to consumers and businesses.",
+  "what_it_does": "Capital One is a US-based financial institution offering credit cards, banking, and loan products.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [
-    "credit cards",
-    "consumer banking",
-    "lending products",
-    "financial services",
-    "banking",
-    "loans",
-    "credit",
-    "payment cards"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/502966a9-c43e-5bcd-8994-2104db6d2551"
 }

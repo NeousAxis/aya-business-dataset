@@ -1,19 +1,11 @@
 {
   "entity_id": "76d6ca08-d811-504e-a7ef-8af461d726fa",
   "name": "Basellandschaftliche Kantonalbank",
-  "what_it_does": "Basellandschaftliche Kantonalbank is a cantonal bank providing banking services in the Basel-Landschaft region of Switzerland.",
+  "what_it_does": "Basellandschaftliche Kantonalbank is a cantonal bank offering financial services in Basel-Landschaft, Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [
-    "cantonal bank",
-    "Swiss banking",
-    "regional banking",
-    "financial",
-    "loans",
-    "mortgages",
-    "Basel-Landschaft"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/76d6ca08-d811-504e-a7ef-8af461d726fa"
 }

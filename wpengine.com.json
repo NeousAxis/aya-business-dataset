@@ -1,19 +1,11 @@
 {
   "entity_id": "c8fee9bf-5fd8-561a-9ac1-593aecef2d5a",
   "name": "WP&nbsp;Engine",
-  "what_it_does": "WP Engine provides managed WordPress hosting solutions.",
+  "what_it_does": "WP Engine provides managed WordPress hosting services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "managed wordpress hosting",
-    "wordpress hosting",
-    "website hosting",
-    "cms hosting",
-    "plugin updates",
-    "wordpress security",
-    "high-performance hosting"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c8fee9bf-5fd8-561a-9ac1-593aecef2d5a"
 }

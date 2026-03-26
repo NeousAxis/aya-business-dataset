@@ -1,20 +1,11 @@
 {
   "entity_id": "d43e1386-4356-5eb2-9fda-a9be29fb0d3e",
   "name": "Virtual Instruments for Composers and Producers",
-  "what_it_does": "Orchestral Tools creates virtual instrument libraries for composers and music producers.",
+  "what_it_does": "Orchestral Tools develops and sells virtual instruments for composers and producers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "virtual instruments",
-    "orchestral libraries",
-    "sample libraries",
-    "music composition tools",
-    "audio production",
-    "sound design",
-    "composers",
-    "music producers"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d43e1386-4356-5eb2-9fda-a9be29fb0d3e"
 }

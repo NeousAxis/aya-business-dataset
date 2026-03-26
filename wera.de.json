@@ -1,20 +1,11 @@
 {
   "entity_id": "10b260b6-b720-5fac-ae34-ee8e7fa145f8",
   "name": "Wera Werkzeuge",
-  "what_it_does": "Wera manufactures hand tools, such as screwdrivers and wrenches.",
+  "what_it_does": "Wera Werkzeuge manufactures screwdriving tools.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "screwdriving tools",
-    "hand tools",
-    "torque tools",
-    "ratchets",
-    "sockets",
-    "tool sets",
-    "tool manufacturing",
-    "fastening technology"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/10b260b6-b720-5fac-ae34-ee8e7fa145f8"
 }

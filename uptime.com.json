@@ -1,20 +1,11 @@
 {
   "entity_id": "9d6a0700-9286-5600-b635-b1f5262ff90c",
   "name": "Uptime.com :) Website Monitoring Service",
-  "what_it_does": "Uptime.com provides website monitoring services that track uptime, performance, and security.",
+  "what_it_does": "Uptime.com offers website monitoring services to track uptime and performance.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "website monitoring",
-    "uptime monitoring",
-    "performance monitoring",
-    "security monitoring",
-    "server monitoring",
-    "application monitoring",
-    "synthetic monitoring",
-    "IT infrastructure"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9d6a0700-9286-5600-b635-b1f5262ff90c"
 }

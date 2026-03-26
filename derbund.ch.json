@@ -1,20 +1,11 @@
 {
   "entity_id": "d8dbb6b4-3844-5c3d-95f1-61bc47f8bd67",
   "name": "Tamedia Espace AG",
-  "what_it_does": "Tamedia Espace AG publishes the Der Bund newspaper in Switzerland.",
+  "what_it_does": "Tamedia Espace AG publishes the 'Der Bund' newspaper and related content in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss newspaper",
-    "Der Bund",
-    "news publishing",
-    "local news Switzerland",
-    "print media",
-    "digital news",
-    "journalism",
-    "Berne newspaper"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d8dbb6b4-3844-5c3d-95f1-61bc47f8bd67"
 }

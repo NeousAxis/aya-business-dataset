@@ -1,20 +1,11 @@
 {
   "entity_id": "f642dccc-5c96-556c-ba37-398f4bb4f19b",
   "name": "Ekwateur",
-  "what_it_does": "Ekwateur is a French retailer of renewable energy.",
+  "what_it_does": "Ekwateur sells renewable energy and provides energy management services directly to consumers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
-  "keywords": [
-    "renewable energy",
-    "green electricity",
-    "natural gas",
-    "French energy supplier",
-    "sustainable energy",
-    "electricity contracts",
-    "energy transition",
-    "power grid"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f642dccc-5c96-556c-ba37-398f4bb4f19b"
 }

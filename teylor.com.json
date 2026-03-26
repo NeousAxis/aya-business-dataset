@@ -1,20 +1,11 @@
 {
   "entity_id": "67ab4118-0f1f-5e16-bdea-d38e5b2fa15b",
   "name": "Teylor AG",
-  "what_it_does": "Teylor AG provides a platform for SME lending.",
+  "what_it_does": "Teylor AG likely manufactures industrial goods.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Switzerland",
-  "keywords": [
-    "banking services",
-    "financial services",
-    "fintech",
-    "payment processing",
-    "loan platform",
-    "credit scoring",
-    "financial technology",
-    "lending"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/67ab4118-0f1f-5e16-bdea-d38e5b2fa15b"
 }

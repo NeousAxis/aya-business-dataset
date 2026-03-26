@@ -1,20 +1,11 @@
 {
   "entity_id": "a9d7c827-fd3a-5f2a-b123-485fb273c8f5",
   "name": "Bank of America",
-  "what_it_does": "Bank of America is a financial institution providing banking and investment services.",
+  "what_it_does": "Bank of America provides financial services, including banking, investment, and wealth management, to individuals and businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [
-    "banking",
-    "financial services",
-    "investment banking",
-    "retail banking",
-    "wealth management",
-    "credit cards",
-    "loans",
-    "Bank of America"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a9d7c827-fd3a-5f2a-b123-485fb273c8f5"
 }

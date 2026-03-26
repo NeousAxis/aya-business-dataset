@@ -1,20 +1,11 @@
 {
   "entity_id": "99f55ff9-c7d6-5e70-9f5a-54c8085f5f4e",
   "name": "Victoria",
-  "what_it_does": "Victoria-Jungfrau Grandhotel & Spa is a luxury hotel and spa resort in Interlaken, Switzerland.",
+  "what_it_does": "Victoria-Jungfrau Grand Hotel & Spa is a luxury hotel in Interlaken, Switzerland, offering accommodations, dining, and spa services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "luxury hotel",
-    "grandhotel",
-    "spa",
-    "Interlaken",
-    "Switzerland hotel",
-    "resort",
-    "wellness",
-    "hotel accommodations"
-  ],
+  "keywords": [],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/99f55ff9-c7d6-5e70-9f5a-54c8085f5f4e"
 }

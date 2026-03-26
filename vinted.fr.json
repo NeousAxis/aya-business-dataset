@@ -1,20 +1,11 @@
 {
   "entity_id": "ab0e463b-8c6c-50f2-9b8a-7f08ae4529d3",
   "name": "Vinted",
-  "what_it_does": "Vinted is an online marketplace for buying and selling used clothing.",
+  "what_it_does": "Vinted is an online marketplace for buying and selling used clothing and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
-  "keywords": [
-    "used clothing",
-    "secondhand fashion",
-    "clothing resale",
-    "peer-to-peer marketplace",
-    "vintage clothing",
-    "sustainable fashion",
-    "resale marketplace",
-    "fashion marketplace"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab0e463b-8c6c-50f2-9b8a-7f08ae4529d3"
 }

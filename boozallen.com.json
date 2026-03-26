@@ -1,20 +1,11 @@
 {
   "entity_id": "0abae529-5a16-559d-b322-87061dd9538d",
   "name": "Booz Allen",
-  "what_it_does": "Booz Allen Hamilton is a management and technology consulting firm.",
+  "what_it_does": "Booz Allen Hamilton provides management and technology consulting services to governments and corporations.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "management consulting",
-    "technology consulting",
-    "government consulting",
-    "federal contracting",
-    "strategy consulting",
-    "IT modernization",
-    "defense consulting",
-    "cybersecurity"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0abae529-5a16-559d-b322-87061dd9538d"
 }

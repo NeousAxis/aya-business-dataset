@@ -1,19 +1,11 @@
 {
   "entity_id": "c781c34d-ca43-59ba-8747-a7feffd6d52f",
   "name": "Toute l'actualité en direct et en vidéo sur RTL.fr",
-  "what_it_does": "RTL.fr provides French news, video and entertainment content.",
-  "for_who": "Healthcare professionals and patients.",
-  "category": "Healthcare & Pharma",
+  "what_it_does": "RTL.fr provides live news and video content as a French media outlet.",
+  "for_who": "Media professionals and audiences.",
+  "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "French news",
-    "live news",
-    "video news",
-    "entertainment content",
-    "French radio",
-    "current affairs",
-    "RTL France"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c781c34d-ca43-59ba-8747-a7feffd6d52f"
 }

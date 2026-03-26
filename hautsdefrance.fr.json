@@ -1,20 +1,11 @@
 {
   "entity_id": "a9d37f91-84a6-5dfe-a2c4-866b2a1da9f0",
   "name": "Site officiel de la Région Hauts-de-France",
-  "what_it_does": "Hauts-de-France is the official website for the Hauts-de-France region of France, providing information about tourism and regional services.",
+  "what_it_does": "hautsdefrance.fr is the official website for the Hauts-de-France region of France, providing information about its government, services, and tourism.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
-  "keywords": [
-    "Hauts-de-France tourism",
-    "regional information",
-    "French tourism",
-    "travel destinations",
-    "local attractions",
-    "regional events",
-    "Hauts-de-France region",
-    "tourism promotion"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a9d37f91-84a6-5dfe-a2c4-866b2a1da9f0"
 }

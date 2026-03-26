@@ -1,19 +1,11 @@
 {
   "entity_id": "2cb032f4-52dc-5dc2-9a90-608712c6cd1d",
   "name": "ALDI Nord",
-  "what_it_does": "ALDI Nord is a German discount supermarket chain.",
+  "what_it_does": "ALDI Nord is a German multinational discount supermarket chain.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "discount supermarkets",
-    "german retailer",
-    "grocery stores",
-    "private label products",
-    "food retail",
-    "household goods",
-    "budget shopping"
-  ],
+  "keywords": [],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2cb032f4-52dc-5dc2-9a90-608712c6cd1d"
 }

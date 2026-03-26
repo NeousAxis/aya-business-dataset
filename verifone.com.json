@@ -1,19 +1,11 @@
 {
   "entity_id": "f948a2a6-8e79-5396-a304-95348a5ade7b",
   "name": "Verifone",
-  "what_it_does": "Verifone sells payment terminals and point-of-sale systems.",
+  "what_it_does": "Verifone provides point-of-sale payment systems and services for merchants.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Australia",
-  "keywords": [
-    "payment terminals",
-    "point of sale systems",
-    "payment processing",
-    "retail solutions",
-    "payment hardware",
-    "merchant services",
-    "payment technology"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f948a2a6-8e79-5396-a304-95348a5ade7b"
 }

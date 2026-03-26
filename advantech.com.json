@@ -1,20 +1,11 @@
 {
   "entity_id": "18d0b84d-f978-5fe2-b960-258911816383",
   "name": "Advantech",
-  "what_it_does": "Advantech manufactures and sells industrial computing systems and automation products.",
+  "what_it_does": "Advantech manufactures industrial automation and embedded computing systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Spain",
-  "keywords": [
-    "industrial computing",
-    "automation products",
-    "embedded systems",
-    "industrial automation",
-    "IoT solutions",
-    "industrial PCs",
-    "edge computing",
-    "machine automation"
-  ],
+  "keywords": [],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/18d0b84d-f978-5fe2-b960-258911816383"
 }

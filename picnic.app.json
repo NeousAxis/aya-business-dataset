@@ -1,20 +1,11 @@
 {
   "entity_id": "ba648b20-bb50-53a8-abbd-3bf62d8cf574",
   "name": "Picnic",
-  "what_it_does": "Picnic is an online supermarket that delivers groceries directly to customers using electric vehicles.",
+  "what_it_does": "Picnic is a collaborative video editing application.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Netherlands",
-  "keywords": [
-    "grocery delivery",
-    "online supermarket",
-    "home grocery",
-    "food delivery service",
-    "e-grocery",
-    "supermarket delivery",
-    "fresh produce delivery",
-    "household grocery"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ba648b20-bb50-53a8-abbd-3bf62d8cf574"
 }

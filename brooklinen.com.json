@@ -1,20 +1,11 @@
 {
   "entity_id": "2b6afd63-d425-50a9-a98b-45a680d39422",
   "name": "Brooklinen",
-  "what_it_does": "Brooklinen sells bedding and home goods directly to consumers online.",
+  "what_it_does": "Brooklinen sells bedding and home goods online.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "bed sheets",
-    "towels",
-    "home textiles",
-    "bedding",
-    "direct-to-consumer",
-    "linen",
-    "home goods",
-    "bedroom decor"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2b6afd63-d425-50a9-a98b-45a680d39422"
 }

@@ -1,19 +1,11 @@
 {
-  "entity_id": "1bf477fe-76a1-53c2-a258-ecbe55d23baf",
-  "name": "Boss",
-  "what_it_does": "BOSS provides professional and educational resources to staffing and recruiting firms.",
+  "entity_id": "da0856a7-5354-5da1-8655-23e63ccb2833",
+  "name": "BOSS",
+  "what_it_does": "BOSS.info likely offers business operating system solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [
-    "low-code development",
-    "no-code development",
-    "IT automation",
-    "application development",
-    "enterprise software",
-    "process automation",
-    "development tools"
-  ],
-  "aio_score": 36.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/1bf477fe-76a1-53c2-a258-ecbe55d23baf"
+  "location": "United States",
+  "keywords": [],
+  "aio_score": 50.0,
+  "certificate_url": "https://ai-visionary.com/aya/e/da0856a7-5354-5da1-8655-23e63ccb2833"
 }

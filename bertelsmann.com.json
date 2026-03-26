@@ -1,20 +1,11 @@
 {
   "entity_id": "d68bd4e7-9be0-5cc2-8396-9fde643ab9c3",
   "name": "Bertelsmann Homepage",
-  "what_it_does": "Bertelsmann is a multinational media conglomerate with holdings in television, publishing, and music.",
+  "what_it_does": "Bertelsmann is a media conglomerate with holdings in television, publishing, and education.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "media conglomerate",
-    "broadcasting",
-    "publishing",
-    "content production",
-    "global media",
-    "entertainment",
-    "book publishing",
-    "magazine publishing"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d68bd4e7-9be0-5cc2-8396-9fde643ab9c3"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "9b703fcb-2535-56af-b922-b0ad1a6ca4a5",
   "name": "Aramco",
-  "what_it_does": "Aramco is a Chinese tourism and transportation company.",
+  "what_it_does": "Aramco is a Saudi Arabian multinational petroleum and natural gas company.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "China",
-  "keywords": [
-    "oil production",
-    "gas exploration",
-    "petroleum refining",
-    "energy sector",
-    "crude oil",
-    "natural gas",
-    "Saudi Arabia",
-    "petrochemicals"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9b703fcb-2535-56af-b922-b0ad1a6ca4a5"
 }

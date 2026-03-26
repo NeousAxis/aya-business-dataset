@@ -1,19 +1,11 @@
 {
   "entity_id": "09c8eaa0-4afe-5731-8b03-2be30cd87788",
   "name": "Bloomenergy",
-  "what_it_does": "Bloomenergy manufactures solid oxide fuel cells for on-site power generation.",
+  "what_it_does": "Bloomenergy manufactures and sells fuel cell systems for on-site power generation.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "fuel cell generators",
-    "on-site power generation",
-    "distributed generation",
-    "clean energy",
-    "power generation",
-    "fuel cell technology",
-    "electricity generation"
-  ],
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/09c8eaa0-4afe-5731-8b03-2be30cd87788"
 }

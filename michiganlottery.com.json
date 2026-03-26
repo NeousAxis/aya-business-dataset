@@ -1,19 +1,11 @@
 {
   "entity_id": "263d7f3a-ebbe-57a1-b9eb-d12af45dca10",
   "name": "Official Michigan Lottery Homepage",
-  "what_it_does": "Michigan Lottery operates the state-run lottery, selling tickets and awarding prizes.",
+  "what_it_does": "The Michigan Lottery sells lottery tickets online and at retail locations.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
-  "keywords": [
-    "Michigan lottery",
-    "lottery tickets",
-    "online lottery",
-    "state lottery",
-    "gambling",
-    "draw games",
-    "instant games"
-  ],
+  "keywords": [],
   "aio_score": 22.0,
   "certificate_url": "https://ai-visionary.com/aya/e/263d7f3a-ebbe-57a1-b9eb-d12af45dca10"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "e10533a8-9c20-54a0-98c9-df1a3e98a283",
   "name": "SushiZen",
-  "what_it_does": "SushiZen is a sushi restaurant operating in Switzerland.",
+  "what_it_does": "SushiZen is an online retailer selling sushi in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [
-    "sushi restaurant",
-    "sushi delivery",
-    "sushi takeaway",
-    "Japanese cuisine",
-    "Swiss restaurants",
-    "fresh sushi",
-    "e-commerce sushi",
-    "Switzerland"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e10533a8-9c20-54a0-98c9-df1a3e98a283"
 }

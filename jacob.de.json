@@ -1,20 +1,11 @@
 {
   "entity_id": "8c5e470f-74e8-5e2b-a572-377eb828bd20",
   "name": "JACOB.de",
-  "what_it_does": "JACOB.de is an online retailer of electronics and IT products.",
+  "what_it_does": "JACOB.de is an online retailer of computer hardware and electronics.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "electronics retailer",
-    "computer hardware",
-    "IT products",
-    "online retailer",
-    "German retailer",
-    "consumer electronics",
-    "PC components",
-    "electronic devices"
-  ],
+  "keywords": [],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8c5e470f-74e8-5e2b-a572-377eb828bd20"
 }

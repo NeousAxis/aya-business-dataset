@@ -1,19 +1,11 @@
 {
   "entity_id": "c6db007f-9eaf-5f0a-bf41-d955c2c230bc",
   "name": "Spline",
-  "what_it_does": "Spline is a collaborative 3D design software for the web.",
+  "what_it_does": "Spline is a web-based 3D design tool for creating interactive experiences.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "3D design",
-    "collaborative design",
-    "web design",
-    "design software",
-    "creative tools",
-    "3D modeling",
-    "prototyping"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c6db007f-9eaf-5f0a-bf41-d955c2c230bc"
 }

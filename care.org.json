@@ -1,20 +1,11 @@
 {
   "entity_id": "6b20d2a7-f744-597f-ac4a-9a19f6f6494d",
   "name": "CARE",
-  "what_it_does": "CARE is a humanitarian organization fighting global poverty.",
+  "what_it_does": "CARE is a humanitarian organization delivering emergency relief and long-term international development projects.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "humanitarian aid",
-    "poverty reduction",
-    "international development",
-    "disaster relief",
-    "global charity",
-    "emergency response",
-    "community development",
-    "non-profit organization"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6b20d2a7-f744-597f-ac4a-9a19f6f6494d"
 }

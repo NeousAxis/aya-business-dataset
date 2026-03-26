@@ -1,20 +1,11 @@
 {
   "entity_id": "08409acd-ad9b-5e7f-b5f9-abefca7af31e",
   "name": "Valora",
-  "what_it_does": "Valora operates a network of retail stores and food service outlets.",
+  "what_it_does": "Valora operates a network of convenience stores and food service outlets.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "kiosks",
-    "convenience stores",
-    "retail",
-    "food retail",
-    "newsstands",
-    "Europe",
-    "small-format retail",
-    "on-the-go snacks"
-  ],
+  "keywords": [],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/08409acd-ad9b-5e7f-b5f9-abefca7af31e"
 }

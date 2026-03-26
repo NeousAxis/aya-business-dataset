@@ -1,19 +1,11 @@
 {
   "entity_id": "562febff-2ba3-5a4a-83f2-5a75dc9dda63",
   "name": "Baloise",
-  "what_it_does": "Baloise (International) provides news and media content, likely related to the Baloise Group's activities.",
+  "what_it_does": "Baloise (International) likely publishes media content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "insurance products",
-    "financial services",
-    "risk management",
-    "investment solutions",
-    "insurance coverage",
-    "insurance brokerage",
-    "financial planning"
-  ],
+  "keywords": [],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/562febff-2ba3-5a4a-83f2-5a75dc9dda63"
 }

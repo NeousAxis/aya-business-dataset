@@ -1,20 +1,11 @@
 {
   "entity_id": "542d380b-4d1c-5d06-8940-d7d0f2c24aa2",
   "name": "Elsevier",
-  "what_it_does": "Elsevier is a publishing company specializing in scientific, technical, and medical content.",
+  "what_it_does": "Elsevier publishes science and health information.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
-  "location": "Taiwan",
-  "keywords": [
-    "scientific publications",
-    "technical publications",
-    "medical publications",
-    "academic journals",
-    "research databases",
-    "scientific research",
-    "medical research",
-    "scholarly content"
-  ],
+  "location": "Japan",
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/542d380b-4d1c-5d06-8940-d7d0f2c24aa2"
 }

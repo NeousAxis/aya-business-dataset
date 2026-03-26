@@ -1,20 +1,11 @@
 {
   "entity_id": "75432b89-0ca9-511e-be92-0e7c14767846",
   "name": "UNI",
-  "what_it_does": "UNI likely provides services related to university education in Italy.",
+  "what_it_does": "UNI is likely an Italian university or educational institution.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Italy",
-  "keywords": [
-    "Italian universities",
-    "higher education",
-    "university programs",
-    "academic studies",
-    "student education",
-    "tertiary education",
-    "Italian education",
-    "university courses"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/75432b89-0ca9-511e-be92-0e7c14767846"
 }

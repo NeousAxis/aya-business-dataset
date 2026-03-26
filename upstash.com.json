@@ -1,20 +1,11 @@
 {
   "entity_id": "3450951b-8386-5035-940d-4cf2da7528f7",
   "name": "Upstash",
-  "what_it_does": "Upstash offers a serverless Redis database solution for developers.",
+  "what_it_does": "Upstash offers a serverless Redis database service.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "base de données redis",
-    "redis serverless",
-    "stockage de données",
-    "noSQL",
-    "cache",
-    "développeurs",
-    "persistance des données",
-    "data cloud"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3450951b-8386-5035-940d-4cf2da7528f7"
 }

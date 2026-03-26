@@ -1,19 +1,11 @@
 {
   "entity_id": "b0552ef7-abe0-540c-8c47-39e02099b3ae",
   "name": "Xendit",
-  "what_it_does": "Xendit provides payment gateway services for businesses in Southeast Asia.",
+  "what_it_does": "Xendit provides payment gateway services in Southeast Asia.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "PH",
-  "keywords": [
-    "Southeast Asia payments",
-    "e-commerce payments",
-    "retail payments",
-    "payment gateway",
-    "online transactions",
-    "payment processing",
-    "API integration"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b0552ef7-abe0-540c-8c47-39e02099b3ae"
 }

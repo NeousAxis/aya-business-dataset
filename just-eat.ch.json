@@ -1,20 +1,11 @@
 {
   "entity_id": "9b71bea4-416e-50c5-931d-5a2349a6503e",
   "name": "Just Eat",
-  "what_it_does": "Just Eat operates an online food ordering and delivery platform.",
+  "what_it_does": "Just Eat is an online food order and delivery service in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Switzerland",
-  "keywords": [
-    "food ordering",
-    "takeaway delivery",
-    "restaurant aggregator",
-    "local restaurants",
-    "food marketplace",
-    "meal delivery",
-    "Swiss food",
-    "cuisine delivery"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9b71bea4-416e-50c5-931d-5a2349a6503e"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "a11888dc-fc87-5093-98f8-d9a411bf2ff7",
   "name": "DR",
-  "what_it_does": "DR is the Danish Broadcasting Corporation, Denmark's national public-service broadcaster.",
+  "what_it_does": "DR is Denmark's national public-service broadcaster.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Denmark",
-  "keywords": [
-    "Danish broadcasting",
-    "public broadcasting",
-    "national broadcaster",
-    "radio broadcasting",
-    "television broadcasting",
-    "news ",
-    "Danish media",
-    "cultural programming"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a11888dc-fc87-5093-98f8-d9a411bf2ff7"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "2c49bb60-9e4d-55e5-9591-2592acd8c173",
   "name": "Qualcomm",
-  "what_it_does": "Qualcomm develops and manufactures semiconductors and wireless telecommunications equipment.",
+  "what_it_does": "Qualcomm designs and markets wireless telecommunications products and services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "semiconductors",
-    "wireless technology",
-    "mobile processors",
-    "telecommunications equipment",
-    "chipsets",
-    "wireless solutions",
-    "Qualcomm",
-    "mobile technology"
-  ],
+  "keywords": [],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2c49bb60-9e4d-55e5-9591-2592acd8c173"
 }

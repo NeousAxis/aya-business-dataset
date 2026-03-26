@@ -1,20 +1,11 @@
 {
   "entity_id": "e844eb48-7de5-5dfa-b6ca-1f7eee55f3dd",
   "name": "EDF",
-  "what_it_does": "EDF likely provides food and beverage services in France.",
+  "what_it_does": "EDF (Électricité de France) is a French multinational electric utility company.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "France",
-  "keywords": [
-    "French catering",
-    "food services",
-    "restaurant services",
-    "event catering",
-    "meal preparation",
-    "food delivery",
-    "corporate catering",
-    "catering solutions"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e844eb48-7de5-5dfa-b6ca-1f7eee55f3dd"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "d554a380-b803-5f1a-b1f7-e43d3e7636b4",
   "name": "Arsenal FC Official Website",
-  "what_it_does": "Arsenal FC's website provides news, scores, and merchandise related to the Arsenal Football Club.",
-  "for_who": "Media professionals and audiences.",
-  "category": "Media & Communication",
+  "what_it_does": "Arsenal Football Club is a professional football club based in London, England.",
+  "for_who": "Businesses and professionals.",
+  "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [
-    "arsenal fc",
-    "football anglais",
-    "premier league",
-    "actualités sportives",
-    "produits dérivés arsenal",
-    "billets arsenal",
-    "site officiel football"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d554a380-b803-5f1a-b1f7-e43d3e7636b4"
 }

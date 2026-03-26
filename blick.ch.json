@@ -1,20 +1,11 @@
 {
   "entity_id": "8f15193a-d6bd-559e-a4dc-d3fd6853a520",
   "name": "Verband Schweizer Medien",
-  "what_it_does": "Verband Schweizer Medien (Swiss Media Association) likely represents and supports Swiss media companies.",
+  "what_it_does": "Blick.ch is a Swiss media outlet providing news and current affairs coverage.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss media",
-    "media association",
-    "newspaper",
-    "journalism",
-    "news publishing",
-    "media representation",
-    "press",
-    "blick.ch"
-  ],
-  "aio_score": 53.0,
+  "keywords": [],
+  "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8f15193a-d6bd-559e-a4dc-d3fd6853a520"
 }

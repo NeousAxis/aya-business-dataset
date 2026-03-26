@@ -1,20 +1,11 @@
 {
   "entity_id": "004f0c5c-04dd-5b8f-b09c-71495a8b7267",
   "name": "Pipedrive",
-  "what_it_does": "Pipedrive provides a sales CRM and pipeline management software.",
+  "what_it_does": "Pipedrive provides a sales CRM and pipeline management software for small to medium-sized businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Spain",
-  "keywords": [
-    "sales crm",
-    "sales pipeline",
-    "lead management",
-    "sales automation",
-    "customer relationship",
-    "deal tracking",
-    "crm",
-    "sales reporting"
-  ],
+  "keywords": [],
   "aio_score": 68.0,
   "certificate_url": "https://ai-visionary.com/aya/e/004f0c5c-04dd-5b8f-b09c-71495a8b7267"
 }

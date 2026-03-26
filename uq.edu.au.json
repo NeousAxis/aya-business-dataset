@@ -1,20 +1,11 @@
 {
   "entity_id": "346a20a4-3d95-5334-9725-0b666a805946",
   "name": "Uq",
-  "what_it_does": "Uq (University of Queensland) is a public research university in Australia offering a variety of academic programs.",
+  "what_it_does": "The University of Queensland is a public research university in Australia.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Australia",
-  "keywords": [
-    "université",
-    "enseignement supérieur",
-    "recherche universitaire",
-    "programmes universitaires",
-    "étudiants",
-    "éducation australie",
-    "formation",
-    "campus universitaire"
-  ],
+  "keywords": [],
   "aio_score": 67.0,
   "certificate_url": "https://ai-visionary.com/aya/e/346a20a4-3d95-5334-9725-0b666a805946"
 }

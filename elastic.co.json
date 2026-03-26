@@ -1,20 +1,11 @@
 {
   "entity_id": "865112d7-d78e-55b9-8d99-2dbed57c50eb",
   "name": "Elastic",
-  "what_it_does": "Elastic provides search, observability, and security solutions based on the Elastic Stack.",
+  "what_it_does": "Elastic provides a search and analytics engine for structured and unstructured data.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "search solutions",
-    "observability tools",
-    "security analytics",
-    "data indexing",
-    "real-time analysis",
-    "enterprise search",
-    "log analytics",
-    "Elastic suite"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/865112d7-d78e-55b9-8d99-2dbed57c50eb"
 }

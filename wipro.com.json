@@ -1,19 +1,11 @@
 {
   "entity_id": "ee3a8f45-f7c1-57c9-baf5-2579ce38ed50",
   "name": "Wipro",
-  "what_it_does": "Wipro is an IT services and consulting company providing digital strategy, technology, and operations solutions.",
+  "what_it_does": "Wipro provides information technology, consulting, and business process services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "India",
-  "keywords": [
-    "IT outsourcing",
-    "IT strategy",
-    "IT consulting",
-    "digital transformation",
-    "information technology",
-    "enterprise solutions",
-    "global IT"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ee3a8f45-f7c1-57c9-baf5-2579ce38ed50"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "bff6d603-b69b-5670-9bec-127f7edd879f",
   "name": "Betsafe",
-  "what_it_does": "Betsafe is an online gambling company offering sports betting and casino games.",
+  "what_it_does": "Betsafe is an online gambling platform offering sports betting and casino games.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "sports betting",
-    "casino games",
-    "online poker",
-    "online gambling",
-    "internet wagering",
-    "online gaming",
-    "risk management"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bff6d603-b69b-5670-9bec-127f7edd879f"
 }

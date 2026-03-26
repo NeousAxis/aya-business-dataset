@@ -1,19 +1,11 @@
 {
   "entity_id": "ef691afc-e12c-5ecb-b17a-84eb0b95aae3",
   "name": "Identity Digital",
-  "what_it_does": "Identity Digital sells and manages domain name registries.",
+  "what_it_does": "Identity Digital operates a portfolio of new generic top-level domains (gTLDs).",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "domain name registries",
-    "TLD management",
-    "gTLD sales",
-    "domain extensions",
-    "internet infrastructure",
-    "domain name services",
-    "digital assets"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ef691afc-e12c-5ecb-b17a-84eb0b95aae3"
 }

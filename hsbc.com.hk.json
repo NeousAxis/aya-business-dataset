@@ -1,20 +1,11 @@
 {
   "entity_id": "1d4591f0-32d4-598b-b175-68029782ffd5",
   "name": "HSBC Hong Kong",
-  "what_it_does": "HSBC Hong Kong provides a range of banking and financial services to customers in Hong Kong.",
+  "what_it_does": "HSBC Hong Kong provides banking and financial services to customers in Hong Kong.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "Hong Kong banking",
-    "financial services",
-    "retail banking",
-    "commercial banking",
-    "wealth ,anagement",
-    "investment products",
-    "Hong Kong finance",
-    "HSBC Hong Kong"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1d4591f0-32d4-598b-b175-68029782ffd5"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "b5cc3c74-51f3-5e30-bf2a-4f70136012a0",
   "name": "Ava",
-  "what_it_does": "Ava provides real-time transcription and captioning services using AI.",
+  "what_it_does": "Ava provides real-time captioning services for deaf and hard-of-hearing individuals.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
-  "keywords": [
-    "real-time transcription",
-    "live captioning",
-    "AI transcription",
-    "accessibility tools",
-    "speech-to-text",
-    "meeting transcription",
-    "lecture captioning",
-    "communication assistance"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b5cc3c74-51f3-5e30-bf2a-4f70136012a0"
 }

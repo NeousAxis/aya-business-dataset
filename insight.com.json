@@ -1,19 +1,11 @@
 {
   "entity_id": "3f1c4779-b1bb-5324-babe-31d483841d3b",
   "name": "Insight",
-  "what_it_does": "Insight sells computer hardware, software, and IT services to businesses.",
+  "what_it_does": "Insight sells IT hardware, software, and services to businesses.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "IT hardware",
-    "IT products",
-    "enterprise IT",
-    "IT reselling",
-    "computer hardware",
-    "IT services",
-    "business IT"
-  ],
+  "keywords": [],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3f1c4779-b1bb-5324-babe-31d483841d3b"
 }

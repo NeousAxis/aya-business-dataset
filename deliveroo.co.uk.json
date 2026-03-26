@@ -1,20 +1,11 @@
 {
   "entity_id": "32544f76-a060-5b96-ae31-e7e4ef31d450",
   "name": "Deliveroo.co.uk",
-  "what_it_does": "Deliveroo.co.uk is an online food delivery platform operating in the UK.",
+  "what_it_does": "Deliveroo.co.uk operates an online platform for ordering food from restaurants for delivery.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
-  "keywords": [
-    "UK food delivery",
-    "restaurant delivery",
-    "food courier",
-    "meal delivery",
-    "takeaway orders",
-    "delivery network",
-    "online food orders",
-    "UK restaurants"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/32544f76-a060-5b96-ae31-e7e4ef31d450"
 }

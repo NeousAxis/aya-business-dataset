@@ -1,20 +1,11 @@
 {
   "entity_id": "9e637199-029e-5266-ad73-50e45fce23a7",
   "name": "HARVEST.com",
-  "what_it_does": "Harvest.com likely provides equipment and services for agriculture or industrial harvesting.",
+  "what_it_does": "Harvest.com likely connects buyers and sellers of agricultural products and services.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "farm equipment",
-    "agricultural machinery",
-    "harvesting equipment",
-    "crop harvesting",
-    "farming solutions",
-    "agriculture industry",
-    "harvesting tools",
-    "agricultural supplies"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9e637199-029e-5266-ad73-50e45fce23a7"
 }

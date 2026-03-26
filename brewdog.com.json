@@ -1,20 +1,11 @@
 {
   "entity_id": "818f8f55-76ed-547c-b2cd-cbe223be7370",
   "name": "BrewDog",
-  "what_it_does": "BrewDog is a brewery and pub chain that produces and sells craft beer.",
+  "what_it_does": "BrewDog is a brewery and retailer of craft beers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "craft beer",
-    "independent brewery",
-    "beer pubs",
-    "IPA",
-    "stout",
-    "ale",
-    "beer brewing",
-    "beer retail"
-  ],
+  "keywords": [],
   "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/818f8f55-76ed-547c-b2cd-cbe223be7370"
 }

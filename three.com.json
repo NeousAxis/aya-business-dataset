@@ -1,20 +1,11 @@
 {
   "entity_id": "2e432639-47b0-56bc-84cc-f4a831b23aa7",
   "name": "Three.com",
-  "what_it_does": "Three.com likely offers educational resources or courses, possibly with an online learning platform.",
+  "what_it_does": "Three.com likely provides educational or training resources, possibly courses or learning platforms.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "educational resources",
-    "online courses",
-    "learning platform",
-    "training programs",
-    "elearning",
-    "education resources",
-    "course materials",
-    "skill development"
-  ],
+  "keywords": [],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2e432639-47b0-56bc-84cc-f4a831b23aa7"
 }

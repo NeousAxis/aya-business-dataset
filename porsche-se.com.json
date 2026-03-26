@@ -1,19 +1,11 @@
 {
   "entity_id": "8726c141-5ae2-5040-b1ab-dbc5b234180e",
   "name": "Porsche SE",
-  "what_it_does": "Porsche SE is a holding company that invests in the automotive industry, primarily Volkswagen Group.",
+  "what_it_does": "Porsche SE is a holding company with a majority stake in Volkswagen AG.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "holding entity",
-    "Volkswagen AG",
-    "automotive investments",
-    "investment management",
-    "major shareholder",
-    "automotive industry",
-    "financial investments"
-  ],
+  "keywords": [],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8726c141-5ae2-5040-b1ab-dbc5b234180e"
 }

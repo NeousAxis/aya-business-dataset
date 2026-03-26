@@ -1,19 +1,11 @@
 {
   "entity_id": "7ef126c6-91cc-5e34-abc5-6a2183eebdcb",
   "name": "Sentry",
-  "what_it_does": "Sentry provides error tracking and performance monitoring for software developers.",
+  "what_it_does": "Sentry provides an application monitoring platform for software developers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "error tracking",
-    "performance monitoring",
-    "software debugging",
-    "developer tools",
-    "application monitoring",
-    "code analysis",
-    "software errors"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7ef126c6-91cc-5e34-abc5-6a2183eebdcb"
 }

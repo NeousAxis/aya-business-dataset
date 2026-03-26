@@ -1,20 +1,11 @@
 {
   "entity_id": "bbe70dc9-f662-53ee-8ecc-e20e3226bd86",
-  "name": "Naval Group",
-  "what_it_does": "Naval Group designs, builds, and supports naval defense systems and vessels.",
+  "name": "Naval Group ⎮ Un groupe international",
+  "what_it_does": "Naval Group designs, builds, and supports naval defense systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "naval defense systems",
-    "naval ship construction",
-    "submarine design",
-    "maritime security",
-    "ship maintenance",
-    "defense technology",
-    "warships",
-    "naval vessels"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bbe70dc9-f662-53ee-8ecc-e20e3226bd86"
 }

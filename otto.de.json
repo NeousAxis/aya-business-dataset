@@ -1,19 +1,11 @@
 {
   "entity_id": "6e4bba1d-d81e-5f76-b8e1-3e4036223d8c",
   "name": "OTTO",
-  "what_it_does": "OTTO is a German e-commerce company selling a wide range of products, including fashion and home goods.",
+  "what_it_does": "OTTO is a German e-commerce company specializing in fashion, home goods, and electronics.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "e-commerce",
-    "fashion",
-    "furniture",
-    "home",
-    "online retail",
-    "mail order",
-    "clothing"
-  ],
+  "keywords": [],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6e4bba1d-d81e-5f76-b8e1-3e4036223d8c"
 }

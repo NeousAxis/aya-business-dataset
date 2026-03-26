@@ -1,20 +1,11 @@
 {
   "entity_id": "bb7e6a9e-1c7e-5a0b-ad1d-3aa963d3ced7",
   "name": "Emmi Group",
-  "what_it_does": "Emmi Group is a Swiss milk processing company producing and distributing dairy products.",
+  "what_it_does": "Emmi Group is a Swiss milk processor and dairy company.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [
-    "dairy products",
-    "Swiss dairy",
-    "milk processing",
-    "cheese production",
-    "yogurt",
-    "dairy distribution",
-    "Emmi cheese",
-    "milk products"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bb7e6a9e-1c7e-5a0b-ad1d-3aa963d3ced7"
 }

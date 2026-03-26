@@ -1,19 +1,11 @@
 {
   "entity_id": "5fac0578-fdbc-59a6-add7-b80b5014aeb3",
   "name": "SolarWinds",
-  "what_it_does": "SolarWinds provides IT management and monitoring software.",
+  "what_it_does": "SolarWinds develops IT management software for networks, systems, and information technology infrastructure.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "IT monitoring",
-    "network management",
-    "systems management",
-    "IT infrastructure",
-    "database monitoring",
-    "application monitoring",
-    "IT performance"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5fac0578-fdbc-59a6-add7-b80b5014aeb3"
 }

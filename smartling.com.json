@@ -1,20 +1,11 @@
 {
   "entity_id": "44d6e7ac-9a67-5bba-9b7f-07f89a9c04f9",
   "name": "Smartling",
-  "what_it_does": "Smartling provides a cloud-based translation management platform.",
+  "what_it_does": "Smartling offers a cloud-based translation management system for global businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "translation management",
-    "cloud translation",
-    "localization platform",
-    "language translation",
-    "global content",
-    "translation workflow",
-    "multilingual content",
-    "localization solutions"
-  ],
+  "keywords": [],
   "aio_score": 80.0,
   "certificate_url": "https://ai-visionary.com/aya/e/44d6e7ac-9a67-5bba-9b7f-07f89a9c04f9"
 }

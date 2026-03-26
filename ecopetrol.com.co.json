@@ -1,20 +1,11 @@
 {
   "entity_id": "802e5e29-dab4-581f-8bba-dde4f348d7d4",
   "name": "Ecopetrol",
-  "what_it_does": "Ecopetrol is the largest oil and gas company in Colombia.",
+  "what_it_does": "Ecopetrol is a Colombian oil and gas company involved in exploration, production, and refining.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "oil and gas",
-    "petroleum products",
-    "crude oil",
-    "natural gas",
-    "energy production",
-    "fuel distribution",
-    "Colombian oil",
-    "hydrocarbon exploration"
-  ],
-  "aio_score": 50.0,
+  "keywords": [],
+  "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/802e5e29-dab4-581f-8bba-dde4f348d7d4"
 }

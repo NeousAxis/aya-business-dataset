@@ -1,20 +1,11 @@
 {
   "entity_id": "a2e2976b-a563-5d01-bfe9-31b441ca069a",
   "name": "UNSW Sydney",
-  "what_it_does": "UNSW Sydney is a leading Australian research and teaching university.",
+  "what_it_does": "UNSW Sydney (University of New South Wales) is a public research and teaching university in Sydney, Australia.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Australia",
-  "keywords": [
-    "research university",
-    "higher education",
-    "Australian university",
-    "undergraduate programs",
-    "graduate programs",
-    "Sydney campus",
-    "academic research",
-    "university courses"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a2e2976b-a563-5d01-bfe9-31b441ca069a"
 }

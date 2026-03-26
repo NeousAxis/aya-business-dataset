@@ -1,20 +1,11 @@
 {
   "entity_id": "1c1e7670-bfe6-50d7-a013-5accf081b813",
   "name": "Coinbase",
-  "what_it_does": "Coinbase is a cryptocurrency exchange platform for buying, selling, and managing digital currencies.",
+  "what_it_does": "Coinbase operates a cryptocurrency exchange platform.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
-  "location": "Global",
-  "keywords": [
-    "cryptocurrency exchange",
-    "digital currency",
-    "bitcoin",
-    "ethereum",
-    "crypto trading",
-    "blockchain assets",
-    "crypto wallet",
-    "digital asset exchange"
-  ],
-  "aio_score": 57.0,
+  "location": "United States",
+  "keywords": [],
+  "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1c1e7670-bfe6-50d7-a013-5accf081b813"
 }

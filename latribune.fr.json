@@ -1,20 +1,11 @@
 {
   "entity_id": "a5b9d235-6a12-5fec-89f6-1f7b8c703a3a",
   "name": "La Tribune",
-  "what_it_does": "La Tribune is a French business and financial newspaper providing economic news and analysis.",
+  "what_it_does": "La Tribune is a French business and finance newspaper.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "French business newspaper",
-    "financial news",
-    "economic analysis",
-    "stock market news",
-    "business information",
-    "financial markets",
-    "French economy",
-    "investment advice"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a5b9d235-6a12-5fec-89f6-1f7b8c703a3a"
 }

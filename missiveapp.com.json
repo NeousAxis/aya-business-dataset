@@ -1,20 +1,11 @@
 {
   "entity_id": "a073c395-dc39-5d40-86e4-b434f8a5f63b",
   "name": "Missive",
-  "what_it_does": "Missive offers a collaborative email and team chat application.",
+  "what_it_does": "Missive is a collaborative email client.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "collaborative email",
-    "team chat",
-    "email client",
-    "shared inbox",
-    "workflow automation",
-    "email management",
-    "communication software",
-    "email collaboration"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a073c395-dc39-5d40-86e4-b434f8a5f63b"
 }

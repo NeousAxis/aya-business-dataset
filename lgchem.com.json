@@ -1,20 +1,11 @@
 {
   "entity_id": "9e69cfea-656a-58e0-8d71-c505ec15c4bd",
   "name": "LG Chem",
-  "what_it_does": "LG Chem is a chemical company that produces petrochemicals, advanced materials, and energy solutions.",
+  "what_it_does": "LG Chem is a South Korean chemical company producing petrochemicals, advanced materials, and energy solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "South Korea",
-  "keywords": [
-    "petrochemical products",
-    "advanced materials",
-    "energy solutions",
-    "chemical manufacturing",
-    "plastics",
-    "industrial chemicals",
-    "battery materials",
-    "specialty polymers"
-  ],
+  "keywords": [],
   "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9e69cfea-656a-58e0-8d71-c505ec15c4bd"
 }

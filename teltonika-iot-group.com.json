@@ -1,19 +1,11 @@
 {
   "entity_id": "be740e98-58e0-589c-9a00-f58e49ff3e5f",
   "name": "Teltonika IoT Group",
-  "what_it_does": "Teltonika IoT Group manufactures IoT devices and solutions.",
+  "what_it_does": "Teltonika IoT Group designs and manufactures IoT devices and solutions for various industries.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "LT",
-  "keywords": [
-    "IoT devices",
-    "IoT solutions",
-    "telematics",
-    "GPS trackers",
-    "networking equipment",
-    "IoT hardware",
-    "Teltonika"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/be740e98-58e0-589c-9a00-f58e49ff3e5f"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "a246545d-cc94-5853-98fc-8bf6969cec51",
   "name": "Hetkessä kiinni",
-  "what_it_does": "Yleisradio (Yle) is Finland's national public broadcasting company, providing television, radio, and online services.",
+  "what_it_does": "Yle.fi is the website for Yle, the Finnish public service broadcasting company, providing news, entertainment, and other media content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Finland",
-  "keywords": [
-    "public broadcasting",
-    "Finnish media",
-    "TV broadcasting",
-    "radio broadcasting",
-    "news ",
-    "cultural programming",
-    "Finnish news",
-    "entertainment "
-  ],
-  "aio_score": 35.0,
+  "keywords": [],
+  "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a246545d-cc94-5853-98fc-8bf6969cec51"
 }

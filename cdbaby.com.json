@@ -1,19 +1,11 @@
 {
   "entity_id": "cbdb8b31-3c67-5c8d-8856-fa9bfb31c1b6",
   "name": "CD Baby",
-  "what_it_does": "CD Baby is an online distributor of independent music, selling CDs and digital downloads for artists.",
+  "what_it_does": "CD Baby distributes and sells music for independent artists.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "independent music",
-    "music distribution",
-    "CD sales",
-    "digital music downloads",
-    "artist platform",
-    "music e-commerce",
-    "musician services"
-  ],
+  "keywords": [],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cbdb8b31-3c67-5c8d-8856-fa9bfb31c1b6"
 }

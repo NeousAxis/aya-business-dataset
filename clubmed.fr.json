@@ -1,19 +1,11 @@
 {
   "entity_id": "dc33d3be-6749-569b-a875-a11424d1bbe3",
   "name": "Club Med",
-  "what_it_does": "Club Med provides all-inclusive holiday packages at resort locations.",
+  "what_it_does": "Club Med operates all-inclusive resorts around the world.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "all-inclusive vacations",
-    "holiday packages",
-    "resort vacations",
-    "family travel",
-    "international resorts",
-    "beach resorts",
-    "vacation villages"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dc33d3be-6749-569b-a875-a11424d1bbe3"
 }

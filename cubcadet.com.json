@@ -1,20 +1,11 @@
 {
   "entity_id": "831f6f93-48bb-5924-85cc-bbffcd64e353",
   "name": "Cub Cadet",
-  "what_it_does": "Cub Cadet sells lawn mowers and outdoor power equipment.",
+  "what_it_does": "Cub Cadet manufactures and sells outdoor power equipment like lawn mowers and snow blowers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [
-    "lawn mowers",
-    "outdoor power equipment",
-    "garden tractors",
-    "zero-turn mowers",
-    "snow blowers",
-    "lawn care",
-    "residential landscaping",
-    "riding mowers"
-  ],
+  "keywords": [],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/831f6f93-48bb-5924-85cc-bbffcd64e353"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "387dad7c-450d-5844-8f32-25cd118df2e9",
   "name": "Humboldt-Universität zu Berlin",
-  "what_it_does": "Humboldt-Universität zu Berlin is a public university offering a wide range of academic programs.",
+  "what_it_does": "Humboldt-Universität zu Berlin is a public university in Berlin, Germany.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Germany",
-  "keywords": [
-    "Berlin university",
-    "higher education",
-    "academic programs",
-    "research institution",
-    "German university",
-    "undergraduate degrees",
-    "graduate degrees",
-    "public university"
-  ],
+  "keywords": [],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/387dad7c-450d-5844-8f32-25cd118df2e9"
 }

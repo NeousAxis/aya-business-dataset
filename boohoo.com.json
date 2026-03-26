@@ -1,20 +1,11 @@
 {
   "entity_id": "45c0dbc2-0cd8-50b5-8127-075444298ee3",
   "name": "Boohoo",
-  "what_it_does": "Boohoo is a UK-based online fashion retailer targeting young adults.",
+  "what_it_does": "Boohoo is a British online fashion retailer targeting young adults.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Kingdom",
-  "keywords": [
-    "fast fashion",
-    "clothing retailer",
-    "young adults",
-    "womenswear",
-    "menswear",
-    "uk fashion",
-    "trend clothing",
-    "affordable fashion"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/45c0dbc2-0cd8-50b5-8127-075444298ee3"
 }

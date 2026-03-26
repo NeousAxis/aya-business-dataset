@@ -1,20 +1,11 @@
 {
   "entity_id": "c82ac748-2567-57dd-aa81-2d6d483fa848",
   "name": "Theglobalfund",
-  "what_it_does": "The Global Fund provides financing to combat AIDS, tuberculosis, and malaria.",
+  "what_it_does": "The Global Fund is an international organization that fights AIDS, tuberculosis and malaria.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "global health",
-    "AIDS funding",
-    "tuberculosis funding",
-    "malaria funding",
-    "disease prevention",
-    "international aid",
-    "health initiatives",
-    "global pandemics"
-  ],
+  "keywords": [],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c82ac748-2567-57dd-aa81-2d6d483fa848"
 }

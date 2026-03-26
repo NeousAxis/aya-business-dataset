@@ -1,20 +1,11 @@
 {
   "entity_id": "86382f11-9be7-54ad-9d57-59135054be06",
   "name": "Brown-Forman Corporation",
-  "what_it_does": "Brown-Forman Corporation produces and markets alcoholic beverages, including whiskey, tequila, and vodka.",
+  "what_it_does": "Brown-Forman Corporation produces and markets alcoholic beverages, including whiskey, tequila, and wine.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "alcoholic beverages",
-    "whiskey",
-    "tequila",
-    "spirits",
-    "liquor",
-    "bourbon",
-    "scotch",
-    "wine"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/86382f11-9be7-54ad-9d57-59135054be06"
 }

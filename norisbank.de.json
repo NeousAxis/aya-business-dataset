@@ -1,19 +1,11 @@
 {
   "entity_id": "7622d2b1-e2c2-54be-b274-4cb8034ffba4",
   "name": "norisbank",
-  "what_it_does": "Norisbank is a German direct bank offering retail banking services.",
+  "what_it_does": "Norisbank is a German bank offering retail banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Germany",
-  "keywords": [
-    "direct banking",
-    "retail banking",
-    "consumer loans",
-    "checking accounts",
-    "credit cards",
-    "german bank",
-    "online banking"
-  ],
+  "keywords": [],
   "aio_score": 63.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7622d2b1-e2c2-54be-b274-4cb8034ffba4"
 }

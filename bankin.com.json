@@ -1,20 +1,11 @@
 {
   "entity_id": "139e169d-2baa-5a44-bb7c-ba6abf361c94",
   "name": "Bankin'",
-  "what_it_does": "Bankin' is a personal finance management application that aggregates financial accounts.",
+  "what_it_does": "Bankin' provides a personal finance management application.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "personal finance",
-    "budgeting",
-    "financial aggregation",
-    "expense tracking",
-    "bank account linking",
-    "financial planning",
-    "money management",
-    "banking aggregation"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/139e169d-2baa-5a44-bb7c-ba6abf361c94"
 }

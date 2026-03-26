@@ -1,20 +1,11 @@
 {
   "entity_id": "bb575405-3008-57ed-adaa-e441daeba87e",
   "name": "tibits",
-  "what_it_does": "tibits is a chain of vegetarian restaurants in Switzerland.",
+  "what_it_does": "Tibits is a chain of vegetarian and vegan restaurants offering a buffet-style dining experience.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Switzerland",
-  "keywords": [
-    "vegetarian restaurants",
-    "Swiss restaurants",
-    "vegetarian buffet",
-    "fresh vegetarian food",
-    "healthy eating",
-    "plant-based dining",
-    "takeaway food",
-    "vegetarian cuisine"
-  ],
+  "keywords": [],
   "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bb575405-3008-57ed-adaa-e441daeba87e"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "39064d6e-31ab-5af2-8045-c4037b4fd836",
   "name": "Magnolia International Ltd.",
-  "what_it_does": "Magnolia International provides a content management system (CMS) for enterprises.",
+  "what_it_does": "Magnolia International offers a Java-based content management system (CMS) for enterprises.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [
-    "enterprise CMS",
-    "content repositories",
-    "headless CMS",
-    "content management",
-    "digital experience",
-    "enterprise content",
-    "Java CMS",
-    "multi-channel publishing"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/39064d6e-31ab-5af2-8045-c4037b4fd836"
 }

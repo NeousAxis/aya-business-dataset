@@ -1,20 +1,11 @@
 {
   "entity_id": "1f1ff157-9eb7-52f1-a5d3-af787dffd00a",
   "name": "Die FFHS im Überblick",
-  "what_it_does": "FFHS (Fachhochschule Fernstudium Schweiz) is a Swiss university of applied sciences specializing in distance learning.",
+  "what_it_does": "FFHS.ch is a Swiss university of applied sciences providing distance learning programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [
-    "distance learning",
-    "Swiss university",
-    "part-time studies",
-    "higher education",
-    "professional development",
-    "university degrees",
-    "online courses",
-    "remote education"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1f1ff157-9eb7-52f1-a5d3-af787dffd00a"
 }

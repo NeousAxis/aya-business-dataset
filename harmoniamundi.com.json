@@ -1,20 +1,11 @@
 {
   "entity_id": "142dfefe-e4ae-5993-9b14-bf8ff60d7bb2",
   "name": "harmonia mundi",
-  "what_it_does": "Harmonia Mundi is a record label specializing in classical and world music.",
+  "what_it_does": "harmonia mundi is a record label specializing in classical music recordings.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "classical music label",
-    "world music label",
-    "music recordings",
-    "classical recordings",
-    "world music recordings",
-    "music distribution",
-    "record label",
-    "music production"
-  ],
-  "aio_score": 48.0,
+  "keywords": [],
+  "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/142dfefe-e4ae-5993-9b14-bf8ff60d7bb2"
 }

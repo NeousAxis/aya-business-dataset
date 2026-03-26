@@ -1,19 +1,11 @@
 {
   "entity_id": "379f365f-3965-58f7-aa27-2c7938b6ba53",
   "name": "Onvista",
-  "what_it_does": "Onvista provides financial market information and trading platforms in Germany.",
-  "for_who": "Businesses and professionals.",
-  "category": "Finance & Banque",
+  "what_it_does": "Onvista provides financial news, stock quotes, and portfolio management tools.",
+  "for_who": "Businesses and developers.",
+  "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [
-    "German financial portal",
-    "stock market data",
-    "investment analysis",
-    "financial news",
-    "trading tools",
-    "investment information",
-    "financial instruments"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/379f365f-3965-58f7-aa27-2c7938b6ba53"
 }

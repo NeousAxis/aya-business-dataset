@@ -1,19 +1,11 @@
 {
   "entity_id": "74a6975e-b438-5257-af66-d4cce8291a44",
   "name": "Dott",
-  "what_it_does": "Dott operates shared electric scooters and bikes for urban transportation.",
+  "what_it_does": "Dott operates a shared micromobility service offering electric scooters and e-bikes for urban transportation.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "electric scooters",
-    "e-bikes",
-    "micromobility",
-    "urban transportation",
-    "shared mobility",
-    "scooter sharing",
-    "bike sharing"
-  ],
+  "keywords": [],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/74a6975e-b438-5257-af66-d4cce8291a44"
 }

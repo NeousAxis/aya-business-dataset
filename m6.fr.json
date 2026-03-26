@@ -1,20 +1,11 @@
 {
   "entity_id": "a07fa8ff-5f9a-55b7-af17-370d39a0a686",
   "name": "M6+: émissions et séries en replay et en streaming",
-  "what_it_does": "M6 broadcasts and streams television programs, series, and replays online.",
+  "what_it_does": "M6 offers streaming of French television programs and series.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "French TV",
-    "streaming replay",
-    "TV shows",
-    "series streaming",
-    "video on demand",
-    "French television",
-    "catch-up TV",
-    "entertainment"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a07fa8ff-5f9a-55b7-af17-370d39a0a686"
 }

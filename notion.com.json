@@ -1,20 +1,11 @@
 {
   "entity_id": "7780cd59-decd-52f6-82ec-1fee0e19981c",
   "name": "Notion",
-  "what_it_does": "Notion is a productivity software that provides a workspace for note-taking, project management, and task management.",
+  "what_it_does": "Notion provides a collaborative workspace application for note-taking, project management, and knowledge management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Spain",
-  "keywords": [
-    "Workspace productivity",
-    "Project collaboration",
-    "Note-taking",
-    "Task management",
-    "Knowledge base",
-    "Document sharing",
-    "All-in-one workspace",
-    "Team collaboration"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7780cd59-decd-52f6-82ec-1fee0e19981c"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "ead99591-a6d2-5eec-961d-ee3ff4114281",
   "name": "Gamma",
-  "what_it_does": "Gamma is a collaborative presentation platform.",
-  "for_who": "Businesses and developers.",
-  "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [
-    "presentation platform",
-    "collaborative presentations",
-    "deck creation",
-    "slide design",
-    "visual communication",
-    "presentation software",
-    "interactive presentations",
-    "content creation"
-  ],
+  "what_it_does": "Gamma is a presentation software platform for creating visually engaging content.",
+  "for_who": "Media professionals and audiences.",
+  "category": "Media & Communication",
+  "location": "Brazil",
+  "keywords": [],
   "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ead99591-a6d2-5eec-961d-ee3ff4114281"
 }

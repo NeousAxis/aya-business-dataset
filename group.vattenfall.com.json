@@ -1,19 +1,11 @@
 {
   "entity_id": "fc7128bb-6889-5ed8-a158-a3849dcfe399",
   "name": "Watch Vattenfall video",
-  "what_it_does": "Vattenfall is a European energy company primarily generating and distributing electricity and heat.",
+  "what_it_does": "Vattenfall is a European energy company that generates and distributes electricity and heat.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Sweden",
-  "keywords": [
-    "electricity generation",
-    "energy distribution",
-    "renewable energy",
-    "power grid",
-    "european energy",
-    "vattenfall",
-    "power generation"
-  ],
+  "keywords": [],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fc7128bb-6889-5ed8-a158-a3849dcfe399"
 }

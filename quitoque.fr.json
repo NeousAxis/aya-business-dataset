@@ -1,19 +1,11 @@
 {
   "entity_id": "d87a2610-4b50-5e9e-9856-72caff8c92ad",
   "name": "Quitoque",
-  "what_it_does": "Quitoque delivers meal kit recipes and ingredients to customers in France.",
+  "what_it_does": "Quitoque delivers recipe boxes with fresh ingredients for home cooking.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "France",
-  "keywords": [
-    "meal kit recipes",
-    "ingredient delivery",
-    "French recipes",
-    "recipe boxes",
-    "home cooking",
-    "France food",
-    "dinner ingredients"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d87a2610-4b50-5e9e-9856-72caff8c92ad"
 }

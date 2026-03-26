@@ -1,20 +1,11 @@
 {
   "entity_id": "a8daaabc-d0b4-5ea3-9097-b740bc555ab3",
   "name": "Site Officiel Tunisair",
-  "what_it_does": "Tunisair is the national airline of Tunisia providing air transportation services.",
+  "what_it_does": "Tunisair likely provides flight booking and travel information for the Tunisian national airline.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "TN",
-  "keywords": [
-    "Tunisian airline",
-    "air travel",
-    "flight booking",
-    "Tunisair flights",
-    "North Africa flights",
-    "international flights",
-    "airline tickets",
-    "aviation"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a8daaabc-d0b4-5ea3-9097-b740bc555ab3"
 }

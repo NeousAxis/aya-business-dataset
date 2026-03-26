@@ -1,20 +1,11 @@
 {
   "entity_id": "cbb38968-0262-5c57-81ab-4b918ed5643c",
   "name": "Coveo",
-  "what_it_does": "Coveo provides AI-powered search and personalization solutions for businesses to improve customer experience.",
+  "what_it_does": "Coveo provides AI-powered search and personalization solutions for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "AI search",
-    "personalization",
-    "search relevance",
-    "knowledge management",
-    "content discovery",
-    "AI powered",
-    "enterprise search",
-    "intelligent search"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cbb38968-0262-5c57-81ab-4b918ed5643c"
 }

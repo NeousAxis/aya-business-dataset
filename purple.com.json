@@ -1,19 +1,11 @@
 {
   "entity_id": "d87619de-35da-5e28-b31e-862c4a13a0af",
   "name": "Purple",
-  "what_it_does": "Purple sells mattresses, pillows, and bedding accessories online.",
+  "what_it_does": "Purple sells mattresses and bedding products directly to consumers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "mattresses",
-    "bedding",
-    "pillows",
-    "sleep products",
-    "comfort products",
-    "direct-to-consumer",
-    "online mattress retailer"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d87619de-35da-5e28-b31e-862c4a13a0af"
 }

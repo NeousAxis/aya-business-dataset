@@ -1,20 +1,11 @@
 {
   "entity_id": "6d6b714e-2907-5fd5-9660-dbe69347a44a",
   "name": "Poshmark",
-  "what_it_does": "Poshmark is a social marketplace where users can buy and sell new or used clothing, shoes, and accessories.",
+  "what_it_does": "Poshmark operates an online marketplace for buying and selling new and used clothing and accessories.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Canada",
-  "keywords": [
-    "secondhand fashion",
-    "social marketplace",
-    "clothing resale",
-    "used apparel",
-    "fashion marketplace",
-    "apparel sales",
-    "personal style",
-    "consignment marketplace"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6d6b714e-2907-5fd5-9660-dbe69347a44a"
 }

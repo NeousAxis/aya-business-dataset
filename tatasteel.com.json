@@ -1,20 +1,11 @@
 {
   "entity_id": "de840e5b-4728-5ef5-8a36-1751d9d31aa4",
   "name": "Tata steel",
-  "what_it_does": "Tata Steel is a steel manufacturing company.",
+  "what_it_does": "Tata Steel is a global steel manufacturing company producing a range of steel products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "steel manufacturing",
-    "steel products",
-    "iron ore",
-    "steel sheets",
-    "long products",
-    "automotive steel",
-    "construction steel",
-    "Tata steel"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/de840e5b-4728-5ef5-8a36-1751d9d31aa4"
 }

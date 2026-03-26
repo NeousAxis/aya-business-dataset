@@ -1,19 +1,11 @@
 {
-  "entity_id": "ce098c91-92ef-5b0e-b914-76a0716c2546",
+  "entity_id": "bf378c86-f17f-5c06-b40e-ea15e6b2d006",
   "name": "LVMH",
-  "what_it_does": "LVMH is a multinational corporation specializing in luxury goods including fashion, cosmetics, and wines & spirits.",
+  "what_it_does": "LVMH is a multinational corporation specializing in luxury goods.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
-  "location": "China",
-  "keywords": [
-    "luxury goods",
-    "fashion brands",
-    "cosmetics",
-    "wine and spirits",
-    "luxury retail",
-    "haute couture",
-    "premium brands"
-  ],
+  "location": "France",
+  "keywords": [],
   "aio_score": 50.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/ce098c91-92ef-5b0e-b914-76a0716c2546"
+  "certificate_url": "https://ai-visionary.com/aya/e/bf378c86-f17f-5c06-b40e-ea15e6b2d006"
 }

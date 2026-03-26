@@ -1,20 +1,11 @@
 {
   "entity_id": "156a0f33-4a97-5f5d-9e88-8e1a1c2af653",
   "name": "Adtran",
-  "what_it_does": "Adtran provides telecommunications networking equipment and internet infrastructure solutions.",
+  "what_it_does": "Adtran provides telecommunications equipment and networking solutions for service providers and enterprises.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [
-    "telecommunications equipment",
-    "network infrastructure",
-    "fiber optics",
-    "broadband access",
-    "internet solutions",
-    "voice solutions",
-    "data networking",
-    "access network"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/156a0f33-4a97-5f5d-9e88-8e1a1c2af653"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "ab09c369-4901-570d-a083-3dc5c285b1c4",
   "name": "DNV",
-  "what_it_does": "DNV is a global provider of assurance and risk management services.",
+  "what_it_does": "DNV provides risk management and quality assurance services across various industries.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [
-    "assurance services",
-    "risk management",
-    "maritime assurance",
-    "energy certification",
-    "business assurance",
-    "sustainability services",
-    "independent assessment",
-    "certification services"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab09c369-4901-570d-a083-3dc5c285b1c4"
 }

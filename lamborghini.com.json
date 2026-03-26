@@ -1,20 +1,11 @@
 {
   "entity_id": "b88bfab7-7077-5195-8fd3-0a612f068828",
   "name": "Automobili Lamborghini",
-  "what_it_does": "Automobili Lamborghini manufactures luxury high-performance sports cars.",
+  "what_it_does": "Automobili Lamborghini manufactures and sells luxury sports cars.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "luxury sports cars",
-    "high performance cars",
-    "Italian sports cars",
-    "supercars",
-    "automotive manufacturing",
-    "exotic cars",
-    "V12 engines",
-    "performance vehicles"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b88bfab7-7077-5195-8fd3-0a612f068828"
 }

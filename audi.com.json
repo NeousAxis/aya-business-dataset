@@ -1,20 +1,11 @@
 {
   "entity_id": "963daa1f-f060-5b0d-a61e-26d334602f82",
-  "name": "Audi",
-  "what_it_does": "Audi manufactures and sells luxury automobiles.",
+  "name": "Audi.com â the international Audi website",
+  "what_it_does": "Audi.com is the official website for Audi, showcasing their automotive products and technologies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "luxury automobiles",
-    "premium cars",
-    "automotive manufacturing",
-    "vehicle sales",
-    "cars",
-    "automotive",
-    "Germany",
-    "electric vehicles"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/963daa1f-f060-5b0d-a61e-26d334602f82"
 }

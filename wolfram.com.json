@@ -1,19 +1,11 @@
 {
   "entity_id": "71805987-50a3-5970-bb4f-9467ef016b4e",
   "name": "Wolfram: Computation Meets Knowledge",
-  "what_it_does": "Wolfram Research develops computational software, including Mathematica and Wolfram Alpha.",
+  "what_it_does": "Wolfram develops computational software and provides knowledge-based resources, including Wolfram Alpha.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "computational software",
-    "mathematica",
-    "wolfram alpha",
-    "knowledge engine",
-    "technical computing",
-    "data science",
-    "algorithm development"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/71805987-50a3-5970-bb4f-9467ef016b4e"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "2e5e867b-45d0-55a3-b0be-f54ba5212323",
   "name": "Garanti BBVA",
-  "what_it_does": "Garanti BBVA is a Turkish bank offering retail and corporate banking services.",
+  "what_it_does": "Garanti BBVA is a Turkish bank offering a range of financial products and services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "Turkish banking",
-    "retail banking",
-    "corporate banking",
-    "loans",
-    "investments",
-    "financial solutions",
-    "banking services",
-    "digital banking"
-  ],
+  "keywords": [],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2e5e867b-45d0-55a3-b0be-f54ba5212323"
 }

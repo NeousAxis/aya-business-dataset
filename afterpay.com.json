@@ -1,20 +1,11 @@
 {
   "entity_id": "65fd5656-44f5-54e2-af96-edc3cde46e3a",
   "name": "Buy now pay later with Afterpay",
-  "what_it_does": "Afterpay offers a buy now, pay later service for online and in-store purchases.",
+  "what_it_does": "Afterpay provides a buy now, pay later service allowing consumers to make purchases and pay for them in installments.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "buy now pay later",
-    "installment payments",
-    "e-commerce financing",
-    "retail credit",
-    "point-of-sale loans",
-    "consumer financing",
-    "deferred payments",
-    "shopping credit"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/65fd5656-44f5-54e2-af96-edc3cde46e3a"
 }

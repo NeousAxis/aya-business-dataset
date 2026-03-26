@@ -1,20 +1,11 @@
 {
   "entity_id": "f3254e47-4b54-544c-8865-71f73c814e01",
   "name": "Fust",
-  "what_it_does": "Fust is a Swiss retailer of consumer electronics and home appliances.",
+  "what_it_does": "Fust sells consumer electronics and home appliances in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "consumer electronics retailer",
-    "home appliances retailer",
-    "Swiss retail",
-    "electronics store",
-    "domestic appliances",
-    "audio visual equipment",
-    "kitchen appliances",
-    "household gadgets"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f3254e47-4b54-544c-8865-71f73c814e01"
 }

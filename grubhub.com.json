@@ -1,19 +1,11 @@
 {
   "entity_id": "60b487b7-5ee5-5763-8da7-0ee41762eb41",
   "name": "Prepare your taste buds",
-  "what_it_does": "Grubhub is an online food ordering and delivery marketplace.",
+  "what_it_does": "Grubhub operates an online food ordering and delivery marketplace.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "food delivery",
-    "meal ordering",
-    "restaurant delivery",
-    "takeout orders",
-    "local restaurants",
-    "food marketplace",
-    "mobile food orders"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/60b487b7-5ee5-5763-8da7-0ee41762eb41"
 }

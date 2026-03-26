@@ -1,20 +1,11 @@
 {
   "entity_id": "1c575fac-ab8a-542a-9e9f-3480d6c5c5dd",
   "name": "National Grid",
-  "what_it_does": "National Grid transmits and distributes electricity and gas across the UK and northeastern US.",
+  "what_it_does": "National Grid operates electricity and gas transmission networks in the UK and the US.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [
-    "electricity transmission",
-    "gas distribution",
-    "energy infrastructure",
-    "utility provider",
-    "grid operator",
-    "power grid",
-    "energy delivery",
-    "natural gas"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1c575fac-ab8a-542a-9e9f-3480d6c5c5dd"
 }

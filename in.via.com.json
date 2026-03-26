@@ -1,20 +1,11 @@
 {
   "entity_id": "f46f8048-2150-5abe-a33a-bd3bf6ff9392",
   "name": "Book Flight Tickets Online",
-  "what_it_does": "Via.com is an online platform for booking flight tickets and travel accommodations.",
+  "what_it_does": "via.com is an online travel agency for booking flights, hotels, and buses.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "India",
-  "keywords": [
-    "airline tickets",
-    "flight booking",
-    "hotel reservations",
-    "travel accommodations",
-    "India travel",
-    "domestic flights",
-    "international flights",
-    "travel packages"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f46f8048-2150-5abe-a33a-bd3bf6ff9392"
 }

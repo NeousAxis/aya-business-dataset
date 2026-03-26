@@ -1,20 +1,11 @@
 {
-  "entity_id": "39983165-606c-5d83-abfa-b97af8b1ae8d",
+  "entity_id": "c1db2554-6ec3-5f9f-8e2b-af2bf206692a",
   "name": "GitHub",
-  "what_it_does": "GitHub provides a web-based platform for software development and version control using Git.",
+  "what_it_does": "GitHub is a web-based platform for version control and collaboration using Git.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "United States",
-  "keywords": [
-    "code hosting",
-    "version control",
-    "collaborative coding",
-    "source code management",
-    "software development",
-    "git repository",
-    "devops tools",
-    "code sharing"
-  ],
+  "location": "Global",
+  "keywords": [],
   "aio_score": 50.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/39983165-606c-5d83-abfa-b97af8b1ae8d"
+  "certificate_url": "https://ai-visionary.com/aya/e/c1db2554-6ec3-5f9f-8e2b-af2bf206692a"
 }

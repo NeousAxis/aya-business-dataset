@@ -1,20 +1,11 @@
 {
   "entity_id": "af2e9274-9c16-5bc2-8121-6182c8aba5f6",
   "name": "Aquatuning",
-  "what_it_does": "Aquatuning is a German retailer specializing in water cooling components for computers.",
+  "what_it_does": "Aquatuning sells water cooling and PC hardware products.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Germany",
-  "keywords": [
-    "water cooling components",
-    "PC water cooling",
-    "computer hardware",
-    "cooling systems",
-    "PC accessories",
-    "DIY PC",
-    "overclocking",
-    "cooling equipment"
-  ],
+  "keywords": [],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/af2e9274-9c16-5bc2-8121-6182c8aba5f6"
 }

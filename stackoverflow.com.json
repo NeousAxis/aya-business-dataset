@@ -1,19 +1,11 @@
 {
   "entity_id": "7cdfab79-46af-5afc-9fea-43505c7e027d",
   "name": "Stack Overflow",
-  "what_it_does": "Stack Overflow is a question and answer website for programmers.",
+  "what_it_does": "Stack Overflow is a question-and-answer website for programmers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [
-    "programming questions",
-    "code answers",
-    "developer community",
-    "programming help",
-    "Q&A site",
-    "software development",
-    "coding problems"
-  ],
-  "aio_score": 47.0,
+  "location": "United States",
+  "keywords": [],
+  "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7cdfab79-46af-5afc-9fea-43505c7e027d"
 }

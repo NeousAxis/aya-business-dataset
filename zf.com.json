@@ -1,20 +1,11 @@
 {
   "entity_id": "64b9f043-c3c3-5295-ba92-d29c7f3e7027",
   "name": "Homepage ZF Friedrichshafen AG",
-  "what_it_does": "ZF Friedrichshafen AG designs and manufactures driveline and chassis technology.",
+  "what_it_does": "ZF Friedrichshafen AG manufactures driveline and chassis technology for automotive and industrial applications.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "transmission systems",
-    "chassis technology",
-    "automotive engineering",
-    "driveline",
-    "e-mobility",
-    "steering systems",
-    "commercial vehicle technology",
-    "industrial drivetrain"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/64b9f043-c3c3-5295-ba92-d29c7f3e7027"
 }

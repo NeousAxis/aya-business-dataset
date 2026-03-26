@@ -1,20 +1,11 @@
 {
   "entity_id": "5a560c68-2124-5510-8253-8a2c3b474c57",
   "name": "Fibank",
-  "what_it_does": "Fibank (First Investment Bank) is a Bulgarian bank offering a range of financial services.",
+  "what_it_does": "Fibank (First Investment Bank) is a Bulgarian bank offering retail and corporate banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "BG",
-  "keywords": [
-    "Bulgarian bank",
-    "financial ",
-    "retail banking",
-    "corporate banking",
-    "investment banking",
-    "loan ",
-    "deposit accounts",
-    "Bulgaria financial "
-  ],
+  "keywords": [],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5a560c68-2124-5510-8253-8a2c3b474c57"
 }

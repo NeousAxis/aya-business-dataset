@@ -1,19 +1,11 @@
 {
   "entity_id": "66cf9170-dc01-5f18-9a1e-ff99d180cf32",
   "name": "Occitanie",
-  "what_it_does": "Occitanie.fr provides information and services related to the Occitanie region of France.",
+  "what_it_does": "Occitanie is the official website for the Occitanie region in France, providing information on regional affairs, tourism, and services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "Occitanie region",
-    "regional information",
-    "French region",
-    "local resources",
-    "public services",
-    "territorial information",
-    "government information"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/66cf9170-dc01-5f18-9a1e-ff99d180cf32"
 }

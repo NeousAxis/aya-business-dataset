@@ -1,20 +1,11 @@
 {
   "entity_id": "49e334f1-6edc-5e98-aa2a-05e076eb00b2",
   "name": "Yealink",
-  "what_it_does": "Yealink develops and manufactures IP phones, conference phones, and video conferencing equipment.",
+  "what_it_does": "Yealink develops and manufactures VoIP phones, video conferencing systems, and collaboration devices.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "IP phones",
-    "conference phones",
-    "video conferencing equipment",
-    "VoIP hardware",
-    "business communication",
-    "office phones",
-    "communication endpoints",
-    "collaboration solutions"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/49e334f1-6edc-5e98-aa2a-05e076eb00b2"
 }

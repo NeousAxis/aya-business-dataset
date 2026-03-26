@@ -1,20 +1,11 @@
 {
   "entity_id": "018b9829-53a4-5fca-8bb6-ac7d28c0298c",
   "name": "PayPal",
-  "what_it_does": "PayPal provides online payment solutions and facilitates money transfers.",
+  "what_it_does": "PayPal provides online payment solutions for individuals and businesses to send and receive money electronically.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "payment processing",
-    "money transfers",
-    "e-commerce payments",
-    "online payments",
-    "digital wallets",
-    "merchant services",
-    "international payments",
-    "payment gateway"
-  ],
-  "aio_score": 72.0,
+  "keywords": [],
+  "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/018b9829-53a4-5fca-8bb6-ac7d28c0298c"
 }

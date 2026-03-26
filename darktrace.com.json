@@ -1,20 +1,11 @@
 {
   "entity_id": "a1115c57-d925-50d4-8dc8-24c225f4d06b",
   "name": "Darktrace",
-  "what_it_does": "Darktrace provides AI-powered cybersecurity solutions for threat detection and response.",
+  "what_it_does": "Darktrace offers AI-powered cybersecurity solutions that detect and respond to threats.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [
-    "cybersecurity",
-    "AI-powered threat detection",
-    "threat response",
-    "network security",
-    "endpoint security",
-    "intrusion detection",
-    "cyber threat intelligence",
-    "AI cybersecurity"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a1115c57-d925-50d4-8dc8-24c225f4d06b"
 }

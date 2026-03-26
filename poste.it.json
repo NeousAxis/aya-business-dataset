@@ -1,17 +1,11 @@
 {
   "entity_id": "759291d5-01b7-5871-b6fe-93de4451837c",
   "name": "Poste Italiane S.p.A.",
-  "what_it_does": "Poste Italiane S.p.A. provides postal, banking, financial, insurance, and telecommunications services in Italy.",
+  "what_it_does": "Poste Italiane provides postal, banking, and financial services throughout Italy.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Italy",
-  "keywords": [
-    "postal",
-    "banking",
-    "financial",
-    "insurance",
-    "telecommunications"
-  ],
+  "keywords": [],
   "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/759291d5-01b7-5871-b6fe-93de4451837c"
 }

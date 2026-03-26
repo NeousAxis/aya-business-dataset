@@ -1,20 +1,11 @@
 {
   "entity_id": "c190b8a4-f763-519b-9c74-ec6999661dd4",
   "name": "HES-SO",
-  "what_it_does": "HES-SO is a network of universities of applied sciences and arts in Switzerland.",
+  "what_it_does": "HES-SO is the University of Applied Sciences and Arts Western Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
-  "keywords": [
-    "Swiss universities of applied sciences",
-    "applied research",
-    "higher education",
-    "professional education",
-    "arts and design",
-    "social work",
-    "health sciences",
-    "engineering schools"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c190b8a4-f763-519b-9c74-ec6999661dd4"
 }

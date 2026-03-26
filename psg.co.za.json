@@ -1,20 +1,11 @@
 {
   "entity_id": "72abdd55-509e-550c-8099-d7d60d19d65e",
   "name": "PSG Financial Services",
-  "what_it_does": "PSG Financial Services provides financial planning, investment management, and insurance services in South Africa.",
+  "what_it_does": "PSG Financial Services provides financial planning, investment management, and insurance services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "South Africa",
-  "keywords": [
-    "financial planning",
-    "investment management",
-    "insurance products",
-    "wealth advisory",
-    "retirement planning",
-    "South Africa finance",
-    "financial consulting",
-    "estate planning"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/72abdd55-509e-550c-8099-d7d60d19d65e"
 }

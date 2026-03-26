@@ -1,20 +1,11 @@
 {
   "entity_id": "0adba3d8-2739-5820-afd6-121bbf68ab1b",
   "name": "Pexels",
-  "what_it_does": "Pexels provides royalty-free stock photos and videos.",
+  "what_it_does": "Pexels provides a library of royalty-free stock photos and videos.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [
-    "stock photos",
-    "royalty-free images",
-    "free stock videos",
-    "visual content",
-    "creative commons",
-    "photography",
-    "video library",
-    "image library"
-  ],
-  "aio_score": 66.0,
+  "location": "Taiwan",
+  "keywords": [],
+  "aio_score": 67.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0adba3d8-2739-5820-afd6-121bbf68ab1b"
 }

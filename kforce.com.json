@@ -1,20 +1,11 @@
 {
   "entity_id": "5d29f5f5-1a3c-5aca-a2ef-ecb0b989dea1",
   "name": "www.kforce.com",
-  "what_it_does": "Kforce provides professional staffing and solutions in the technology and finance & accounting fields.",
+  "what_it_does": "Kforce provides professional staffing services and technology solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "recruiting services",
-    "IT staffing",
-    "technology recruitment",
-    "professional staffing",
-    "Kforce staffing",
-    "technology jobs",
-    "finance jobs",
-    "professional placement"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5d29f5f5-1a3c-5aca-a2ef-ecb0b989dea1"
 }

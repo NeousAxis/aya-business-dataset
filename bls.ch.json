@@ -1,20 +1,11 @@
 {
   "entity_id": "a52744a1-8e92-51d2-bea3-f09b33e41421",
   "name": "BLS connects.",
-  "what_it_does": "BLS operates train and bus services in Switzerland.",
+  "what_it_does": "BLS provides passenger train and bus transportation services in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "Swiss transportation",
-    "rail transport",
-    "bus transport",
-    "public transport Switzerland",
-    "regional train",
-    "lake cruises",
-    "travel passes",
-    "leisure travel"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a52744a1-8e92-51d2-bea3-f09b33e41421"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "bcdf23b6-9722-5fb4-afb8-26ac57d3ddbe",
   "name": "Varonis",
-  "what_it_does": "Varonis specializes in data security and insider threat detection software.",
+  "what_it_does": "Varonis provides data security and analytics software for protecting enterprise data.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [
-    "data security",
-    "insider threat detection",
-    "data governance",
-    "file analysis",
-    "access control",
-    "data risk assessment",
-    "security software"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bcdf23b6-9722-5fb4-afb8-26ac57d3ddbe"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "4376f312-76ec-59f9-b066-8bc302dbf5ee",
   "name": "VINCI Construction",
-  "what_it_does": "VINCI Construction is a construction company involved in building and infrastructure projects.",
+  "what_it_does": "VINCI Construction is a construction company that designs, builds, and maintains infrastructure and buildings.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [
-    "construction projects",
-    "building construction",
-    "infrastructure development",
-    "civil engineering",
-    "construction engineering",
-    "design-build",
-    "project management",
-    "heavy construction"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4376f312-76ec-59f9-b066-8bc302dbf5ee"
 }

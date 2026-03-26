@@ -1,20 +1,11 @@
 {
   "entity_id": "e82751cc-73da-5fb1-ab9d-b35b5a1ef690",
   "name": "Front",
-  "what_it_does": "Front offers a communication platform for managing team inboxes and customer communication.",
+  "what_it_does": "Front is a customer communication platform that combines email, apps, and workflows into a single view.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "team inbox",
-    "shared inbox",
-    "customer communication",
-    "email collaboration",
-    "customer support",
-    "communication platform",
-    "client communication",
-    "team collaboration"
-  ],
+  "keywords": [],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e82751cc-73da-5fb1-ab9d-b35b5a1ef690"
 }

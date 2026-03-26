@@ -1,20 +1,11 @@
 {
   "entity_id": "780c39b9-6522-5439-b9d9-b395ff9be72c",
   "name": "MBDA, Excellence at your side",
-  "what_it_does": "MBDA designs and manufactures missiles and missile systems.",
+  "what_it_does": "MBDA is likely a training or consulting firm focused on defence systems, given the 'systems' reference and educational sector.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
-  "keywords": [
-    "missile systems",
-    "air defense",
-    "weapon systems",
-    "military technology",
-    "defense industry",
-    "missile design",
-    "systems integration",
-    "aerospace engineering"
-  ],
+  "keywords": [],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/780c39b9-6522-5439-b9d9-b395ff9be72c"
 }

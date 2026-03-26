@@ -1,19 +1,11 @@
 {
   "entity_id": "6ea61275-93b2-50e0-be63-a79b5f4b2946",
   "name": "Ricoh Global",
-  "what_it_does": "Ricoh manufactures and sells office equipment, including printers, copiers, and related supplies.",
+  "what_it_does": "Ricoh manufactures and sells office equipment, including printers, copiers, and related services.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "office equipment",
-    "printing solutions",
-    "photocopiers",
-    "imaging equipment",
-    "document services",
-    "managed print",
-    "office automation"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6ea61275-93b2-50e0-be63-a79b5f4b2946"
 }

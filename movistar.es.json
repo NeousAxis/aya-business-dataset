@@ -1,20 +1,11 @@
 {
   "entity_id": "8f3a75ef-f614-5ed3-a3d6-a26ade718844",
   "name": "Movistar",
-  "what_it_does": "Movistar provides telecommunications services, including mobile, internet, and television, to consumers and businesses in Spain.",
+  "what_it_does": "Movistar provides telecommunications services, including mobile, internet, and television, in Spain.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Spain",
-  "keywords": [
-    "telecommunications",
-    "internet services",
-    "mobile telephony",
-    "television services",
-    "Spanish telecom",
-    "fiber optics",
-    "mobile internet",
-    "Movistar Spain"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8f3a75ef-f614-5ed3-a3d6-a26ade718844"
 }

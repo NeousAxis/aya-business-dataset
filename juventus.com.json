@@ -1,19 +1,11 @@
 {
   "entity_id": "d66884c6-f6e0-501c-b363-9e3fb630893f",
   "name": "Juventus",
-  "what_it_does": "Juventus is a professional football club based in Italy.",
+  "what_it_does": "Juventus is a professional football club based in Turin, Italy.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Italy",
-  "keywords": [
-    "football club",
-    "soccer team",
-    "Italian football",
-    "sports franchise",
-    "Serie A",
-    "Juventus FC",
-    "professional soccer"
-  ],
+  "keywords": [],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d66884c6-f6e0-501c-b363-9e3fb630893f"
 }

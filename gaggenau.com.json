@@ -1,20 +1,11 @@
 {
   "entity_id": "ae11c442-6b80-5ac4-b124-d4354ce982f7",
   "name": "Gaggenau",
-  "what_it_does": "Gaggenau manufactures high-end home appliances, including ovens, cooktops, and refrigerators.",
+  "what_it_does": "Gaggenau produces high-end kitchen appliances.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
-  "keywords": [
-    "kitchen appliances",
-    "luxury appliances",
-    "built-in appliances",
-    "cooking appliances",
-    "premium kitchen",
-    "home appliances",
-    "cooking technology",
-    "oven"
-  ],
+  "keywords": [],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ae11c442-6b80-5ac4-b124-d4354ce982f7"
 }

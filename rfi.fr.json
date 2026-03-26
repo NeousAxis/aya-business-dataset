@@ -1,20 +1,11 @@
 {
   "entity_id": "636cb896-5d0b-5fe2-9e58-77d1d427656f",
   "name": "RFI",
-  "what_it_does": "RFI (Radio France Internationale) is a French international news radio service.",
+  "what_it_does": "RFI is a French international radio station broadcasting news and information globally.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Brazil",
-  "keywords": [
-    "French international radio",
-    "news broadcasting",
-    "international news",
-    "radio news",
-    "French radio",
-    "RFI",
-    "global current affairs",
-    "French journalism"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/636cb896-5d0b-5fe2-9e58-77d1d427656f"
 }

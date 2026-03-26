@@ -1,20 +1,11 @@
 {
   "entity_id": "d183711b-1eaf-5888-98db-eb442de9ba5b",
   "name": "ANZ Personal",
-  "what_it_does": "ANZ provides banking and financial services to personal customers in Australia.",
+  "what_it_does": "ANZ Personal offers retail banking services in Australia.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Australia",
-  "keywords": [
-    "feature flags",
-    "feature management",
-    "software development",
-    "continuous delivery",
-    "DevOps",
-    "software releases",
-    "A/B testing",
-    "product experimentation"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d183711b-1eaf-5888-98db-eb442de9ba5b"
 }

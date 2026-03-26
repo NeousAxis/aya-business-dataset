@@ -1,20 +1,11 @@
 {
   "entity_id": "7fcbd45c-5a12-55eb-8161-0336a324fb32",
   "name": "Free, Legally Binding Electronic Signatures",
-  "what_it_does": "Signaturely offers a platform for creating and managing legally binding electronic signatures.",
+  "what_it_does": "Signaturely provides a platform for creating and managing legally binding electronic signatures.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "electronic signatures",
-    "e-signatures",
-    "digital signatures",
-    "signature creation",
-    "legal signatures",
-    "document signing",
-    "Signaturely",
-    "signature workflows"
-  ],
+  "keywords": [],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7fcbd45c-5a12-55eb-8161-0336a324fb32"
 }

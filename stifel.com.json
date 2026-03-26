@@ -1,20 +1,11 @@
 {
   "entity_id": "9d27575e-cf1f-556a-bed4-88da2a307724",
   "name": "Stifel",
-  "what_it_does": "Stifel is an investment bank and wealth management firm.",
+  "what_it_does": "Stifel is a financial services firm providing investment banking, wealth management, and institutional brokerage services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "investment banking",
-    "wealth management",
-    "financial advisory",
-    "brokerage services",
-    "asset management",
-    "institutional clients",
-    "private clients",
-    "financial markets"
-  ],
+  "keywords": [],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9d27575e-cf1f-556a-bed4-88da2a307724"
 }

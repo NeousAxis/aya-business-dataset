@@ -1,17 +1,11 @@
 {
   "entity_id": "e0f2a698-2fc1-536a-b834-b0957b53a669",
   "name": "AMAG",
-  "what_it_does": "AMAG sells, repairs, and services vehicles and offers related services like leasing and insurance in Switzerland.",
+  "what_it_does": "AMAG is a Swiss automotive retailer and service provider.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "vehicle sales",
-    "vehicle repair",
-    "vehicle servicing",
-    "leasing",
-    "insurance"
-  ],
+  "keywords": [],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e0f2a698-2fc1-536a-b834-b0957b53a669"
 }

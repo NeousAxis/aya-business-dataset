@@ -1,20 +1,11 @@
 {
   "entity_id": "79324dab-4e0d-5857-8cd1-19446c604eb5",
   "name": "PJSC \"LUKOIL\"",
-  "what_it_does": "LUKOIL is a Russian multinational energy corporation engaged in the exploration, production, refining, and marketing of oil and gas.",
+  "what_it_does": "PJSC \"LUKOIL\" likely develops software for or provides information about the LUKOIL petroleum company.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "oil and gas",
-    "energy production",
-    "petroleum refining",
-    "crude oil",
-    "fuel products",
-    "energy exploration",
-    "gasoline",
-    "petrochemicals"
-  ],
+  "keywords": [],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/79324dab-4e0d-5857-8cd1-19446c604eb5"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "3b3a3236-0e44-53a3-be76-519a7f49caba",
   "name": "J.P. Morgan Switzerland",
-  "what_it_does": "J.P. Morgan provides financial services including investment banking and asset management.",
+  "what_it_does": "J.P. Morgan Switzerland offers financial services including wealth management and investment banking.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "investment banking",
-    "financial services",
-    "asset management",
-    "J.P. Morgan",
-    "wealth advisory",
-    "corporate finance",
-    "private banking",
-    "investment solutions"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b3a3236-0e44-53a3-be76-519a7f49caba"
 }

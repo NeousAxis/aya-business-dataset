@@ -1,19 +1,11 @@
 {
   "entity_id": "95555d86-7dd0-51a7-ab15-99805fb8a4e4",
   "name": "Google",
-  "what_it_does": "Google provides internet-related services and products, including search, advertising, and cloud computing.",
+  "what_it_does": "Google operates a search engine and provides a suite of online advertising technologies, cloud computing, software, and hardware.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "search engine",
-    "internet advertising",
-    "cloud computing",
-    "web applications",
-    "artificial intelligence",
-    "data analytics",
-    "internet products"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/95555d86-7dd0-51a7-ab15-99805fb8a4e4"
 }

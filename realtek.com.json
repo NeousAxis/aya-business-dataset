@@ -1,20 +1,11 @@
 {
   "entity_id": "0cf64a84-a492-51d0-89ab-cb0bd1781d1d",
   "name": "Realtek",
-  "what_it_does": "Realtek manufactures integrated circuits for various electronic devices.",
+  "what_it_does": "Realtek manufactures integrated circuits for computer peripherals and multimedia applications.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "integrated circuits",
-    "semiconductors",
-    "electronics components",
-    "network ICs",
-    "computer peripherals",
-    "multimedia ICs",
-    "wireless chips",
-    "chip solutions"
-  ],
+  "keywords": [],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0cf64a84-a492-51d0-89ab-cb0bd1781d1d"
 }

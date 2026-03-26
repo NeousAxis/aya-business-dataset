@@ -1,19 +1,11 @@
 {
   "entity_id": "be29ba8c-14aa-5c23-b6cc-daa418f18413",
   "name": "Bank och försäkring",
-  "what_it_does": "SEB is a Nordic financial services group offering banking, asset management, and insurance services.",
+  "what_it_does": "seb.se provides banking and insurance services in Sweden.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Sweden",
-  "keywords": [
-    "banking services",
-    "insurance products",
-    "Nordic banking",
-    "financial solutions",
-    "personal banking",
-    "corporate banking",
-    "asset management"
-  ],
+  "keywords": [],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/be29ba8c-14aa-5c23-b6cc-daa418f18413"
 }

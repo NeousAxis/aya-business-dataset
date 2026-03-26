@@ -1,20 +1,11 @@
 {
   "entity_id": "5ed0d544-ad68-5910-b8d2-33c57dc4dd31",
   "name": "die erste Adresse für Nachrichten und Information",
-  "what_it_does": "Tagesschau.de provides news and information in German, being the online presence of the German news program Tagesschau.",
+  "what_it_does": "Tagesschau.de provides German news and information programming.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "German news",
-    "current affairs",
-    "political news",
-    "economic news",
-    "international news",
-    "breaking news",
-    "German media",
-    "news website"
-  ],
-  "aio_score": 43.0,
+  "keywords": [],
+  "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5ed0d544-ad68-5910-b8d2-33c57dc4dd31"
 }

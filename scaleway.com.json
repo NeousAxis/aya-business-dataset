@@ -1,20 +1,11 @@
 {
   "entity_id": "a966ec86-cda9-5085-972b-a725da110b44",
   "name": "Scaleway",
-  "what_it_does": "Scaleway provides cloud computing infrastructure services, including servers, storage, and networking.",
+  "what_it_does": "Scaleway offers cloud computing infrastructure services, including servers and storage.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "cloud infrastructure",
-    "cloud servers",
-    "cloud storage",
-    "cloud networking",
-    "IaaS",
-    "data centers",
-    "server hosting",
-    "cloud computing"
-  ],
+  "keywords": [],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a966ec86-cda9-5085-972b-a725da110b44"
 }

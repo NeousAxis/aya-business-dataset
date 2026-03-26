@@ -1,20 +1,11 @@
 {
   "entity_id": "8a12cfa8-2ff5-5c1e-865d-36070f2ee18c",
-  "name": "Credit Agricole",
-  "what_it_does": "Credit Agricole is a French cooperative banking group providing a range of financial services.",
+  "name": "CrÃ©dit Agricole",
+  "what_it_does": "Crédit Agricole is a French international banking group and financial institution.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
-  "keywords": [
-    "French banking",
-    "retail banking",
-    "corporate banking",
-    "insurance products",
-    "asset management",
-    "financial services",
-    "cooperative bank",
-    "mortgage lending"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8a12cfa8-2ff5-5c1e-865d-36070f2ee18c"
 }

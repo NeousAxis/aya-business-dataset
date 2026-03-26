@@ -1,20 +1,11 @@
 {
   "entity_id": "8ad39372-e26a-5732-8ca0-35ebf45b8887",
   "name": "Lectrosonics",
-  "what_it_does": "Lectrosonics manufactures wireless microphone systems and audio processing equipment for film, broadcast, and theater.",
+  "what_it_does": "Lectrosonics designs and manufactures wireless microphone systems and audio processing equipment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "wireless microphones",
-    "audio equipment",
-    "film sound",
-    "broadcast audio",
-    "professional audio",
-    "sound reinforcement",
-    "audio processing",
-    "wireless audio systems"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8ad39372-e26a-5732-8ca0-35ebf45b8887"
 }

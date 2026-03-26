@@ -1,20 +1,11 @@
 {
   "entity_id": "82b5d2bd-81cd-5c4b-9a46-4afc20184b42",
   "name": "Olark",
-  "what_it_does": "Olark provides live chat software for websites.",
+  "what_it_does": "Olark provides live chat software for websites to help businesses communicate with customers in real-time.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "live chat",
-    "customer support",
-    "website chat",
-    "sales chat",
-    "real-time messaging",
-    "customer engagement",
-    "chat software",
-    "business communication"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/82b5d2bd-81cd-5c4b-9a46-4afc20184b42"
 }

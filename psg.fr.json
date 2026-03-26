@@ -1,19 +1,11 @@
 {
   "entity_id": "93109782-1f62-5fc7-affc-8fa8083a93f1",
   "name": "Official site of Paris Saint-Germain",
-  "what_it_does": "PSG.fr is the official website of the Paris Saint-Germain football club, providing news, scores, and fan content.",
+  "what_it_does": "Official site of Paris Saint-Germain provides news, information, and merchandise related to the Paris Saint-Germain football club.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "Paris Saint-Germain",
-    "football club",
-    "soccer news",
-    "sports content",
-    "football scores",
-    "PSG news",
-    "French football"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/93109782-1f62-5fc7-affc-8fa8083a93f1"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "1594777f-0cb6-59ac-b66f-a4343e34fd61",
   "name": "York Fitness",
-  "what_it_does": "York Fitness sells fitness equipment and accessories for home and commercial use.",
+  "what_it_does": "York Fitness sells fitness equipment and accessories online.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "fitness equipment",
-    "home gym equipment",
-    "commercial fitness",
-    "strength training",
-    "cardio equipment",
-    "fitness accessories",
-    "exercise machines"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1594777f-0cb6-59ac-b66f-a4343e34fd61"
 }

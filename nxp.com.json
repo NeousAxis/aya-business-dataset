@@ -1,20 +1,11 @@
 {
   "entity_id": "8b66f19f-b498-5b33-bd89-3312f6e36b64",
   "name": "Automotive, IoT & Industrial Solutions",
-  "what_it_does": "NXP Semiconductors manufactures and sells semiconductors for automotive, IoT, and industrial applications.",
+  "what_it_does": "NXP Semiconductors manufactures and sells semiconductors for automotive, industrial, IoT, and mobile applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "automotive semiconductors",
-    "IoT solutions",
-    "industrial semiconductors",
-    "microcontrollers",
-    "automotive electronics",
-    "semiconductor manufacturing",
-    "embedded systems",
-    "connectivity solutions"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8b66f19f-b498-5b33-bd89-3312f6e36b64"
 }

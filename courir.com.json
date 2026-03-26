@@ -1,20 +1,11 @@
 {
   "entity_id": "0ceb314d-4cf4-579d-83aa-080f042d3489",
   "name": "Courir",
-  "what_it_does": "Courir is a retailer specializing in athletic footwear and apparel.",
+  "what_it_does": "Courir is a retailer selling athletic footwear and apparel.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Belgium",
-  "keywords": [
-    "athletic shoes",
-    "sportswear",
-    "sneakers",
-    "footwear retail",
-    "urban fashion",
-    "streetwear",
-    "sports apparel",
-    "casual shoes"
-  ],
+  "keywords": [],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0ceb314d-4cf4-579d-83aa-080f042d3489"
 }

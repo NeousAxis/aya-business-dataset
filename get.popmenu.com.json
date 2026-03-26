@@ -1,19 +1,11 @@
 {
   "entity_id": "4b4ceeb1-9490-5b85-8430-365ea25a2fa2",
   "name": "Popmenu",
-  "what_it_does": "Popmenu provides SaaS solutions enabling restaurants to manage their menus and online presence.",
+  "what_it_does": "Popmenu provides restaurants with digital tools for online ordering, marketing, and menu management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "restaurant menus",
-    "menu management",
-    "restaurant marketing",
-    "SaaS",
-    "online presence",
-    "food service",
-    "digital menus"
-  ],
+  "keywords": [],
   "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4b4ceeb1-9490-5b85-8430-365ea25a2fa2"
 }

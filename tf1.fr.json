@@ -1,20 +1,11 @@
 {
   "entity_id": "e5d1d1d0-60ea-5bc8-a575-281f1ff10462",
   "name": "TF1+",
-  "what_it_does": "TF1+ is a French television network offering broadcast and on-demand content.",
+  "what_it_does": "TF1+ is a streaming service provided by the French TV channel TF1, offering on-demand access to their content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "French television",
-    "streaming",
-    "TF1",
-    "news",
-    "entertainment content",
-    "French TV",
-    "television programs",
-    "video"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e5d1d1d0-60ea-5bc8-a575-281f1ff10462"
 }

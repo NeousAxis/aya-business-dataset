@@ -1,20 +1,11 @@
 {
   "entity_id": "d6a2fd2d-53b2-533d-b7a1-c02ce9639e97",
   "name": "Aktuelle Nachrichten",
-  "what_it_does": "Bild.de is a German news website.",
+  "what_it_does": "bild.de is a German news website providing current news and multimedia content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [
-    "German news",
-    "tabloid newspaper",
-    "news portal",
-    "current events",
-    "Bild.de",
-    "breaking news",
-    "German media",
-    "online news"
-  ],
+  "keywords": [],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6a2fd2d-53b2-533d-b7a1-c02ce9639e97"
 }

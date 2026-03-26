@@ -1,20 +1,11 @@
 {
   "entity_id": "e113c27f-e459-5ef7-b350-7d9a70a68c37",
   "name": "iway.ch",
-  "what_it_does": "iway.ch is a Swiss internet service provider.",
+  "what_it_does": "iway.ch likely provides internet or media related services within Switzerland, potentially news or web services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "internet provider",
-    "internet access",
-    "telecommunications",
-    "Swiss ISP",
-    "fiber internet",
-    "internet connectivity",
-    "broadband internet",
-    "WLAN services"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e113c27f-e459-5ef7-b350-7d9a70a68c37"
 }

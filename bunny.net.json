@@ -1,20 +1,11 @@
 {
   "entity_id": "b7efa8b4-dd56-590e-9084-bc9067ad26bf",
   "name": "bunny.net",
-  "what_it_does": "Bunny.net provides a content delivery network (CDN) and related services for website acceleration and performance optimization.",
+  "what_it_does": "bunny.net provides a content delivery network (CDN) service.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "content delivery network",
-    "cdn provider",
-    "video delivery",
-    "website acceleration",
-    "bunny cdn",
-    "global cdn",
-    "edge caching",
-    "content optimization"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b7efa8b4-dd56-590e-9084-bc9067ad26bf"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "de1269e6-009f-5c09-81b9-0f9ad8a6244d",
   "name": "Shopify",
-  "what_it_does": "Shopify provides a platform for businesses to build and manage online stores.",
+  "what_it_does": "Shopify is a platform for creating and managing online stores, providing tools for merchants to sell their products directly to consumers.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Belgium",
-  "keywords": [
-    "e-commerce platform",
-    "storefront builder",
-    "shopping carts",
-    "payment gateways",
-    "e-commerce tools",
-    "merchant solutions",
-    "small retail",
-    "subscription commerce"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/de1269e6-009f-5c09-81b9-0f9ad8a6244d"
 }

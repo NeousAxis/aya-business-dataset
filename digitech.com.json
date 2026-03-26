@@ -1,20 +1,11 @@
 {
   "entity_id": "5d4e2395-d1cb-5d74-8335-86712080b7ca",
   "name": "DigiTech",
-  "what_it_does": "DigiTech manufactures guitar effects pedals and other musical equipment.",
+  "what_it_does": "DigiTech manufactures guitar effects pedals and processors.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "South Korea",
-  "keywords": [
-    "guitar effects pedals",
-    "musical instruments",
-    "guitar effects",
-    "audio effects",
-    "music equipment",
-    "DigiTech pedals",
-    "guitar processors",
-    "audio processors"
-  ],
+  "keywords": [],
   "aio_score": 58.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5d4e2395-d1cb-5d74-8335-86712080b7ca"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "8a8638a3-a391-51a7-8ee3-688379d55653",
   "name": "Tschuggen Grand Hotel Arosa",
-  "what_it_does": "Tschuggen Grand Hotel Arosa is a luxury hotel located in Arosa, Switzerland, offering hospitality services.",
+  "what_it_does": "Tschuggen Grand Hotel Arosa is a luxury hotel offering accommodations, dining, and spa services in Arosa, Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Switzerland",
-  "keywords": [
-    "luxury hotel",
-    "Swiss Alps hotel",
-    "Arosa hotel",
-    "ski resort",
-    "hotel spa",
-    "gourmet dining",
-    "mountain views",
-    "hotel accommodations"
-  ],
-  "aio_score": 54.0,
+  "keywords": [],
+  "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8a8638a3-a391-51a7-8ee3-688379d55653"
 }

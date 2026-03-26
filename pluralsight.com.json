@@ -1,20 +1,11 @@
 {
   "entity_id": "46117d8c-c197-5504-b9b9-70eb7fbc727f",
   "name": "Pluralsight, LLC",
-  "what_it_does": "Pluralsight offers online technology skills training platform.",
+  "what_it_does": "Pluralsight offers an online learning platform focused on technology and creative skills.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Australia",
-  "keywords": [
-    "skill development",
-    "tech training",
-    "learning paths",
-    "technology courses",
-    "enterprise learning",
-    "coding skills",
-    "it training",
-    "professional development"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/46117d8c-c197-5504-b9b9-70eb7fbc727f"
 }

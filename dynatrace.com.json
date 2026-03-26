@@ -1,20 +1,11 @@
 {
   "entity_id": "802daa28-3dea-549f-ad69-086a73d7e0e6",
   "name": "Dynatrace",
-  "what_it_does": "Dynatrace provides software intelligence and application performance monitoring solutions.",
+  "what_it_does": "Dynatrace offers a software intelligence platform for application performance monitoring and management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "application performance monitoring",
-    "software intelligence",
-    "cloud monitoring",
-    "infrastructure monitoring",
-    "digital experience",
-    "AI-powered monitoring",
-    "performance analytics",
-    "observability"
-  ],
+  "keywords": [],
   "aio_score": 80.0,
   "certificate_url": "https://ai-visionary.com/aya/e/802daa28-3dea-549f-ad69-086a73d7e0e6"
 }

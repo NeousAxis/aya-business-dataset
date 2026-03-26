@@ -1,19 +1,11 @@
 {
   "entity_id": "2dfcf90d-5f9d-5cb0-98b7-0ef9b3192e9a",
   "name": "PagerDuty",
-  "what_it_does": "PagerDuty offers an incident management platform for IT operations.",
+  "what_it_does": "PagerDuty provides a platform for incident management, alerting, and on-call scheduling.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [
-    "incident management",
-    "IT operations",
-    "on-call scheduling",
-    "alerting",
-    "response automation",
-    "devops",
-    "system monitoring"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2dfcf90d-5f9d-5cb0-98b7-0ef9b3192e9a"
 }

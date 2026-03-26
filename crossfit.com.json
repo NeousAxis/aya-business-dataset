@@ -1,20 +1,11 @@
 {
   "entity_id": "a2866610-4c23-5ce1-b657-53c62c821ed0",
   "name": "CrossFit",
-  "what_it_does": "CrossFit is a branded fitness program that combines weightlifting, gymnastics, and metabolic conditioning.",
+  "what_it_does": "CrossFit is a branded fitness program and company that provides workout content and training.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "fitness program",
-    "strength training",
-    "gymnastics exercises",
-    "high intensity workouts",
-    "functional fitness",
-    "weightlifting",
-    "exercise regimen",
-    "athletic conditioning"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a2866610-4c23-5ce1-b657-53c62c821ed0"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "4f572670-e546-5bad-a57c-345cb7abb7a9",
   "name": "Online Payment Processing Solution",
-  "what_it_does": "GoCardless provides a platform for businesses to collect recurring payments directly from customers' bank accounts.",
+  "what_it_does": "GoCardless provides a platform for recurring payments, specializing in bank debit.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Denmark",
-  "keywords": [
-    "recurring payments",
-    "direct debit",
-    "payment processing",
-    "business payments",
-    "automated payments",
-    "bank debit",
-    "payment gateway",
-    "subscription payments"
-  ],
+  "keywords": [],
   "aio_score": 63.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4f572670-e546-5bad-a57c-345cb7abb7a9"
 }

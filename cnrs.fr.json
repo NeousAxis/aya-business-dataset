@@ -1,20 +1,11 @@
 {
   "entity_id": "66e27dd1-bce5-5f4d-93d6-63ffb2822d4e",
   "name": "Cnrs",
-  "what_it_does": "The CNRS is a French public research organization.",
+  "what_it_does": "CNRS is the French National Centre for Scientific Research.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [
-    "French research",
-    "scientific research",
-    "research organization",
-    "public research",
-    "interdisciplinary research",
-    "academic research",
-    "scientific studies",
-    "research projects"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/66e27dd1-bce5-5f4d-93d6-63ffb2822d4e"
 }

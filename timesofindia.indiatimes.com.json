@@ -1,19 +1,11 @@
 {
   "entity_id": "7745fdb3-6e72-5742-b600-483b97cbe418",
   "name": "The Times of India",
-  "what_it_does": "The Times of India is an English-language Indian newspaper providing news and information.",
+  "what_it_does": "Times of India likely offers travel and tourism information and booking services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [
-    "Indian newspaper",
-    "English-language news",
-    "India news",
-    "current events",
-    "TOI",
-    "news publishing",
-    "political reporting"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7745fdb3-6e72-5742-b600-483b97cbe418"
 }

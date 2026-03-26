@@ -1,20 +1,11 @@
 {
   "entity_id": "1cae75d2-a812-5cb1-b71c-a45ddf48cad3",
   "name": "Virtual Beauty Studio",
-  "what_it_does": "Maybelline sells cosmetics and beauty products.",
+  "what_it_does": "Maybelline offers virtual makeup try-on experiences through their website.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [
-    "cosmetics",
-    "beauty products",
-    "makeup",
-    "eye makeup",
-    "face makeup",
-    "lip makeup",
-    "beauty trends",
-    "cosmetic retail"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1cae75d2-a812-5cb1-b71c-a45ddf48cad3"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "e23e6bf2-b368-545a-ac50-129b423f229b",
   "name": "Kempinski Hotels",
-  "what_it_does": "Kempinski Hotels is a luxury hotel chain.",
+  "what_it_does": "Kempinski Hotels operates a chain of luxury hotels and resorts worldwide.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United Kingdom",
-  "keywords": [
-    "luxury hotels",
-    "Kempinski",
-    "hotel chain",
-    "five-star hotels",
-    "international hotels",
-    "luxury accommodation",
-    "hotel resorts",
-    "European hotels"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e23e6bf2-b368-545a-ac50-129b423f229b"
 }

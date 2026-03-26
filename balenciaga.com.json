@@ -1,20 +1,11 @@
 {
   "entity_id": "4a17fb8c-26ee-5ad0-a408-7b592fb0cc4a",
   "name": "Balenciaga",
-  "what_it_does": "Balenciaga is a luxury fashion brand selling clothing, shoes, and accessories.",
+  "what_it_does": "Balenciaga is a luxury fashion brand selling clothing and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Netherlands",
-  "keywords": [
-    "luxury fashion",
-    "designer clothing",
-    "high-end shoes",
-    "luxury accessories",
-    "couture",
-    "ready-to-wear",
-    "fashion retail",
-    "luxury apparel"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a17fb8c-26ee-5ad0-a408-7b592fb0cc4a"
 }

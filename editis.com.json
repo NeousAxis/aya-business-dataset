@@ -1,20 +1,11 @@
 {
   "entity_id": "f49b3dd9-2393-51eb-a8aa-36d3541e0da6",
   "name": "EDITIS",
-  "what_it_does": "EDITIS likely provides travel and tourism related services.",
+  "what_it_does": "EDITIS is a French publisher of books and magazines (inferred from domain and sector).",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
-  "keywords": [
-    "travel services",
-    "tour operator",
-    "holiday packages",
-    "leisure travel",
-    "vacation planning",
-    "tourism industry",
-    "travel agency",
-    "destination travel"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f49b3dd9-2393-51eb-a8aa-36d3541e0da6"
 }

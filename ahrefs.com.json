@@ -1,20 +1,11 @@
 {
   "entity_id": "5613830e-138e-543e-9323-3bb753e3f58d",
   "name": "Ahrefs",
-  "what_it_does": "Ahrefs provides SEO tools and resources for website analysis and keyword research.",
+  "what_it_does": "Ahrefs provides SEO tools for analyzing websites, keywords, backlinks, and competitor research.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Singapore",
-  "keywords": [
-    "SEO tools",
-    "keyword research",
-    "website analysis",
-    "backlink checker",
-    "rank tracking",
-    "competitive analysis",
-    "SEO data",
-    "content marketing"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5613830e-138e-543e-9323-3bb753e3f58d"
 }

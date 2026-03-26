@@ -1,19 +1,11 @@
 {
   "entity_id": "d8fdb95d-d43b-5ad6-8922-48e94c0f6403",
   "name": "Main Navigation",
-  "what_it_does": "AT&T provides telecommunications services, including internet, phone, and television, and sells related equipment.",
+  "what_it_does": "att.com is the website for AT&T, offering telecommunications services and products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [
-    "telecom services",
-    "internet access",
-    "phone plans",
-    "television provider",
-    "mobile devices",
-    "communication equipment",
-    "US telecom"
-  ],
+  "keywords": [],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d8fdb95d-d43b-5ad6-8922-48e94c0f6403"
 }

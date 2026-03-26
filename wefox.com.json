@@ -1,20 +1,11 @@
 {
   "entity_id": "5f273843-d0a7-5ae3-8997-ca544f3516f7",
   "name": "wefox",
-  "what_it_does": "Wefox operates as a digital insurance platform, connecting brokers, customers, and insurance companies.",
+  "what_it_does": "wefox is a German insurtech company offering digital insurance products.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "insurance",
-    "insurtech",
-    "insurance brokerage",
-    "digital insurance",
-    "insurance platform",
-    "insurance policies",
-    "insurance technology",
-    "broker network"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5f273843-d0a7-5ae3-8997-ca544f3516f7"
 }

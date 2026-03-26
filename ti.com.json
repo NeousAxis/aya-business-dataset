@@ -1,19 +1,11 @@
 {
   "entity_id": "1b0482ea-56e4-557e-9852-b58e15be6adb",
   "name": "Analog",
-  "what_it_does": "Texas Instruments (TI) designs and manufactures semiconductors and various integrated circuits.",
+  "what_it_does": "Texas Instruments designs and manufactures semiconductors and various integrated circuits.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "semiconductors",
-    "integrated circuits",
-    "analog devices",
-    "embedded processing",
-    "signal processing",
-    "power management",
-    "Texas Instruments"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1b0482ea-56e4-557e-9852-b58e15be6adb"
 }

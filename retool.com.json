@@ -1,20 +1,11 @@
 {
   "entity_id": "da1f1db2-e606-5420-97d5-49958c90fe34",
   "name": "Retool",
-  "what_it_does": "Retool provides a platform for building internal tools quickly with drag-and-drop components and code.",
+  "what_it_does": "Retool provides a low-code platform for building internal tools.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "internal tool builder",
-    "low-code platform",
-    "drag-and-drop interface",
-    "custom admin panels",
-    "rapid development",
-    "business applications",
-    "data integration",
-    "developer tools"
-  ],
+  "keywords": [],
   "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/da1f1db2-e606-5420-97d5-49958c90fe34"
 }

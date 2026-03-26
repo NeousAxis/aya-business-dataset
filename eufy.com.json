@@ -1,20 +1,11 @@
 {
   "entity_id": "65fe05c1-9550-5fd8-b6c1-6a46296c51c1",
   "name": "eufy",
-  "what_it_does": "eufy manufactures smart home devices, including robot vacuums and security cameras.",
+  "what_it_does": "eufy designs and sells smart home devices, including robotic vacuums, security cameras, and smart scales.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [
-    "smart home devices",
-    "security cameras",
-    "robot vacuums",
-    "home automation",
-    "connected home",
-    "IoT devices",
-    "consumer electronics",
-    "home security"
-  ],
+  "keywords": [],
   "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/65fe05c1-9550-5fd8-b6c1-6a46296c51c1"
 }

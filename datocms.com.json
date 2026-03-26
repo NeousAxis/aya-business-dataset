@@ -1,20 +1,11 @@
 {
   "entity_id": "05f120dc-5947-5f4b-a9ae-2c24e44fc138",
   "name": "DatoCMS",
-  "what_it_does": "DatoCMS offers a headless CMS platform for managing and delivering content across multiple channels.",
+  "what_it_does": "DatoCMS provides a content management system for building websites and applications.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "headless CMS",
-    "content management",
-    "multi-channel content",
-    "content delivery",
-    "API-first CMS",
-    "content infrastructure",
-    "structured content",
-    "developer tools"
-  ],
+  "keywords": [],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/05f120dc-5947-5f4b-a9ae-2c24e44fc138"
 }

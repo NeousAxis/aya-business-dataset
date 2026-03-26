@@ -1,19 +1,11 @@
 {
   "entity_id": "35509f31-15e3-5a5d-8ba5-8cf81e929f96",
   "name": "Motorola",
-  "what_it_does": "Motorola designs and manufactures mobile phones and related accessories.",
+  "what_it_does": "Motorola sells mobile phones and related accessories.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "mobile phones",
-    "cell phones",
-    "smartphone accessories",
-    "mobile devices",
-    "wireless communication",
-    "mobile technology",
-    "consumer electronics"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/35509f31-15e3-5a5d-8ba5-8cf81e929f96"
 }

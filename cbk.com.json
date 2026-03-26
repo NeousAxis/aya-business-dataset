@@ -1,19 +1,11 @@
 {
   "entity_id": "41ce1c3e-83bd-5f51-b5f7-71fa9d3b7daf",
   "name": "CBK",
-  "what_it_does": "CBK (Commercial Bank of Kuwait) provides banking and financial services to individuals and businesses in Kuwait.",
+  "what_it_does": "CBK likely provides financial and banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "kuwait banking",
-    "commercial banking",
-    "financial services",
-    "personal banking",
-    "corporate banking",
-    "investment banking",
-    "Kuwait finance"
-  ],
+  "keywords": [],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/41ce1c3e-83bd-5f51-b5f7-71fa9d3b7daf"
 }

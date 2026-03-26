@@ -1,20 +1,11 @@
 {
   "entity_id": "c222fc1c-2519-532b-8810-6ee3efe96d25",
   "name": "Articulate",
-  "what_it_does": "Articulate provides e-learning software for creating online courses and training materials.",
+  "what_it_does": "Articulate develops e-learning authoring software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [
-    "E-Learning Creation",
-    "Course Authoring",
-    "Training Materials",
-    "Instructional Design",
-    "Interactive E-Learning",
-    "Online Learning",
-    "Corporate Training",
-    "Learning Experiences"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c222fc1c-2519-532b-8810-6ee3efe96d25"
 }

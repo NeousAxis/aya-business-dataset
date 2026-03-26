@@ -1,20 +1,11 @@
 {
   "entity_id": "18bb654c-621c-53ed-834a-86d7aab8b50a",
   "name": "Decathlon",
-  "what_it_does": "Decathlon is a retailer of sporting goods and apparel.",
+  "what_it_does": "Decathlon is a retailer specializing in sporting goods and equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
-  "keywords": [
-    "sporting goods",
-    "sportswear",
-    "sports equipment",
-    "retail chain",
-    "sports apparel",
-    "fitness gear",
-    "outdoor recreation",
-    "athletic wear"
-  ],
+  "keywords": [],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/18bb654c-621c-53ed-834a-86d7aab8b50a"
 }

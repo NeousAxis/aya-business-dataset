@@ -1,19 +1,11 @@
 {
   "entity_id": "6011f703-0de6-559c-b79b-d2f6606d7103",
   "name": "Control Systems for Home Automation",
-  "what_it_does": "Crestron designs and manufactures home automation and control systems.",
+  "what_it_does": "Crestron manufactures home automation and control systems.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "home automation systems",
-    "control systems",
-    "smart home",
-    "audio visual control",
-    "building automation",
-    "lighting control",
-    "environmental control"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6011f703-0de6-559c-b79b-d2f6606d7103"
 }

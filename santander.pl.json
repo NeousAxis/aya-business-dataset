@@ -1,20 +1,11 @@
 {
   "entity_id": "7df45ae1-d348-5a9c-9e31-79d4ebf3b394",
   "name": "Santander Bank",
-  "what_it_does": "Santander Bank in Poland, despite the domain, appears to be a financial institution, likely offering traditional banking services.",
+  "what_it_does": "Santander Bank in Poland provides banking services, potentially including offerings related to food and restaurant businesses, but specifics are unclear.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Poland",
-  "keywords": [
-    "Polish banking",
-    "financial services",
-    "banking",
-    "personal banking",
-    "retail banking",
-    "loans",
-    "mortgages",
-    "bank accounts"
-  ],
+  "keywords": [],
   "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7df45ae1-d348-5a9c-9e31-79d4ebf3b394"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "a883fa7a-3c38-5536-a4ce-86800aa63135",
   "name": "PatSnap",
-  "what_it_does": "PatSnap provides intellectual property (IP) intelligence and analytics software.",
+  "what_it_does": "PatSnap provides patent intelligence and analytics software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [
-    "intellectual property",
-    "patent analytics",
-    "patent ",
-    "IP intelligence",
-    "patent search",
-    "IP data",
-    "patent landscape"
-  ],
-  "aio_score": 66.0,
+  "location": "United States",
+  "keywords": [],
+  "aio_score": 69.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a883fa7a-3c38-5536-a4ce-86800aa63135"
 }

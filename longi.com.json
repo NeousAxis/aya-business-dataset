@@ -1,20 +1,11 @@
 {
   "entity_id": "01b6d912-02ff-5e2a-ad9a-e383af22055f",
   "name": "LONGi",
-  "what_it_does": "LONGi manufactures and sells solar panels and related products.",
+  "what_it_does": "LONGi is a manufacturer of monocrystalline silicon solar cells and modules.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "China",
-  "keywords": [
-    "solar panels",
-    "photovoltaic solutions",
-    "solar energy",
-    "solar modules",
-    "solar power",
-    "renewable energy",
-    "silicon wafers",
-    "solar cell manufacturing"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/01b6d912-02ff-5e2a-ad9a-e383af22055f"
 }

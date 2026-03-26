@@ -1,20 +1,11 @@
 {
   "entity_id": "756c7045-4018-55c9-9ba1-b9e97f7a249b",
   "name": "CIRCOR",
-  "what_it_does": "CIRCOR International manufactures engineered products and subsystems.",
+  "what_it_does": "CIRCOR International manufactures flow control products and sub-systems for various industries.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "engineered products",
-    "flow control",
-    "aerospace components",
-    "industrial valves",
-    "fluid control",
-    "engineered systems",
-    "process industries",
-    "critical applications"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/756c7045-4018-55c9-9ba1-b9e97f7a249b"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "55f5a967-297e-5446-9ecd-0c559e75fa13",
   "name": "GQ",
-  "what_it_does": "GQ is a men's fashion and lifestyle magazine.",
+  "what_it_does": "GQ is a men's fashion and lifestyle magazine featuring articles, videos, and style guides.",
   "for_who": "Businesses and professionals.",
-  "category": "Luxe & Mode",
+  "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "men's fashion magazine",
-    "lifestyle publication",
-    "men's style",
-    "fashion trends",
-    "celebrity interviews",
-    "grooming products",
-    "menswear"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/55f5a967-297e-5446-9ecd-0c559e75fa13"
 }

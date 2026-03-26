@@ -1,20 +1,11 @@
 {
   "entity_id": "33cc3f00-6ccf-56be-9349-552f2d170bca",
   "name": "Renishaw",
-  "what_it_does": "Renishaw designs, manufactures, and sells precision measurement and healthcare products.",
+  "what_it_does": "Renishaw is a global engineering company specializing in measurement, motion control, and healthcare products.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United Kingdom",
-  "keywords": [
-    "precision measurement",
-    "healthcare products",
-    "industrial metrology",
-    "additive manufacturing",
-    "encoder systems",
-    "coordinate measuring machines",
-    "spectroscopy",
-    "manufacturing automation"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/33cc3f00-6ccf-56be-9349-552f2d170bca"
 }

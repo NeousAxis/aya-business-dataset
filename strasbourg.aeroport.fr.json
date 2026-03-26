@@ -1,20 +1,11 @@
 {
   "entity_id": "0261d9d4-3d67-5775-a5a9-49bf55f94f5b",
   "name": "Strasbourg",
-  "what_it_does": "Strasbourg Airport provides passenger and cargo air transportation services to and from Strasbourg, France.",
+  "what_it_does": "Strasbourg Airport provides passenger and cargo air transport services from Strasbourg, France.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
-  "keywords": [
-    "air transport",
-    "passenger flights",
-    "freight transport",
-    "airport services",
-    "Strasbourg airport",
-    "air travel",
-    "airport operations",
-    "cargo handling"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0261d9d4-3d67-5775-a5a9-49bf55f94f5b"
 }

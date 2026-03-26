@@ -1,20 +1,11 @@
 {
   "entity_id": "03a87dae-cecf-5ad9-b513-d9153a81eb92",
   "name": "Les Grappes",
-  "what_it_does": "Les Grappes is an online marketplace connecting consumers directly with independent winemakers.",
+  "what_it_does": "Les Grappes is an online marketplace connecting consumers directly with French wine producers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "independent winemakers",
-    "wine marketplace",
-    "direct-to-consumer wine",
-    "French wine",
-    "wine e-commerce",
-    "wine sales",
-    "vineyard products",
-    "online wine"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/03a87dae-cecf-5ad9-b513-d9153a81eb92"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "8b84f977-ed53-515c-a81c-214202fab3ff",
   "name": "7shifts",
-  "what_it_does": "7shifts.com provides restaurant scheduling and labor management software.",
+  "what_it_does": "7shifts provides employee scheduling and time clock software for the restaurant industry.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [
-    "restaurant scheduling",
-    "employee time clock",
-    "labor cost control",
-    "restaurant staff",
-    "shift planning",
-    "employee scheduling software",
-    "restaurant operations",
-    "workforce management"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8b84f977-ed53-515c-a81c-214202fab3ff"
 }

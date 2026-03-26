@@ -1,19 +1,11 @@
 {
   "entity_id": "d123de12-8bc3-5358-8069-a8f29e938162",
   "name": "Evolis",
-  "what_it_does": "Evolis likely provides solutions for personalized card printing systems related to tourism and transport.",
+  "what_it_does": "Evolis provides card printers for personalizing and encoding plastic cards used for various applications like transportation and identification.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "UK",
-  "keywords": [
-    "card printers",
-    "plastic card personalization",
-    "ID card printing",
-    "access control cards",
-    "employee badges",
-    "membership cards",
-    "card encoding"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d123de12-8bc3-5358-8069-a8f29e938162"
 }

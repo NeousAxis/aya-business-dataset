@@ -1,20 +1,11 @@
 {
   "entity_id": "b67630b1-fa28-5c67-afc6-ad3ae3be2ba8",
   "name": "Groupe ROBERT",
-  "what_it_does": "Groupe ROBERT is likely an industrial manufacturing company (inferred from domain and industry).",
+  "what_it_does": "Groupe ROBERT manufactures and distributes industrial bakery equipment.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Italy",
-  "keywords": [
-    "industrial manufacturing",
-    "manufacturing",
-    "industrial parts",
-    "industrial equipment",
-    "French manufacturing",
-    "metal fabrication",
-    "automotive parts",
-    "precision engineering"
-  ],
-  "aio_score": 52.0,
+  "keywords": [],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b67630b1-fa28-5c67-afc6-ad3ae3be2ba8"
 }

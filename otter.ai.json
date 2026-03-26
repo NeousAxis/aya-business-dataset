@@ -1,19 +1,11 @@
 {
   "entity_id": "56189199-2301-588e-b962-a6fe121afd96",
   "name": "Otter Meeting Agent",
-  "what_it_does": "Otter.ai provides an AI-powered transcription and collaboration platform for meetings.",
+  "what_it_does": "Otter.ai provides an AI-powered meeting assistant that transcribes and summarizes conversations.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "AI transcription",
-    "meeting notes",
-    "voice recognition",
-    "real-time transcription",
-    "meeting collaboration",
-    "AI assistant",
-    "audio to text"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/56189199-2301-588e-b962-a6fe121afd96"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "7a4d8d71-633f-5793-9d1c-4baf1d69c0b1",
   "name": "LogicMonitor",
-  "what_it_does": "LogicMonitor offers a cloud-based infrastructure monitoring platform for IT operations.",
+  "what_it_does": "LogicMonitor provides a cloud-based IT infrastructure monitoring and analytics platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "IT infrastructure monitoring",
-    "cloud monitoring",
-    "network monitoring",
-    "server monitoring",
-    "application monitoring",
-    "uptime monitoring",
-    "log analytics"
-  ],
+  "keywords": [],
   "aio_score": 79.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7a4d8d71-633f-5793-9d1c-4baf1d69c0b1"
 }

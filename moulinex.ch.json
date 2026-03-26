@@ -1,19 +1,11 @@
 {
   "entity_id": "4dc734cc-f61e-5ea3-8fba-6667ec98c156",
   "name": "Moulinex Suisse page d'accueil",
-  "what_it_does": "Moulinex Switzerland sells small kitchen appliances.",
+  "what_it_does": "Moulinex Suisse sells small kitchen appliances like food processors and blenders in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Switzerland",
-  "keywords": [
-    "kitchen appliances",
-    "small appliances",
-    "food preparation",
-    "blenders",
-    "food processors",
-    "juicers",
-    "Swiss retailer"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4dc734cc-f61e-5ea3-8fba-6667ec98c156"
 }

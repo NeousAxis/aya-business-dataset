@@ -1,20 +1,11 @@
 {
   "entity_id": "17ac00ce-ae0d-595e-a88b-67ce4bc22a85",
   "name": "Freelancer",
-  "what_it_does": "Freelancer.com is a global online marketplace connecting freelancers with businesses seeking their services.",
+  "what_it_does": "Freelancer operates an online marketplace connecting freelancers with employers for various project-based tasks.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Australia",
-  "keywords": [
-    "Freelance marketplace",
-    "Online work",
-    "Remote jobs",
-    "Gigs",
-    "Task outsourcing",
-    "Contract workers",
-    "Freelance talent",
-    "Remote employment"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/17ac00ce-ae0d-595e-a88b-67ce4bc22a85"
 }

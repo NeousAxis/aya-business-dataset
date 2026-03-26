@@ -1,20 +1,11 @@
 {
   "entity_id": "b5624750-21d7-585a-b8a9-938f7770dee9",
   "name": "ZoomInfo",
-  "what_it_does": "ZoomInfo is a business intelligence platform providing sales and marketing data.",
+  "what_it_does": "ZoomInfo provides a B2B database with contact information and company profiles for sales and marketing teams.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "economic intelligence",
-    "sales data",
-    "marketing data",
-    "B2B contacts",
-    "lead generation",
-    "market research",
-    "sales intelligence",
-    "business information"
-  ],
+  "keywords": [],
   "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b5624750-21d7-585a-b8a9-938f7770dee9"
 }

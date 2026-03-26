@@ -1,20 +1,11 @@
 {
   "entity_id": "0167e1f8-26f1-5289-91b3-f4f202fbcb92",
   "name": "Bell Schweiz",
-  "what_it_does": "Bell Schweiz (Bell Switzerland) processes meat and produces convenience foods.",
+  "what_it_does": "Bell Schweiz (Bell Switzerland) produces and sells meat and convenience food products.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Switzerland",
-  "keywords": [
-    "meat products",
-    "prepared meals",
-    "Swiss food",
-    "food processing",
-    "meat distribution",
-    "convenience foods",
-    "sausages",
-    "charcuterie"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0167e1f8-26f1-5289-91b3-f4f202fbcb92"
 }

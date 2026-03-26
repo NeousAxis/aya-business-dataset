@@ -1,20 +1,11 @@
 {
   "entity_id": "98144753-d3d5-5d61-b274-381d42160c46",
   "name": "TickTick",
-  "what_it_does": "TickTick provides a task management and to-do list application.",
+  "what_it_does": "TickTick offers a cloud-based task management and to-do list application.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "task management",
-    "to-do list application",
-    "productivity tool",
-    "time management",
-    "task organizer",
-    "checklist",
-    "schedule planner",
-    "cross-platform tasks"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/98144753-d3d5-5d61-b274-381d42160c46"
 }

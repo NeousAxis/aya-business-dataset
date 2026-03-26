@@ -1,20 +1,11 @@
 {
   "entity_id": "de31158c-f3b7-5691-b004-38123864b027",
   "name": "Mezmo",
-  "what_it_does": "Mezmo provides a log management platform for collecting, processing, and analyzing application logs.",
+  "what_it_does": "Mezmo provides a platform for real-time log management and observability.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "observability platform",
-    "log management",
-    "log analytics",
-    "cloud monitoring",
-    "IT monitoring",
-    "system logs",
-    "performance analysis",
-    "data aggregation"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/de31158c-f3b7-5691-b004-38123864b027"
 }

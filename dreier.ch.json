@@ -1,18 +1,11 @@
 {
   "entity_id": "30285ea5-55c9-5bf2-bb12-ab659afb9d90",
   "name": "Dreier AG",
-  "what_it_does": "Dreier AG is a Swiss company providing services likely related to communications, possibly marketing or advertising, given their domain and sector.",
+  "what_it_does": "Dreier AG is a communication and advertising agency.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "swiss communications",
-    "media production",
-    "marketing campaigns",
-    "corporate communications",
-    "public relations",
-    "brand strategy"
-  ],
+  "keywords": [],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/30285ea5-55c9-5bf2-bb12-ab659afb9d90"
 }

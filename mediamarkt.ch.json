@@ -1,19 +1,11 @@
 {
   "entity_id": "9580ad2e-5e48-55c2-8e44-2e172216a7ca",
   "name": "MediaMarkt",
-  "what_it_does": "MediaMarkt is a European chain of consumer electronics stores.",
+  "what_it_does": "MediaMarkt is a European chain of stores selling consumer electronics.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [
-    "consumer electronics",
-    "electronics retailer",
-    "home appliances",
-    "gadgets",
-    "consumer tech",
-    "electronics stores",
-    "Swiss retail"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9580ad2e-5e48-55c2-8e44-2e172216a7ca"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "14acca8f-5167-5e29-ba97-ddf527667345",
   "name": "Bandcamp",
-  "what_it_does": "Bandcamp is an online music platform where artists can sell their music directly to fans.",
-  "for_who": "Media professionals and audiences.",
-  "category": "Media & Communication",
+  "what_it_does": "Bandcamp is an online music store and platform for independent artists.",
+  "for_who": "Businesses and professionals.",
+  "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [
-    "independent music",
-    "music sales",
-    "artist platform",
-    "music marketplace",
-    "digital music",
-    "music streaming",
-    "direct-to-fan",
-    "music downloads"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/14acca8f-5167-5e29-ba97-ddf527667345"
 }

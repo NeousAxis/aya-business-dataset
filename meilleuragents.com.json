@@ -1,20 +1,11 @@
 {
   "entity_id": "f9598975-d07c-5316-8ec3-57b6e8c89a11",
   "name": "Meilleuragents",
-  "what_it_does": "Meilleuragents provides real estate valuation and market data services in France.",
+  "what_it_does": "Meilleuragents is a platform providing real estate valuation and market analysis tools for property owners and buyers.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "real estate valuation",
-    "property appraisal",
-    "estate agent referral",
-    "French real estate market",
-    "real estate data",
-    "property prices",
-    "real estate professionals",
-    "France property"
-  ],
+  "keywords": [],
   "aio_score": 21.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f9598975-d07c-5316-8ec3-57b6e8c89a11"
 }

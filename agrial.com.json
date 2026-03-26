@@ -1,20 +1,11 @@
 {
   "entity_id": "a275571e-9c00-56a5-b55b-5adfccfb971d",
   "name": "Agrial",
-  "what_it_does": "Agrial is a French agricultural cooperative involved in food processing and distribution.",
+  "what_it_does": "Agrial is likely a media and communication company involved in agricultural news and information.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "agricultural cooperative",
-    "food processing",
-    "food distribution",
-    "dairy products",
-    "fresh produce",
-    "meat products",
-    "cider production",
-    "French agriculture"
-  ],
+  "keywords": [],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a275571e-9c00-56a5-b55b-5adfccfb971d"
 }

@@ -1,18 +1,11 @@
 {
   "entity_id": "4b30f825-8bb2-53bd-b7d0-8c153b257776",
   "name": "Jumia",
-  "what_it_does": "Jumia is an e-commerce platform operating across several countries in Africa.",
+  "what_it_does": "Jumia operates an online marketplace for various consumer goods in Africa.",
   "for_who": "Businesses and professionals.",
-  "category": "E-commerce & Retail",
-  "location": "Global",
-  "keywords": [
-    "Egyptian e-commerce",
-    "online marketplace",
-    "retail products",
-    "African market",
-    "consumer goods",
-    "electronics retail"
-  ],
-  "aio_score": 36.0,
+  "category": "Tourisme & Transport",
+  "location": "EG",
+  "keywords": [],
+  "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4b30f825-8bb2-53bd-b7d0-8c153b257776"
 }

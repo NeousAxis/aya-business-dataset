@@ -1,20 +1,11 @@
 {
   "entity_id": "2d8d9aea-beb6-5960-a651-a0c5054aa86c",
   "name": "GRAIL",
-  "what_it_does": "GRAIL develops multi-cancer early detection tests using DNA sequencing.",
+  "what_it_does": "Grail.com likely provides information and resources related to a media company called Grail.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "cancer screening",
-    "early cancer detection",
-    "healthcare diagnostics",
-    "genomic testing",
-    "oncology",
-    "blood-based cancer tests",
-    "disease detection",
-    "cancer research"
-  ],
+  "keywords": [],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2d8d9aea-beb6-5960-a651-a0c5054aa86c"
 }

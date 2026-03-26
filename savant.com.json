@@ -1,19 +1,11 @@
 {
   "entity_id": "0edd143a-d84f-50ee-b87c-42f0cff417ba",
   "name": "Savant Home Page",
-  "what_it_does": "Savant provides home automation and smart home control systems.",
+  "what_it_does": "Savant provides home automation and smart home solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "home automation",
-    "smart home systems",
-    "lighting control",
-    "climate control",
-    "entertainment systems",
-    "integrated control",
-    "residential technology"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0edd143a-d84f-50ee-b87c-42f0cff417ba"
 }

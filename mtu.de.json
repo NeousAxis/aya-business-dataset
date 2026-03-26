@@ -1,20 +1,11 @@
 {
   "entity_id": "56bff01b-f17e-5d6f-b9dc-0d7a6de8138c",
   "name": "MTU Aero Engines AG",
-  "what_it_does": "MTU Aero Engines AG develops, manufactures, and maintains commercial and military aircraft engines.",
+  "what_it_does": "MTU Aero Engines AG manufactures and maintains aircraft engines.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Germany",
-  "keywords": [
-    "Aircraft engines",
-    "Aviation propulsion",
-    "Engine maintenance",
-    "Aero engine manufacturing",
-    "Commercial aviation",
-    "Military aircraft engines",
-    "Gas turbines",
-    "Aerospace engineering"
-  ],
+  "keywords": [],
   "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/56bff01b-f17e-5d6f-b9dc-0d7a6de8138c"
 }

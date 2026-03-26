@@ -1,19 +1,11 @@
 {
   "entity_id": "86ac6868-1c0d-5c4b-93af-ac277ff9552d",
   "name": "Vanity Fair",
-  "what_it_does": "Vanity Fair is a magazine covering culture, fashion, and politics.",
+  "what_it_does": "Vanity Fair publishes a monthly magazine covering pop culture, fashion, and current affairs.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "culture magazine",
-    "fashion magazine",
-    "political commentary",
-    "celebrity news",
-    "lifestyle journalism",
-    "long-form articles",
-    "entertainment news"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/86ac6868-1c0d-5c4b-93af-ac277ff9552d"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "9137c068-ac87-574f-9e95-bac85018b872",
   "name": "Mytheresa",
-  "what_it_does": "Mytheresa is an online retailer specializing in luxury fashion goods.",
+  "what_it_does": "Mytheresa is an online retailer specializing in luxury fashion.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [
-    "luxury fashion",
-    "designer clothing",
-    "high-end apparel",
-    "luxury goods",
-    "online retailer",
-    "exclusive brands",
-    "fashion accessories",
-    "Mytheresa"
-  ],
+  "keywords": [],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9137c068-ac87-574f-9e95-bac85018b872"
 }

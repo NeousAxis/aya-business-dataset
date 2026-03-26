@@ -1,18 +1,11 @@
 {
   "entity_id": "3e45d1b2-42ce-52d4-841d-dd465e4b659b",
   "name": "ClassDojo",
-  "what_it_does": "ClassDojo provides a communication platform connecting teachers, students, and families.",
+  "what_it_does": "ClassDojo is a communication platform connecting teachers, students, and families.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Spain",
-  "keywords": [
-    "classroom communication",
-    "teacher-parent communication",
-    "student engagement",
-    "classroom community",
-    "education technology",
-    "behavior management"
-  ],
+  "keywords": [],
   "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3e45d1b2-42ce-52d4-841d-dd465e4b659b"
 }

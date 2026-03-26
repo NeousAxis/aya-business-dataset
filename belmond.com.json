@@ -1,17 +1,11 @@
 {
   "entity_id": "722dd483-ae92-50ba-ad96-6eb25528599f",
   "name": "Belmond Management Limited",
-  "what_it_does": "Belmond Management Limited operates luxury hotels, trains, and river cruises worldwide.",
+  "what_it_does": "Belmond Management Limited operates a portfolio of luxury hotels, trains, and river cruises worldwide.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United Kingdom",
-  "keywords": [
-    "hotels",
-    "trains",
-    "river cruises",
-    "tourism",
-    "transport"
-  ],
+  "keywords": [],
   "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/722dd483-ae92-50ba-ad96-6eb25528599f"
 }

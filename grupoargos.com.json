@@ -1,19 +1,11 @@
 {
   "entity_id": "9f01dc95-13a5-5dde-a90a-abd19142b5bc",
   "name": "Grupo Argos",
-  "what_it_does": "Grupo Argos is a Colombian conglomerate with investments in cement, energy, and infrastructure.",
+  "what_it_does": "Grupo Argos likely offers SaaS solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "Colombian conglomerate",
-    "cement production",
-    "energy investments",
-    "infrastructure projects",
-    "cement distribution",
-    "power generation",
-    "toll road operations"
-  ],
+  "keywords": [],
   "aio_score": 51.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f01dc95-13a5-5dde-a90a-abd19142b5bc"
 }

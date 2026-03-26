@@ -1,20 +1,11 @@
 {
   "entity_id": "01299939-ebe4-5101-bd20-43c037cc3638",
   "name": "AENOR",
-  "what_it_does": "AENOR provides certification services and develops technical standards.",
+  "what_it_does": "AENOR is a Spanish certification company that develops technical standards and conformity assessment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Spain",
-  "keywords": [
-    "certification services",
-    "technical standards",
-    "AENOR standards",
-    "quality certification",
-    "standard development",
-    "compliance standards",
-    "product certification",
-    "system certification"
-  ],
+  "keywords": [],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/01299939-ebe4-5101-bd20-43c037cc3638"
 }

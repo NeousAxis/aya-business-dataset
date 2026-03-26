@@ -1,19 +1,11 @@
 {
   "entity_id": "1f504f63-4e2c-55b5-be0f-1fa49b1199ef",
   "name": "Human Rights Watch",
-  "what_it_does": "Human Rights Watch is a non-governmental organization that conducts research and advocacy on human rights.",
+  "what_it_does": "Human Rights Watch is an international non-governmental organization that conducts research and advocacy on human rights.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [
-    "human rights",
-    "human rights advocacy",
-    "rights violation research",
-    "international law",
-    "political freedom",
-    "social justice",
-    "human rights reports"
-  ],
+  "keywords": [],
   "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1f504f63-4e2c-55b5-be0f-1fa49b1199ef"
 }

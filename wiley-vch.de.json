@@ -1,20 +1,11 @@
 {
   "entity_id": "79bf0c21-f762-50e8-9b61-ddabb7bdd575",
   "name": "Wiley Weltweit",
-  "what_it_does": "Wiley-VCH publishes scientific and technical books and journals.",
+  "what_it_does": "Wiley-VCH is a publisher of scientific and technical books and journals.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [
-    "scientific books",
-    "technical journals",
-    "academic publishing",
-    "research publications",
-    "scientific publishing",
-    "engineering books",
-    "chemistry journals",
-    "Wiley-VCH"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/79bf0c21-f762-50e8-9b61-ddabb7bdd575"
 }

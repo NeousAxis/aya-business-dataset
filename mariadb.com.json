@@ -1,20 +1,11 @@
 {
   "entity_id": "a8221064-b249-5966-920a-4d6cc323233a",
   "name": "MariaDB",
-  "what_it_does": "MariaDB develops and supports an open-source relational database management system.",
+  "what_it_does": "MariaDB develops and supports the MariaDB open-source relational database management system.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "open source database",
-    "relational database",
-    "database management",
-    "data storage",
-    "database software",
-    "data management system",
-    "SQL database",
-    "database solutions"
-  ],
+  "keywords": [],
   "aio_score": 80.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a8221064-b249-5966-920a-4d6cc323233a"
 }

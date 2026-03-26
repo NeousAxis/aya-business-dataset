@@ -1,20 +1,11 @@
 {
   "entity_id": "f10251af-164e-5608-9fb9-aa65fa57c738",
   "name": "TechCrunch",
-  "what_it_does": "TechCrunch is a website that reports on technology industry news and startups.",
+  "what_it_does": "TechCrunch publishes news and analysis about the technology industry and startups.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "technology news",
-    "startup news",
-    "tech industry",
-    "venture capital",
-    "tech innovation",
-    "gadget reviews",
-    "tech analysis",
-    "tech blogs"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f10251af-164e-5608-9fb9-aa65fa57c738"
 }

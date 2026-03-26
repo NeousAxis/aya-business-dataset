@@ -1,19 +1,11 @@
 {
   "entity_id": "c949c755-ee7e-558f-8597-4229f3a666e1",
   "name": "Jolt",
-  "what_it_does": "Jolt provides restaurant management software for task management, training, and operations.",
+  "what_it_does": "Jolt provides a platform with scheduling, training, and task management software for deskless teams.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [
-    "operations management",
-    "restaurant operations",
-    "retail operations",
-    "task management",
-    "checklist",
-    "team accountability",
-    "food service"
-  ],
+  "keywords": [],
   "aio_score": 60.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c949c755-ee7e-558f-8597-4229f3a666e1"
 }

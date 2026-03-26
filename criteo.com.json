@@ -1,19 +1,11 @@
 {
   "entity_id": "45ab2302-b28a-5c3e-936f-10af1dd61699",
   "name": "Criteo",
-  "what_it_does": "Criteo provides personalized retargeting advertising to e-commerce businesses.",
+  "what_it_does": "Criteo provides personalized retargeting advertising technology.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
-  "location": "Global",
-  "keywords": [
-    "personalized advertising",
-    "e-commerce marketing",
-    "retargeting",
-    "customer acquisition",
-    "online ads",
-    "behavioral targeting",
-    "performance marketing"
-  ],
-  "aio_score": 61.0,
+  "location": "France",
+  "keywords": [],
+  "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/45ab2302-b28a-5c3e-936f-10af1dd61699"
 }

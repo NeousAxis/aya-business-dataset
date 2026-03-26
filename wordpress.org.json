@@ -1,20 +1,11 @@
 {
   "entity_id": "9409eecb-d502-510e-b70f-837e4f8f44ba",
   "name": "Blog Tool, Publishing Platform, and CMS",
-  "what_it_does": "WordPress.org is an open-source platform for creating and managing websites and blogs.",
+  "what_it_does": "WordPress.org provides open-source software for creating and managing websites and blogs.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "India",
-  "keywords": [
-    "open source CMS",
-    "blogging platform",
-    "website creation",
-    "content publishing",
-    "website builder",
-    "content management",
-    "theme customization",
-    "plugin ecosystem"
-  ],
+  "keywords": [],
   "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9409eecb-d502-510e-b70f-837e4f8f44ba"
 }

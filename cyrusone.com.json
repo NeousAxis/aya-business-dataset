@@ -1,19 +1,11 @@
 {
   "entity_id": "8736b1d5-dec4-5d96-af1c-80ca2f295e06",
   "name": "CyrusOne",
-  "what_it_does": "CyrusOne operates data centers providing colocation and interconnection services.",
+  "what_it_does": "CyrusOne operates data centers providing colocation and related services to businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "data centers",
-    "colocation services",
-    "interconnection services",
-    "data storage",
-    "cloud infrastructure",
-    "IT infrastructure",
-    "enterprise data centers"
-  ],
+  "keywords": [],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8736b1d5-dec4-5d96-af1c-80ca2f295e06"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "731fe467-6075-5392-b2aa-efe972399727",
   "name": "OpenAI",
-  "what_it_does": "OpenAI researches and develops advanced artificial intelligence models and platforms.",
+  "what_it_does": "OpenAI researches and develops artificial intelligence technologies and models.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [
-    "artificial intelligence",
-    "AI models",
-    "AI research",
-    "machine learning",
-    "deep learning",
-    "neural networks",
-    "AI platforms",
-    "generative AI"
-  ],
+  "location": "India",
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/731fe467-6075-5392-b2aa-efe972399727"
 }

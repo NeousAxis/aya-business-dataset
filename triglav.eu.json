@@ -1,20 +1,11 @@
 {
   "entity_id": "f725e7d6-31a2-5b7f-883e-2e712da5c580",
   "name": "Zavarovalno-finančna skupina",
-  "what_it_does": "Zavarovalno-finančna skupina Triglav is a Slovenian insurance and financial group offering various insurance products and financial services.",
+  "what_it_does": "Triglav is a Slovenian insurance and financial services group.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "insurance",
-    "financial group",
-    "Slovenian insurance",
-    "risk management",
-    "financial products",
-    "banking",
-    "asset management",
-    "pension funds"
-  ],
+  "keywords": [],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f725e7d6-31a2-5b7f-883e-2e712da5c580"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "44fa2ce2-1722-55b4-b43a-1d1521d6e22e",
   "name": "Ariens",
-  "what_it_does": "Ariens manufactures and sells outdoor power equipment like lawnmowers and snowblowers.",
+  "what_it_does": "Ariens manufactures outdoor power equipment, including snow blowers and lawn mowers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [
-    "lawn mowers",
-    "snow blowers",
-    "outdoor power equipment",
-    "lawn care",
-    "garden equipment",
-    "snow removal",
-    "mowing equipment",
-    "yard maintenance"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/44fa2ce2-1722-55b4-b43a-1d1521d6e22e"
 }

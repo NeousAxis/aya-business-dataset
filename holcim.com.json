@@ -1,19 +1,11 @@
 {
   "entity_id": "0d8f7dd6-3ffa-5020-8c75-681e775dc137",
   "name": "Holcim",
-  "what_it_does": "Holcim is a global company producing cement, aggregates, and ready-mix concrete.",
+  "what_it_does": "Holcim produces and distributes cement, aggregates, and ready-mix concrete.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [
-    "cement",
-    "aggregates",
-    "ready-mix concrete",
-    "construction materials",
-    "building materials",
-    "infrastructure materials",
-    "sustainable construction"
-  ],
+  "keywords": [],
   "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0d8f7dd6-3ffa-5020-8c75-681e775dc137"
 }

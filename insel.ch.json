@@ -1,20 +1,11 @@
 {
   "entity_id": "6d9e87ff-28eb-5201-893f-53d323fa23b5",
   "name": "Inselspital",
-  "what_it_does": "Inselspital is a university hospital in Bern, Switzerland, providing medical care and education.",
+  "what_it_does": "Inselspital is a university hospital in Bern, Switzerland, providing medical care and research.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [
-    "university hospital",
-    "medical care",
-    "clinical services",
-    "medical training",
-    "bern hospital",
-    "swiss healthcare",
-    "inselspital bern",
-    "healthcare research"
-  ],
-  "aio_score": 28.0,
+  "keywords": [],
+  "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6d9e87ff-28eb-5201-893f-53d323fa23b5"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "f8b6c341-1ccc-5b2b-88b9-81b3f81d45c5",
   "name": "University of Bristol",
-  "what_it_does": "The University of Bristol is a higher education institution offering undergraduate and postgraduate degrees.",
+  "what_it_does": "Bristol.ac.uk is the website for the University of Bristol, a higher education institution.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
-  "keywords": [
-    "UK public university",
-    "research university",
-    "higher education",
-    "academic degrees",
-    "student programs",
-    "research facilities",
-    "Bristol",
-    "university courses"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f8b6c341-1ccc-5b2b-88b9-81b3f81d45c5"
 }

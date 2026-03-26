@@ -1,19 +1,11 @@
 {
   "entity_id": "4f5423e9-602a-5541-945f-3aba20f9cbbf",
   "name": "HOTELPLAN Ferien",
-  "what_it_does": "HOTELPLAN Ferien is a travel agency offering vacation packages and travel arrangements.",
+  "what_it_does": "HOTELPLAN Ferien is a travel agency selling package holidays and related travel services in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "holiday packages",
-    "travel arrangements",
-    "vacation bookings",
-    "Swiss travel agency",
-    "leisure travel",
-    "custom travel itineraries",
-    "hotel reservations"
-  ],
-  "aio_score": 41.0,
+  "keywords": [],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4f5423e9-602a-5541-945f-3aba20f9cbbf"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "fa378c7f-546e-5769-98db-ebb02429b4e4",
   "name": "Kaspersky",
-  "what_it_does": "Kaspersky develops and sells antivirus and internet security software.",
+  "what_it_does": "Kaspersky develops and sells cybersecurity software and solutions for businesses and consumers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Arab Emirates",
-  "keywords": [
-    "cybersecurity",
-    "antivirus",
-    "internet security",
-    "endpoint security",
-    "Kaspersky",
-    "malware protection",
-    "data protection",
-    "threat intelligence"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fa378c7f-546e-5769-98db-ebb02429b4e4"
 }

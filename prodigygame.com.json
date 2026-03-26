@@ -1,19 +1,11 @@
 {
   "entity_id": "4d5460e8-05d3-5f73-a603-735c9b670351",
   "name": "Prodigy Math",
-  "what_it_does": "Prodigy Math offers a math game platform for elementary and middle school students.",
+  "what_it_does": "Prodigy Math offers an adaptive, game-based math learning platform.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [
-    "math games",
-    "educational games",
-    "elementary math",
-    "middle school math",
-    "math curriculum",
-    "game-based learning",
-    "math practice"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4d5460e8-05d3-5f73-a603-735c9b670351"
 }

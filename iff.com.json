@@ -1,20 +1,11 @@
 {
   "entity_id": "fd13b999-fc69-50fe-837b-7bb3528700b4",
   "name": "IFF",
-  "what_it_does": "IFF (International Flavors & Fragrances) creates and manufactures flavors, fragrances, and cosmetic actives.",
+  "what_it_does": "IFF creates and manufactures flavors, fragrances, and cosmetic actives.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "fragrances",
-    "flavors",
-    "cosmetic ingredients",
-    "sensory experiences",
-    "food ingredients",
-    "perfumery",
-    "aroma chemicals",
-    "taste solutions"
-  ],
+  "keywords": [],
   "aio_score": 54.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fd13b999-fc69-50fe-837b-7bb3528700b4"
 }

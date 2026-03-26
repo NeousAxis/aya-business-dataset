@@ -1,20 +1,11 @@
 {
   "entity_id": "cbe2fdd9-a59c-5684-9edd-adf5f72e11b3",
   "name": "Constellation",
-  "what_it_does": "Constellation provides competitive clean energy and energy solutions.",
+  "what_it_does": "Constellation provides energy solutions, including electricity, natural gas, and energy management services.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [
-    "clean energy",
-    "energy solutions",
-    "power generation",
-    "electricity supply",
-    "renewable energy",
-    "energy management",
-    "energy efficiency",
-    "carbon reduction"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cbe2fdd9-a59c-5684-9edd-adf5f72e11b3"
 }

@@ -1,19 +1,11 @@
 {
   "entity_id": "fbe3a280-bae4-5ddd-bf9c-69d2283b41b0",
   "name": "Qonto",
-  "what_it_does": "Qonto is a European online business finance solution for SMEs and freelancers.",
+  "what_it_does": "Qonto offers online banking services tailored for businesses and freelancers.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [
-    "SME finance",
-    "freelancer finance",
-    "European banking",
-    "payment processing",
-    "expense tracking",
-    "business accounts",
-    "financial tool"
-  ],
+  "keywords": [],
   "aio_score": 57.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fbe3a280-bae4-5ddd-bf9c-69d2283b41b0"
 }

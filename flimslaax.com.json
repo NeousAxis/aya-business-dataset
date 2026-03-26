@@ -1,20 +1,11 @@
 {
   "entity_id": "a22ae2bf-c9a2-5924-87c1-1a9577428a96",
   "name": "Flims Laax",
-  "what_it_does": "Flims Laax is a ski resort in Switzerland.",
+  "what_it_does": "Flims Laax is a resort offering skiing and snowboarding in the Swiss Alps.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [
-    "ski resort",
-    "winter ",
-    "mountain resort",
-    "Swiss Alps",
-    "snowboarding",
-    "skiing",
-    "alpine tourism",
-    "Laax resort"
-  ],
+  "keywords": [],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a22ae2bf-c9a2-5924-87c1-1a9577428a96"
 }

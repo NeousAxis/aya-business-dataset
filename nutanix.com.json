@@ -1,19 +1,11 @@
 {
   "entity_id": "297b537d-fd77-5f81-bfd1-f4b7733c0964",
   "name": "Nutanix",
-  "what_it_does": "Nutanix provides cloud computing software and hyperconverged infrastructure solutions.",
+  "what_it_does": "Nutanix provides a cloud computing platform that converges server, storage, and virtualization into one integrated solution.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [
-    "cloud computing",
-    "hyperconverged infrastructure",
-    "data center modernization",
-    "enterprise cloud",
-    "virtualization",
-    "private cloud",
-    "hybrid cloud"
-  ],
+  "keywords": [],
   "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/297b537d-fd77-5f81-bfd1-f4b7733c0964"
 }

@@ -1,20 +1,11 @@
 {
   "entity_id": "1695104d-7db7-5bd5-b735-a34c5d3912c5",
   "name": "Ulta Beauty",
-  "what_it_does": "Ulta Beauty is a retailer of cosmetics, fragrance, skin care, and hair care products.",
+  "what_it_does": "Ulta Beauty operates retail stores and an e-commerce platform selling cosmetics, skincare, and hair care products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [
-    "Cosmetics retailer",
-    "Beauty products",
-    "Skincare products",
-    "Haircare products",
-    "Fragrances",
-    "Makeup",
-    "Beauty stores",
-    "Cosmetic brands"
-  ],
+  "keywords": [],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1695104d-7db7-5bd5-b735-a34c5d3912c5"
 }

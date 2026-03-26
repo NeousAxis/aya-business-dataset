@@ -1,19 +1,11 @@
 {
   "entity_id": "2f00a313-dc86-5507-be82-0eff9e45cc1f",
   "name": "Phillips 66",
-  "what_it_does": "Phillips 66 refines and markets petroleum products and engages in midstream and chemical businesses.",
+  "what_it_does": "Phillips 66 refines crude oil into petroleum products and manufactures chemicals.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [
-    "petroleum refining",
-    "petroleum products",
-    "midstream operations",
-    "chemicals manufacturing",
-    "gasoline production",
-    "aviation fuel",
-    "lubricants"
-  ],
+  "keywords": [],
   "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2f00a313-dc86-5507-be82-0eff9e45cc1f"
 }

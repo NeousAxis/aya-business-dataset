@@ -1,19 +1,11 @@
 {
   "entity_id": "3e91a87c-d493-56c7-ae46-cf81aafeead4",
   "name": "SOPHiA GENETICS",
-  "what_it_does": "SOPHiA GENETICS develops a cloud-based platform for data-driven medicine, particularly in genomics and diagnostics.",
+  "what_it_does": "SOPHiA GENETICS analyzes genomic data to help healthcare providers diagnose and treat diseases.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [
-    "data-driven medicine",
-    "genomics",
-    "diagnostics",
-    "cloud-based genomics",
-    "healthcare informatics",
-    "molecular diagnostics",
-    "genomic analysis"
-  ],
+  "keywords": [],
   "aio_score": 72.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3e91a87c-d493-56c7-ae46-cf81aafeead4"
 }

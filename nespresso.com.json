@@ -1,11 +1,21 @@
 {
   "entity_id": "9eb67af7-4df2-5b58-a3a4-ba52d9ad3fd5",
+  "public_key_id": "9eb67af7-4df2-5b58-a3a4-ba52d9ad3fd5",
   "name": "Nespresso",
   "what_it_does": "Nespresso sells single-serving coffee capsules and machines.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "coffee capsules",
+    "single-serve coffee",
+    "coffee machines",
+    "espresso",
+    "flavored coffee",
+    "premium coffee",
+    "coffee pods",
+    "home coffee brewing"
+  ],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9eb67af7-4df2-5b58-a3a4-ba52d9ad3fd5"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "06744451-1a87-5580-8e5e-e425319acd04",
+  "public_key_id": "06744451-1a87-5580-8e5e-e425319acd04",
   "name": "Man",
   "what_it_does": "Man Group is a global investment management firm.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "investment management",
+    "asset management",
+    "hedge funds",
+    "financial investments",
+    "institutional investors",
+    "alternative investments",
+    "global finance",
+    "portfolio management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/06744451-1a87-5580-8e5e-e425319acd04"
 }

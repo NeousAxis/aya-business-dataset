@@ -1,11 +1,21 @@
 {
   "entity_id": "c1db2554-6ec3-5f9f-8e2b-af2bf206692a",
+  "public_key_id": "c1db2554-6ec3-5f9f-8e2b-af2bf206692a",
   "name": "GitHub",
   "what_it_does": "GitHub is a web-based platform for version control and collaboration using Git.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [],
+  "location": "United States",
+  "keywords": [
+    "Git version control",
+    "Collaborative coding",
+    "Code hosting",
+    "Open source projects",
+    "Software development platform",
+    "Code repository",
+    "Developer tools",
+    "Agile development"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c1db2554-6ec3-5f9f-8e2b-af2bf206692a"
 }

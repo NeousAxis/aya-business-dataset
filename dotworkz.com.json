@@ -1,11 +1,20 @@
 {
   "entity_id": "b8236a23-ba5f-5c91-b1ee-7f92f812491e",
+  "public_key_id": "b8236a23-ba5f-5c91-b1ee-7f92f812491e",
   "name": "Dotworkz",
   "what_it_does": "Dotworkz designs and manufactures ruggedized enclosures for security cameras.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "security camera enclosures",
+    "ruggedized enclosures",
+    "camera housings",
+    "surveillance equipment",
+    "outdoor camera protection",
+    "video surveillance",
+    "security systems"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b8236a23-ba5f-5c91-b1ee-7f92f812491e"
 }

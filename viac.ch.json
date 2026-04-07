@@ -1,11 +1,21 @@
 {
   "entity_id": "c36909c5-a3bd-54bf-92be-aba5d25e7795",
+  "public_key_id": "c36909c5-a3bd-54bf-92be-aba5d25e7795",
   "name": "Viac",
   "what_it_does": "Viac provides digital pension fund services within Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Swiss pension funds",
+    "retirement savings",
+    "digital pensions",
+    "pension investments",
+    "tax-advantaged investing",
+    "retirement planning",
+    "Switzerland finance",
+    "3a pillar"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c36909c5-a3bd-54bf-92be-aba5d25e7795"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "c4115409-f94b-5d1a-89d6-04f734a3b310",
+  "public_key_id": "c4115409-f94b-5d1a-89d6-04f734a3b310",
   "name": "Abu Dhabi Investment Authority",
   "what_it_does": "Abu Dhabi Investment Authority manages a global investment portfolio on behalf of the government of Abu Dhabi.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Arab Emirates",
-  "keywords": [],
-  "aio_score": 44.0,
+  "keywords": [
+    "global investments",
+    "investment portfolio",
+    "sovereign wealth fund",
+    "Abu Dhabi",
+    "financial investments",
+    "asset management",
+    "alternative investments"
+  ],
+  "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c4115409-f94b-5d1a-89d6-04f734a3b310"
 }

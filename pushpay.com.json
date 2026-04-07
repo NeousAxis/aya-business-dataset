@@ -1,11 +1,21 @@
 {
   "entity_id": "4168d555-fad0-5506-bdc9-6c8178ad1d90",
+  "public_key_id": "4168d555-fad0-5506-bdc9-6c8178ad1d90",
   "name": "Homepage (2026)",
   "what_it_does": "Pushpay provides donation and engagement solutions for faith-based organizations and non-profits.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 73.0,
+  "keywords": [
+    "donation ",
+    "engagement solutions",
+    "faith-based organizations",
+    "non-profit",
+    "giving solutions",
+    "church donations",
+    "mobile giving",
+    "engagement platform"
+  ],
+  "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4168d555-fad0-5506-bdc9-6c8178ad1d90"
 }

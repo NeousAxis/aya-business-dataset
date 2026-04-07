@@ -1,11 +1,21 @@
 {
   "entity_id": "77679108-4230-5d96-b666-fa5186a83e61",
+  "public_key_id": "77679108-4230-5d96-b666-fa5186a83e61",
   "name": "Totvs",
   "what_it_does": "Totvs provides enterprise resource planning (ERP) software for businesses in Brazil.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Brazil",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "ERP",
+    "enterprise resource planning",
+    "Brazilian ERP",
+    "business process automation",
+    "financials",
+    "supply chain",
+    "CRM",
+    "human resources"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/77679108-4230-5d96-b666-fa5186a83e61"
 }

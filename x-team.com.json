@@ -1,11 +1,21 @@
 {
   "entity_id": "77847412-5129-5e5e-baa8-7afe1e15bf24",
+  "public_key_id": "77847412-5129-5e5e-baa8-7afe1e15bf24",
   "name": "X-Team",
   "what_it_does": "X-Team provides a network of developers to companies for remote software development.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "remote developers",
+    "software development",
+    "developer network",
+    "distributed teams",
+    "on-demand developers",
+    "remote engineering",
+    "IT staffing",
+    "global developers"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/77847412-5129-5e5e-baa8-7afe1e15bf24"
 }

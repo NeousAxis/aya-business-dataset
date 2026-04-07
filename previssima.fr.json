@@ -1,11 +1,21 @@
 {
   "entity_id": "0b52d087-f59b-5924-8b87-00a14353b59d",
+  "public_key_id": "0b52d087-f59b-5924-8b87-00a14353b59d",
   "name": "Previssima",
   "what_it_does": "Previssima provides information and services related to retirement planning and personal finance.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "retirement planning",
+    "personal finance",
+    "financial advice",
+    "investment strategies",
+    "retirement savings",
+    "financial planning",
+    "French finance",
+    "personal investment"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0b52d087-f59b-5924-8b87-00a14353b59d"
 }

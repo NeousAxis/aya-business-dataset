@@ -1,11 +1,21 @@
 {
   "entity_id": "a0c82baf-33a0-5db7-a133-ee07d9fa02c8",
+  "public_key_id": "a0c82baf-33a0-5db7-a133-ee07d9fa02c8",
   "name": "nike (Switzerland)",
   "what_it_does": "Nike designs, develops, manufactures, and markets athletic apparel, footwear, equipment, and accessories worldwide.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 55.0,
+  "keywords": [
+    "athletic apparel",
+    "footwear",
+    "sports equipment",
+    "athletic shoes",
+    "sportswear",
+    "performance apparel",
+    "fitness apparel",
+    "running shoes"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a0c82baf-33a0-5db7-a133-ee07d9fa02c8"
 }

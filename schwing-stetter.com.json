@@ -1,11 +1,21 @@
 {
   "entity_id": "d92f4fb5-3d72-5fb2-95c4-1b0e8f2fc4a5",
+  "public_key_id": "d92f4fb5-3d72-5fb2-95c4-1b0e8f2fc4a5",
   "name": "Schwing-stetter",
   "what_it_does": "Schwing-Stetter manufactures concrete machinery and equipment.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "EN",
-  "keywords": [],
+  "keywords": [
+    "concrete machinery",
+    "concrete equipment",
+    "construction machinery",
+    "concrete pumps",
+    "mixing plants",
+    "concrete technology",
+    "construction vehicles",
+    "concrete mixers"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d92f4fb5-3d72-5fb2-95c4-1b0e8f2fc4a5"
 }

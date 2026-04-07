@@ -1,11 +1,21 @@
 {
   "entity_id": "3b6e0b16-8e6b-5da2-8191-5563b679f477",
+  "public_key_id": "3b6e0b16-8e6b-5da2-8191-5563b679f477",
   "name": "Discord",
   "what_it_does": "Discord is a voice, video, and text communication platform popular among gamers and communities.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Czech Republic",
-  "keywords": [],
-  "aio_score": 75.0,
+  "location": "United States",
+  "keywords": [
+    "voice communication",
+    "video communication",
+    "text communication",
+    "community platform",
+    "gaming communities",
+    "instant messaging",
+    "group chat",
+    "VoIP"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b6e0b16-8e6b-5da2-8191-5563b679f477"
 }

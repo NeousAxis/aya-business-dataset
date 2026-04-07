@@ -1,11 +1,20 @@
 {
   "entity_id": "ef08ddf1-5e93-5c6e-85d8-319572a4d33c",
+  "public_key_id": "ef08ddf1-5e93-5c6e-85d8-319572a4d33c",
   "name": "Rarible",
   "what_it_does": "Rarible operates a marketplace for creating, selling, and collecting NFTs.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "NFT marketplace",
+    "non-fungible tokens",
+    "crypto art",
+    "digital collectibles",
+    "blockchain art",
+    "NFT trading",
+    "digital assets"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ef08ddf1-5e93-5c6e-85d8-319572a4d33c"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "1fc6174b-45ab-5867-8cc2-7ea52da7489f",
+  "public_key_id": "1fc6174b-45ab-5867-8cc2-7ea52da7489f",
   "name": "Canadian Tire",
   "what_it_does": "Canadian Tire is a retail company offering automotive, hardware, sports, leisure and home products.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Canada",
-  "keywords": [],
-  "aio_score": 51.0,
+  "keywords": [
+    "retail",
+    "automotive",
+    "hardware",
+    "sports",
+    "leisure products",
+    "home products",
+    "Canadian retailer",
+    "consumer"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1fc6174b-45ab-5867-8cc2-7ea52da7489f"
 }

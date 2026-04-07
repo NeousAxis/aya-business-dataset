@@ -1,11 +1,21 @@
 {
   "entity_id": "76a14a78-be44-52c6-87f4-bdfa325ffcf1",
+  "public_key_id": "76a14a78-be44-52c6-87f4-bdfa325ffcf1",
   "name": "PNC Personal Banking",
   "what_it_does": "PNC Bank offers a range of personal banking services, including checking and savings accounts, loans, and credit cards.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "personal banking",
+    "checking accounts",
+    "savings accounts",
+    "consumer loans",
+    "credit cards",
+    "retail banking",
+    "mortgages",
+    "financial services"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/76a14a78-be44-52c6-87f4-bdfa325ffcf1"
 }

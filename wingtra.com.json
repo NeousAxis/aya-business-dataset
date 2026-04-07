@@ -1,11 +1,21 @@
 {
   "entity_id": "00655712-8ca3-5deb-a0c0-39b71bb83a41",
+  "public_key_id": "00655712-8ca3-5deb-a0c0-39b71bb83a41",
   "name": "Wingtra",
   "what_it_does": "Wingtra manufactures vertical takeoff and landing (VTOL) fixed-wing drones for surveying and mapping.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "VTOL drones",
+    "fixed-wing drones",
+    "aerial surveying",
+    "mapping drones",
+    "geospatial data",
+    "drone manufacturing",
+    "land surveying",
+    "LiDAR drones"
+  ],
+  "aio_score": 71.0,
   "certificate_url": "https://ai-visionary.com/aya/e/00655712-8ca3-5deb-a0c0-39b71bb83a41"
 }

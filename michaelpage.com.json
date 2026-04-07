@@ -1,11 +1,21 @@
 {
   "entity_id": "36386539-e19f-5a41-8952-cb778222329c",
+  "public_key_id": "36386539-e19f-5a41-8952-cb778222329c",
   "name": "Michael Page",
   "what_it_does": "Michael Page is a global recruitment company that specializes in connecting employers with skilled professionals.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "global recruitment",
+    "professional recruitment",
+    "executive search",
+    "talent acquisition",
+    "job placement",
+    "staffing solutions",
+    "permanent recruitment",
+    "contract recruitment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/36386539-e19f-5a41-8952-cb778222329c"
 }

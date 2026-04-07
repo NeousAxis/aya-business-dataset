@@ -1,11 +1,21 @@
 {
   "entity_id": "4ee24ed0-c9e1-5a9e-856d-6cb5c7654b89",
+  "public_key_id": "4ee24ed0-c9e1-5a9e-856d-6cb5c7654b89",
   "name": "Labeyrie",
   "what_it_does": "Labeyrie specializes in producing and selling high-end food products, particularly seafood and foie gras.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "foie gras",
+    "seafood products",
+    "high-end food",
+    "gourmet foods",
+    "delicacies",
+    "smoked salmon",
+    "premium appetizers",
+    "fine dining"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4ee24ed0-c9e1-5a9e-856d-6cb5c7654b89"
 }

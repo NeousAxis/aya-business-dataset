@@ -1,11 +1,21 @@
 {
   "entity_id": "398ecc05-3f5a-5179-94c6-5ef13fad7665",
+  "public_key_id": "398ecc05-3f5a-5179-94c6-5ef13fad7665",
   "name": "gategroup",
   "what_it_does": "Gategroup provides airline catering, retail onboard, and equipment solutions for the travel industry.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 71.0,
+  "keywords": [
+    "airline catering",
+    "in-flight retail",
+    "onboard equipment",
+    "travel catering",
+    "aviation supplies",
+    "aircraft provisioning",
+    "airline retail",
+    "inflight service"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/398ecc05-3f5a-5179-94c6-5ef13fad7665"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "62d1e2a8-b57a-5a66-8790-5a2dfacd77de",
+  "public_key_id": "62d1e2a8-b57a-5a66-8790-5a2dfacd77de",
   "name": "ERGO Group AG",
   "what_it_does": "ERGO Group AG is likely an insurance company.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "insurance",
+    "financial protection",
+    "risk management",
+    "life insurance",
+    "property insurance",
+    "health insurance",
+    "casualty insurance",
+    "insurance products"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/62d1e2a8-b57a-5a66-8790-5a2dfacd77de"
 }

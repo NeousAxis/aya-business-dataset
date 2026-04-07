@@ -1,11 +1,21 @@
 {
   "entity_id": "8ea0fb5b-bbb2-57f7-ab62-6c7d23f028bf",
+  "public_key_id": "8ea0fb5b-bbb2-57f7-ab62-6c7d23f028bf",
   "name": "Genesys Cloud",
   "what_it_does": "Genesys Cloud provides a cloud-based customer experience and contact center platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Australia",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "cloud contact center",
+    "customer experience",
+    "CX",
+    "call center",
+    "omnichannel communication",
+    "cloud telephony",
+    "workforce engagement",
+    "customer journey"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8ea0fb5b-bbb2-57f7-ab62-6c7d23f028bf"
 }

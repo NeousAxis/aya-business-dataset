@@ -1,11 +1,21 @@
 {
   "entity_id": "c8b04fa6-f29c-5ad0-bfd0-c07836bcd449",
+  "public_key_id": "c8b04fa6-f29c-5ad0-bfd0-c07836bcd449",
   "name": "Focal",
   "what_it_does": "Focal manufactures and sells high-fidelity audio equipment, including headphones and speakers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "high-fidelity audio",
+    "headphones",
+    "speakers",
+    "audio equipment",
+    "premium audio",
+    "audiophile products",
+    "sound systems",
+    "consumer electronics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c8b04fa6-f29c-5ad0-bfd0-c07836bcd449"
 }

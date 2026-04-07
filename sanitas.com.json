@@ -1,11 +1,20 @@
 {
   "entity_id": "d52f9384-0e0a-5b52-b808-c5023204b4fd",
+  "public_key_id": "d52f9384-0e0a-5b52-b808-c5023204b4fd",
   "name": "Sanitas Krankenversicherung",
   "what_it_does": "Sanitas Krankenversicherung offers health insurance plans in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "Swiss health insurance",
+    "health plans",
+    "insurance coverage",
+    "healthcare benefits",
+    "medical insurance",
+    "Switzerland insurance",
+    "health insurance plans"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d52f9384-0e0a-5b52-b808-c5023204b4fd"
 }

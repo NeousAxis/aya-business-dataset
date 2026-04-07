@@ -1,11 +1,20 @@
 {
   "entity_id": "274f7a80-8f74-5c8e-9311-dec00806ada1",
+  "public_key_id": "274f7a80-8f74-5c8e-9311-dec00806ada1",
   "name": "Iowa Lottery › Iowa Lottery Home Page",
   "what_it_does": "The Iowa Lottery sells lottery tickets and manages lottery games in Iowa.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "lottery tickets",
+    "lottery games",
+    "Iowa lottery",
+    "state lottery",
+    "gambling",
+    "draw games",
+    "scratch tickets"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/274f7a80-8f74-5c8e-9311-dec00806ada1"
 }

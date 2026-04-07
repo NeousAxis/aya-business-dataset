@@ -1,11 +1,21 @@
 {
   "entity_id": "aac4764f-480c-5941-b475-e43b143412af",
+  "public_key_id": "aac4764f-480c-5941-b475-e43b143412af",
   "name": "Coldwell Banker",
   "what_it_does": "Coldwell Banker is a real estate franchise company facilitating property transactions.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 56.0,
+  "keywords": [
+    "real estate franchise",
+    "property transactions",
+    "real estate brokerage",
+    "home sales",
+    "residential real estate",
+    "commercial real estate",
+    "real estate agents",
+    "property marketing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aac4764f-480c-5941-b475-e43b143412af"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "c08b015c-2b7a-5370-ae88-807b4dc90fdf",
+  "public_key_id": "c08b015c-2b7a-5370-ae88-807b4dc90fdf",
   "name": "Spectral Labs",
   "what_it_does": "Spectral Labs likely develops technologies related to spectral analysis or imaging.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "spectral analysis",
+    "imaging",
+    "optical sensing",
+    "spectroscopy",
+    "data analytics",
+    "remote sensing",
+    "spectral imaging",
+    "scientific instruments"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c08b015c-2b7a-5370-ae88-807b4dc90fdf"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "54f4cdab-f23e-5c95-b0a6-4a806d0d7c97",
+  "public_key_id": "54f4cdab-f23e-5c95-b0a6-4a806d0d7c97",
   "name": "Smurfit Kappa",
   "what_it_does": "Smurfit Kappa manufactures paper-based packaging solutions.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "paper packaging",
+    "cardboard packaging",
+    "packaging solutions",
+    "corrugated packaging",
+    "sustainable packaging",
+    "paper-based products",
+    "packaging manufacturing",
+    "recyclable packaging"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/54f4cdab-f23e-5c95-b0a6-4a806d0d7c97"
 }

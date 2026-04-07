@@ -1,11 +1,21 @@
 {
   "entity_id": "0dde6117-3151-5473-a832-95570751868f",
+  "public_key_id": "0dde6117-3151-5473-a832-95570751868f",
   "name": "AngloGold Ashanti",
   "what_it_does": "AngloGold Ashanti is a gold mining company.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "gold mining",
+    "gold production",
+    "precious metals",
+    "mining operations",
+    "resource extraction",
+    "gold exploration",
+    "sustainable mining",
+    "mineral resources"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0dde6117-3151-5473-a832-95570751868f"
 }

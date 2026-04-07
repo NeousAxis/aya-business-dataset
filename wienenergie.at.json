@@ -1,11 +1,21 @@
 {
   "entity_id": "71032c79-96c7-51cf-a825-c212ad99d17c",
+  "public_key_id": "71032c79-96c7-51cf-a825-c212ad99d17c",
   "name": "Wien Energie » Angebote zu Strom, Gas & Fernwärme",
   "what_it_does": "Wien Energie supplies electricity, gas, and district heating in Vienna, Austria.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Austria",
-  "keywords": [],
+  "keywords": [
+    "electricity",
+    "gas",
+    "district heating",
+    "energy supplier",
+    "Vienna",
+    "Austrian energy",
+    "power generation",
+    "energy distribution"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/71032c79-96c7-51cf-a825-c212ad99d17c"
 }

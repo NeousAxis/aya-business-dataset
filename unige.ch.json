@@ -1,11 +1,21 @@
 {
   "entity_id": "7939b82a-90ca-5ecc-8423-54241f264067",
+  "public_key_id": "7939b82a-90ca-5ecc-8423-54241f264067",
   "name": "Université de Genève",
   "what_it_does": "Université de Genève is a Swiss university offering a range of academic programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "Swiss university",
+    "academic programs",
+    "higher education",
+    "Geneva studies",
+    "university research",
+    "degree programs",
+    "Geneva education",
+    "scientific studies"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7939b82a-90ca-5ecc-8423-54241f264067"
 }

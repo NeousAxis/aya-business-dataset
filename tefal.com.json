@@ -1,11 +1,21 @@
 {
   "entity_id": "b0615e62-aef1-597e-8027-a79d03ace90b",
+  "public_key_id": "b0615e62-aef1-597e-8027-a79d03ace90b",
   "name": "Tefal",
   "what_it_does": "Tefal manufactures cookware and small appliances.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "cookware",
+    "non-stick pans",
+    "small appliances",
+    "kitchen appliances",
+    "pots and pans",
+    "frying pans",
+    "pressure cookers",
+    "food preparation"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b0615e62-aef1-597e-8027-a79d03ace90b"
 }

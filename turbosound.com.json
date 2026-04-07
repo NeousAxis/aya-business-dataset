@@ -1,11 +1,21 @@
 {
   "entity_id": "bcc46185-88e4-5146-8413-7ef8c1603a1f",
+  "public_key_id": "bcc46185-88e4-5146-8413-7ef8c1603a1f",
   "name": "Turbosound",
   "what_it_does": "Turbosound designs and manufactures professional loudspeaker systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "professional loudspeakers",
+    "audio systems",
+    "sound reinforcement",
+    "speaker systems",
+    "pro audio",
+    "live sound",
+    "concert sound",
+    "audio engineering"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bcc46185-88e4-5146-8413-7ef8c1603a1f"
 }

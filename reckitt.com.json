@@ -1,11 +1,20 @@
 {
   "entity_id": "82d0a3c2-21b1-5a50-b900-05124a10d31a",
+  "public_key_id": "82d0a3c2-21b1-5a50-b900-05124a10d31a",
   "name": "Reckitt.com",
   "what_it_does": "Reckitt.com likely provides educational and training resources related to health and hygiene (inferred from Reckitt Benckiser).",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "health education",
+    "hygiene training",
+    "health resources",
+    "consumer health",
+    "wellness information",
+    "family health",
+    "preventative care"
+  ],
+  "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/82d0a3c2-21b1-5a50-b900-05124a10d31a"
 }

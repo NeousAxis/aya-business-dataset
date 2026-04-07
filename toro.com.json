@@ -1,11 +1,21 @@
 {
   "entity_id": "d865fa77-86de-55bd-ab7d-b48f29dba863",
+  "public_key_id": "d865fa77-86de-55bd-ab7d-b48f29dba863",
   "name": "Toro",
   "what_it_does": "Toro likely provides media and communication services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "media publication",
+    "content creation",
+    "news distribution",
+    "information dissemination",
+    "journalism",
+    "broadcasting",
+    "digital media",
+    "news agency"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d865fa77-86de-55bd-ab7d-b48f29dba863"
 }

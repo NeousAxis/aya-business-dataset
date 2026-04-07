@@ -1,11 +1,21 @@
 {
   "entity_id": "df688856-fcf0-553a-935c-d0b4140e9507",
+  "public_key_id": "df688856-fcf0-553a-935c-d0b4140e9507",
   "name": "Yara",
   "what_it_does": "Yara likely provides digital and visual communication products or services, inferred from similar media companies, though its primary business is actually fertilizer production.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Norway",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "visual communication",
+    "communication products",
+    "media creation",
+    "digital media",
+    "communication design",
+    "content creation",
+    "media products",
+    "brand communication"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/df688856-fcf0-553a-935c-d0b4140e9507"
 }

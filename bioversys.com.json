@@ -1,11 +1,20 @@
 {
   "entity_id": "86278999-ecdf-50c2-bb8e-97c648c40b8b",
+  "public_key_id": "86278999-ecdf-50c2-bb8e-97c648c40b8b",
   "name": "BioVersys",
   "what_it_does": "BioVersys focuses on research and development of new antibacterial drugs to fight antibiotic-resistant bacteria.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "antibacterial drug development",
+    "antibiotic resistance research",
+    "infectious disease therapeutics",
+    "novel antibiotics",
+    "drug discovery",
+    "bacterial infection treatments",
+    "antimicrobial agents"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/86278999-ecdf-50c2-bb8e-97c648c40b8b"
 }

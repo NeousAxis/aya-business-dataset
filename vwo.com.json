@@ -1,11 +1,21 @@
 {
   "entity_id": "d6172810-8c41-558c-ab7d-58f796206995",
+  "public_key_id": "d6172810-8c41-558c-ab7d-58f796206995",
   "name": "VWO",
   "what_it_does": "VWO (Visual Website Optimizer) provides a platform for A/B testing and website optimization.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "A/B testing",
+    "website optimization",
+    "conversion optimization",
+    "user experience",
+    "CRO tools",
+    "split testing",
+    "web analytics",
+    "behavioral targeting"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6172810-8c41-558c-ab7d-58f796206995"
 }

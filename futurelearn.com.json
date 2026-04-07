@@ -1,11 +1,20 @@
 {
   "entity_id": "c1b7bece-dff1-563f-ad95-12851e452e05",
+  "public_key_id": "c1b7bece-dff1-563f-ad95-12851e452e05",
   "name": "FutureLearn",
   "what_it_does": "FutureLearn offers a variety of online courses and programs from universities and other institutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "online courses",
+    "online education",
+    "university courses",
+    "professional development",
+    "e-learning",
+    "distance learning",
+    "higher education"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c1b7bece-dff1-563f-ad95-12851e452e05"
 }

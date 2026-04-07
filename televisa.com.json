@@ -1,11 +1,20 @@
 {
   "entity_id": "adddcd13-d9a5-5d21-998b-73604b46a97c",
+  "public_key_id": "adddcd13-d9a5-5d21-998b-73604b46a97c",
   "name": "Home Televisa",
   "what_it_does": "Televisa is a Mexican media conglomerate that produces and broadcasts television programming.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Mexican media",
+    "television broadcasting",
+    "television programming",
+    "media production",
+    "entertainment content",
+    "Spanish-language television",
+    "media conglomerate"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/adddcd13-d9a5-5d21-998b-73604b46a97c"
 }

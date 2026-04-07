@@ -1,11 +1,20 @@
 {
   "entity_id": "23efc800-7d6b-5874-b83f-096d89858b60",
+  "public_key_id": "23efc800-7d6b-5874-b83f-096d89858b60",
   "name": "GrandEst",
   "what_it_does": "GrandEst is a regional council in France promoting tourism and transportation within the Grand Est region.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "Grand Est region",
+    "regional tourism",
+    "French tourism",
+    "transportation promotion",
+    "regional council",
+    "travel Grand Est",
+    "tourism France"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/23efc800-7d6b-5874-b83f-096d89858b60"
 }

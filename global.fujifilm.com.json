@@ -1,11 +1,21 @@
 {
   "entity_id": "ad1554fc-604a-5552-be0c-a9b9a9073948",
+  "public_key_id": "ad1554fc-604a-5552-be0c-a9b9a9073948",
   "name": "Fujifilm [Global]",
   "what_it_does": "Fujifilm manufactures imaging, information, and document solutions, as well as healthcare and advanced materials.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "imaging solutions",
+    "healthcare solutions",
+    "document solutions",
+    "advanced materials",
+    "medical imaging",
+    "graphic arts",
+    "optical devices",
+    "industrial products"
+  ],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ad1554fc-604a-5552-be0c-a9b9a9073948"
 }

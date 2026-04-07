@@ -1,11 +1,21 @@
 {
   "entity_id": "64f7ee92-c9b1-5528-a980-0af0929e438f",
+  "public_key_id": "64f7ee92-c9b1-5528-a980-0af0929e438f",
   "name": "Manley Laboratories Inc",
   "what_it_does": "Manley Laboratories Inc manufactures and sells high-end audio equipment, particularly vacuum tube-based devices.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "vacuum tube equipment",
+    "high-end audio",
+    "tube amplifiers",
+    "pro audio gear",
+    "recording equipment",
+    "audiophile components",
+    "audio preamps",
+    "studio equipment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/64f7ee92-c9b1-5528-a980-0af0929e438f"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "834fcce5-d051-51b8-a05e-beb92827a481",
+  "public_key_id": "834fcce5-d051-51b8-a05e-beb92827a481",
   "name": "Krisp",
   "what_it_does": "Krisp develops AI-powered noise cancellation software for audio communication.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "noise cancellation",
+    "AI audio",
+    "audio enhancement",
+    "voice clarity",
+    "communication tools",
+    "audio processing",
+    "machine learning audio",
+    "noise reduction"
+  ],
+  "aio_score": 66.0,
   "certificate_url": "https://ai-visionary.com/aya/e/834fcce5-d051-51b8-a05e-beb92827a481"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "1d0135d2-31c8-5b43-8341-b19498a45f4d",
+  "public_key_id": "1d0135d2-31c8-5b43-8341-b19498a45f4d",
   "name": "Milupa",
   "what_it_does": "Milupa manufactures baby food and formula.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 54.0,
+  "keywords": [
+    "baby food",
+    "infant formula",
+    "weaning food",
+    "baby nutrition",
+    "toddler food",
+    "organic baby food",
+    "baby cereals",
+    "pediatric nutrition"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1d0135d2-31c8-5b43-8341-b19498a45f4d"
 }

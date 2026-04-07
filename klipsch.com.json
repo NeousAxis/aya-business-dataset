@@ -1,11 +1,21 @@
 {
   "entity_id": "b28500c8-dc4b-5d1b-9cbb-b0c1dec13a0f",
+  "public_key_id": "b28500c8-dc4b-5d1b-9cbb-b0c1dec13a0f",
   "name": "Speakers, Sound Bars, and Premium Home Audio",
   "what_it_does": "Klipsch manufactures and sells loudspeakers, soundbars, and home audio equipment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "loudspeakers",
+    "soundbars",
+    "home audio equipment",
+    "audio systems",
+    "speaker systems",
+    "consumer electronics",
+    "audio technology",
+    "premium audio"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b28500c8-dc4b-5d1b-9cbb-b0c1dec13a0f"
 }

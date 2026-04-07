@@ -1,11 +1,20 @@
 {
   "entity_id": "c240a75c-8c8a-5981-91d4-b525e9493827",
+  "public_key_id": "c240a75c-8c8a-5981-91d4-b525e9493827",
   "name": "MLB.com",
   "what_it_does": "MLB.com is the official website for Major League Baseball, providing news, scores, and streaming content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "baseball",
+    "MLB",
+    "sports news",
+    "live scores",
+    "baseball streaming",
+    "baseball highlights",
+    "major league baseball"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c240a75c-8c8a-5981-91d4-b525e9493827"
 }

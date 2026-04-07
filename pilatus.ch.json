@@ -1,11 +1,21 @@
 {
   "entity_id": "efbff411-516d-51d3-bfc4-5e530fdbf569",
+  "public_key_id": "efbff411-516d-51d3-bfc4-5e530fdbf569",
   "name": "PILATUS",
   "what_it_does": "Pilatus Aircraft manufactures single-engine turboprop and jet aircraft.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "aircraft manufacturing",
+    "turboprop aircraft",
+    "jet aircraft",
+    "business aviation",
+    "special mission aircraft",
+    "swiss aircraft",
+    "pilatus PC-12",
+    "pilatus PC-24"
+  ],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/efbff411-516d-51d3-bfc4-5e530fdbf569"
 }

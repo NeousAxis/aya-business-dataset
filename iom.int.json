@@ -1,11 +1,20 @@
 {
   "entity_id": "cea4a808-0caa-53d6-843f-4a15431eec5f",
+  "public_key_id": "cea4a808-0caa-53d6-843f-4a15431eec5f",
   "name": "International Organization for Migration",
   "what_it_does": "The International Organization for Migration is an intergovernmental organization that provides services and advice concerning migration to governments and migrants.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 54.0,
+  "keywords": [
+    "migration services",
+    "humanitarian aid",
+    "migrant assistance",
+    "refugee support",
+    "international migration",
+    "migration policy",
+    "displacement solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cea4a808-0caa-53d6-843f-4a15431eec5f"
 }

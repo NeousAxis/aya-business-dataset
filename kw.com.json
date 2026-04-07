@@ -1,11 +1,20 @@
 {
   "entity_id": "cc595ca5-f138-5efd-a783-1f192f1da5f0",
+  "public_key_id": "cc595ca5-f138-5efd-a783-1f192f1da5f0",
   "name": "Kw",
   "what_it_does": "kw.com likely provides a platform for buying, selling, and renting properties.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "real estate listings",
+    "property sales",
+    "rental properties",
+    "home buying",
+    "home selling",
+    "property search",
+    "KW real estate"
+  ],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cc595ca5-f138-5efd-a783-1f192f1da5f0"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "78b449d3-c991-5b5e-aaea-aaac5f12b3d0",
+  "public_key_id": "78b449d3-c991-5b5e-aaea-aaac5f12b3d0",
   "name": "Mahindra New Logo",
   "what_it_does": "Mahindra is an Indian conglomerate with interests in automotive, farm equipment, financial services, and other industries.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "India",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "automotive components",
+    "farm equipment",
+    "financial services",
+    "automotive",
+    "India conglomerate",
+    "vehicle manufacturing",
+    "tractor manufacturing",
+    "auto finance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/78b449d3-c991-5b5e-aaea-aaac5f12b3d0"
 }

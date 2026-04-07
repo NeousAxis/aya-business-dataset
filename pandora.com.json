@@ -1,11 +1,21 @@
 {
   "entity_id": "ac0de190-b19c-5ce8-bf4a-68aedf61ff21",
+  "public_key_id": "ac0de190-b19c-5ce8-bf4a-68aedf61ff21",
   "name": "Pandora",
   "what_it_does": "Pandora operates a music streaming and internet radio platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "music streaming",
+    "internet radio",
+    "digital audio",
+    "music discovery",
+    "audio entertainment",
+    "personalized radio",
+    "music platform",
+    "streaming music"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ac0de190-b19c-5ce8-bf4a-68aedf61ff21"
 }

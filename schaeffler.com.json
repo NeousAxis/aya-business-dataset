@@ -1,11 +1,21 @@
 {
   "entity_id": "bd8de1d9-5144-53cb-a870-ae5993dd9740",
+  "public_key_id": "bd8de1d9-5144-53cb-a870-ae5993dd9740",
   "name": "the Schaeffler Group",
   "what_it_does": "The Schaeffler Group manufactures automotive and industrial components.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "automotive components",
+    "industrial components",
+    "bearings",
+    "Schaeffler Group",
+    "automotive industry",
+    "precision parts",
+    "motion technology",
+    "rolling bearings"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bd8de1d9-5144-53cb-a870-ae5993dd9740"
 }

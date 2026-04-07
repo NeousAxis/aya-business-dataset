@@ -1,11 +1,20 @@
 {
   "entity_id": "4729db4e-5ce0-5f77-8049-2e2ab1457779",
+  "public_key_id": "4729db4e-5ce0-5f77-8049-2e2ab1457779",
   "name": "Exercices GS à 6e en ligne",
   "what_it_does": "IXL provides online educational resources and exercises for students in grades GS through 6th grade.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "educational exercises",
+    "online learning",
+    "math practice",
+    "language arts",
+    "elementary education",
+    "K-6 curriculum",
+    "skill practice"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4729db4e-5ce0-5f77-8049-2e2ab1457779"
 }

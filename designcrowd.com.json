@@ -1,11 +1,21 @@
 {
   "entity_id": "4193157e-2b03-521b-ab98-c4a220518132",
+  "public_key_id": "4193157e-2b03-521b-ab98-c4a220518132",
   "name": "design contest",
   "what_it_does": "DesignCrowd hosts online design contests to crowdsource graphic designs.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Australia",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "graphic design",
+    "crowdsourcing",
+    "design contests",
+    "logo design",
+    "web design",
+    "print design",
+    "freelance designers",
+    "creative marketplace"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4193157e-2b03-521b-ab98-c4a220518132"
 }

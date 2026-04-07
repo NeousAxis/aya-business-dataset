@@ -1,11 +1,21 @@
 {
   "entity_id": "597f1860-6bd5-5a4d-84dd-fbb00801e3ad",
+  "public_key_id": "597f1860-6bd5-5a4d-84dd-fbb00801e3ad",
   "name": "Behringer",
   "what_it_does": "Behringer designs, manufactures, and distributes professional audio equipment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "audio equipment",
+    "music production",
+    "sound reinforcement",
+    "pro audio",
+    "mixing consoles",
+    "audio processors",
+    "microphones",
+    "signal processing"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/597f1860-6bd5-5a4d-84dd-fbb00801e3ad"
 }

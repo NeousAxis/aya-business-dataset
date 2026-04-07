@@ -1,11 +1,21 @@
 {
   "entity_id": "fb59cefe-7130-5522-bf21-02843a2cc79d",
+  "public_key_id": "fb59cefe-7130-5522-bf21-02843a2cc79d",
   "name": "Andela",
   "what_it_does": "Andela trains and connects African software developers with global companies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "African software developers",
+    "developer training",
+    "technical talent",
+    "remote developers",
+    "software engineering",
+    "global outsourcing",
+    "tech skills",
+    "developer placement"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fb59cefe-7130-5522-bf21-02843a2cc79d"
 }

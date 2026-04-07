@@ -1,11 +1,20 @@
 {
   "entity_id": "f6bbf56e-b343-5aac-82e2-95027ddd35cd",
+  "public_key_id": "f6bbf56e-b343-5aac-82e2-95027ddd35cd",
   "name": "DailyRemote",
   "what_it_does": "DailyRemote is a job board specializing in remote work opportunities.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "remote jobs",
+    "work from home",
+    "telecommuting",
+    "remote careers",
+    "virtual jobs",
+    "distributed teams",
+    "remote job board"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f6bbf56e-b343-5aac-82e2-95027ddd35cd"
 }

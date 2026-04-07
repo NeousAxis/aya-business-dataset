@@ -1,11 +1,21 @@
 {
   "entity_id": "c9cc6cb4-4e76-57cd-bec3-94a89110ac80",
+  "public_key_id": "c9cc6cb4-4e76-57cd-bec3-94a89110ac80",
   "name": "iSpring Solutions, Inc.",
   "what_it_does": "iSpring Suite provides tools for creating e-learning courses and presentations.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "e-learning courses",
+    "course authoring",
+    "presentation tools",
+    "elearning ",
+    "training ",
+    "instructional design",
+    "online learning",
+    "authoring tools"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c9cc6cb4-4e76-57cd-bec3-94a89110ac80"
 }

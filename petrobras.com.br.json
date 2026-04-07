@@ -1,11 +1,20 @@
 {
   "entity_id": "eb4db93f-5b9b-550f-8c61-3fa53c78a1b1",
+  "public_key_id": "eb4db93f-5b9b-550f-8c61-3fa53c78a1b1",
   "name": "Petrobras",
   "what_it_does": "Petrobras is a Brazilian multinational corporation involved in oil and gas exploration and production.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "oil and gas exploration",
+    "oil production",
+    "gas production",
+    "petroleum",
+    "Brazilian energy",
+    "multinational energy",
+    "energy industry"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eb4db93f-5b9b-550f-8c61-3fa53c78a1b1"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "4386b844-ae43-594a-a378-27140dd454dc",
+  "public_key_id": "4386b844-ae43-594a-a378-27140dd454dc",
   "name": "Sketch",
   "what_it_does": "Sketch provides a design platform focused on vector graphics.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "vector graphics",
+    "design tools",
+    "UI design",
+    "UX design",
+    "interface design",
+    "graphic design",
+    "design prototyping",
+    "digital design"
+  ],
+  "aio_score": 62.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4386b844-ae43-594a-a378-27140dd454dc"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "6cc95dd0-9ce6-5696-a944-c37015385936",
+  "public_key_id": "6cc95dd0-9ce6-5696-a944-c37015385936",
   "name": "Hlavní stránka",
   "what_it_does": "KB.cz is a commercial bank in the Czech Republic offering a range of financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Czech Republic",
-  "keywords": [],
+  "keywords": [
+    "Czech bank",
+    "commercial banking",
+    "financial products",
+    "loans",
+    "mortgages",
+    "Czech Republic finance",
+    "retail banking",
+    "corporate banking"
+  ],
   "aio_score": 25.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6cc95dd0-9ce6-5696-a944-c37015385936"
 }

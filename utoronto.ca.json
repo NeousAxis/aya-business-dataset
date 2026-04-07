@@ -1,11 +1,21 @@
 {
   "entity_id": "f13b9e61-1d33-5868-8de4-4378ce6b8ccf",
+  "public_key_id": "f13b9e61-1d33-5868-8de4-4378ce6b8ccf",
   "name": "University of Toronto",
   "what_it_does": "The University of Toronto is a public research university in Canada.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Canada",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "public university",
+    "research university",
+    "higher education",
+    "Canadian university",
+    "academic research",
+    "undergraduate programs",
+    "graduate programs",
+    "Toronto university"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f13b9e61-1d33-5868-8de4-4378ce6b8ccf"
 }

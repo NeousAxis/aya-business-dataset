@@ -1,11 +1,20 @@
 {
   "entity_id": "28428380-27c3-59b4-95cc-69abd4cd7d8a",
+  "public_key_id": "28428380-27c3-59b4-95cc-69abd4cd7d8a",
   "name": "Rakuten",
   "what_it_does": "Rakuten operates an e-commerce marketplace.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "e-commerce marketplace",
+    "online retail",
+    "Rakuten shopping",
+    "consumer goods",
+    "rewards program",
+    "Japanese e-commerce",
+    "global marketplace"
+  ],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/28428380-27c3-59b4-95cc-69abd4cd7d8a"
 }

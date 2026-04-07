@@ -1,11 +1,21 @@
 {
   "entity_id": "3b814565-cba5-5807-be13-94062db83ee1",
+  "public_key_id": "3b814565-cba5-5807-be13-94062db83ee1",
   "name": "Lokalise",
   "what_it_does": "Lokalise provides a translation management system for software localization.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "translation management",
+    "localization",
+    "software localization",
+    "translation workflow",
+    "multilingual content",
+    "language translation",
+    "globalization",
+    "internationalization"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b814565-cba5-5807-be13-94062db83ee1"
 }

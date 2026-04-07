@@ -1,11 +1,21 @@
 {
   "entity_id": "5375c50c-db50-5435-b88b-9e210a0d777d",
+  "public_key_id": "5375c50c-db50-5435-b88b-9e210a0d777d",
   "name": "MyJoyOnline",
   "what_it_does": "MyJoyOnline is a news website providing Ghanaian and international news.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Ghanaian news",
+    "international news",
+    "news website",
+    "current affairs",
+    "Ghanaian media",
+    "political news",
+    "business news",
+    "sports news"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5375c50c-db50-5435-b88b-9e210a0d777d"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "493401c8-0dfc-5301-9567-51403eb03ca0",
+  "public_key_id": "493401c8-0dfc-5301-9567-51403eb03ca0",
   "name": "Giving People A Healthier Tomorrow",
   "what_it_does": "HCA Healthcare operates hospitals and healthcare facilities.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "hospital operations",
+    "healthcare facilities",
+    "patient care",
+    "medical services",
+    "acute care",
+    "surgical procedures",
+    "inpatient services",
+    "outpatient clinics"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/493401c8-0dfc-5301-9567-51403eb03ca0"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "0fae6e89-21f5-5212-9080-bb7cce884369",
+  "public_key_id": "0fae6e89-21f5-5212-9080-bb7cce884369",
   "name": "Grupo Aval",
   "what_it_does": "Grupo Aval is a financial conglomerate offering banking and other financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Spain",
-  "keywords": [],
+  "keywords": [
+    "investment management",
+    "asset allocation",
+    "portfolio management",
+    "mutual funds",
+    "exchange traded funds",
+    "financial planning",
+    "fixed income"
+  ],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0fae6e89-21f5-5212-9080-bb7cce884369"
 }

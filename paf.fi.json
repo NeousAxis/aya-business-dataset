@@ -1,11 +1,21 @@
 {
   "entity_id": "43f4d54d-2fdc-5f9f-b03f-d9c40436cb69",
+  "public_key_id": "43f4d54d-2fdc-5f9f-b03f-d9c40436cb69",
   "name": "Paf",
   "what_it_does": "Paf is a government-controlled online gambling operator in Finland that directs its profits to public good.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Finland",
-  "keywords": [],
-  "aio_score": 49.0,
+  "keywords": [
+    "online gambling",
+    "gambling operator",
+    "online games",
+    "gaming profits",
+    "public good",
+    "Finnish gambling",
+    "internet casino",
+    "casino games"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/43f4d54d-2fdc-5f9f-b03f-d9c40436cb69"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "f4a931ac-ec06-57c7-8d21-1cf34b80aeae",
+  "public_key_id": "f4a931ac-ec06-57c7-8d21-1cf34b80aeae",
   "name": "Realtor",
   "what_it_does": "Realtor.com lists real estate properties for sale and rent.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "real estate listings",
+    "homes for sale",
+    "rental properties",
+    "property search",
+    "real estate market",
+    "housing market",
+    "property rentals"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f4a931ac-ec06-57c7-8d21-1cf34b80aeae"
 }

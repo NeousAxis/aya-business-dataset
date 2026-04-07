@@ -1,11 +1,21 @@
 {
   "entity_id": "1a412774-d69c-5a05-b5a4-c08c99241b52",
+  "public_key_id": "1a412774-d69c-5a05-b5a4-c08c99241b52",
   "name": "ChapsVision",
   "what_it_does": "ChapsVision offers data intelligence and cybersecurity solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 53.0,
+  "keywords": [
+    "data intelligence",
+    "cybersecurity",
+    "data protection",
+    "data analytics",
+    "threat intelligence",
+    "risk protection",
+    "data solutions",
+    "cyber defence"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1a412774-d69c-5a05-b5a4-c08c99241b52"
 }

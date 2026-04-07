@@ -1,11 +1,21 @@
 {
   "entity_id": "dcb5725b-0e50-5793-9112-bc9cba555a28",
+  "public_key_id": "dcb5725b-0e50-5793-9112-bc9cba555a28",
   "name": "OSRAM Global",
   "what_it_does": "OSRAM manufactures and sells lighting products, including automotive, specialty, and general illumination lamps and systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 69.0,
+  "keywords": [
+    "automotive lighting",
+    "specialty lighting",
+    "general illumination",
+    "led lamps",
+    "lighting systems",
+    "automotive lamps",
+    "industrial lighting",
+    "consumer lighting"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dcb5725b-0e50-5793-9112-bc9cba555a28"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "8242a040-f934-53e5-b6a0-0b64405cb859",
+  "public_key_id": "8242a040-f934-53e5-b6a0-0b64405cb859",
   "name": "Loanboox Schweiz",
   "what_it_does": "Loanboox operates a debt capital market platform connecting borrowers and investors.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "debt capital market",
+    "loan platform",
+    "municipal finance",
+    "institutional investors",
+    "borrowing platform",
+    "investment platform",
+    "debt financing",
+    "loan origination"
+  ],
+  "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8242a040-f934-53e5-b6a0-0b64405cb859"
 }

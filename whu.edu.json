@@ -1,11 +1,21 @@
 {
   "entity_id": "c7f498e9-dd8c-504d-bebc-cde3448ed82e",
+  "public_key_id": "c7f498e9-dd8c-504d-bebc-cde3448ed82e",
   "name": "WHU",
   "what_it_does": "WHU - Otto Beisheim School of Management is a private business school in Germany offering undergraduate and graduate programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "business school",
+    "executive education",
+    "MBA programs",
+    "graduate studies",
+    "undergraduate programs",
+    "management education",
+    "private university",
+    "German university"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c7f498e9-dd8c-504d-bebc-cde3448ed82e"
 }

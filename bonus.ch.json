@@ -1,11 +1,20 @@
 {
   "entity_id": "f37ebcc0-55c9-5cd2-9a6a-f28aa7e654ff",
+  "public_key_id": "f37ebcc0-55c9-5cd2-9a6a-f28aa7e654ff",
   "name": "bonus.ch",
   "what_it_does": "bonus.ch is a Swiss website that provides comparison tools for financial products like insurance and loans.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "insurance comparison",
+    "loan comparison",
+    "mortgage comparison",
+    "swiss financial",
+    "financial comparison",
+    "credit cards",
+    "health insurance"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f37ebcc0-55c9-5cd2-9a6a-f28aa7e654ff"
 }

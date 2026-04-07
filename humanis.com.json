@@ -1,11 +1,20 @@
 {
   "entity_id": "2d0f8bbb-93d1-512f-81d0-317c0e180f6c",
+  "public_key_id": "2d0f8bbb-93d1-512f-81d0-317c0e180f6c",
   "name": "Humanis",
   "what_it_does": "Humanis provides insurance and social protection services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "insurance products",
+    "social protection",
+    "healthcare coverage",
+    "retirement planning",
+    "employee benefits",
+    "supplemental health",
+    "financial security"
+  ],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2d0f8bbb-93d1-512f-81d0-317c0e180f6c"
 }

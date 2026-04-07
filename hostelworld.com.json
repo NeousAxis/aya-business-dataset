@@ -1,11 +1,21 @@
 {
   "entity_id": "c79d5a92-5852-59c8-92df-678d336e8a91",
+  "public_key_id": "c79d5a92-5852-59c8-92df-678d336e8a91",
   "name": "Hostels Worldwide",
   "what_it_does": "Hostelworld.com operates an online platform for booking hostel accommodations worldwide.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Brazil",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "hostel booking",
+    "budget accommodation",
+    "youth hostels",
+    "backpacker travel",
+    "cheap travel",
+    "global hostels",
+    "travel lodging",
+    "group travel"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c79d5a92-5852-59c8-92df-678d336e8a91"
 }

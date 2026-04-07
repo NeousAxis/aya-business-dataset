@@ -1,11 +1,21 @@
 {
   "entity_id": "6d7dd3d9-e5a3-5ff9-902b-a2eb7e44ef59",
+  "public_key_id": "6d7dd3d9-e5a3-5ff9-902b-a2eb7e44ef59",
   "name": "ELLE",
   "what_it_does": "ELLE is a global fashion and lifestyle magazine covering topics such as fashion, beauty, and culture.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "fashion magazine",
+    "lifestyle publication",
+    "beauty trends",
+    "celebrity style",
+    "fashion news",
+    "culture coverage",
+    "style inspiration",
+    "womens magazine"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6d7dd3d9-e5a3-5ff9-902b-a2eb7e44ef59"
 }

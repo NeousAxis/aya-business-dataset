@@ -1,11 +1,21 @@
 {
   "entity_id": "8739158e-9d01-5b0b-90ad-3db46bad27b2",
+  "public_key_id": "8739158e-9d01-5b0b-90ad-3db46bad27b2",
   "name": "Portkey",
   "what_it_does": "Portkey provides a platform for managing and optimizing interactions with large language models.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "large language models",
+    "LLM management",
+    "AI interactions",
+    "generative AI",
+    "AI optimization",
+    "AI platform",
+    "API management",
+    "AI observability"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8739158e-9d01-5b0b-90ad-3db46bad27b2"
 }

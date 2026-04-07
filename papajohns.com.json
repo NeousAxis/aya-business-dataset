@@ -1,11 +1,21 @@
 {
-  "entity_id": "a30e1b07-b00a-5d27-b18e-aef2cad0a107",
-  "name": "Papa Johns Pizza",
-  "what_it_does": "Papa Johns Pizza is a restaurant chain that delivers and sells pizza and related food items.",
+  "entity_id": "ccfdcf3f-5907-5348-af3e-391200174b23",
+  "public_key_id": "ccfdcf3f-5907-5348-af3e-391200174b23",
+  "name": "Papa Johns Pizza Delivery & Carryout",
+  "what_it_does": "Papa Johns is a pizza restaurant chain specializing in delivery and carryout.",
   "for_who": "Businesses and professionals.",
-  "category": "E-commerce & Retail",
+  "category": "Restauration & Alimentation",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 47.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/a30e1b07-b00a-5d27-b18e-aef2cad0a107"
+  "keywords": [
+    "pizza delivery",
+    "carryout pizza",
+    "pizza chain",
+    "fast food",
+    "Italian food",
+    "pizza franchise",
+    "dough",
+    "pizza toppings"
+  ],
+  "aio_score": 46.0,
+  "certificate_url": "https://ai-visionary.com/aya/e/ccfdcf3f-5907-5348-af3e-391200174b23"
 }

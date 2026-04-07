@@ -1,11 +1,21 @@
 {
   "entity_id": "55eba01d-aca7-572c-9d2e-7bcbf22f840f",
+  "public_key_id": "55eba01d-aca7-572c-9d2e-7bcbf22f840f",
   "name": "WorldQuant",
   "what_it_does": "WorldQuant is a quantitative investment management firm.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "quantitative investment",
+    "investment management",
+    "algorithmic trading",
+    "financial modeling",
+    "statistical arbitrage",
+    "quantitative analysis",
+    "portfolio management",
+    "hedge fund"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/55eba01d-aca7-572c-9d2e-7bcbf22f840f"
 }

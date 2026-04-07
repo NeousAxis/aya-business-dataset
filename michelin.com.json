@@ -1,11 +1,21 @@
 {
   "entity_id": "ab0f4639-cf97-503b-8ecc-2d0b898bb220",
+  "public_key_id": "ab0f4639-cf97-503b-8ecc-2d0b898bb220",
   "name": "Groupe Michelin",
   "what_it_does": "Groupe Michelin publishes guides, maps, and digital services for travel and dining.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "travel guides",
+    "restaurant guides",
+    "travel maps",
+    "culinary travel",
+    "tourism information",
+    "Michelin stars",
+    "travel experiences",
+    "hotel recommendations"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab0f4639-cf97-503b-8ecc-2d0b898bb220"
 }

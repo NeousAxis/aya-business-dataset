@@ -1,11 +1,21 @@
 {
   "entity_id": "6fe1f914-e913-526e-bd16-04b1f3812672",
+  "public_key_id": "6fe1f914-e913-526e-bd16-04b1f3812672",
   "name": "CockroachDB",
   "what_it_does": "CockroachDB develops a distributed SQL database designed for resilience and scalability.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "distributed database",
+    "SQL database",
+    "cloud database",
+    "scalable database",
+    "resilient database",
+    "transactional database",
+    "data storage",
+    "database replication"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6fe1f914-e913-526e-bd16-04b1f3812672"
 }

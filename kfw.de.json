@@ -1,11 +1,21 @@
 {
   "entity_id": "d7a8c1ba-9b2f-5636-95fb-317c60ba851b",
+  "public_key_id": "d7a8c1ba-9b2f-5636-95fb-317c60ba851b",
   "name": "KfW Bankengruppe",
   "what_it_does": "KfW Bankengruppe is a German state-owned development bank.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "German development bank",
+    "development finance",
+    "loans",
+    "financing",
+    "German banking",
+    "KfW loans",
+    "public sector finance",
+    "project financing"
+  ],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d7a8c1ba-9b2f-5636-95fb-317c60ba851b"
 }

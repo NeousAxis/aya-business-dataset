@@ -1,11 +1,20 @@
 {
   "entity_id": "e7f3587f-2801-5843-8d09-d085c98457fb",
+  "public_key_id": "e7f3587f-2801-5843-8d09-d085c98457fb",
   "name": "Hive",
   "what_it_does": "Hive provides a project management and collaboration platform for teams.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 73.0,
+  "keywords": [
+    "project collaboration",
+    "task management",
+    "team workflow",
+    "productivity",
+    "project tracking",
+    "project planning",
+    "collaboration platform"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e7f3587f-2801-5843-8d09-d085c98457fb"
 }

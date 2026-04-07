@@ -1,11 +1,21 @@
 {
   "entity_id": "74076ae3-f7b0-5ae3-84df-31a93bf7c7bd",
+  "public_key_id": "74076ae3-f7b0-5ae3-84df-31a93bf7c7bd",
   "name": "Intel Inside",
   "what_it_does": "Intel Inside Germany promotes and sells Intel's processors and technology solutions to German customers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "Intel processors",
+    "German market",
+    "CPU",
+    "chipsets",
+    "workstations",
+    "PC components",
+    "server solutions",
+    "embedded systems"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/74076ae3-f7b0-5ae3-84df-31a93bf7c7bd"
 }

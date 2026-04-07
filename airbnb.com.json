@@ -1,11 +1,20 @@
 {
   "entity_id": "033aeddc-0e1b-53c3-a634-f7684cb5b7fc",
+  "public_key_id": "033aeddc-0e1b-53c3-a634-f7684cb5b7fc",
   "name": "Airbnb",
   "what_it_does": "Airbnb operates an online marketplace for lodging, primarily homestays and vacation rentals.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
-  "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 62.0,
+  "location": "United States",
+  "keywords": [
+    "vacation rentals",
+    "homestays",
+    "lodging marketplace",
+    "travel accommodations",
+    "short-term rentals",
+    "tourism industry",
+    "property rentals"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/033aeddc-0e1b-53c3-a634-f7684cb5b7fc"
 }

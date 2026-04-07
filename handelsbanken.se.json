@@ -1,11 +1,21 @@
 {
   "entity_id": "7d8afd68-d2b6-51ce-96ce-bcedbc8c5727",
+  "public_key_id": "7d8afd68-d2b6-51ce-96ce-bcedbc8c5727",
   "name": "En personlig bank med tjänster för hela livet",
   "what_it_does": "Handelsbanken is a Swedish bank offering personal and corporate banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Sweden",
-  "keywords": [],
-  "aio_score": 53.0,
+  "keywords": [
+    "Swedish bank",
+    "personal banking",
+    "corporate banking",
+    "financial services",
+    "loans",
+    "mortgages",
+    "savings accounts",
+    "Handelsbanken"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7d8afd68-d2b6-51ce-96ce-bcedbc8c5727"
 }

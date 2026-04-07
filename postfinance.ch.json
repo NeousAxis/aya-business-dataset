@@ -1,11 +1,21 @@
 {
   "entity_id": "e53f1ef0-9a93-59ff-b8d9-44268cb71fa0",
+  "public_key_id": "e53f1ef0-9a93-59ff-b8d9-44268cb71fa0",
   "name": "PostFinance für Privatkunden",
   "what_it_does": "PostFinance provides banking and financial services to retail customers in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "Banking services Switzerland",
+    "Financial products Switzerland",
+    "Retail banking",
+    "Payment processing",
+    "Savings accounts",
+    "Personal loans",
+    "Swiss banking",
+    "Investment solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e53f1ef0-9a93-59ff-b8d9-44268cb71fa0"
 }

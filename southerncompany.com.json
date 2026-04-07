@@ -1,11 +1,20 @@
 {
   "entity_id": "251c1855-76ce-55c2-8903-0ed122fdb053",
+  "public_key_id": "251c1855-76ce-55c2-8903-0ed122fdb053",
   "name": "Southern Company",
   "what_it_does": "Southern Company is a utility company that provides electricity and natural gas services in the Southern United States.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "electricity utilities",
+    "natural gas",
+    "energy provider",
+    "power generation",
+    "Southern US utilities",
+    "energy distribution",
+    "renewable energy"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/251c1855-76ce-55c2-8903-0ed122fdb053"
 }

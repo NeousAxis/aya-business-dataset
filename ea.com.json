@@ -1,11 +1,21 @@
 {
   "entity_id": "af247740-8ba3-55af-a09f-40fbc9f7c590",
+  "public_key_id": "af247740-8ba3-55af-a09f-40fbc9f7c590",
   "name": "Official EA Site",
   "what_it_does": "Electronic Arts (EA) develops, publishes, and distributes video games.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "video game development",
+    "game publishing",
+    "interactive entertainment",
+    "sports games",
+    "simulation games",
+    "PC games",
+    "console games",
+    "mobile games"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/af247740-8ba3-55af-a09f-40fbc9f7c590"
 }

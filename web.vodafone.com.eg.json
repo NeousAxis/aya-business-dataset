@@ -1,11 +1,20 @@
 {
   "entity_id": "a2eb42f1-06dc-5c3d-adad-162f9bae61eb",
-  "name": "Web",
+  "public_key_id": "a2eb42f1-06dc-5c3d-adad-162f9bae61eb",
+  "name": "Vodafone Egypt",
   "what_it_does": "Vodafone Egypt's web portal likely provides online services and information related to their telecommunication offerings.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
-  "location": "Global",
-  "keywords": [],
+  "location": "EG",
+  "keywords": [
+    "mobile communication",
+    "telecommunications",
+    "cellular plans",
+    "internet access",
+    "mobile broadband",
+    "data plans",
+    "Vodafone Egypt"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a2eb42f1-06dc-5c3d-adad-162f9bae61eb"
 }

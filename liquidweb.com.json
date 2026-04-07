@@ -1,11 +1,21 @@
 {
   "entity_id": "86a4f67a-ba01-5cca-9ebb-05d2017b18f8",
+  "public_key_id": "86a4f67a-ba01-5cca-9ebb-05d2017b18f8",
   "name": "Liquid Web",
   "what_it_does": "Liquid Web offers managed web hosting services for businesses.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "managed hosting",
+    "web servers",
+    "dedicated servers",
+    "cloud hosting",
+    "VPS hosting",
+    "e-commerce hosting",
+    "SME hosting",
+    "enterprise hosting"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/86a4f67a-ba01-5cca-9ebb-05d2017b18f8"
 }

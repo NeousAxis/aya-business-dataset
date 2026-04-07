@@ -1,11 +1,21 @@
 {
   "entity_id": "3a8c3003-5367-5afe-be2d-f515b81e98cd",
+  "public_key_id": "3a8c3003-5367-5afe-be2d-f515b81e98cd",
   "name": "ARTE",
   "what_it_does": "ARTE is a Franco-German public service television channel promoting culture and the arts.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "Franco-German TV",
+    "cultural programming",
+    "European arts",
+    "television broadcasting",
+    "documentaries",
+    "cultural exchange",
+    "public television",
+    "arts channel"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3a8c3003-5367-5afe-be2d-f515b81e98cd"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "0869582c-e2db-5480-8109-05e0190d93eb",
+  "public_key_id": "0869582c-e2db-5480-8109-05e0190d93eb",
   "name": "PrettyLittleThing",
   "what_it_does": "PrettyLittleThing is an online retailer selling fast-fashion apparel and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "fast fashion",
+    "women's apparel",
+    "online fashion retailer",
+    "fashion e-commerce",
+    "clothing",
+    "accessories",
+    "fashion retail",
+    "trendy clothes"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0869582c-e2db-5480-8109-05e0190d93eb"
 }

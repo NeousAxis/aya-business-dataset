@@ -1,11 +1,21 @@
 {
   "entity_id": "cb028146-ac43-5a60-ba75-25144ffc38fe",
+  "public_key_id": "cb028146-ac43-5a60-ba75-25144ffc38fe",
   "name": "Nikon",
   "what_it_does": "Nikon Corporation designs, manufactures, and sells optical and imaging products, including cameras and lenses.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 53.0,
+  "keywords": [
+    "cameras",
+    "lenses",
+    "optical equipment",
+    "imaging systems",
+    "photography equipment",
+    "precision instruments",
+    "microscopes",
+    "sport optics"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cb028146-ac43-5a60-ba75-25144ffc38fe"
 }

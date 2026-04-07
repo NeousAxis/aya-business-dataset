@@ -1,11 +1,21 @@
 {
   "entity_id": "8cc04608-9fc0-5026-811c-95c2d143d0e2",
+  "public_key_id": "8cc04608-9fc0-5026-811c-95c2d143d0e2",
   "name": "Tiki",
   "what_it_does": "Tiki is an e-commerce platform operating in Vietnam.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Vietnam",
-  "keywords": [],
+  "keywords": [
+    "vietnam ecommerce",
+    "online retail",
+    "consumer goods",
+    "electronics",
+    "fashion",
+    "books",
+    "marketplace",
+    "vietnamese market"
+  ],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8cc04608-9fc0-5026-811c-95c2d143d0e2"
 }

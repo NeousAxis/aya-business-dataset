@@ -1,11 +1,20 @@
 {
   "entity_id": "2eb42949-0516-539f-a363-4d1f15f13c4b",
+  "public_key_id": "2eb42949-0516-539f-a363-4d1f15f13c4b",
   "name": "TYPO3 Project and Governance",
   "what_it_does": "TYPO3 is an open-source content management system for websites and applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "open-source CMS",
+    "content management",
+    "website development",
+    "PHP framework",
+    "enterprise CMS",
+    "web applications",
+    "digital experience"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2eb42949-0516-539f-a363-4d1f15f13c4b"
 }

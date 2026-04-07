@@ -1,11 +1,20 @@
 {
   "entity_id": "52a764de-e901-5abe-ab33-a3e6e7d86a29",
+  "public_key_id": "52a764de-e901-5abe-ab33-a3e6e7d86a29",
   "name": "Emerson Global",
   "what_it_does": "Emerson manufactures industrial automation and commercial and residential solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "industrial automation",
+    "commercial solutions",
+    "residential solutions",
+    "process automation",
+    "climate technologies",
+    "control valves",
+    "measurement instrumentation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/52a764de-e901-5abe-ab33-a3e6e7d86a29"
 }

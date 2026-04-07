@@ -1,11 +1,21 @@
 {
   "entity_id": "f1d79c78-1226-5a8b-80bc-489e12496582",
+  "public_key_id": "f1d79c78-1226-5a8b-80bc-489e12496582",
   "name": "Mangopay",
   "what_it_does": "Mangopay provides payment infrastructure for marketplaces and crowdfunding platforms.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "marketplace payments",
+    "crowdfunding payments",
+    "payment infrastructure",
+    "payment processing",
+    "e-commerce payments",
+    "API payments",
+    "embedded finance",
+    "payment solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f1d79c78-1226-5a8b-80bc-489e12496582"
 }

@@ -1,10 +1,11 @@
 {
   "entity_id": "e20f070d-286b-5dc6-8a59-4882507d73f0",
+  "public_key_id": "e20f070d-286b-5dc6-8a59-4882507d73f0",
   "name": "Perplexity",
   "what_it_does": "Perplexity is a search engine powered by artificial intelligence.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
+  "location": "United States",
   "keywords": [
     "AI search engine",
     "answer engine",

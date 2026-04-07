@@ -1,11 +1,21 @@
 {
   "entity_id": "6587804f-af19-5763-9550-89b2a6366782",
+  "public_key_id": "6587804f-af19-5763-9550-89b2a6366782",
   "name": "Uber Eats",
   "what_it_does": "Uber Eats facilitates online food ordering and delivery from restaurants.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "food delivery",
+    "restaurant delivery",
+    "online food ordering",
+    "meal delivery",
+    "food courier",
+    "delivery network",
+    "restaurant partnerships",
+    "mobile ordering"
+  ],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6587804f-af19-5763-9550-89b2a6366782"
 }

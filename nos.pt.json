@@ -1,11 +1,21 @@
 {
   "entity_id": "052eb61f-e8c1-5264-9515-d019db38c729",
+  "public_key_id": "052eb61f-e8c1-5264-9515-d019db38c729",
   "name": "NOS",
   "what_it_does": "NOS is a Portuguese telecommunications and media company providing services like TV, internet, and mobile.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Portugal",
-  "keywords": [],
-  "aio_score": 41.0,
+  "keywords": [
+    "Portuguese telecom",
+    "TV subscriptions",
+    "internet services",
+    "mobile communication",
+    "fiber optic",
+    "pay television",
+    "telecommunications",
+    "Portugal"
+  ],
+  "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/052eb61f-e8c1-5264-9515-d019db38c729"
 }

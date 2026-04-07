@@ -1,11 +1,21 @@
 {
   "entity_id": "7ae61c39-364f-5c81-8c10-c51d69c8146e",
+  "public_key_id": "7ae61c39-364f-5c81-8c10-c51d69c8146e",
   "name": "Stream Live Video Online",
   "what_it_does": "Livestream offers a platform for broadcasting and watching live video streams online.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "live video streaming",
+    "video broadcasting",
+    "online events",
+    "video platform",
+    "event streaming",
+    "webcasting",
+    "live events",
+    "video hosting"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7ae61c39-364f-5c81-8c10-c51d69c8146e"
 }

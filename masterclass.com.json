@@ -1,5 +1,6 @@
 {
   "entity_id": "4f6b2c11-ee40-5e48-ab8d-f4faa89e7330",
+  "public_key_id": "4f6b2c11-ee40-5e48-ab8d-f4faa89e7330",
   "name": "MasterClass",
   "what_it_does": "MasterClass provides online courses taught by experts in various fields.",
   "for_who": "Businesses and professionals.",
@@ -15,6 +16,6 @@
     "culinary classes",
     "business education"
   ],
-  "aio_score": 55.0,
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4f6b2c11-ee40-5e48-ab8d-f4faa89e7330"
 }

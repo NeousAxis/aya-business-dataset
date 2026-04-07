@@ -1,11 +1,21 @@
 {
   "entity_id": "e171642d-21d1-5237-8f82-f362faaadbc5",
+  "public_key_id": "e171642d-21d1-5237-8f82-f362faaadbc5",
   "name": "Behance",
   "what_it_does": "Behance is an online platform for showcasing and discovering creative work.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "creative portfolio",
+    "design showcase",
+    "art community",
+    "creative professionals",
+    "online portfolios",
+    "graphic design",
+    "art sharing",
+    "design inspiration"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e171642d-21d1-5237-8f82-f362faaadbc5"
 }

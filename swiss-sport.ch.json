@@ -1,11 +1,21 @@
 {
   "entity_id": "1c4c09f2-458e-5a0f-9bfa-d2e14da7f42f",
+  "public_key_id": "1c4c09f2-458e-5a0f-9bfa-d2e14da7f42f",
   "name": "Sportwetten Schweiz 2026",
   "what_it_does": "Swiss-Sport.ch likely provides information or services related to sports betting in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "sports betting",
+    "Switzerland",
+    "gambling",
+    "odds comparison",
+    "online betting",
+    "sports news",
+    "betting information",
+    "Swiss sports"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1c4c09f2-458e-5a0f-9bfa-d2e14da7f42f"
 }

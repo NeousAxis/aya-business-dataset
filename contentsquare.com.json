@@ -1,11 +1,20 @@
 {
   "entity_id": "a70c6039-4f38-53ba-b735-4b932aa64637",
+  "public_key_id": "a70c6039-4f38-53ba-b735-4b932aa64637",
   "name": "Contentsquare",
   "what_it_does": "Contentsquare provides a digital experience analytics platform that helps businesses understand user behavior on websites and mobile apps.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [],
+  "location": "France",
+  "keywords": [
+    "digital experience analytics",
+    "user behavior analysis",
+    "website analytics",
+    "customer journey mapping",
+    "UX optimization",
+    "conversion rate optimization",
+    "SaaS platform"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a70c6039-4f38-53ba-b735-4b932aa64637"
 }

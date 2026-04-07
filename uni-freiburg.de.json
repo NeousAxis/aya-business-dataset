@@ -1,11 +1,21 @@
 {
   "entity_id": "3f1ea844-8b50-5c3e-ae6e-693f254acc61",
+  "public_key_id": "3f1ea844-8b50-5c3e-ae6e-693f254acc61",
   "name": "Universität Freiburg",
   "what_it_does": "Universität Freiburg is a Swiss educational institution.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "Swiss university",
+    "higher education",
+    "research programs",
+    "academic studies",
+    "university courses",
+    "Freiburg education",
+    "scientific research",
+    "graduate school"
+  ],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3f1ea844-8b50-5c3e-ae6e-693f254acc61"
 }

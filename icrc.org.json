@@ -1,11 +1,21 @@
 {
   "entity_id": "c8908417-ee9e-5486-8c1e-fe8c4b7ee3d1",
+  "public_key_id": "c8908417-ee9e-5486-8c1e-fe8c4b7ee3d1",
   "name": "ICRC",
   "what_it_does": "ICRC is the International Committee of the Red Cross, a humanitarian organization providing assistance to people affected by conflict and armed violence.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "humanitarian aid",
+    "international relief",
+    "armed conflict",
+    "humanitarian assistance",
+    "war victims",
+    "conflict zones",
+    "Red Cross",
+    "human rights"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c8908417-ee9e-5486-8c1e-fe8c4b7ee3d1"
 }

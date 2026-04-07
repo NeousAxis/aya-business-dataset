@@ -1,11 +1,20 @@
 {
   "entity_id": "e29b535d-44b4-502c-9f7c-67c45bef754f",
+  "public_key_id": "e29b535d-44b4-502c-9f7c-67c45bef754f",
   "name": "Bunzl",
   "what_it_does": "Bunzl distributes a range of non-food consumables such as packaging, hygiene products, and safety supplies.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "non-food consumables",
+    "packaging",
+    "hygiene products",
+    "safety supplies",
+    "janitorial supplies",
+    "catering disposables",
+    "industrial supplies"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e29b535d-44b4-502c-9f7c-67c45bef754f"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "fbfba9ae-ecf5-50a1-a3ef-89def36c4429",
+  "public_key_id": "fbfba9ae-ecf5-50a1-a3ef-89def36c4429",
   "name": "Services Industriels de Genève",
   "what_it_does": "Services Industriels de Genève provides public utility services, including electricity, gas, and water, in Geneva.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Geneva utilities",
+    "electricity supply",
+    "gas distribution",
+    "water supply",
+    "public utility",
+    "energy infrastructure",
+    "Geneva energy"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fbfba9ae-ecf5-50a1-a3ef-89def36c4429"
 }

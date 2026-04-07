@@ -1,11 +1,21 @@
 {
   "entity_id": "2773ff6f-b327-56fe-bb7c-66bfd5a35180",
+  "public_key_id": "2773ff6f-b327-56fe-bb7c-66bfd5a35180",
   "name": "ExxonMobil Corporation",
   "what_it_does": "ExxonMobil is a multinational oil and gas corporation involved in exploration, production, refining, and marketing.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "oil production",
+    "gas exploration",
+    "petroleum refining",
+    "fuel marketing",
+    "energy industry",
+    "crude oil",
+    "lubricants",
+    "petrochemicals"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2773ff6f-b327-56fe-bb7c-66bfd5a35180"
 }

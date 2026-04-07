@@ -1,11 +1,21 @@
 {
   "entity_id": "3728f555-ee23-58ac-b425-abfde1961dbf",
+  "public_key_id": "3728f555-ee23-58ac-b425-abfde1961dbf",
   "name": "Clariane",
   "what_it_does": "Clariane operates a network of healthcare facilities including nursing homes and clinics.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "nursing homes",
+    "healthcare facilities",
+    "elderly care",
+    "medical clinics",
+    "assisted living",
+    "rehabilitation care",
+    "patient care",
+    "senior living"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3728f555-ee23-58ac-b425-abfde1961dbf"
 }

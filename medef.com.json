@@ -1,11 +1,21 @@
 {
   "entity_id": "0f30d972-a88d-5424-b0c0-f4232ceecc65",
+  "public_key_id": "0f30d972-a88d-5424-b0c0-f4232ceecc65",
   "name": "Medef",
   "what_it_does": "Medef is likely a media or communication company.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "French media",
+    "communication services",
+    "business advocacy",
+    "employer federation",
+    "economic policy",
+    "France business",
+    "lobbying",
+    "corporate representation"
+  ],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0f30d972-a88d-5424-b0c0-f4232ceecc65"
 }

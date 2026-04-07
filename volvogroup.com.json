@@ -1,11 +1,20 @@
 {
   "entity_id": "5de6ba1b-f4b5-5f14-bbaa-50a78225d067",
+  "public_key_id": "5de6ba1b-f4b5-5f14-bbaa-50a78225d067",
   "name": "AB Volvo",
   "what_it_does": "AB Volvo manufactures commercial vehicles, including trucks, buses, and construction equipment, as well as marine and industrial engines.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Sweden",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "commercial vehicles",
+    "trucks",
+    "buses",
+    "construction equipment",
+    "marine engines",
+    "industrial engines",
+    "vehicle parts"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5de6ba1b-f4b5-5f14-bbaa-50a78225d067"
 }

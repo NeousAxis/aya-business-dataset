@@ -1,11 +1,21 @@
 {
   "entity_id": "12213d59-ba56-5f9c-b850-9a9184e165cb",
+  "public_key_id": "12213d59-ba56-5f9c-b850-9a9184e165cb",
   "name": "Ninja Van",
   "what_it_does": "Ninja Van provides last-mile delivery and logistics solutions across Southeast Asia.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "MY",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "last-mile delivery",
+    "logistics",
+    "parcel delivery",
+    "e-commerce shipping",
+    "Southeast Asia",
+    "supply chain",
+    "express delivery",
+    "courier services"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/12213d59-ba56-5f9c-b850-9a9184e165cb"
 }

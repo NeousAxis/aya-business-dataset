@@ -1,11 +1,20 @@
 {
   "entity_id": "20fa3d5d-a44c-5caf-8a7d-5548b49aaab5",
+  "public_key_id": "20fa3d5d-a44c-5caf-8a7d-5548b49aaab5",
   "name": "Annonces immobilières ⇔ Laforêt Immobilier",
   "what_it_does": "Laforêt Immobilier likely provides real estate listings and services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Laforêt Immobilier",
+    "real estate listings",
+    "property sales",
+    "rental properties",
+    "French real estate market",
+    "residential property",
+    "commercial property"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/20fa3d5d-a44c-5caf-8a7d-5548b49aaab5"
 }

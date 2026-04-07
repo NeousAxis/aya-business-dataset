@@ -1,11 +1,20 @@
 {
   "entity_id": "e618aacb-2c2a-5a76-b799-8608d25eab78",
+  "public_key_id": "e618aacb-2c2a-5a76-b799-8608d25eab78",
   "name": "Bitwarden",
   "what_it_does": "Bitwarden offers a password management and security solution.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "password manager",
+    "password security",
+    "credential security",
+    "password storage",
+    "security vault",
+    "password generator",
+    "identity management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e618aacb-2c2a-5a76-b799-8608d25eab78"
 }

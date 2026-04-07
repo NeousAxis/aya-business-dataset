@@ -1,11 +1,21 @@
 {
   "entity_id": "fcaa992e-1194-5d93-9e7f-71560b9bcb8b",
+  "public_key_id": "fcaa992e-1194-5d93-9e7f-71560b9bcb8b",
   "name": "le site de l'Élysée",
   "what_it_does": "The site de l'Élysée is the official website of the French President.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "French presidency",
+    "official residence",
+    "state events",
+    "government information",
+    "political news",
+    "French history",
+    "national heritage",
+    "president's office"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fcaa992e-1194-5d93-9e7f-71560b9bcb8b"
 }

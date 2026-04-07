@@ -1,11 +1,21 @@
 {
   "entity_id": "9c6b80ff-11cf-5378-921e-906dc7dae612",
+  "public_key_id": "9c6b80ff-11cf-5378-921e-906dc7dae612",
   "name": "Lloyds Bank",
   "what_it_does": "Lloyds Bank is a British retail and commercial bank offering a range of financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "retail banking",
+    "commercial banking",
+    "financial ",
+    "banking ",
+    "loans",
+    "mortgages",
+    "current accounts",
+    "British bank"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9c6b80ff-11cf-5378-921e-906dc7dae612"
 }

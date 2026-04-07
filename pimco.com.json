@@ -1,11 +1,21 @@
 {
   "entity_id": "246aba3c-93f4-5eb7-9519-0d2aaa4eab38",
+  "public_key_id": "246aba3c-93f4-5eb7-9519-0d2aaa4eab38",
   "name": "PIMCO",
   "what_it_does": "PIMCO is a global investment management firm focusing on fixed income.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Brazil",
-  "keywords": [],
+  "keywords": [
+    "investment management",
+    "fixed income",
+    "global investments",
+    "asset allocation",
+    "portfolio management",
+    "financial investments",
+    "bond investments",
+    "institutional investors"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/246aba3c-93f4-5eb7-9519-0d2aaa4eab38"
 }

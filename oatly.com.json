@@ -1,11 +1,20 @@
 {
   "entity_id": "7b434323-ec84-5720-9c74-04e8cfa82e65",
+  "public_key_id": "7b434323-ec84-5720-9c74-04e8cfa82e65",
   "name": "Oatly",
   "what_it_does": "Oatly produces and sells oat-based dairy alternatives.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
-  "keywords": [],
+  "keywords": [
+    "oat-based milk",
+    "dairy-free alternatives",
+    "vegan beverages",
+    "plant-based products",
+    "oat milk",
+    "vegan food",
+    "dairy alternatives"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7b434323-ec84-5720-9c74-04e8cfa82e65"
 }

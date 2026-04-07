@@ -1,11 +1,20 @@
 {
   "entity_id": "6069a865-bf6f-5e18-82f5-947be8d42915",
+  "public_key_id": "6069a865-bf6f-5e18-82f5-947be8d42915",
   "name": "Scalable Capital",
   "what_it_does": "Scalable Capital offers an online investment platform for automated portfolio management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Austria",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "precision equipment",
+    "medical endoscopes",
+    "endoscopy",
+    "surgical equipment",
+    "cameras",
+    "optical equipment",
+    "healthcare solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6069a865-bf6f-5e18-82f5-947be8d42915"
 }

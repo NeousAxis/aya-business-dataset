@@ -1,11 +1,21 @@
 {
   "entity_id": "91f50be8-edcf-5e21-9c78-31d55ff17ed0",
+  "public_key_id": "91f50be8-edcf-5e21-9c78-31d55ff17ed0",
   "name": "Secure, Trusted and Scalable",
   "what_it_does": "Avigilon designs, develops, and manufactures video surveillance and access control systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Sweden",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "video surveillance",
+    "access control",
+    "security cameras",
+    "video analytics",
+    "security systems",
+    "surveillance equipment",
+    "IP cameras",
+    "security solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/91f50be8-edcf-5e21-9c78-31d55ff17ed0"
 }

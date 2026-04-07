@@ -1,11 +1,21 @@
 {
   "entity_id": "6d26644b-3d3b-5ed4-abad-57f578358eab",
+  "public_key_id": "6d26644b-3d3b-5ed4-abad-57f578358eab",
   "name": "LOTO®",
   "what_it_does": "LOTO is the brand name of the French national lottery operated by Française des Jeux.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "French lottery",
+    "lottery games",
+    "chance games",
+    "draw games",
+    "prize winnings",
+    "Française des Jeux",
+    "LOTO",
+    "gambling"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6d26644b-3d3b-5ed4-abad-57f578358eab"
 }

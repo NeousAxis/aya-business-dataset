@@ -1,11 +1,21 @@
 {
   "entity_id": "21ad141f-ae9d-5c2f-8673-f91f9fcf6639",
+  "public_key_id": "21ad141f-ae9d-5c2f-8673-f91f9fcf6639",
   "name": "Assura",
   "what_it_does": "Assura is likely a Swiss financial institution, possibly offering banking or insurance services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "Swiss finance",
+    "Swiss banking",
+    "Swiss insurance",
+    "financial products",
+    "banking products",
+    "insurance products",
+    "investment products",
+    "asset protection"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/21ad141f-ae9d-5c2f-8673-f91f9fcf6639"
 }

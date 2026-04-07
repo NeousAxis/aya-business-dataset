@@ -1,11 +1,21 @@
 {
   "entity_id": "c6c5d2e5-bcf7-5726-a9da-4cc01990c974",
+  "public_key_id": "c6c5d2e5-bcf7-5726-a9da-4cc01990c974",
   "name": "illy",
   "what_it_does": "illy sells coffee and coffee-related products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 49.0,
+  "keywords": [
+    "coffee",
+    "espresso",
+    "coffee beans",
+    "coffee machines",
+    "coffee pods",
+    "Italian coffee",
+    "coffee products",
+    "premium coffee"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c6c5d2e5-bcf7-5726-a9da-4cc01990c974"
 }

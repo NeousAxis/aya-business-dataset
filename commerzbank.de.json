@@ -1,11 +1,21 @@
 {
   "entity_id": "8fffd792-f3c2-5d1b-a6e1-87c21d83c943",
+  "public_key_id": "8fffd792-f3c2-5d1b-a6e1-87c21d83c943",
   "name": "Home Commerzbank Group",
   "what_it_does": "Commerzbank is a German universal bank offering retail and corporate banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "retail banking",
+    "corporate banking",
+    "investment banking",
+    "German bank",
+    "financial services",
+    "commercial banking",
+    "SME banking",
+    "private banking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8fffd792-f3c2-5d1b-a6e1-87c21d83c943"
 }

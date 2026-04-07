@@ -1,11 +1,21 @@
 {
   "entity_id": "23941218-d46e-58ae-962d-a39fa1e71f92",
+  "public_key_id": "23941218-d46e-58ae-962d-a39fa1e71f92",
   "name": "Urban Company",
   "what_it_does": "Urban Company connects customers with service professionals like cleaners and technicians.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 55.0,
+  "keywords": [
+    "home cleaning",
+    "appliance repair",
+    "electricians",
+    "plumbers",
+    "salon at home",
+    "handyman services",
+    "India",
+    "UAE"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/23941218-d46e-58ae-962d-a39fa1e71f92"
 }

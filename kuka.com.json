@@ -1,11 +1,20 @@
 {
   "entity_id": "478c44b6-108e-547e-a2b2-92e21299734b",
+  "public_key_id": "478c44b6-108e-547e-a2b2-92e21299734b",
   "name": "KUKA",
   "what_it_does": "KUKA provides industrial robots, automation solutions, and systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "industrial robots",
+    "automation systems",
+    "robotic ",
+    "factory automation",
+    "manufacturing automation",
+    "welding robots",
+    "material handling"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/478c44b6-108e-547e-a2b2-92e21299734b"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "f7558ddd-5d5f-59ad-b1d0-c4a8997fa43d",
+  "public_key_id": "f7558ddd-5d5f-59ad-b1d0-c4a8997fa43d",
   "name": "Aéroport Marseille Provence",
   "what_it_does": "Aéroport Marseille Provence manages and operates the Marseille Provence Airport providing passenger and cargo air transportation services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "airport operations",
+    "air travel",
+    "passenger transport",
+    "cargo handling",
+    "aviation infrastructure",
+    "airport services",
+    "Marseille airport",
+    "Provence region"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f7558ddd-5d5f-59ad-b1d0-c4a8997fa43d"
 }

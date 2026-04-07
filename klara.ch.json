@@ -1,11 +1,21 @@
 {
   "entity_id": "2c0b3a8a-963e-5a82-b2cb-91574769f6fc",
+  "public_key_id": "2c0b3a8a-963e-5a82-b2cb-91574769f6fc",
   "name": "KLARA",
   "what_it_does": "KLARA provides a software platform for small and medium-sized businesses in Switzerland, focusing on automation and efficiency.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "Swiss SMB automation",
+    "business process automation",
+    "accounting software",
+    "payroll administration",
+    "insurance administration",
+    "SME software",
+    "KLARA",
+    "Swiss business solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2c0b3a8a-963e-5a82-b2cb-91574769f6fc"
 }

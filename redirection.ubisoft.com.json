@@ -1,11 +1,20 @@
 {
   "entity_id": "9eacb9ab-dc5e-53b5-86ca-1289f4f79fde",
+  "public_key_id": "9eacb9ab-dc5e-53b5-86ca-1289f4f79fde",
   "name": "Ubisoft",
   "what_it_does": "Ubisoft is a video game publisher and developer.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "video games",
+    "game development",
+    "game publishing",
+    "interactive entertainment",
+    "console games",
+    "PC games",
+    "AAA titles"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9eacb9ab-dc5e-53b5-86ca-1289f4f79fde"
 }

@@ -1,11 +1,19 @@
 {
   "entity_id": "68421b0a-a050-566c-ae1c-2e43d26b119b",
+  "public_key_id": "68421b0a-a050-566c-ae1c-2e43d26b119b",
   "name": "Minnesota Lottery Home",
   "what_it_does": "Minnesota Lottery Home facilitates online purchases of lottery tickets within Minnesota.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "lottery tickets",
+    "Minnesota lottery",
+    "online lottery",
+    "state lottery",
+    "gambling",
+    "games of chance"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/68421b0a-a050-566c-ae1c-2e43d26b119b"
 }

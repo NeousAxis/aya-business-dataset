@@ -1,11 +1,20 @@
 {
   "entity_id": "321e6e5b-fbb3-5428-9449-46832c073413",
+  "public_key_id": "321e6e5b-fbb3-5428-9449-46832c073413",
   "name": "Cinven",
   "what_it_does": "Cinven is a private equity firm investing in European companies.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 71.0,
+  "keywords": [
+    "private equity",
+    "European investments",
+    "leveraged buyouts",
+    "growth capital",
+    "financial sponsors",
+    "portfolio companies",
+    "European companies"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/321e6e5b-fbb3-5428-9449-46832c073413"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "3054d002-3b52-5779-87fa-c3c08de49bd0",
+  "public_key_id": "3054d002-3b52-5779-87fa-c3c08de49bd0",
   "name": "Kalray",
   "what_it_does": "Kalray develops and sells high-performance processors for data-intensive applications like autonomous driving and data centers.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 58.0,
+  "keywords": [
+    "high-performance processors",
+    "autonomous driving chips",
+    "data center processing",
+    "embedded systems",
+    "processor design",
+    "parallel processing",
+    "data-intensive applications",
+    "silicon chips"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3054d002-3b52-5779-87fa-c3c08de49bd0"
 }

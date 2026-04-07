@@ -1,11 +1,21 @@
 {
   "entity_id": "4a851fe6-f3f6-5811-aff3-1aa375a969df",
+  "public_key_id": "4a851fe6-f3f6-5811-aff3-1aa375a969df",
   "name": "Halan",
   "what_it_does": "Halan provides digital payment and microfinance solutions in Egypt.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "EG",
-  "keywords": [],
-  "aio_score": 52.0,
+  "keywords": [
+    "digital payments",
+    "microfinance",
+    "financial inclusion",
+    "mobile money",
+    "Egyptian finance",
+    "e-wallets",
+    "payment processing",
+    "financial services"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a851fe6-f3f6-5811-aff3-1aa375a969df"
 }

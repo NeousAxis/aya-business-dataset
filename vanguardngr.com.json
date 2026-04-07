@@ -1,11 +1,21 @@
 {
   "entity_id": "af60c010-f889-59ab-8a5e-45fc01ed5310",
+  "public_key_id": "af60c010-f889-59ab-8a5e-45fc01ed5310",
   "name": "Vanguard News",
   "what_it_does": "Vanguard News is a Nigerian newspaper providing news and analysis.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 55.0,
+  "keywords": [
+    "Nigerian news",
+    "news analysis",
+    "newspaper",
+    "current affairs",
+    "Nigerian politics",
+    "business news",
+    "African news",
+    "investigative journalism"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/af60c010-f889-59ab-8a5e-45fc01ed5310"
 }

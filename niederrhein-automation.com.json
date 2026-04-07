@@ -1,11 +1,21 @@
 {
   "entity_id": "9f68d27f-5597-5aad-9bb7-c3627d6dad9e",
+  "public_key_id": "9f68d27f-5597-5aad-9bb7-c3627d6dad9e",
   "name": "Automatisierung mit Cobots",
   "what_it_does": "Niederrhein Automation provides collaborative robot (cobot) solutions for industrial automation.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 58.0,
+  "keywords": [
+    "collaborative robots",
+    "cobots",
+    "industrial automation",
+    "robotics",
+    "automation solutions",
+    "manufacturing automation",
+    "robot integration",
+    "industrial robots"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f68d27f-5597-5aad-9bb7-c3627d6dad9e"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "fd4a7866-9160-59c6-a0f2-80b9f5094b21",
+  "public_key_id": "fd4a7866-9160-59c6-a0f2-80b9f5094b21",
   "name": "Docebo",
   "what_it_does": "Docebo offers a cloud-based learning management system.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "learning",
+    "training",
+    "elearning",
+    "LMS",
+    "employee development",
+    "course creation",
+    "corporate education",
+    "online courses"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fd4a7866-9160-59c6-a0f2-80b9f5094b21"
 }

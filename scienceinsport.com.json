@@ -1,11 +1,21 @@
 {
   "entity_id": "f988de78-d413-584f-a17a-5dd47a08c62f",
+  "public_key_id": "f988de78-d413-584f-a17a-5dd47a08c62f",
   "name": "SiS (Science in Sport) Limited",
   "what_it_does": "SiS (Science in Sport) Limited manufactures and sells sports nutrition products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Italy",
-  "keywords": [],
-  "aio_score": 54.0,
+  "keywords": [
+    "sports nutrition",
+    "energy gels",
+    "protein powders",
+    "SiS",
+    "Science in Sport",
+    "endurance nutrition",
+    "sports supplements",
+    "performance nutrition"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f988de78-d413-584f-a17a-5dd47a08c62f"
 }

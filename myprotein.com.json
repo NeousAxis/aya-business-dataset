@@ -1,11 +1,21 @@
 {
   "entity_id": "c4f09def-875b-57da-bf8f-c34373ba9e32",
+  "public_key_id": "c4f09def-875b-57da-bf8f-c34373ba9e32",
   "name": "Myprotein",
   "what_it_does": "Myprotein sells sports nutrition products, supplements, and apparel online.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Arab Emirates",
-  "keywords": [],
-  "aio_score": 53.0,
+  "keywords": [
+    "sports nutrition",
+    "supplements",
+    "sports apparel",
+    "fitness products",
+    "protein powder",
+    "vitamins",
+    "online retail",
+    "workout clothing"
+  ],
+  "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c4f09def-875b-57da-bf8f-c34373ba9e32"
 }

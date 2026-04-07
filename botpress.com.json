@@ -1,11 +1,20 @@
 {
   "entity_id": "2869159d-fc34-5842-9b43-5bd7ae726bd6",
+  "public_key_id": "2869159d-fc34-5842-9b43-5bd7ae726bd6",
   "name": "Botpress",
   "what_it_does": "Botpress offers an open-source conversational AI platform for building chatbots.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "China",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "conversational AI",
+    "chatbot development",
+    "open source AI",
+    "natural language processing",
+    "AI assistants",
+    "bot building framework",
+    "customer engagement"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2869159d-fc34-5842-9b43-5bd7ae726bd6"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "e167519b-3841-5b9d-a596-7d06296d85f2",
+  "public_key_id": "e167519b-3841-5b9d-a596-7d06296d85f2",
   "name": "Rocket Internet SE",
   "what_it_does": "Rocket Internet SE invests in and builds internet companies, often replicating successful business models.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "internet ventures",
+    "startup investments",
+    "e-commerce",
+    "venture capital",
+    "business cloning",
+    "internet marketplace",
+    "company builder",
+    "online retail"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e167519b-3841-5b9d-a596-7d06296d85f2"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "2d955c33-75fe-54fb-8fdd-f0a040531e5a",
+  "public_key_id": "2d955c33-75fe-54fb-8fdd-f0a040531e5a",
   "name": "Bachem",
   "what_it_does": "Bachem is a peptide manufacturer providing products and services to the pharmaceutical and biotech industries.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "peptide synthesis",
+    "peptide manufacturing",
+    "pharmaceutical peptides",
+    "biotech peptides",
+    "peptide APIs",
+    "peptide reagents",
+    "research peptides",
+    "Bachem peptides"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2d955c33-75fe-54fb-8fdd-f0a040531e5a"
 }

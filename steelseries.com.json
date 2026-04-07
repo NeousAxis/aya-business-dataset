@@ -1,11 +1,19 @@
 {
   "entity_id": "4a2cbcb2-a023-5b40-a529-c36374a3d344",
+  "public_key_id": "4a2cbcb2-a023-5b40-a529-c36374a3d344",
   "name": "For Glory",
   "what_it_does": "For Glory appears to be associated with SteelSeries, potentially a marketing campaign or slogan.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "gaming peripherals",
+    "esports marketing",
+    "gaming slogan",
+    "SteelSeries",
+    "brand campaign",
+    "gaming accessories"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a2cbcb2-a023-5b40-a529-c36374a3d344"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "88041e08-a2be-5d23-a0a4-30960a6b27e3",
+  "public_key_id": "88041e08-a2be-5d23-a0a4-30960a6b27e3",
   "name": "Dynamic",
   "what_it_does": "Dynamic likely provides infrastructure or tools for developing decentralized applications or DAOs.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "decentralized applications",
+    "DAO infrastructure",
+    "Web3 tools",
+    "blockchain infrastructure",
+    "developer tools",
+    "authentication API",
+    "user authorization",
+    "digital identity"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/88041e08-a2be-5d23-a0a4-30960a6b27e3"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "7491fb41-4a03-59b5-a751-a61444e54c0c",
+  "public_key_id": "7491fb41-4a03-59b5-a751-a61444e54c0c",
   "name": "El Mundo",
   "what_it_does": "El Mundo is a Spanish-language news publication providing coverage of national and international events.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Spain",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "Spanish news",
+    "international news",
+    "national events",
+    "political coverage",
+    "economic reporting",
+    "cultural analysis",
+    "current affairs",
+    "journalism"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7491fb41-4a03-59b5-a751-a61444e54c0c"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "4608fe54-29ca-5896-bd5a-6b198eb79534",
+  "public_key_id": "4608fe54-29ca-5896-bd5a-6b198eb79534",
   "name": "European Central Bank",
   "what_it_does": "The European Central Bank manages the euro and formulates Eurozone monetary policy.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Eurozone monetary policy",
+    "euro currency",
+    "central banking",
+    "European monetary system",
+    "inflation control",
+    "bank supervision",
+    "euro area economy"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4608fe54-29ca-5896-bd5a-6b198eb79534"
 }

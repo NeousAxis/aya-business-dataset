@@ -1,11 +1,21 @@
 {
   "entity_id": "132582ef-198a-5eb8-a3d0-a08a1a77e7a4",
+  "public_key_id": "132582ef-198a-5eb8-a3d0-a08a1a77e7a4",
   "name": "Home Page",
   "what_it_does": "Ballard manufactures fuel cell products for various applications.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Denmark",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "fuel cells",
+    "clean energy",
+    "hydrogen power",
+    "fuel cell stacks",
+    "electrochemical products",
+    "power generation",
+    "transportation",
+    "manufacturing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/132582ef-198a-5eb8-a3d0-a08a1a77e7a4"
 }

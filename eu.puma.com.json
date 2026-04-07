@@ -1,11 +1,21 @@
 {
   "entity_id": "2e8aa0ab-d5ef-5c86-9fa7-5e3052bc06ac",
+  "public_key_id": "2e8aa0ab-d5ef-5c86-9fa7-5e3052bc06ac",
   "name": "PUMA Europe",
   "what_it_does": "PUMA Europe designs, develops, and sells athletic and casual footwear, apparel, and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "athletic footwear",
+    "sportswear",
+    "athletic apparel",
+    "casual footwear",
+    "athletic accessories",
+    "PUMA Europe",
+    "sports clothing",
+    "activewear"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2e8aa0ab-d5ef-5c86-9fa7-5e3052bc06ac"
 }

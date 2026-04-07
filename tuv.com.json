@@ -1,11 +1,20 @@
 {
   "entity_id": "419a83e2-9211-5303-9d76-79bf7bffadf9",
+  "public_key_id": "419a83e2-9211-5303-9d76-79bf7bffadf9",
   "name": "CH",
   "what_it_does": "TUV provides testing, inspection, and certification services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "testing",
+    "inspection",
+    "certification",
+    "compliance testing",
+    "product safety",
+    "quality assurance",
+    "audit services"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/419a83e2-9211-5303-9d76-79bf7bffadf9"
 }

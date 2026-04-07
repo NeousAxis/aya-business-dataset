@@ -1,11 +1,21 @@
 {
   "entity_id": "1e151b7d-fc95-50a9-a5b9-85092a94b7ca",
+  "public_key_id": "1e151b7d-fc95-50a9-a5b9-85092a94b7ca",
   "name": "CRH",
   "what_it_does": "CRH provides tour and transport services (inferred from domain).",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "tour transport",
+    "ground transport",
+    "travel excursions",
+    "sightseeing tours",
+    "passenger transport",
+    "tour operations",
+    "travel arrangement",
+    "shuttle transit"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1e151b7d-fc95-50a9-a5b9-85092a94b7ca"
 }

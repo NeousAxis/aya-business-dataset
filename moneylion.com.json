@@ -1,11 +1,21 @@
 {
   "entity_id": "a1d9306f-0447-53b8-9671-b3cd4bb969fd",
+  "public_key_id": "a1d9306f-0447-53b8-9671-b3cd4bb969fd",
   "name": "MoneyLion Official Site",
   "what_it_does": "MoneyLion offers mobile banking and financial membership services, providing users with access to borrowing, saving, and investing tools.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "mobile banking",
+    "financial membership",
+    "borrowing services",
+    "saving accounts",
+    "financial products",
+    "mobile finance",
+    "credit builder loans",
+    "financial wellness"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a1d9306f-0447-53b8-9671-b3cd4bb969fd"
 }

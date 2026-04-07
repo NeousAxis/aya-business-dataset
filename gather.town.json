@@ -1,11 +1,21 @@
 {
   "entity_id": "964583e8-ce64-5116-a0c3-9fd5361c724a",
+  "public_key_id": "964583e8-ce64-5116-a0c3-9fd5361c724a",
   "name": "Gather",
   "what_it_does": "Gather is a video chat platform for creating virtual spaces and events.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [],
+  "keywords": [
+    "video chat",
+    "virtual events",
+    "virtual spaces",
+    "collaboration tools",
+    "remote meetings",
+    "online gatherings",
+    "virtual environments",
+    "social interaction"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/964583e8-ce64-5116-a0c3-9fd5361c724a"
 }

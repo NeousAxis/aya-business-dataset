@@ -1,11 +1,20 @@
 {
   "entity_id": "507e9c93-d54e-5402-b06e-ab39cff185cf",
+  "public_key_id": "507e9c93-d54e-5402-b06e-ab39cff185cf",
   "name": "Theinformation",
   "what_it_does": "Theinformation is a subscription-based news website covering the technology industry.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "tech news",
+    "subscription news",
+    "technology reporting",
+    "venture capital",
+    "startup news",
+    "tech industry",
+    "Silicon Valley"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/507e9c93-d54e-5402-b06e-ab39cff185cf"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "369b95d0-f20d-581d-9eb3-176df14342db",
+  "public_key_id": "369b95d0-f20d-581d-9eb3-176df14342db",
   "name": "Sportxx.ch",
   "what_it_does": "Sportxx.ch is a sports retailer selling sporting goods, not providing financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "sports equipment",
+    "sporting goods retailer",
+    "sports apparel",
+    "fitness gear",
+    "outdoor recreation",
+    "team sports",
+    "exercise equipment",
+    "athletic footwear"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/369b95d0-f20d-581d-9eb3-176df14342db"
 }

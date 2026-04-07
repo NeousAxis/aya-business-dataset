@@ -1,11 +1,20 @@
 {
   "entity_id": "081d58c6-cdd1-5118-b6b2-ccb33bc42b32",
+  "public_key_id": "081d58c6-cdd1-5118-b6b2-ccb33bc42b32",
   "name": "State Street",
   "what_it_does": "State Street provides financial services to institutional investors, including investment servicing, investment management, and investment research and trading.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Canada",
-  "keywords": [],
+  "keywords": [
+    "institutional investors",
+    "investment servicing",
+    "asset management",
+    "financial institutions",
+    "investment management",
+    "fund administration",
+    "custodial banking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/081d58c6-cdd1-5118-b6b2-ccb33bc42b32"
 }

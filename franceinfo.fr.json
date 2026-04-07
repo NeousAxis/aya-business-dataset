@@ -1,11 +1,21 @@
 {
   "entity_id": "5da08862-dee7-50f8-9994-d4dfdb069230",
+  "public_key_id": "5da08862-dee7-50f8-9994-d4dfdb069230",
   "name": "franceinfo",
   "what_it_does": "Franceinfo provides real-time news and information across various media platforms in France.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "France",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "real-time news",
+    "French news",
+    "current events",
+    "information media",
+    "French politics",
+    "breaking news",
+    "national news",
+    "news reporting"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5da08862-dee7-50f8-9994-d4dfdb069230"
 }

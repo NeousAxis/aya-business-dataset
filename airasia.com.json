@@ -1,11 +1,21 @@
 {
   "entity_id": "63a318f5-da0f-5e5a-afaa-1113e073c75f",
+  "public_key_id": "63a318f5-da0f-5e5a-afaa-1113e073c75f",
   "name": "AirAsia",
   "what_it_does": "AirAsia is a low-cost airline operating primarily in Southeast Asia.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "MY",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "low-cost airline",
+    "Southeast Asia flights",
+    "budget travel",
+    "airline tickets",
+    "air travel",
+    "flight booking",
+    "regional flights",
+    "affordable airfare"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/63a318f5-da0f-5e5a-afaa-1113e073c75f"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "ca39abc0-d3e2-5363-bf59-f6b468ef8be3",
+  "public_key_id": "ca39abc0-d3e2-5363-bf59-f6b468ef8be3",
   "name": "Assurance en ligne en toute confiance",
   "what_it_does": "Luko provides online home insurance in France.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "home insurance",
+    "online insurance",
+    "French insurance",
+    "property insurance",
+    "insurtech",
+    "insurance solutions",
+    "France insurance",
+    "homeowner's insurance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ca39abc0-d3e2-5363-bf59-f6b468ef8be3"
 }

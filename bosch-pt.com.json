@@ -1,11 +1,21 @@
 {
   "entity_id": "695bbd75-17e3-5c21-a8f7-52badefc2732",
+  "public_key_id": "695bbd75-17e3-5c21-a8f7-52badefc2732",
   "name": "Bosch Power Tools",
   "what_it_does": "Bosch-PT.com manufactures and sells power tools for construction and woodworking.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "EN",
-  "keywords": [],
+  "keywords": [
+    "power tools",
+    "construction tools",
+    "woodworking tools",
+    "cordless drills",
+    "saws",
+    "grinders",
+    "bosch power",
+    "measuring tools"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/695bbd75-17e3-5c21-a8f7-52badefc2732"
 }

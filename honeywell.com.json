@@ -1,11 +1,21 @@
 {
   "entity_id": "10a3ed16-26ca-5169-9187-1c1db7b2c3a3",
+  "public_key_id": "10a3ed16-26ca-5169-9187-1c1db7b2c3a3",
   "name": "Honeywell",
   "what_it_does": "Honeywell is a diversified technology and manufacturing company focused on aerospace, building technologies, performance materials, and safety and productivity solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "aerospace technology",
+    "building technologies",
+    "performance materials",
+    "automation solutions",
+    "safety products",
+    "productivity solutions",
+    "industrial manufacturing",
+    "engineering solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/10a3ed16-26ca-5169-9187-1c1db7b2c3a3"
 }

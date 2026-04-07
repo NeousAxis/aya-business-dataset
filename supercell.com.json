@@ -1,11 +1,21 @@
 {
   "entity_id": "09b5dc65-32e0-58cf-9c10-b5be39595a36",
+  "public_key_id": "09b5dc65-32e0-58cf-9c10-b5be39595a36",
   "name": "Supercell",
   "what_it_does": "Supercell develops and publishes mobile games, including Clash of Clans and Brawl Stars.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "mobile games",
+    "game development",
+    "video games",
+    "online gaming",
+    "app games",
+    "gaming",
+    "interactive",
+    "entertainment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/09b5dc65-32e0-58cf-9c10-b5be39595a36"
 }

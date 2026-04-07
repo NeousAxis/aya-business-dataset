@@ -1,11 +1,21 @@
 {
   "entity_id": "b84603ef-379a-51df-aa8d-79bf14202985",
+  "public_key_id": "b84603ef-379a-51df-aa8d-79bf14202985",
   "name": "Teamleader",
   "what_it_does": "Teamleader offers a CRM, invoicing, and project management software platform for small and medium-sized businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "CRM software",
+    "invoicing software",
+    "project management",
+    "SMB solutions",
+    "sales management",
+    "customer relationship",
+    "lead tracking",
+    "project planning"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b84603ef-379a-51df-aa8d-79bf14202985"
 }

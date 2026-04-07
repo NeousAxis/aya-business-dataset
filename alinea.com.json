@@ -1,11 +1,20 @@
 {
   "entity_id": "7e43f9ee-74b7-52a1-a60f-c69ccb06b471",
+  "public_key_id": "7e43f9ee-74b7-52a1-a60f-c69ccb06b471",
   "name": "alinea",
   "what_it_does": "Alinea is a mobile investing app primarily focused on Gen Z, offering educational resources and fractional share trading.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "mobile investing",
+    "fractional shares",
+    "Gen Z investors",
+    "stock trading",
+    "educational resources",
+    "investment platform",
+    "financial literacy"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7e43f9ee-74b7-52a1-a60f-c69ccb06b471"
 }

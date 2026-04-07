@@ -1,11 +1,21 @@
 {
   "entity_id": "737c1956-9bc9-567a-b984-587a303683c8",
+  "public_key_id": "737c1956-9bc9-567a-b984-587a303683c8",
   "name": "Heidelberg University",
   "what_it_does": "Heidelberg University is a public research university in Germany offering undergraduate and graduate programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 68.0,
+  "keywords": [
+    "German university",
+    "public research university",
+    "higher education",
+    "undergraduate programs",
+    "graduate programs",
+    "academic research",
+    "university programs",
+    "Heidelberg"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/737c1956-9bc9-567a-b984-587a303683c8"
 }

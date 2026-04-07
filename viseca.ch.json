@@ -1,11 +1,20 @@
 {
   "entity_id": "d3e64c03-92b8-57de-94eb-a5b92d0674d4",
+  "public_key_id": "d3e64c03-92b8-57de-94eb-a5b92d0674d4",
   "name": "Viseca Card Services SA",
   "what_it_does": "Viseca Card Services provides credit card issuing and processing services in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 53.0,
+  "keywords": [
+    "credit card issuing",
+    "card processing",
+    "Swiss banking",
+    "payment solutions",
+    "credit cards",
+    "financial transactions",
+    "card services"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d3e64c03-92b8-57de-94eb-a5b92d0674d4"
 }

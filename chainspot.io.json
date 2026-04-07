@@ -1,11 +1,21 @@
 {
   "entity_id": "fc43a6da-e203-5e40-abd5-3c544d3eac35",
+  "public_key_id": "fc43a6da-e203-5e40-abd5-3c544d3eac35",
   "name": "Chainspot",
   "what_it_does": "Chainspot likely provides a platform for monitoring and analyzing cryptocurrency chains.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "cryptocurrency monitoring",
+    "blockchain analytics",
+    "crypto chain data",
+    "digital asset tracking",
+    "crypto portfolio analysis",
+    "blockchain explorer",
+    "cryptocurrency chain insights",
+    "decentralized finance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fc43a6da-e203-5e40-abd5-3c544d3eac35"
 }

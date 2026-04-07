@@ -1,11 +1,21 @@
 {
   "entity_id": "e32565f5-586f-5fb8-bc78-21b64939d28f",
+  "public_key_id": "e32565f5-586f-5fb8-bc78-21b64939d28f",
   "name": "Redpoint Ventures",
   "what_it_does": "Redpoint Ventures is a venture capital firm that invests in early-stage technology companies.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "venture capital",
+    "early-stage investments",
+    "technology companies",
+    "startup funding",
+    "seed funding",
+    "Series A",
+    "growth capital",
+    "investment firm"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e32565f5-586f-5fb8-bc78-21b64939d28f"
 }

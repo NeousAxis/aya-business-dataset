@@ -1,11 +1,21 @@
 {
   "entity_id": "6eac4b53-cdda-560b-86c4-2cfbaa579f8f",
+  "public_key_id": "6eac4b53-cdda-560b-86c4-2cfbaa579f8f",
   "name": "SVT Nyheter",
   "what_it_does": "SVT Nyheter (Swedish Television News) is the news division of Sweden's public broadcaster.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Sweden",
-  "keywords": [],
+  "keywords": [
+    "Swedish news",
+    "public broadcasting",
+    "news reporting",
+    "current affairs",
+    "Swedish television",
+    "broadcast journalism",
+    "Sweden news",
+    "news division"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6eac4b53-cdda-560b-86c4-2cfbaa579f8f"
 }

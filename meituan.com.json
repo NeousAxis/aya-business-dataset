@@ -1,11 +1,21 @@
 {
   "entity_id": "8514ad8c-d08f-59d4-ae9c-a1b5cb03efa4",
+  "public_key_id": "8514ad8c-d08f-59d4-ae9c-a1b5cb03efa4",
   "name": "美团",
   "what_it_does": "Meituan is a Chinese e-commerce platform offering services such as food delivery, hotel booking, and ride-hailing.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "China",
-  "keywords": [],
-  "aio_score": 30.0,
+  "keywords": [
+    "food delivery",
+    "hotel booking",
+    "ride-hailing",
+    "Chinese e-commerce",
+    "group buying",
+    "on-demand services",
+    "local lifestyle",
+    "China"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8514ad8c-d08f-59d4-ae9c-a1b5cb03efa4"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "eef1b839-9dfe-57e6-a393-d674661cecbb",
+  "public_key_id": "eef1b839-9dfe-57e6-a393-d674661cecbb",
   "name": "Opendoor",
   "what_it_does": "Opendoor buys and sells homes directly through an online platform.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "real estate",
+    "home buying",
+    "home selling",
+    "property valuation",
+    "iBuyer",
+    "residential property",
+    "online real estate",
+    "direct home purchase"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eef1b839-9dfe-57e6-a393-d674661cecbb"
 }

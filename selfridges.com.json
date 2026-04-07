@@ -1,11 +1,21 @@
 {
   "entity_id": "3da7b2b8-69e5-5147-8bb2-37d43604d3b6",
+  "public_key_id": "3da7b2b8-69e5-5147-8bb2-37d43604d3b6",
   "name": "Selfridges",
   "what_it_does": "Selfridges is a high-end department store chain selling luxury goods.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Australia",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "luxury department store",
+    "high-end retail",
+    "designer brands",
+    "luxury goods",
+    "fashion",
+    "cosmetics",
+    "home goods",
+    "fine jewelry"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3da7b2b8-69e5-5147-8bb2-37d43604d3b6"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "b92888da-3024-55ba-b5cd-a28867cf964d",
+  "public_key_id": "b92888da-3024-55ba-b5cd-a28867cf964d",
   "name": "LANDI Online Shop",
   "what_it_does": "LANDI Online Shop provides agricultural supplies, gardening equipment, and household goods online in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "agricultural supplies",
+    "gardening equipment",
+    "household goods",
+    "farm supplies",
+    "online retail",
+    "Swiss online shop",
+    "garden tools",
+    "agricultural products"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b92888da-3024-55ba-b5cd-a28867cf964d"
 }

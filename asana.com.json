@@ -1,11 +1,20 @@
 {
   "entity_id": "a19fc10e-630f-5bb0-bef9-8c88f529098b",
+  "public_key_id": "a19fc10e-630f-5bb0-bef9-8c88f529098b",
   "name": "Asana",
   "what_it_does": "Asana is a work management platform designed to help teams organize, track, and manage their work.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "location": "United States",
+  "keywords": [
+    "work tracking",
+    "project coordination",
+    "task organization",
+    "team collaboration",
+    "workflow",
+    "project management",
+    "team projects"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a19fc10e-630f-5bb0-bef9-8c88f529098b"
 }

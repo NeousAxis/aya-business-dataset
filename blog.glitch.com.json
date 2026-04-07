@@ -1,11 +1,20 @@
 {
   "entity_id": "5e517383-de8c-5955-83c0-ba4f961a59e6",
+  "public_key_id": "5e517383-de8c-5955-83c0-ba4f961a59e6",
   "name": "Glitch Blog",
   "what_it_does": "Glitch Blog publishes articles and updates related to the Glitch web development platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "web development",
+    "Glitch tutorials",
+    "coding articles",
+    "web application development",
+    "developer blog",
+    "software development tips",
+    "coding community"
+  ],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5e517383-de8c-5955-83c0-ba4f961a59e6"
 }

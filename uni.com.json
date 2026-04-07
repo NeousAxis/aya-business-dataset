@@ -1,11 +1,21 @@
 {
   "entity_id": "75432b89-0ca9-511e-be92-0e7c14767846",
+  "public_key_id": "75432b89-0ca9-511e-be92-0e7c14767846",
   "name": "UNI",
   "what_it_does": "UNI is likely an Italian university or educational institution.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Italy",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "Italian university",
+    "higher education institution",
+    "academic programs",
+    "Italian education",
+    "university",
+    "tertiary education",
+    "Italian academics",
+    "degree programs"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/75432b89-0ca9-511e-be92-0e7c14767846"
 }

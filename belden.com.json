@@ -1,11 +1,20 @@
 {
   "entity_id": "e4affca0-01b2-5a1c-a854-e78f0ffa9de5",
+  "public_key_id": "e4affca0-01b2-5a1c-a854-e78f0ffa9de5",
   "name": "Belden",
   "what_it_does": "Belden manufactures and supplies signal transmission solutions, including cable, connectivity, and networking products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "China",
-  "keywords": [],
+  "keywords": [
+    "signal transmission",
+    "cable solutions",
+    "connectivity products",
+    "networking infrastructure",
+    "industrial automation",
+    "broadcast solutions",
+    "data centers"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e4affca0-01b2-5a1c-a854-e78f0ffa9de5"
 }

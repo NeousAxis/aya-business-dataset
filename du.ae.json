@@ -1,11 +1,21 @@
 {
   "entity_id": "cc464b78-660d-5594-8c0d-d91ce850b2fe",
+  "public_key_id": "cc464b78-660d-5594-8c0d-d91ce850b2fe",
   "name": "du",
   "what_it_does": "du provides telecommunications services, including mobile, internet, and television, in the United Arab Emirates.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Arab Emirates",
-  "keywords": [],
+  "keywords": [
+    "telecommunications",
+    "mobile",
+    "internet",
+    "television",
+    "UAE",
+    "mobile data",
+    "fixed line",
+    "pay TV"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cc464b78-660d-5594-8c0d-d91ce850b2fe"
 }

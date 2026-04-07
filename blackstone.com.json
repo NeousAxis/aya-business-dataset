@@ -1,11 +1,20 @@
 {
   "entity_id": "a82ffbe5-4be2-5843-989d-331bb61fbb33",
+  "public_key_id": "a82ffbe5-4be2-5843-989d-331bb61fbb33",
   "name": "Blackstone",
   "what_it_does": "Blackstone is a global investment firm that invests across private equity, real estate, credit, and hedge funds.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "private equity",
+    "real estate investment",
+    "credit investments",
+    "hedge funds",
+    "alternative investments",
+    "global finance",
+    "asset management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a82ffbe5-4be2-5843-989d-331bb61fbb33"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "adc90ae2-395b-5384-890e-bbc176bb327f",
+  "public_key_id": "adc90ae2-395b-5384-890e-bbc176bb327f",
   "name": "STANLEY® Tools",
   "what_it_does": "STANLEY® Tools manufactures and sells hand tools, power tools, and storage solutions.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "hand tools",
+    "power tools",
+    "tool storage",
+    "construction tools",
+    "DIY tools",
+    "carpentry tools",
+    "toolboxes",
+    "workshop equipment"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/adc90ae2-395b-5384-890e-bbc176bb327f"
 }

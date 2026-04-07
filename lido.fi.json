@@ -1,11 +1,21 @@
 {
   "entity_id": "1c3184eb-d117-5a59-b42f-c28045f9b6e6",
+  "public_key_id": "1c3184eb-d117-5a59-b42f-c28045f9b6e6",
   "name": "Lido Liquid Staking",
   "what_it_does": "Lido Liquid Staking is a platform providing liquid staking solutions for various blockchain networks.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Finland",
-  "keywords": [],
+  "location": "Cayman Islands",
+  "keywords": [
+    "liquid staking",
+    "DeFi",
+    "blockchain networks",
+    "cryptocurrency staking",
+    "decentralized finance",
+    "ETH staking",
+    "staking derivatives",
+    "Web3"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1c3184eb-d117-5a59-b42f-c28045f9b6e6"
 }

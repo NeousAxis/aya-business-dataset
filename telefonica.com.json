@@ -1,11 +1,20 @@
 {
   "entity_id": "e868b662-331b-5164-9d71-114f157795cf",
+  "public_key_id": "e868b662-331b-5164-9d71-114f157795cf",
   "name": "Telefónica",
   "what_it_does": "Telefónica is a multinational telecommunications company providing mobile and fixed-line services.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 54.0,
+  "keywords": [
+    "telecommunications",
+    "mobile phone services",
+    "fixed-line services",
+    "internet connectivity",
+    "broadband services",
+    "global telecom",
+    "phone plans"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e868b662-331b-5164-9d71-114f157795cf"
 }

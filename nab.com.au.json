@@ -1,11 +1,20 @@
 {
   "entity_id": "294c80fb-4df4-5a5f-9215-9aea8c10e76b",
+  "public_key_id": "294c80fb-4df4-5a5f-9215-9aea8c10e76b",
   "name": "NAB",
   "what_it_does": "NAB provides banking and financial services in Australia.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Australia",
-  "keywords": [],
-  "aio_score": 78.0,
+  "keywords": [
+    "Australian banking",
+    "retail banking",
+    "commercial lending",
+    "financial services Australia",
+    "personal loans",
+    "mortgages Australia",
+    "wealth management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/294c80fb-4df4-5a5f-9215-9aea8c10e76b"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "d17acff1-7bd1-54b8-b6b4-c027c402a006",
+  "public_key_id": "d17acff1-7bd1-54b8-b6b4-c027c402a006",
   "name": "Bose",
   "what_it_does": "Bose.com manufactures and sells audio equipment, including headphones and speakers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Canada",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "audio equipment",
+    "headphones",
+    "speakers",
+    "home audio",
+    "noise cancelling",
+    "portable audio",
+    "sound systems",
+    "bose audio"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d17acff1-7bd1-54b8-b6b4-c027c402a006"
 }

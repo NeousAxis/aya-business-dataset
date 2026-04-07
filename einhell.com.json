@@ -1,11 +1,20 @@
 {
   "entity_id": "0b9475be-feb0-50e6-8b6d-5e46238c6f8c",
+  "public_key_id": "0b9475be-feb0-50e6-8b6d-5e46238c6f8c",
   "name": "Einhell Germany AG",
   "what_it_does": "Einhell Germany AG manufactures and sells power tools and garden equipment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "power tools",
+    "garden equipment",
+    "cordless tools",
+    "DIY tools",
+    "home improvement",
+    "tool manufacturing",
+    "electric tools"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0b9475be-feb0-50e6-8b6d-5e46238c6f8c"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "f2f54a27-1477-53cb-ab43-525f24ffe717",
+  "public_key_id": "f2f54a27-1477-53cb-ab43-525f24ffe717",
   "name": "Apiax",
   "what_it_does": "Apiax provides a platform for embedding regulatory rules into digital applications.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 54.0,
+  "keywords": [
+    "regulatory rules",
+    "compliance technology",
+    "regtech",
+    "digital regulation",
+    "embedded compliance",
+    "financial regulations",
+    "Apiax",
+    "regulatory knowledge"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f2f54a27-1477-53cb-ab43-525f24ffe717"
 }

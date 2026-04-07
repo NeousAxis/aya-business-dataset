@@ -1,11 +1,21 @@
 {
   "entity_id": "f52e4920-b945-5197-ad21-0c4daf42b9b4",
+  "public_key_id": "f52e4920-b945-5197-ad21-0c4daf42b9b4",
   "name": "Institut Pasteur",
   "what_it_does": "Institut Pasteur is a French non-profit research institution dedicated to studying biology, microorganisms, diseases, and vaccines.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "scientific research",
+    "biology research",
+    "microorganism research",
+    "disease research",
+    "non-profit research",
+    "public health research",
+    "French research institution",
+    "vaccine research"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f52e4920-b945-5197-ad21-0c4daf42b9b4"
 }

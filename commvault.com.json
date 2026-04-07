@@ -1,11 +1,21 @@
 {
   "entity_id": "c40463d5-50d1-5356-9306-5495ee07a2d6",
+  "public_key_id": "c40463d5-50d1-5356-9306-5495ee07a2d6",
   "name": "Commvault",
   "what_it_does": "Commvault develops data management software for backup and recovery, cloud and infrastructure management, and data governance.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "data management",
+    "backup and recovery",
+    "cloud data",
+    "infrastructure data",
+    "data governance",
+    "information protection",
+    "data security",
+    "data archiving"
+  ],
+  "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c40463d5-50d1-5356-9306-5495ee07a2d6"
 }

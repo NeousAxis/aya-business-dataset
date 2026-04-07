@@ -1,11 +1,21 @@
 {
   "entity_id": "608ec5de-f7f9-5e15-a3fc-61d0946f9106",
+  "public_key_id": "608ec5de-f7f9-5e15-a3fc-61d0946f9106",
   "name": "Realestate",
   "what_it_does": "Realestate.com.au is an Australian online real estate portal listing properties for sale and rent.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Australia",
-  "keywords": [],
+  "keywords": [
+    "Australian real estate",
+    "property listings",
+    "real estate portal",
+    "houses for sale",
+    "rental properties",
+    "property search",
+    "residential real estate",
+    "commercial real estate"
+  ],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/608ec5de-f7f9-5e15-a3fc-61d0946f9106"
 }

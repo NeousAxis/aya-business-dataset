@@ -1,11 +1,21 @@
 {
   "entity_id": "b228ceae-ccae-5cef-a135-d7af2dfa1570",
+  "public_key_id": "b228ceae-ccae-5cef-a135-d7af2dfa1570",
   "name": "Braintrust",
   "what_it_does": "Braintrust is a decentralized talent network connecting freelance technical talent with companies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "freelance talent",
+    "technical talent",
+    "decentralized network",
+    "staffing",
+    "blockchain jobs",
+    "web3 jobs",
+    "software developers",
+    "remote work"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b228ceae-ccae-5cef-a135-d7af2dfa1570"
 }

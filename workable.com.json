@@ -1,11 +1,20 @@
 {
   "entity_id": "5103fd46-6ac8-569a-84c0-410f5cbd160b",
+  "public_key_id": "5103fd46-6ac8-569a-84c0-410f5cbd160b",
   "name": "Workable",
   "what_it_does": "Workable offers an applicant tracking system (ATS) for recruiting and hiring.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "applicant tracking",
+    "ats recruitment",
+    "hr software",
+    "recruiting software",
+    "talent acquisition",
+    "candidate tracking",
+    "employee hiring"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5103fd46-6ac8-569a-84c0-410f5cbd160b"
 }

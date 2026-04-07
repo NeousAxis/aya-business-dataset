@@ -1,11 +1,21 @@
 {
   "entity_id": "8744a867-5e7e-50e1-a657-428468a40e97",
+  "public_key_id": "8744a867-5e7e-50e1-a657-428468a40e97",
   "name": "Adnovum",
   "what_it_does": "Adnovum provides software engineering services and develops IT solutions for various industries.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Singapore",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "custom software development",
+    "IT solutions",
+    "software engineering",
+    "application development",
+    "digital transformation",
+    "enterprise software",
+    "bespoke software",
+    "agile development"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8744a867-5e7e-50e1-a657-428468a40e97"
 }

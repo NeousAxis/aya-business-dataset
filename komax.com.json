@@ -1,11 +1,21 @@
 {
   "entity_id": "9ba3db6f-7415-5da9-b7b7-7a3d5f667b2c",
+  "public_key_id": "9ba3db6f-7415-5da9-b7b7-7a3d5f667b2c",
   "name": "Komax Systems",
   "what_it_does": "Komax Systems designs and manufactures static mixing and thermal dispersing equipment for industrial applications.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "static mixers",
+    "thermal dispersers",
+    "industrial mixing",
+    "process equipment",
+    "chemical processing",
+    "fluid mixing",
+    "heat transfer",
+    "mixing equipment"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9ba3db6f-7415-5da9-b7b7-7a3d5f667b2c"
 }

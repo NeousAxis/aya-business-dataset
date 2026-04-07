@@ -1,11 +1,21 @@
 {
   "entity_id": "14388d91-b770-59a5-a0ba-82df9048b98d",
+  "public_key_id": "14388d91-b770-59a5-a0ba-82df9048b98d",
   "name": "Wyndham Hotels & Resorts",
   "what_it_does": "Wyndham Hotels & Resorts is a hotel franchisor.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 73.0,
+  "keywords": [
+    "hotel franchising",
+    "hotel management",
+    "lodging industry",
+    "hotel brands",
+    "hotel properties",
+    "global hotels",
+    "hotel development",
+    "hotel chains"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/14388d91-b770-59a5-a0ba-82df9048b98d"
 }

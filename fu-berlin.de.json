@@ -1,11 +1,21 @@
 {
   "entity_id": "cbbab6b4-a9b1-5090-b815-2f4af085005b",
+  "public_key_id": "cbbab6b4-a9b1-5090-b815-2f4af085005b",
   "name": "Freie Universität Berlin",
   "what_it_does": "Freie Universität Berlin is a public university offering a wide range of academic programs.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "university",
+    "higher education",
+    "academic programs",
+    "research university",
+    "Berlin university",
+    "German university",
+    "undergraduate studies",
+    "graduate studies"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cbbab6b4-a9b1-5090-b815-2f4af085005b"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "cd648f4b-f5c1-5246-bdca-0b36722c70ae",
+  "public_key_id": "cd648f4b-f5c1-5246-bdca-0b36722c70ae",
   "name": "Amphion",
   "what_it_does": "Amphion manufactures high-end home and professional audio loudspeakers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Finland",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "high-end loudspeakers",
+    "audio monitors",
+    "professional audio",
+    "home audio",
+    "studio monitors",
+    "loudspeaker design",
+    "audio equipment",
+    "acoustic design"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cd648f4b-f5c1-5246-bdca-0b36722c70ae"
 }

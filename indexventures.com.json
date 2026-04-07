@@ -1,11 +1,21 @@
 {
   "entity_id": "66014c66-0f00-5d84-ad49-2518bd101467",
+  "public_key_id": "66014c66-0f00-5d84-ad49-2518bd101467",
   "name": "Index Ventures",
   "what_it_does": "Index Ventures is a venture capital firm that invests in technology companies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "venture capital",
+    "technology investments",
+    "startup funding",
+    "early-stage investments",
+    "growth equity",
+    "investment firm",
+    "tech startups",
+    "private equity"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/66014c66-0f00-5d84-ad49-2518bd101467"
 }

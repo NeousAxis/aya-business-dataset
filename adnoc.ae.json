@@ -1,11 +1,20 @@
 {
   "entity_id": "b7976934-0600-51a0-b57b-04a96d5b9846",
+  "public_key_id": "b7976934-0600-51a0-b57b-04a96d5b9846",
   "name": "ADNOC",
   "what_it_does": "ADNOC is a state-owned oil company in the United Arab Emirates involved in exploration, production, and refining.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Arab Emirates",
-  "keywords": [],
+  "keywords": [
+    "oil exploration",
+    "oil production",
+    "oil refining",
+    "petrochemicals",
+    "natural gas",
+    "UAE energy",
+    "Middle East oil"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b7976934-0600-51a0-b57b-04a96d5b9846"
 }

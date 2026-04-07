@@ -1,11 +1,21 @@
 {
   "entity_id": "bdaec60f-335c-51e5-9a69-c159c6bbc3cd",
+  "public_key_id": "bdaec60f-335c-51e5-9a69-c159c6bbc3cd",
   "name": "InPost dla Ciebie",
   "what_it_does": "InPost provides parcel locker delivery services, allowing customers to send and receive packages 24/7.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Poland",
-  "keywords": [],
+  "keywords": [
+    "parcel lockers",
+    "automated parcel delivery",
+    "package delivery",
+    "last mile delivery",
+    "self-service parcel",
+    "24/7 delivery",
+    "parcel collection",
+    "Poland delivery"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bdaec60f-335c-51e5-9a69-c159c6bbc3cd"
 }

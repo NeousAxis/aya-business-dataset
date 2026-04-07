@@ -1,11 +1,21 @@
 {
   "entity_id": "4f7747e8-8a14-5461-8782-0ef2ceaa97b3",
+  "public_key_id": "4f7747e8-8a14-5461-8782-0ef2ceaa97b3",
   "name": "Remote",
   "what_it_does": "Remote provides a platform for managing international payroll, benefits, and compliance for distributed teams.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "international payroll",
+    "global benefits",
+    "compliance",
+    "distributed teams",
+    "HR",
+    "global employment",
+    "cross-border HR",
+    "global workforce"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4f7747e8-8a14-5461-8782-0ef2ceaa97b3"
 }

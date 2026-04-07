@@ -1,11 +1,20 @@
 {
   "entity_id": "098259b4-7556-51e4-ba89-c4e3aa15c408",
+  "public_key_id": "098259b4-7556-51e4-ba89-c4e3aa15c408",
   "name": "News24",
   "what_it_does": "News24 is a South African news website providing current events coverage.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 43.0,
+  "keywords": [
+    "news website",
+    "South Africa news",
+    "current events",
+    "breaking news",
+    "news media",
+    "political news",
+    "local news"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/098259b4-7556-51e4-ba89-c4e3aa15c408"
 }

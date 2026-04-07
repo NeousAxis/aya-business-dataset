@@ -1,11 +1,21 @@
 {
   "entity_id": "c505fd59-d15c-5cf9-82cd-fdf449ea722a",
-  "name": "Immersive conversational AI",
+  "public_key_id": "c505fd59-d15c-5cf9-82cd-fdf449ea722a",
+  "name": "Charisma",
   "what_it_does": "Charisma.ai offers a platform for creating interactive narratives using AI.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "interactive narratives",
+    "AI storytelling",
+    "AI-driven conversations",
+    "character AI",
+    "virtual experiences",
+    "AI story creation",
+    "immersive stories",
+    "AI characters"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c505fd59-d15c-5cf9-82cd-fdf449ea722a"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "3590104e-c1f6-5c8a-9d44-df5cab7c45b6",
+  "public_key_id": "3590104e-c1f6-5c8a-9d44-df5cab7c45b6",
   "name": "Protonvpn",
   "what_it_does": "Protonvpn offers virtual private network services to protect users' online privacy and security.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Spain",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "virtual private network",
+    "VPN encryption",
+    "internet privacy",
+    "data security",
+    "anonymous browsing",
+    "secure internet access",
+    "VPN services",
+    "online security"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3590104e-c1f6-5c8a-9d44-df5cab7c45b6"
 }

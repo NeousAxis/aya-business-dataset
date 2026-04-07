@@ -1,11 +1,20 @@
 {
   "entity_id": "b9a11be2-4ad6-5ab5-a011-e3cc9a807ff6",
+  "public_key_id": "b9a11be2-4ad6-5ab5-a011-e3cc9a807ff6",
   "name": "Global B2B Gifting & Swag Platform",
   "what_it_does": "Reachdesk provides a platform for managing and automating corporate gifting and swag programs.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "corporate gifts",
+    "swag management",
+    "B2B gifting",
+    "promotional merchandise",
+    "employee rewards",
+    "customer appreciation",
+    "gifting automation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b9a11be2-4ad6-5ab5-a011-e3cc9a807ff6"
 }

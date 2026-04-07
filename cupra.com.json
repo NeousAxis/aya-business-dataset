@@ -1,11 +1,21 @@
 {
   "entity_id": "3802c090-4c14-5128-9821-6977bc8bb264",
+  "public_key_id": "3802c090-4c14-5128-9821-6977bc8bb264",
   "name": "CUPRA",
   "what_it_does": "CUPRA is a car manufacturer that produces performance-oriented vehicles.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "car manufacturer",
+    "performance vehicles",
+    "automotive",
+    "sports cars",
+    "electric vehicles",
+    "high-performance cars",
+    "automotive engineering",
+    "vehicle design"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3802c090-4c14-5128-9821-6977bc8bb264"
 }

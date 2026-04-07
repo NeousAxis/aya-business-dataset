@@ -1,11 +1,21 @@
 {
   "entity_id": "510fd349-6eeb-5ef1-aa30-2695e09e7e05",
+  "public_key_id": "510fd349-6eeb-5ef1-aa30-2695e09e7e05",
   "name": "Sites-FILA-Site",
   "what_it_does": "Fila manufactures and sells athletic apparel and footwear.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "athletic apparel",
+    "sports footwear",
+    "activewear",
+    "Fila",
+    "sneakers",
+    "sportswear",
+    "athletic clothing",
+    "performance wear"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/510fd349-6eeb-5ef1-aa30-2695e09e7e05"
 }

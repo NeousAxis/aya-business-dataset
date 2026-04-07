@@ -1,11 +1,20 @@
 {
   "entity_id": "44398005-3d42-5160-a074-176b13fb6b84",
+  "public_key_id": "44398005-3d42-5160-a074-176b13fb6b84",
   "name": "TCL",
   "what_it_does": "TCL manufactures and sells consumer electronics, including televisions, mobile phones, and home appliances.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "EG",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "consumer electronics",
+    "televisions",
+    "mobile phones",
+    "home appliances",
+    "TV manufacturing",
+    "smartphone devices",
+    "electronic devices"
+  ],
+  "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/44398005-3d42-5160-a074-176b13fb6b84"
 }

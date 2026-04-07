@@ -1,11 +1,20 @@
 {
   "entity_id": "b42b91ce-7e64-5d80-98a8-a2feea8127af",
+  "public_key_id": "b42b91ce-7e64-5d80-98a8-a2feea8127af",
   "name": "GEA",
   "what_it_does": "GEA Group provides equipment and process technology for the food, beverage, and pharmaceutical industries.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "food processing equipment",
+    "beverage equipment",
+    "pharmaceutical equipment",
+    "process engineering",
+    "dairy processing",
+    "liquid processing",
+    "aseptic packaging"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b42b91ce-7e64-5d80-98a8-a2feea8127af"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "73d2fcbd-56a2-5353-b2ac-4e7b61173949",
+  "public_key_id": "73d2fcbd-56a2-5353-b2ac-4e7b61173949",
   "name": "National Geographic",
   "what_it_does": "National Geographic publishes a magazine and related media focused on geography, science, history, and culture.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "geography magazine",
+    "science publications",
+    "history content",
+    "cultural media",
+    "educational resources",
+    "photography",
+    "documentary films",
+    "maps"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/73d2fcbd-56a2-5353-b2ac-4e7b61173949"
 }

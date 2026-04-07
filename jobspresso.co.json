@@ -1,11 +1,21 @@
 {
   "entity_id": "cc663060-4c91-582f-afb8-348eeae2473e",
+  "public_key_id": "cc663060-4c91-582f-afb8-348eeae2473e",
   "name": "Jobspresso",
   "what_it_does": "Jobspresso is a job board specializing in remote positions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "remote jobs",
+    "telecommuting",
+    "distributed teams",
+    "location independent",
+    "job board",
+    "work from home",
+    "remote careers",
+    "flexible jobs"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cc663060-4c91-582f-afb8-348eeae2473e"
 }

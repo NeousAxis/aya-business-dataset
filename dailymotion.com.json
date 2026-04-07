@@ -1,11 +1,20 @@
 {
   "entity_id": "980dc16b-dfdf-56e2-992c-b983ebe69310",
+  "public_key_id": "980dc16b-dfdf-56e2-992c-b983ebe69310",
   "name": "Dailymotion",
   "what_it_does": "Dailymotion is a video-sharing platform where users can upload, watch, and share videos.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "video sharing",
+    "video hosting",
+    "content distribution",
+    "video platform",
+    "user-generated content",
+    "video streaming",
+    "monetization platform"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/980dc16b-dfdf-56e2-992c-b983ebe69310"
 }

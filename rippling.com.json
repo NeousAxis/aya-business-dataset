@@ -1,5 +1,6 @@
 {
   "entity_id": "31585c53-6035-5d26-ab21-601e63a39d2e",
+  "public_key_id": "31585c53-6035-5d26-ab21-601e63a39d2e",
   "name": "Rippling",
   "what_it_does": "Rippling provides a unified platform for managing HR, IT, and finance processes for businesses.",
   "for_who": "Businesses and developers.",
@@ -15,6 +16,6 @@
     "human capital",
     "HR data"
   ],
-  "aio_score": 79.0,
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/31585c53-6035-5d26-ab21-601e63a39d2e"
 }

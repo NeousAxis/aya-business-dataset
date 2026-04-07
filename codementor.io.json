@@ -1,11 +1,19 @@
 {
   "entity_id": "66ef8357-c638-5f85-bb44-be9f0ef4bb75",
+  "public_key_id": "66ef8357-c638-5f85-bb44-be9f0ef4bb75",
   "name": "Codementor",
   "what_it_does": "Codementor provides a platform for developers to find mentors and learn programming skills.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "developer mentoring",
+    "programming mentors",
+    "code tutoring",
+    "programming education",
+    "developer coaching",
+    "software development help"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/66ef8357-c638-5f85-bb44-be9f0ef4bb75"
 }

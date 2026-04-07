@@ -1,11 +1,21 @@
 {
   "entity_id": "33c6d5fe-2ca1-500a-b87c-94edb64d69cd",
+  "public_key_id": "33c6d5fe-2ca1-500a-b87c-94edb64d69cd",
   "name": "Telkom Indonesia",
   "what_it_does": "Telkom Indonesia provides telecommunications, information, media, edutainment and network services in Indonesia.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "telecommunication services",
+    "information services",
+    "media services",
+    "edutainment services",
+    "network connectivity",
+    "Indonesian telecom",
+    "digital infrastructure",
+    "ICT solutions"
+  ],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/33c6d5fe-2ca1-500a-b87c-94edb64d69cd"
 }

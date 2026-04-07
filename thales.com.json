@@ -1,11 +1,21 @@
 {
   "entity_id": "6a4683dd-b7a2-57e1-bc1d-46231aafbb97",
+  "public_key_id": "6a4683dd-b7a2-57e1-bc1d-46231aafbb97",
   "name": "Thalēs",
   "what_it_does": "Thales provides consulting and professional services, possibly related to technology or engineering.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "professional services",
+    "engineering consulting",
+    "technical expertise",
+    "advisory services",
+    "technical consulting",
+    "technology consulting",
+    "business transformation",
+    "project management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6a4683dd-b7a2-57e1-bc1d-46231aafbb97"
 }

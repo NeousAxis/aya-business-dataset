@@ -1,11 +1,21 @@
 {
   "entity_id": "741d1df9-c84a-5070-8559-a2391bbeed89",
+  "public_key_id": "741d1df9-c84a-5070-8559-a2391bbeed89",
   "name": "Startseite Canton Lautsprecher",
   "what_it_does": "Canton Lautsprecher manufactures loudspeakers.",
   "for_who": "Businesses and professionals.",
   "category": "Administration & Public",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "loudspeakers",
+    "speaker systems",
+    "audio equipment",
+    "home audio",
+    "stereo speakers",
+    "sound systems",
+    "hi-fi speakers",
+    "audio technology"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/741d1df9-c84a-5070-8559-a2391bbeed89"
 }

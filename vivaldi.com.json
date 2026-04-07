@@ -1,11 +1,21 @@
 {
   "entity_id": "6f95ab90-6a63-519a-8abb-5432e0fc5a4f",
+  "public_key_id": "6f95ab90-6a63-519a-8abb-5432e0fc5a4f",
   "name": "Vivaldi Browser",
   "what_it_does": "Vivaldi Browser offers a customizable web browser with advanced features and user interface options.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Brazil",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "web browser",
+    "customizable browser",
+    "internet browsing",
+    "browser software",
+    "tab management",
+    "user interface",
+    "browser extensions",
+    "Vivaldi features"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6f95ab90-6a63-519a-8abb-5432e0fc5a4f"
 }

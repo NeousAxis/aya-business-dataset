@@ -1,11 +1,20 @@
 {
   "entity_id": "82fa686d-88b0-577c-898c-c0bcd82ce39f",
+  "public_key_id": "82fa686d-88b0-577c-898c-c0bcd82ce39f",
   "name": "Tencent 腾讯",
   "what_it_does": "Tencent is a Chinese multinational technology conglomerate involved in social media, online gaming, and other internet-related services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "China",
-  "keywords": [],
-  "aio_score": 31.0,
+  "keywords": [
+    "social media",
+    "online gaming",
+    "internet services",
+    "Chinese internet",
+    "mobile games",
+    "social networking",
+    "digital entertainment"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/82fa686d-88b0-577c-898c-c0bcd82ce39f"
 }

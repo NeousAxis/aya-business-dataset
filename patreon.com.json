@@ -1,11 +1,21 @@
 {
   "entity_id": "49397b29-4a38-5da2-af19-b395b741f157",
+  "public_key_id": "49397b29-4a38-5da2-af19-b395b741f157",
   "name": "Patreon",
   "what_it_does": "Patreon is a platform that allows creators to receive funding directly from their fans through subscriptions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "creator funding",
+    "subscription platform",
+    "fan subscriptions",
+    "content creators",
+    "crowdfunding",
+    "membership platform",
+    "artist funding",
+    "creative community"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/49397b29-4a38-5da2-af19-b395b741f157"
 }

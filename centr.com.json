@@ -1,11 +1,21 @@
 {
   "entity_id": "3e2bc5e2-9ea3-561a-9175-13e4e941e7fe",
+  "public_key_id": "3e2bc5e2-9ea3-561a-9175-13e4e941e7fe",
   "name": "Centr",
   "what_it_does": "Centr offers a digital fitness and wellness platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "fitness programs",
+    "wellness content",
+    "exercise videos",
+    "nutrition plans",
+    "digital fitness",
+    "wellness coaching",
+    "workout routines",
+    "health resources"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3e2bc5e2-9ea3-561a-9175-13e4e941e7fe"
 }

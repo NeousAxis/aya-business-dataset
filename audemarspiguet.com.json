@@ -1,11 +1,21 @@
 {
   "entity_id": "bef751ca-500c-59bf-a2ed-8e3a87598ae4",
+  "public_key_id": "bef751ca-500c-59bf-a2ed-8e3a87598ae4",
   "name": "Audemars Piguet",
   "what_it_does": "Audemars Piguet designs, manufactures, and sells luxury watches.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "luxury watches",
+    "haute horlogerie",
+    "Swiss watches",
+    "mechanical watches",
+    "watchmaking",
+    "fine watches",
+    "luxury timepieces",
+    "prestige watches"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bef751ca-500c-59bf-a2ed-8e3a87598ae4"
 }

@@ -1,11 +1,19 @@
 {
   "entity_id": "bb4b3993-4b52-5c37-b081-39004a1b1049",
+  "public_key_id": "bb4b3993-4b52-5c37-b081-39004a1b1049",
   "name": "Copper",
   "what_it_does": "Copper provides custody and trading infrastructure for digital assets for institutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "digital asset custody",
+    "cryptocurrency custody",
+    "institutional trading",
+    "crypto trading infrastructure",
+    "digital asset trading",
+    "custody solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bb4b3993-4b52-5c37-b081-39004a1b1049"
 }

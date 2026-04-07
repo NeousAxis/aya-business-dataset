@@ -1,11 +1,21 @@
 {
   "entity_id": "eedcbcfd-c6fb-51b4-a821-2d65892ce44c",
+  "public_key_id": "eedcbcfd-c6fb-51b4-a821-2d65892ce44c",
   "name": "Yousign",
   "what_it_does": "Yousign provides electronic signature solutions for businesses to streamline document workflows.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "electronic signatures",
+    "digital signatures",
+    "document workflow",
+    "contract management",
+    "signature automation",
+    "paperless solutions",
+    "esignature software",
+    "remote signatures"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eedcbcfd-c6fb-51b4-a821-2d65892ce44c"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "8899beb9-a670-5b36-b29f-e28a48f4af61",
+  "public_key_id": "8899beb9-a670-5b36-b29f-e28a48f4af61",
   "name": "MoonPay",
   "what_it_does": "MoonPay provides a platform for buying and selling cryptocurrencies using fiat currencies.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Australia",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "cryptocurrency purchases",
+    "fiat-to-crypto",
+    "crypto on-ramp",
+    "digital currency",
+    "crypto payments",
+    "crypto sales",
+    "blockchain assets",
+    "digital assets"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8899beb9-a670-5b36-b29f-e28a48f4af61"
 }

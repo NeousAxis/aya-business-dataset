@@ -1,11 +1,21 @@
 {
   "entity_id": "3b3e90a5-2f04-55c8-b0e5-a04b30d6c0ad",
+  "public_key_id": "3b3e90a5-2f04-55c8-b0e5-a04b30d6c0ad",
   "name": "Codingame",
   "what_it_does": "Codingame is a platform providing coding games and challenges for software developers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Coding games",
+    "Programming challenges",
+    "Software developer skills",
+    "Recruitment platform",
+    "Developer assessment",
+    "Coding competitions",
+    "Technical hiring",
+    "Gamified coding"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b3e90a5-2f04-55c8-b0e5-a04b30d6c0ad"
 }

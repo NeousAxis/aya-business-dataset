@@ -1,11 +1,21 @@
 {
   "entity_id": "3a1e1e85-6402-57bc-91d7-3610069bb730",
+  "public_key_id": "3a1e1e85-6402-57bc-91d7-3610069bb730",
   "name": "PKO Bank Polski",
   "what_it_does": "PKO Bank Polski is a Polish bank offering a range of financial services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Poland",
-  "keywords": [],
+  "keywords": [
+    "polish banking",
+    "retail banking",
+    "commercial banking",
+    "financial institution",
+    "loan products",
+    "deposit accounts",
+    "investment products",
+    "mortgages"
+  ],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3a1e1e85-6402-57bc-91d7-3610069bb730"
 }

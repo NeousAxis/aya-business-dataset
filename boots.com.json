@@ -1,11 +1,21 @@
 {
   "entity_id": "d5a57003-1c9b-535b-958f-b77a47a6463c",
+  "public_key_id": "d5a57003-1c9b-535b-958f-b77a47a6463c",
   "name": "Boots",
   "what_it_does": "Boots is a pharmacy chain selling health, beauty, and pharmaceutical products.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "pharmacy products",
+    "beauty products",
+    "healthcare products",
+    "prescription drugs",
+    "over-the-counter medicine",
+    "cosmetics",
+    "health advice",
+    "UK pharmacy"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d5a57003-1c9b-535b-958f-b77a47a6463c"
 }

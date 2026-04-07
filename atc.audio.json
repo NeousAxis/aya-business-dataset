@@ -1,11 +1,21 @@
 {
   "entity_id": "70e68d75-a050-5164-9648-f5f3ad497e0c",
+  "public_key_id": "70e68d75-a050-5164-9648-f5f3ad497e0c",
   "name": "ATC Loudspeakers",
   "what_it_does": "ATC Loudspeakers manufactures high-end professional and consumer loudspeakers and audio components.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "loudspeakers",
+    "audio components",
+    "high-end audio",
+    "professional audio",
+    "consumer audio",
+    "studio monitors",
+    "sound reproduction",
+    "speaker systems"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/70e68d75-a050-5164-9648-f5f3ad497e0c"
 }

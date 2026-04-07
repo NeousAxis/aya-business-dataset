@@ -1,11 +1,21 @@
 {
   "entity_id": "963d1394-9835-5522-998d-3ae4fa375fee",
+  "public_key_id": "963d1394-9835-5522-998d-3ae4fa375fee",
   "name": "Strymon Effects Pedals",
   "what_it_does": "Strymon Effects Pedals manufactures high-end guitar and studio effects pedals.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "guitar effects",
+    "studio effects",
+    "audio pedals",
+    "high-end effects",
+    "musical instruments",
+    "boutique pedals",
+    "guitar gear",
+    "sound design"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/963d1394-9835-5522-998d-3ae4fa375fee"
 }

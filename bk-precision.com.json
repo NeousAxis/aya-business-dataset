@@ -1,11 +1,21 @@
 {
   "entity_id": "59de04d9-7269-59e6-8449-334e00f23193",
+  "public_key_id": "59de04d9-7269-59e6-8449-334e00f23193",
   "name": "BK Precision",
   "what_it_does": "BK Precision manufactures and distributes electronic test and measurement instruments.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "electronic test equipment",
+    "oscilloscopes",
+    "power supplies",
+    "signal generators",
+    "spectrum analyzers",
+    "testing equipment",
+    "instrumentation",
+    "electronics"
+  ],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/59de04d9-7269-59e6-8449-334e00f23193"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "3b477d85-13dd-5795-9795-b184e7543400",
+  "public_key_id": "3b477d85-13dd-5795-9795-b184e7543400",
   "name": "ProtoPie",
   "what_it_does": "ProtoPie is a prototyping tool for creating interactive mobile, web, and desktop prototypes.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "UI prototyping",
+    "UX prototyping",
+    "interactive prototypes",
+    "mobile prototypes",
+    "web prototypes",
+    "desktop prototypes",
+    "design tools",
+    "prototype software"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b477d85-13dd-5795-9795-b184e7543400"
 }

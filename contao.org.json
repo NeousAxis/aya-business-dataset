@@ -1,11 +1,21 @@
 {
   "entity_id": "164bc448-238e-5c69-80e8-8294f03a4125",
+  "public_key_id": "164bc448-238e-5c69-80e8-8294f03a4125",
   "name": "Contao Open Source CMS",
   "what_it_does": "Contao Open Source CMS is a free and open-source content management system.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "open-source CMS",
+    "content management",
+    "website development",
+    "free CMS",
+    "web design",
+    "website builder",
+    "PHP CMS",
+    "Contao CMS"
+  ],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/164bc448-238e-5c69-80e8-8294f03a4125"
 }

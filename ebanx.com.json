@@ -1,11 +1,20 @@
 {
   "entity_id": "e6083342-75e4-5793-bba6-609a9f5a4051",
+  "public_key_id": "e6083342-75e4-5793-bba6-609a9f5a4051",
   "name": "EBANX",
   "what_it_does": "EBANX provides payment processing solutions for international companies operating in Latin America.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Brazil",
-  "keywords": [],
+  "keywords": [
+    "Latin America payments",
+    "cross-border payments",
+    "payment processing",
+    "international payments",
+    "emerging markets payments",
+    "alternative payment methods",
+    "LATAM e-commerce"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e6083342-75e4-5793-bba6-609a9f5a4051"
 }

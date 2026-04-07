@@ -1,11 +1,20 @@
 {
   "entity_id": "7485cdff-f55d-5139-bdeb-7f78a4ee4f00",
+  "public_key_id": "7485cdff-f55d-5139-bdeb-7f78a4ee4f00",
   "name": "スマートニュース（SmartNews）",
   "what_it_does": "SmartNews operates a news aggregation and delivery mobile application.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "news aggregation",
+    "mobile news",
+    "news delivery",
+    "news app",
+    "current events",
+    "Japanese news",
+    "personalized news"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7485cdff-f55d-5139-bdeb-7f78a4ee4f00"
 }

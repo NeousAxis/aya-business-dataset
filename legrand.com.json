@@ -1,11 +1,21 @@
 {
   "entity_id": "13ef69c8-0762-526b-891a-c80921ab64c3",
+  "public_key_id": "13ef69c8-0762-526b-891a-c80921ab64c3",
   "name": "Legrand",
   "what_it_does": "Legrand manufactures electrical and digital building infrastructures.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 54.0,
+  "keywords": [
+    "electrical infrastructure",
+    "digital infrastructure",
+    "building systems",
+    "power distribution",
+    "cable management",
+    "wiring devices",
+    "lighting control",
+    "energy efficiency"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/13ef69c8-0762-526b-891a-c80921ab64c3"
 }

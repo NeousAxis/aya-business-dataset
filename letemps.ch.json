@@ -1,11 +1,20 @@
 {
   "entity_id": "776d74f1-3506-5668-b569-bc70063dcc0f",
+  "public_key_id": "776d74f1-3506-5668-b569-bc70063dcc0f",
   "name": "Le Temps",
   "what_it_does": "Le Temps is a French-language Swiss daily newspaper.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "Swiss newspaper",
+    "French-language news",
+    "daily press",
+    "Switzerland news",
+    "business news",
+    "political analysis",
+    "news publishing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/776d74f1-3506-5668-b569-bc70063dcc0f"
 }

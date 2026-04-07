@@ -1,11 +1,21 @@
 {
   "entity_id": "d9a0950f-a092-5b86-8c10-4b15d387d39f",
+  "public_key_id": "d9a0950f-a092-5b86-8c10-4b15d387d39f",
   "name": "Ottobock",
   "what_it_does": "Ottobock develops and manufactures prosthetics, orthotics, and wheelchairs.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "prosthetics",
+    "orthotics",
+    "wheelchairs",
+    "medical devices",
+    "assistive technology",
+    "mobility solutions",
+    "Ottobock products",
+    "rehabilitation technology"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d9a0950f-a092-5b86-8c10-4b15d387d39f"
 }

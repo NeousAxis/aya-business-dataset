@@ -1,11 +1,21 @@
 {
   "entity_id": "ecfe7ce0-215b-5fa8-bb17-2972ea861789",
+  "public_key_id": "ecfe7ce0-215b-5fa8-bb17-2972ea861789",
   "name": "Klaviyo",
   "what_it_does": "Klaviyo offers an email and SMS marketing automation platform for e-commerce businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 69.0,
+  "keywords": [
+    "email marketing automation",
+    "SMS marketing",
+    "e-commerce marketing",
+    "marketing platform",
+    "customer relationship marketing",
+    "Klaviyo",
+    "email campaigns",
+    "marketing analytics"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ecfe7ce0-215b-5fa8-bb17-2972ea861789"
 }

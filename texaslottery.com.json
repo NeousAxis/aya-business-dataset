@@ -1,11 +1,21 @@
 {
   "entity_id": "897e4a3a-8eb2-5c22-b32d-e28f28692165",
+  "public_key_id": "897e4a3a-8eb2-5c22-b32d-e28f28692165",
   "name": "Texas Lottery",
   "what_it_does": "Texas Lottery operates the state-run lottery games for the state of Texas.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Texas Lottery games",
+    "state lottery",
+    "lotto tickets",
+    "scratch-off tickets",
+    "drawing games",
+    "lottery results",
+    "Texas gaming",
+    "state-run gambling"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/897e4a3a-8eb2-5c22-b32d-e28f28692165"
 }

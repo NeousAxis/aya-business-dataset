@@ -1,11 +1,21 @@
 {
   "entity_id": "c8a9ca21-c601-5333-8c7a-2ffeeed5aa52",
+  "public_key_id": "c8a9ca21-c601-5333-8c7a-2ffeeed5aa52",
   "name": "Roland",
   "what_it_does": "Roland manufactures electronic musical instruments and equipment.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "electronic musical instruments",
+    "synthesizers",
+    "digital pianos",
+    "electronic drums",
+    "music production",
+    "audio equipment",
+    "recording equipment",
+    "Roland"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c8a9ca21-c601-5333-8c7a-2ffeeed5aa52"
 }

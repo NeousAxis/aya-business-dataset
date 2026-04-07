@@ -1,11 +1,21 @@
 {
   "entity_id": "49c0d48b-e52a-54a7-80ba-6d164acb580f",
+  "public_key_id": "49c0d48b-e52a-54a7-80ba-6d164acb580f",
   "name": "Verint",
   "what_it_does": "Verint provides customer engagement solutions, including call center software, workforce management, and analytics.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Brazil",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "customer engagement",
+    "call center",
+    "workforce",
+    "customer analytics",
+    "contact center",
+    "customer experience",
+    "speech analytics",
+    "interaction recording"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/49c0d48b-e52a-54a7-80ba-6d164acb580f"
 }

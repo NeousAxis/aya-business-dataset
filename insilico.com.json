@@ -1,11 +1,21 @@
 {
   "entity_id": "5d6df003-0445-5236-8795-254294dd7eaa",
+  "public_key_id": "5d6df003-0445-5236-8795-254294dd7eaa",
   "name": "Insilico Medicine",
   "what_it_does": "Insilico Medicine uses artificial intelligence for drug discovery and development.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "AI drug discovery",
+    "drug development",
+    "artificial intelligence",
+    "pharmaceutical research",
+    "drug design",
+    "machine learning",
+    "biotech innovation",
+    "personalized medicine"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5d6df003-0445-5236-8795-254294dd7eaa"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "97b63571-1245-5737-85a6-a853afdbefc6",
+  "public_key_id": "97b63571-1245-5737-85a6-a853afdbefc6",
   "name": "Raiffeisenbank",
   "what_it_does": "Raiffeisen.at provides banking and financial services in Austria.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Austria",
-  "keywords": [],
+  "keywords": [
+    "Austrian banking",
+    "retail banking",
+    "financial ",
+    "loans",
+    "mortgages",
+    "savings accounts",
+    "Austria finance",
+    "personal banking"
+  ],
   "aio_score": 23.0,
   "certificate_url": "https://ai-visionary.com/aya/e/97b63571-1245-5737-85a6-a853afdbefc6"
 }

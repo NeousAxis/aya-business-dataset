@@ -1,11 +1,20 @@
 {
   "entity_id": "fb5d5e67-080d-5f6d-a8b5-cc00f2739f1a",
+  "public_key_id": "fb5d5e67-080d-5f6d-a8b5-cc00f2739f1a",
   "name": "Burckhardt",
   "what_it_does": "Burckhardt Compression manufactures reciprocating compressors and compressor components.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "reciprocating compressors",
+    "compressor components",
+    "gas compression",
+    "process gas compressors",
+    "API 618 compressors",
+    "compressor manufacturing",
+    "compression technology"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fb5d5e67-080d-5f6d-a8b5-cc00f2739f1a"
 }

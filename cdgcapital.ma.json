@@ -1,11 +1,21 @@
 {
   "entity_id": "301344ef-1cd2-5012-86f5-811bc0383180",
+  "public_key_id": "301344ef-1cd2-5012-86f5-811bc0383180",
   "name": "CDG CAPITAL",
   "what_it_does": "CDG Capital provides investment banking and asset management services in Morocco.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "investment banking",
+    "asset management",
+    "financial advisory",
+    "portfolio management",
+    "Morocco investments",
+    "capital markets",
+    "wealth management",
+    "investment strategies"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/301344ef-1cd2-5012-86f5-811bc0383180"
 }

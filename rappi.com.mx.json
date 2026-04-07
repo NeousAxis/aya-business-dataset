@@ -1,11 +1,21 @@
 {
   "entity_id": "a16aecb0-b590-5794-b19a-93549f4d96a2",
+  "public_key_id": "a16aecb0-b590-5794-b19a-93549f4d96a2",
   "name": "Rappi",
   "what_it_does": "Rappi is a delivery app that connects users with restaurants, supermarkets, and other businesses.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Mexico",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "on-demand delivery",
+    "restaurant delivery",
+    "grocery delivery",
+    "last-mile logistics",
+    "Latin America e-commerce",
+    "multi-category marketplace",
+    "food ordering",
+    "courier services"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a16aecb0-b590-5794-b19a-93549f4d96a2"
 }

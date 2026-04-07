@@ -1,11 +1,19 @@
 {
   "entity_id": "acbf18b4-c437-5f55-bd71-127f3084d9d3",
+  "public_key_id": "acbf18b4-c437-5f55-bd71-127f3084d9d3",
   "name": "Loom",
   "what_it_does": "Loom provides video messaging software for workplace communication.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "video messaging",
+    "workplace communication",
+    "screen recording",
+    "video sharing",
+    "internal videos",
+    "asynchronous communication"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/acbf18b4-c437-5f55-bd71-127f3084d9d3"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "4b2773c2-a247-560b-aa4e-0e8877789596",
+  "public_key_id": "4b2773c2-a247-560b-aa4e-0e8877789596",
   "name": "Lottiefiles",
   "what_it_does": "Lottiefiles is a platform for creating, sharing, and using Lottie animations.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "lottie animations",
+    "animation platform",
+    "motion graphics",
+    "animation files",
+    "after effects animations",
+    "json-based animations",
+    "animation marketplace",
+    "animation editor"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4b2773c2-a247-560b-aa4e-0e8877789596"
 }

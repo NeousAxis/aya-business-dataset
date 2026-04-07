@@ -1,11 +1,21 @@
 {
   "entity_id": "63e48c23-7f00-596f-8a4e-556f801256b4",
+  "public_key_id": "63e48c23-7f00-596f-8a4e-556f801256b4",
   "name": "10x Genomics",
   "what_it_does": "10x Genomics develops tools for genomic analysis, including sequencing and single-cell analysis.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "genomic analysis",
+    "sequencing",
+    "single-cell analysis",
+    "genomics research",
+    "biological research",
+    "biotechnology",
+    "genetics",
+    "life science tools"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/63e48c23-7f00-596f-8a4e-556f801256b4"
 }

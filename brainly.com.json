@@ -1,11 +1,21 @@
 {
   "entity_id": "7887ecbc-707d-55d1-b1eb-117bf19c8dc2",
+  "public_key_id": "7887ecbc-707d-55d1-b1eb-117bf19c8dc2",
   "name": "Brainly",
   "what_it_does": "Brainly is a platform where students can ask and answer homework questions.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "homework help",
+    "Q&A platform",
+    "student community",
+    "peer learning",
+    "educational resources",
+    "knowledge sharing",
+    "academic support",
+    "school subjects"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7887ecbc-707d-55d1-b1eb-117bf19c8dc2"
 }

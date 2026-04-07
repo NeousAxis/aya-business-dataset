@@ -1,11 +1,20 @@
 {
   "entity_id": "499d85ee-7e81-5767-b205-902bf3c481d4",
+  "public_key_id": "499d85ee-7e81-5767-b205-902bf3c481d4",
   "name": "Haystack",
   "what_it_does": "Haystack is a framework for building search pipelines and question answering systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "search pipelines",
+    "question answering",
+    "NLP framework",
+    "information retrieval",
+    "AI search",
+    "machine learning models",
+    "semantic search"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/499d85ee-7e81-5767-b205-902bf3c481d4"
 }

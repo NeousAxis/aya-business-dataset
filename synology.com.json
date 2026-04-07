@@ -1,11 +1,21 @@
 {
   "entity_id": "c50156cd-d8d5-5d3a-bdf5-6efb8851e5c8",
+  "public_key_id": "c50156cd-d8d5-5d3a-bdf5-6efb8851e5c8",
   "name": "Synology Inc.",
   "what_it_does": "Synology Inc. develops network-attached storage (NAS) appliances and IP surveillance solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "network-attached storage",
+    "NAS appliances",
+    "IP surveillance",
+    "data storage",
+    "surveillance solutions",
+    "storage servers",
+    "network storage",
+    "video surveillance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c50156cd-d8d5-5d3a-bdf5-6efb8851e5c8"
 }

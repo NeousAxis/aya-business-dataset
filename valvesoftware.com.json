@@ -1,11 +1,21 @@
 {
   "entity_id": "1ccb87f9-c08a-588d-8dd0-007f04c805fe",
+  "public_key_id": "1ccb87f9-c08a-588d-8dd0-007f04c805fe",
   "name": "Valve Corporation",
   "what_it_does": "Valve Corporation develops and publishes video games and operates the Steam digital distribution platform.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "video game development",
+    "game publishing",
+    "Steam platform",
+    "PC games",
+    "entertainment ",
+    "multiplayer games",
+    "gaming hardware",
+    "esports"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1ccb87f9-c08a-588d-8dd0-007f04c805fe"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "3f877f0c-78fb-5d80-8042-99b6972b6973",
-  "name": "Deutsche Börse Group",
+  "public_key_id": "3f877f0c-78fb-5d80-8042-99b6972b6973",
+  "name": "Deutsche Börse",
   "what_it_does": "Deutsche Börse Group operates trading venues and provides related services for securities and derivatives.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [],
+  "location": "Germany",
+  "keywords": [
+    "trading venues",
+    "securities trading",
+    "derivatives trading",
+    "financial markets",
+    "market infrastructure",
+    "clearing services",
+    "financial data",
+    "exchange operator"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3f877f0c-78fb-5d80-8042-99b6972b6973"
 }

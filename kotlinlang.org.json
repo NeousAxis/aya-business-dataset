@@ -1,11 +1,21 @@
 {
   "entity_id": "ede52729-c277-50a4-953b-aa5386062ccd",
+  "public_key_id": "ede52729-c277-50a4-953b-aa5386062ccd",
   "name": "Kotlin Programming Language",
   "what_it_does": "Kotlin is a cross-platform, statically typed programming language developed by JetBrains.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "cross-platform language",
+    "statically typed language",
+    "programming language",
+    "JetBrains",
+    "software development",
+    "JVM language",
+    "Android development",
+    "multiplatform programming"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ede52729-c277-50a4-953b-aa5386062ccd"
 }

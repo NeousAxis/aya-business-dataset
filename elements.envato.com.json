@@ -1,11 +1,20 @@
 {
   "entity_id": "ecb5ec37-cd0b-59b0-b877-5b8a586f78b4",
+  "public_key_id": "ecb5ec37-cd0b-59b0-b877-5b8a586f78b4",
   "name": "Envato Pty Ltd.",
   "what_it_does": "Envato Elements provides a subscription-based platform for creative assets like stock photos, video, and graphic templates.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Australia",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "stock photos",
+    "video templates",
+    "graphic templates",
+    "creative assets",
+    "stock footage",
+    "design resources",
+    "subscription creative"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ecb5ec37-cd0b-59b0-b877-5b8a586f78b4"
 }

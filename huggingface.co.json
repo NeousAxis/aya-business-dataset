@@ -1,11 +1,21 @@
 {
-  "entity_id": "57853cc7-e190-585b-86b5-aed7c1578263",
+  "entity_id": "4a1fdbb0-9913-55bb-96d8-3f0b665cb06c",
+  "public_key_id": "4a1fdbb0-9913-55bb-96d8-3f0b665cb06c",
   "name": "Hugging Face",
-  "what_it_does": "Hugging Face offers machine learning tools and a community platform for natural language processing.",
-  "for_who": "Businesses and developers.",
-  "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [],
+  "what_it_does": "Hugging Face provides a platform and tools for building, training, and deploying machine learning models, specializing in natural language processing.",
+  "for_who": "Businesses and professionals.",
+  "category": "Industrie & Manufacturing",
+  "location": "United States",
+  "keywords": [
+    "machine learning models",
+    "AI development tools",
+    "NLP models",
+    "transformers",
+    "model training",
+    "model deployment",
+    "AI platform",
+    "machine learning platform"
+  ],
   "aio_score": 50.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/57853cc7-e190-585b-86b5-aed7c1578263"
+  "certificate_url": "https://ai-visionary.com/aya/e/4a1fdbb0-9913-55bb-96d8-3f0b665cb06c"
 }

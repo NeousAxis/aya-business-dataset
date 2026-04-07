@@ -1,11 +1,21 @@
 {
   "entity_id": "32c259e0-1530-51bb-968f-7e7eeba5dbb0",
+  "public_key_id": "32c259e0-1530-51bb-968f-7e7eeba5dbb0",
   "name": "Xbox",
   "what_it_does": "Xbox sells video game consoles, games, and related subscriptions.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "video game consoles",
+    "xbox games",
+    "gaming subscriptions",
+    "console gaming",
+    "game pass",
+    "video games",
+    "gaming accessories",
+    "gaming hardware"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/32c259e0-1530-51bb-968f-7e7eeba5dbb0"
 }

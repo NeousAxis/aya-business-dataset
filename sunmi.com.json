@@ -1,11 +1,21 @@
 {
   "entity_id": "721147c8-f18c-53b4-9578-bc49e312869b",
+  "public_key_id": "721147c8-f18c-53b4-9578-bc49e312869b",
   "name": "åç±³ç§æ",
   "what_it_does": "SUNMI provides Android-based business IOT devices and solutions such as point-of-sale systems and payment terminals.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Android POS",
+    "IOT devices",
+    "payment terminals",
+    "business hardware",
+    "point of sale",
+    "retail technology",
+    "enterprise solutions",
+    "smart devices"
+  ],
   "aio_score": 24.0,
   "certificate_url": "https://ai-visionary.com/aya/e/721147c8-f18c-53b4-9578-bc49e312869b"
 }

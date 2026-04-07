@@ -1,11 +1,21 @@
 {
   "entity_id": "40358b5d-316a-515f-bf82-45e444525b53",
+  "public_key_id": "40358b5d-316a-515f-bf82-45e444525b53",
   "name": "Shift Browser",
   "what_it_does": "Shift Browser is a desktop app that aggregates and manages multiple webmail, social media, and web application accounts.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "webmail aggregation",
+    "social media hub",
+    "desktop application",
+    "productivity tools",
+    "account management",
+    "cross-platform access",
+    "web application management",
+    "workspace organization"
+  ],
+  "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/40358b5d-316a-515f-bf82-45e444525b53"
 }

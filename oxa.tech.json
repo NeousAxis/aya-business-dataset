@@ -1,11 +1,21 @@
 {
   "entity_id": "7f1c5a07-f4d7-50a4-809d-2e01272805af",
+  "public_key_id": "7f1c5a07-f4d7-50a4-809d-2e01272805af",
   "name": "Oxa",
   "what_it_does": "Oxa provides technology and SaaS solutions, likely involving data analytics or AI, based on the name and sector.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "data analytics",
+    "artificial intelligence",
+    "AI",
+    "machine learning",
+    "technology solutions",
+    "SaaS",
+    "data processing",
+    "AI algorithms"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7f1c5a07-f4d7-50a4-809d-2e01272805af"
 }

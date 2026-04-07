@@ -1,11 +1,21 @@
 {
   "entity_id": "0066e043-a727-504a-b179-e9829c864f5f",
+  "public_key_id": "0066e043-a727-504a-b179-e9829c864f5f",
   "name": "JCB",
   "what_it_does": "JCB manufactures construction and agricultural equipment, including backhoe loaders and excavators.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "India",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "construction equipment",
+    "agricultural machinery",
+    "backhoe loaders",
+    "excavators",
+    "earthmoving equipment",
+    "heavy equipment",
+    "diesel engines",
+    "material handling"
+  ],
+  "aio_score": 59.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0066e043-a727-504a-b179-e9829c864f5f"
 }

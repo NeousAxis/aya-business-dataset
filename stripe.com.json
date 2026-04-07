@@ -1,11 +1,21 @@
 {
   "entity_id": "5851abf5-91c9-5e2c-8b62-4e2d814177ab",
+  "public_key_id": "5851abf5-91c9-5e2c-8b62-4e2d814177ab",
   "name": "Stripe",
   "what_it_does": "Stripe provides online payment processing infrastructure for internet businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Belgium",
-  "keywords": [],
-  "aio_score": 75.0,
+  "location": "United States",
+  "keywords": [
+    "payment processing",
+    "online payments",
+    "internet payments",
+    "e-commerce payments",
+    "payment gateway",
+    "credit card processing",
+    "API",
+    "financial transactions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5851abf5-91c9-5e2c-8b62-4e2d814177ab"
 }

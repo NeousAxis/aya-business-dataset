@@ -1,11 +1,21 @@
 {
   "entity_id": "13124e45-3e7e-5165-97a4-e2b41792e44b",
+  "public_key_id": "13124e45-3e7e-5165-97a4-e2b41792e44b",
   "name": "Contractbook",
   "what_it_does": "Contractbook offers a platform for creating, signing, and managing legal contracts.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Norway",
-  "keywords": [],
+  "keywords": [
+    "contract lifecycle",
+    "legal contract",
+    "contract automation",
+    "digital signature",
+    "legal workflow",
+    "contract creation",
+    "contract repository",
+    "legal document management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/13124e45-3e7e-5165-97a4-e2b41792e44b"
 }

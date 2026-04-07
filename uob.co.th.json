@@ -1,11 +1,21 @@
 {
   "entity_id": "0148e4ef-9c15-52e6-8945-e1f944c5580d",
+  "public_key_id": "0148e4ef-9c15-52e6-8945-e1f944c5580d",
   "name": "UOB Bank Thailand",
   "what_it_does": "UOB Bank Thailand is a commercial bank providing financial services in Thailand.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 38.0,
+  "keywords": [
+    "commercial banking",
+    "financial",
+    "loans",
+    "deposits",
+    "credit cards",
+    "mortgages",
+    "Thailand banking",
+    "SME finance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0148e4ef-9c15-52e6-8945-e1f944c5580d"
 }

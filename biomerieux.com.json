@@ -1,11 +1,21 @@
 {
   "entity_id": "5d27bef6-59b1-5131-8856-69b76c13632c",
+  "public_key_id": "5d27bef6-59b1-5131-8856-69b76c13632c",
   "name": "bioMérieux, EN",
   "what_it_does": "bioMérieux develops, manufactures, and markets in vitro diagnostic solutions for disease detection and contamination.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Canada",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "in vitro diagnostics",
+    "disease detection",
+    "microbiology diagnostics",
+    "infectious disease testing",
+    "clinical diagnostics",
+    "immunoassay solutions",
+    "molecular diagnostics",
+    "bacteriology"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5d27bef6-59b1-5131-8856-69b76c13632c"
 }

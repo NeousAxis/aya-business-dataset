@@ -1,11 +1,21 @@
 {
   "entity_id": "c91828da-9907-5235-a7df-69a8504d0272",
+  "public_key_id": "c91828da-9907-5235-a7df-69a8504d0272",
   "name": "DePoly",
   "what_it_does": "DePoly is likely involved in the depolymerization or recycling of materials, possibly plastics.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "plastic recycling",
+    "polymer recycling",
+    "chemical recycling",
+    "depolymerization",
+    "material innovation",
+    "waste management",
+    "circular economy",
+    "sustainable materials"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c91828da-9907-5235-a7df-69a8504d0272"
 }

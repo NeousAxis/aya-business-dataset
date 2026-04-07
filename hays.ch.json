@@ -1,11 +1,21 @@
 {
   "entity_id": "eaddf7d7-5f85-5825-9a80-59835bb71b73",
+  "public_key_id": "eaddf7d7-5f85-5825-9a80-59835bb71b73",
   "name": "Hays Switzerland",
   "what_it_does": "Hays Switzerland is a recruitment agency specializing in placing professionals in various industries within Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 63.0,
+  "keywords": [
+    "Swiss recruitment",
+    "IT recruitment",
+    "engineering recruitment",
+    "finance recruitment",
+    "permanent placement",
+    "contract staffing",
+    "Switzerland jobs",
+    "recruitment agency"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eaddf7d7-5f85-5825-9a80-59835bb71b73"
 }

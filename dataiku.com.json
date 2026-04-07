@@ -1,11 +1,21 @@
 {
   "entity_id": "66ec3333-08c4-582b-9fd9-f2df6b786f7f",
+  "public_key_id": "66ec3333-08c4-582b-9fd9-f2df6b786f7f",
   "name": "Dataiku",
   "what_it_does": "Dataiku develops a platform for collaborative data science, machine learning, and AI projects.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "data science platform",
+    "machine learning",
+    "AI projects",
+    "collaborative analytics",
+    "predictive modeling",
+    "data analysis tools",
+    "artificial intelligence",
+    "data engineering"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/66ec3333-08c4-582b-9fd9-f2df6b786f7f"
 }

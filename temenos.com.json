@@ -1,11 +1,21 @@
 {
   "entity_id": "c096c048-67a7-5070-b0ae-4fc3fd5f1d94",
+  "public_key_id": "c096c048-67a7-5070-b0ae-4fc3fd5f1d94",
   "name": "Temenos",
   "what_it_does": "Temenos provides banking software systems to financial institutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 67.0,
+  "keywords": [
+    "banking systems",
+    "core banking",
+    "financial software",
+    "banking",
+    "financial institutions",
+    "wealth",
+    "lending",
+    "Temenos Transact"
+  ],
+  "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c096c048-67a7-5070-b0ae-4fc3fd5f1d94"
 }

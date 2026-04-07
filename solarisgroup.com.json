@@ -1,11 +1,21 @@
 {
   "entity_id": "adeab918-a7b7-5f0d-8280-5b52a19e5ea6",
+  "public_key_id": "adeab918-a7b7-5f0d-8280-5b52a19e5ea6",
   "name": "Solaris",
   "what_it_does": "Solaris provides Banking-as-a-Service platform to businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "Banking-as-a-Service",
+    "embedded finance",
+    "financial API",
+    "digital banking",
+    "banking infrastructure",
+    "fintech solutions",
+    "payment processing",
+    "embedded lending"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/adeab918-a7b7-5f0d-8280-5b52a19e5ea6"
 }

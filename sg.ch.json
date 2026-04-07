@@ -1,11 +1,21 @@
 {
   "entity_id": "fa125c9d-9668-54c2-8d03-92844a42568c",
+  "public_key_id": "fa125c9d-9668-54c2-8d03-92844a42568c",
   "name": "Portal Kanton St.Gallen",
   "what_it_does": "Portal Kanton St.Gallen is the official website for the Canton of St. Gallen, Switzerland, providing information and services to residents.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "canton information",
+    "Swiss",
+    "government",
+    "municipal",
+    "official portal",
+    "regional",
+    "citizen",
+    "state services"
+  ],
   "aio_score": 22.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fa125c9d-9668-54c2-8d03-92844a42568c"
 }

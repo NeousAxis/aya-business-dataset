@@ -1,11 +1,21 @@
 {
   "entity_id": "fd163117-01bf-5f7c-b5e7-9a6fdf7fc5b5",
+  "public_key_id": "fd163117-01bf-5f7c-b5e7-9a6fdf7fc5b5",
   "name": "vivo Official Site",
   "what_it_does": "Vivo designs, develops, and manufactures smartphones and related accessories.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "smartphones",
+    "mobile phones",
+    "android phones",
+    "mobile accessories",
+    "consumer electronics",
+    "smartphone cameras",
+    "mobile devices",
+    "cellular technology"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fd163117-01bf-5f7c-b5e7-9a6fdf7fc5b5"
 }

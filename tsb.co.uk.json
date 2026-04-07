@@ -1,11 +1,21 @@
 {
   "entity_id": "7092edf1-8302-561e-97ae-9148d3071336",
+  "public_key_id": "7092edf1-8302-561e-97ae-9148d3071336",
   "name": "Personal",
   "what_it_does": "TSB is a British bank offering personal banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "British Bank",
+    "Personal Banking",
+    "Retail Banking",
+    "Financial Services",
+    "UK Bank",
+    "Banking Products",
+    "Mortgages",
+    "Savings Accounts"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7092edf1-8302-561e-97ae-9148d3071336"
 }

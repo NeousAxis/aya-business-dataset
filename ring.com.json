@@ -1,11 +1,21 @@
 {
   "entity_id": "79750c69-5c8a-5b52-a40c-8705d7182dc2",
+  "public_key_id": "79750c69-5c8a-5b52-a40c-8705d7182dc2",
   "name": "Ring",
   "what_it_does": "Ring sells home security products, including video doorbells and security cameras.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "home security",
+    "video doorbell",
+    "security camera",
+    "smart home",
+    "home automation",
+    "security systems",
+    "DIY security",
+    "connected home"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/79750c69-5c8a-5b52-a40c-8705d7182dc2"
 }

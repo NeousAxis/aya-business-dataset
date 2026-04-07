@@ -1,11 +1,21 @@
 {
   "entity_id": "ab9f94cd-970a-59e3-81fb-bc185871f355",
+  "public_key_id": "ab9f94cd-970a-59e3-81fb-bc185871f355",
   "name": "Wistia",
   "what_it_does": "Wistia provides video hosting and analytics for businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "video hosting",
+    "video analytics",
+    "marketing videos",
+    "business video",
+    "video marketing",
+    "video storage",
+    "video platform",
+    "lead generation videos"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab9f94cd-970a-59e3-81fb-bc185871f355"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "0663180b-8efe-514e-b1f0-577a577b1074",
+  "public_key_id": "0663180b-8efe-514e-b1f0-577a577b1074",
   "name": "RwandAir ,Fly the Dream of Africa",
   "what_it_does": "RwandAir is the national airline of Rwanda, providing passenger and cargo air transportation.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "Rwandan airline",
+    "African airline",
+    "passenger flights",
+    "cargo transportation",
+    "air travel",
+    "international flights",
+    "domestic flights",
+    "aviation"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0663180b-8efe-514e-b1f0-577a577b1074"
 }

@@ -5,7 +5,15 @@
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "web browser",
+    "open-source project",
+    "browser engine",
+    "rendering engine",
+    "web standards",
+    "browser development",
+    "cross-platform"
+  ],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/44bd8b8f-d5ff-5f41-b42c-f2a1bd548eb8"
 }

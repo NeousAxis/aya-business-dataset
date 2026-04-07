@@ -1,11 +1,21 @@
 {
   "entity_id": "46c458df-ca6c-5494-b863-113bab973a6e",
+  "public_key_id": "46c458df-ca6c-5494-b863-113bab973a6e",
   "name": "ge.ch",
   "what_it_does": "ge.ch is the official website for the Canton of Geneva, Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "canton of Geneva",
+    "Swiss government",
+    "local government",
+    "Geneva information",
+    "public ",
+    "government ",
+    "Geneva",
+    "municipal"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/46c458df-ca6c-5494-b863-113bab973a6e"
 }

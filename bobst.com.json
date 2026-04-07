@@ -1,11 +1,20 @@
 {
   "entity_id": "faea2a2c-a925-5e01-8939-9bda6483bcc8",
+  "public_key_id": "faea2a2c-a925-5e01-8939-9bda6483bcc8",
   "name": "BOBST",
   "what_it_does": "BOBST supplies equipment and services to the packaging and printing industries.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "packaging equipment",
+    "printing equipment",
+    "die-cutters",
+    "folding-gluing",
+    "printing presses",
+    "laminators",
+    "packaging industry"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/faea2a2c-a925-5e01-8939-9bda6483bcc8"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "bfc7cf02-d7f5-506a-8c81-5fecbba2c760",
+  "public_key_id": "bfc7cf02-d7f5-506a-8c81-5fecbba2c760",
   "name": "Absorb LMS Software",
   "what_it_does": "Absorb LMS Software provides a cloud-based learning management system for corporate training and development.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "learning management system",
+    "corporate training",
+    "e-learning",
+    "employee development",
+    "training modules",
+    "online courses",
+    "cloud LMS"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bfc7cf02-d7f5-506a-8c81-5fecbba2c760"
 }

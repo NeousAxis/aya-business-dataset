@@ -1,11 +1,21 @@
 {
   "entity_id": "34fd398d-8389-5e6f-8689-2d20eb74779a",
+  "public_key_id": "34fd398d-8389-5e6f-8689-2d20eb74779a",
   "name": "EveryPlate Meal Kits",
   "what_it_does": "EveryPlate delivers meal kits with pre-portioned ingredients and recipes for home cooking.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Australia",
-  "keywords": [],
+  "keywords": [
+    "meal kits",
+    "recipe delivery",
+    "home cooking",
+    "pre-portioned meals",
+    "dinner kits",
+    "affordable meals",
+    "cooking at home",
+    "weekly meal plans"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/34fd398d-8389-5e6f-8689-2d20eb74779a"
 }

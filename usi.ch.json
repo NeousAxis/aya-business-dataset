@@ -1,11 +1,20 @@
 {
   "entity_id": "dfb3ed50-3f21-57ae-8488-ffc0d05235b1",
+  "public_key_id": "dfb3ed50-3f21-57ae-8488-ffc0d05235b1",
   "name": "USI",
   "what_it_does": "USI (Università della Svizzera italiana) is a public university in Lugano, Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "university",
+    "higher education",
+    "lugano switzerland",
+    "swiss university",
+    "undergraduate studies",
+    "graduate studies",
+    "research programs"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dfb3ed50-3f21-57ae-8488-ffc0d05235b1"
 }

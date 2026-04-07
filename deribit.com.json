@@ -1,11 +1,21 @@
 {
   "entity_id": "3cc0454b-94fc-5c8b-8073-60e757be8e7a",
+  "public_key_id": "3cc0454b-94fc-5c8b-8073-60e757be8e7a",
   "name": "Deribit",
   "what_it_does": "Deribit is a cryptocurrency derivatives exchange.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "cryptocurrency derivatives",
+    "bitcoin futures",
+    "ethereum options",
+    "crypto trading",
+    "derivatives exchange",
+    "digital asset trading",
+    "leverage trading",
+    "crypto options"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3cc0454b-94fc-5c8b-8073-60e757be8e7a"
 }

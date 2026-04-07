@@ -1,11 +1,21 @@
 {
   "entity_id": "b07e1983-ea85-5dfa-8309-4f70bb5e492f",
+  "public_key_id": "b07e1983-ea85-5dfa-8309-4f70bb5e492f",
   "name": "Endesa",
   "what_it_does": "Endesa is likely an electricity retailer, based on the domain name and e-commerce category.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "electricity retailer",
+    "energy provider",
+    "home electricity",
+    "utilities",
+    "power supply",
+    "renewable energy",
+    "energy contracts",
+    "residential electricity"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b07e1983-ea85-5dfa-8309-4f70bb5e492f"
 }

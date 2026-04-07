@@ -1,11 +1,21 @@
 {
   "entity_id": "ee640ffc-c969-5081-815a-8ab7a9bc3165",
+  "public_key_id": "ee640ffc-c969-5081-815a-8ab7a9bc3165",
   "name": "Drata",
   "what_it_does": "Drata provides a security and compliance automation platform.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "security automation",
+    "compliance automation",
+    "security compliance",
+    "Drata",
+    "SOC 2 compliance",
+    "cloud security",
+    "automation platform",
+    "IT compliance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ee640ffc-c969-5081-815a-8ab7a9bc3165"
 }

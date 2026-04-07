@@ -1,11 +1,20 @@
 {
   "entity_id": "06b2bf57-c192-5b0c-b0e4-0c3ec8855be4",
+  "public_key_id": "06b2bf57-c192-5b0c-b0e4-0c3ec8855be4",
   "name": "Kubernetes",
   "what_it_does": "Kubernetes is an open-source container orchestration system.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "China",
-  "keywords": [],
-  "aio_score": 44.0,
+  "keywords": [
+    "container orchestration",
+    "container deployment",
+    "workload automation",
+    "open-source platform",
+    "cloud native",
+    "application scaling",
+    "cluster management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/06b2bf57-c192-5b0c-b0e4-0c3ec8855be4"
 }

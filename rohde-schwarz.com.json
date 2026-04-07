@@ -1,11 +1,21 @@
 {
   "entity_id": "12877f19-64ba-5cfd-9a06-be4fd577d3fe",
+  "public_key_id": "12877f19-64ba-5cfd-9a06-be4fd577d3fe",
   "name": "Rohde & Schwarz",
   "what_it_does": "Rohde & Schwarz develops, produces and markets a wide range of electronic capital goods in the fields of test and measurement, broadcast and media, aerospace, defence, security and networks and cybers",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 52.0,
+  "keywords": [
+    "electronic test equipment",
+    "measurement instruments",
+    "broadcast equipment",
+    "radiocommunications",
+    "electronic capital goods",
+    "aerospace electronics",
+    "cybersecurity solutions",
+    "Rohde & Schwarz"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/12877f19-64ba-5cfd-9a06-be4fd577d3fe"
 }

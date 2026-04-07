@@ -1,11 +1,21 @@
 {
   "entity_id": "edbe99bf-b9e6-538f-a6ba-895556ee3ffd",
+  "public_key_id": "edbe99bf-b9e6-538f-a6ba-895556ee3ffd",
   "name": "Regeneron",
   "what_it_does": "Regeneron is a biotechnology company focused on discovering, developing, and commercializing medicines.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "biotechnology",
+    "pharmaceuticals",
+    "drug discovery",
+    "immunology",
+    "oncology",
+    "antibody therapeutics",
+    "clinical trials",
+    "medicines"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/edbe99bf-b9e6-538f-a6ba-895556ee3ffd"
 }

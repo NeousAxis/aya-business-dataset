@@ -1,11 +1,21 @@
 {
   "entity_id": "544a7e31-1ca2-5af6-89dd-5ac96220d911",
+  "public_key_id": "544a7e31-1ca2-5af6-89dd-5ac96220d911",
   "name": "Solidus",
   "what_it_does": "Solidus is an open-source e-commerce platform built on Ruby on Rails.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "e-commerce",
+    "open-source commerce",
+    "Ruby on Rails",
+    "e-commerce development",
+    "customizable e-commerce",
+    "shopping carts",
+    "online store",
+    "e-commerce platform"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/544a7e31-1ca2-5af6-89dd-5ac96220d911"
 }

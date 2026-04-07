@@ -1,11 +1,21 @@
 {
   "entity_id": "6ca4e5dc-65ed-5823-bcca-812001f13399",
+  "public_key_id": "6ca4e5dc-65ed-5823-bcca-812001f13399",
   "name": "Mirakl",
   "what_it_does": "Mirakl provides a marketplace platform enabling businesses to launch and scale enterprise marketplaces.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "marketplace",
+    "enterprise marketplace",
+    "e-commerce platform",
+    "multi vendor marketplace",
+    "dropshipping platform",
+    "retail marketplace",
+    "e-commerce solutions",
+    "marketplace platform"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6ca4e5dc-65ed-5823-bcca-812001f13399"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "cbdb8b31-3c67-5c8d-8856-fa9bfb31c1b6",
+  "public_key_id": "cbdb8b31-3c67-5c8d-8856-fa9bfb31c1b6",
   "name": "CD Baby",
   "what_it_does": "CD Baby distributes and sells music for independent artists.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 55.0,
+  "keywords": [
+    "independent music distribution",
+    "music sales",
+    "artist royalties",
+    "indie music",
+    "music streaming",
+    "song licensing",
+    "music publishing",
+    "CD sales"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cbdb8b31-3c67-5c8d-8856-fa9bfb31c1b6"
 }

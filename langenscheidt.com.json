@@ -1,11 +1,21 @@
 {
   "entity_id": "d01f209b-6cab-53ab-8254-9fefd4dddc69",
+  "public_key_id": "d01f209b-6cab-53ab-8254-9fefd4dddc69",
   "name": "PONS Langenscheidt GmbH",
   "what_it_does": "PONS Langenscheidt GmbH is a German publisher specializing in dictionaries and language learning materials.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "dictionaries",
+    "language learning",
+    "German publisher",
+    "language materials",
+    "vocabulary",
+    "translation tools",
+    "language references",
+    "educational publishing"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d01f209b-6cab-53ab-8254-9fefd4dddc69"
 }

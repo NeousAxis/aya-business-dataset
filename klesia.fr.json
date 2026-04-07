@@ -1,11 +1,21 @@
 {
   "entity_id": "a925e453-1127-565b-9fc6-716d6e6ffaa9",
+  "public_key_id": "a925e453-1127-565b-9fc6-716d6e6ffaa9",
   "name": "KLESIA",
   "what_it_does": "KLESIA likely operates restaurants or provides food-related services in France.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "French restaurants",
+    "food services",
+    "catering services",
+    "restaurant chain",
+    "food preparation",
+    "dining establishments",
+    "French cuisine",
+    "culinary services"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a925e453-1127-565b-9fc6-716d6e6ffaa9"
 }

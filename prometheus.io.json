@@ -1,11 +1,20 @@
 {
   "entity_id": "22cfdcf7-9126-53af-afe6-4c924bb9ff14",
+  "public_key_id": "22cfdcf7-9126-53af-afe6-4c924bb9ff14",
   "name": "Prometheus",
   "what_it_does": "Prometheus likely provides travel or transportation-related services, possibly involving monitoring or data analysis based on the name.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "travel monitoring",
+    "transportation data",
+    "travel data analysis",
+    "transport monitoring",
+    "data visualization",
+    "fleet tracking",
+    "telemetry"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/22cfdcf7-9126-53af-afe6-4c924bb9ff14"
 }

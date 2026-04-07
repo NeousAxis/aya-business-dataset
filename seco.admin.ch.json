@@ -1,11 +1,21 @@
 {
   "entity_id": "a6604985-fb84-5d39-a855-aaed5b69abf9",
+  "public_key_id": "a6604985-fb84-5d39-a855-aaed5b69abf9",
   "name": "Staatssekretariat für Wirtschaft SECO",
   "what_it_does": "seco.admin.ch is the website for the Swiss State Secretariat for Economic Affairs.",
   "for_who": "Businesses and professionals.",
   "category": "Administration & Public",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Swiss economic affairs",
+    "economic policy",
+    "labor market",
+    "export promotion",
+    "foreign trade",
+    "Swiss government agency",
+    "economic development",
+    "trade regulations"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a6604985-fb84-5d39-a855-aaed5b69abf9"
 }

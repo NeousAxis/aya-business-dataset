@@ -1,11 +1,21 @@
 {
   "entity_id": "10ec180d-91da-561e-8ca8-69106a0e5d4f",
+  "public_key_id": "10ec180d-91da-561e-8ca8-69106a0e5d4f",
   "name": "An oddly satisfying experience.",
   "what_it_does": "Porkbun is a domain name registrar and web hosting provider.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "domain registration",
+    "web hosting",
+    "domain name services",
+    "ICANN registrar",
+    "website domains",
+    "domain transfer",
+    "SSL certificates",
+    "DNS management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/10ec180d-91da-561e-8ca8-69106a0e5d4f"
 }

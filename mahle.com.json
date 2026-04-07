@@ -1,11 +1,21 @@
 {
   "entity_id": "90b0406c-6605-5482-9b2e-a3e419729c16",
+  "public_key_id": "90b0406c-6605-5482-9b2e-a3e419729c16",
   "name": "MAHLE Group",
   "what_it_does": "MAHLE Group develops and manufactures automotive components and systems for powertrain and air management.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 53.0,
+  "keywords": [
+    "automotive components",
+    "powertrain systems",
+    "air management",
+    "engine components",
+    "thermal management",
+    "filtration systems",
+    "automotive engineering",
+    "vehicle technology"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/90b0406c-6605-5482-9b2e-a3e419729c16"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "d215abec-851b-5380-a9c5-a3f896f0751f",
+  "public_key_id": "d215abec-851b-5380-a9c5-a3f896f0751f",
   "name": "Marks & Spencer",
   "what_it_does": "Marks & Spencer is a major retailer selling clothing, home products, and food.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "clothing retailer",
+    "home goods",
+    "food products",
+    "department store",
+    "apparel sales",
+    "grocery retail",
+    "UK retailer"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d215abec-851b-5380-a9c5-a3f896f0751f"
 }

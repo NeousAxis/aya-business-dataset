@@ -1,11 +1,21 @@
 {
   "entity_id": "04e93ec0-77ed-5b76-87c2-cafd59f9ce6b",
+  "public_key_id": "04e93ec0-77ed-5b76-87c2-cafd59f9ce6b",
   "name": "Qdrant",
   "what_it_does": "Qdrant develops a vector similarity search engine.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "location": "Germany",
+  "keywords": [
+    "vector search engine",
+    "similarity search",
+    "neural network search",
+    "embedding search",
+    "AI data retrieval",
+    "semantic search",
+    "machine learning search",
+    "nearest neighbor search"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/04e93ec0-77ed-5b76-87c2-cafd59f9ce6b"
 }

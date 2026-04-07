@@ -1,11 +1,20 @@
 {
   "entity_id": "ea7b1ca3-b2dc-5166-afc4-a9df2a47f7ec",
+  "public_key_id": "ea7b1ca3-b2dc-5166-afc4-a9df2a47f7ec",
   "name": "Dedaub",
   "what_it_does": "Dedaub offers smart contract security auditing and analysis services.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "smart contract auditing",
+    "blockchain security",
+    "Solidity analysis",
+    "decentralized app security",
+    "smart contract verification",
+    "cryptocurrency security",
+    "Web3 security"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ea7b1ca3-b2dc-5166-afc4-a9df2a47f7ec"
 }

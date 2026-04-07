@@ -1,11 +1,21 @@
 {
   "entity_id": "af1cfae9-cf89-5762-8e0c-6c345d912286",
+  "public_key_id": "af1cfae9-cf89-5762-8e0c-6c345d912286",
   "name": "UL Solutions",
   "what_it_does": "UL Solutions provides safety testing, inspection, and certification services for products and systems.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "Safety testing",
+    "Product inspection",
+    "Product certification",
+    "Compliance testing",
+    "Materials testing",
+    "Product safety standards",
+    "Quality assurance",
+    "Regulatory compliance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/af1cfae9-cf89-5762-8e0c-6c345d912286"
 }

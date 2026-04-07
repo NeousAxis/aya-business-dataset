@@ -1,11 +1,21 @@
 {
   "entity_id": "8a8d895b-fce8-5f74-a468-3c2753261083",
+  "public_key_id": "8a8d895b-fce8-5f74-a468-3c2753261083",
   "name": "SEG",
   "what_it_does": "Swiss Education Group provides hospitality education programs through various schools in Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "hospitality education",
+    "hotel management",
+    "culinary arts",
+    "Swiss education",
+    "tourism",
+    "business schools",
+    "Swiss hospitality schools",
+    "Swiss culinary arts"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8a8d895b-fce8-5f74-a468-3c2753261083"
 }

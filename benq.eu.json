@@ -1,11 +1,20 @@
 {
   "entity_id": "93faf31b-c334-59d2-9745-fa7cf240e31c",
+  "public_key_id": "93faf31b-c334-59d2-9745-fa7cf240e31c",
   "name": "Monitore, Projektoren, Lautsprecher und Lampen",
   "what_it_does": "BenQ sells monitors, projectors, speakers, and lamps.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "MC",
-  "keywords": [],
+  "keywords": [
+    "monitors",
+    "projectors",
+    "speakers",
+    "lamps",
+    "consumer electronics",
+    "audio visual equipment",
+    "display technology"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/93faf31b-c334-59d2-9745-fa7cf240e31c"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "2ba8e298-885c-5d60-ac0b-4c730880a3c0",
+  "public_key_id": "2ba8e298-885c-5d60-ac0b-4c730880a3c0",
   "name": "Wynn Resorts",
   "what_it_does": "Wynn Resorts owns and operates luxury hotels and casinos.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "luxury hotels",
+    "casino resorts",
+    "gaming industry",
+    "hotel casinos",
+    "Las Vegas hotels",
+    "Macau casinos",
+    "resort destinations",
+    "casino entertainment"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2ba8e298-885c-5d60-ac0b-4c730880a3c0"
 }

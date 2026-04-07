@@ -1,11 +1,21 @@
 {
   "entity_id": "da132b3b-5a6f-5762-b643-49f596667101",
+  "public_key_id": "da132b3b-5a6f-5762-b643-49f596667101",
   "name": "Boeing",
   "what_it_does": "Boeing designs, manufactures, and sells airplanes, rockets, satellites, and missiles worldwide.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "aircraft manufacturing",
+    "aerospace engineering",
+    "commercial airplanes",
+    "defense systems",
+    "space exploration",
+    "military aircraft",
+    "global aerospace",
+    "aviation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/da132b3b-5a6f-5762-b643-49f596667101"
 }

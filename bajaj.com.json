@@ -1,11 +1,20 @@
 {
   "entity_id": "fd389003-888b-55f0-8b8c-4b994f388065",
-  "name": "A monologue of mastery",
+  "public_key_id": "fd389003-888b-55f0-8b8c-4b994f388065",
+  "name": "Bajaj Group",
   "what_it_does": "Bajaj appears to be a pharmaceutical company.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
-  "location": "Global",
-  "keywords": [],
+  "location": "India",
+  "keywords": [
+    "pharmaceuticals",
+    "healthcare",
+    "drug manufacturing",
+    "prescription drugs",
+    "generic drugs",
+    "API manufacturing",
+    "pharmaceutical products"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fd389003-888b-55f0-8b8c-4b994f388065"
 }

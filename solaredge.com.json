@@ -1,11 +1,21 @@
 {
   "entity_id": "d29fed57-234b-5d5f-8cab-2b3a97dbd808",
+  "public_key_id": "d29fed57-234b-5d5f-8cab-2b3a97dbd808",
   "name": "SolarEdge",
   "what_it_does": "SolarEdge develops and sells direct current optimized inverter solutions for solar photovoltaic installations.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Israel",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "solar inverters",
+    "DC optimizers",
+    "photovoltaic solutions",
+    "solar power systems",
+    "renewable energy",
+    "energy monitoring",
+    "smart energy",
+    "solar panel optimization"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d29fed57-234b-5d5f-8cab-2b3a97dbd808"
 }

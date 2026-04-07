@@ -1,11 +1,20 @@
 {
   "entity_id": "144d8878-ed69-563e-a040-4f1589443cd0",
+  "public_key_id": "144d8878-ed69-563e-a040-4f1589443cd0",
   "name": "Sablier",
   "what_it_does": "Sablier provides a platform for continuous token streaming on the Ethereum blockchain.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "token streaming",
+    "Ethereum blockchain",
+    "DeFi",
+    "real-time finance",
+    "crypto payments",
+    "blockchain payroll",
+    "digital asset streaming"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/144d8878-ed69-563e-a040-4f1589443cd0"
 }

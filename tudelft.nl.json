@@ -1,11 +1,21 @@
 {
   "entity_id": "9651fea0-cf4e-549a-8a7d-72407917ed7d",
+  "public_key_id": "9651fea0-cf4e-549a-8a7d-72407917ed7d",
   "name": "TU Delft",
   "what_it_does": "TU Delft is a Dutch university offering bachelor's, master's, and doctoral degrees in science, engineering, and design.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Netherlands",
-  "keywords": [],
-  "aio_score": 54.0,
+  "keywords": [
+    "Dutch university",
+    "science degrees",
+    "engineering degrees",
+    "design education",
+    "master's programs",
+    "doctoral programs",
+    "bachelor's programs",
+    "technical university"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9651fea0-cf4e-549a-8a7d-72407917ed7d"
 }

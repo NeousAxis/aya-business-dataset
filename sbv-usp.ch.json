@@ -1,11 +1,20 @@
 {
   "entity_id": "b8928619-81fc-5c00-96c1-7decd3be4f0c",
+  "public_key_id": "b8928619-81fc-5c00-96c1-7decd3be4f0c",
   "name": "Schweizer Bauernverband",
   "what_it_does": "Schweizer Bauernverband (Swiss Farmers' Union) represents the interests of farmers in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "swiss farmers",
+    "agricultural policy",
+    "farming advocacy",
+    "agricultural interests",
+    "rural development",
+    "agricultural sustainability",
+    "swiss agriculture"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b8928619-81fc-5c00-96c1-7decd3be4f0c"
 }

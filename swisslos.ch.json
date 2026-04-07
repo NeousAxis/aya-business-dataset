@@ -1,11 +1,21 @@
 {
   "entity_id": "f09aae0a-7097-556f-8561-6bdf24614c1d",
+  "public_key_id": "f09aae0a-7097-556f-8561-6bdf24614c1d",
   "name": "Unsere Lotterie",
   "what_it_does": "Unsere Lotterie operates a lottery system in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "lottery",
+    "gambling",
+    "Swiss lottery",
+    "prize draws",
+    "chance games",
+    "winning numbers",
+    "lottery tickets",
+    "online lottery"
+  ],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f09aae0a-7097-556f-8561-6bdf24614c1d"
 }

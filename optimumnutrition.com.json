@@ -1,11 +1,21 @@
 {
   "entity_id": "681e81b3-d254-5beb-9dba-d91814bca1de",
+  "public_key_id": "681e81b3-d254-5beb-9dba-d91814bca1de",
   "name": "Optimum Nutrition",
   "what_it_does": "Optimum Nutrition manufactures and sells sports nutrition products, including protein powders and supplements.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Australia",
-  "keywords": [],
+  "keywords": [
+    "sports nutrition",
+    "protein powders",
+    "nutritional supplements",
+    "fitness products",
+    "bodybuilding",
+    "muscle recovery",
+    "workout nutrition",
+    "vitamin supplements"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/681e81b3-d254-5beb-9dba-d91814bca1de"
 }

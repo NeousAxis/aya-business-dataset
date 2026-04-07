@@ -1,11 +1,21 @@
 {
   "entity_id": "ad40a89d-8769-5c9c-9c4b-d61555480bde",
+  "public_key_id": "ad40a89d-8769-5c9c-9c4b-d61555480bde",
   "name": "Coty",
   "what_it_does": "Coty is a global beauty company that manufactures and distributes fragrances, cosmetics, and skin and body care products.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "fragrances",
+    "cosmetics",
+    "skin care",
+    "body care",
+    "beauty products",
+    "global beauty",
+    "makeup",
+    "perfume"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ad40a89d-8769-5c9c-9c4b-d61555480bde"
 }

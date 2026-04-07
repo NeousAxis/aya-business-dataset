@@ -1,11 +1,21 @@
 {
   "entity_id": "21506d1f-99e3-56b8-971d-686340282981",
+  "public_key_id": "21506d1f-99e3-56b8-971d-686340282981",
   "name": "Close",
   "what_it_does": "Close is a customer relationship management (CRM) platform designed for sales teams.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 80.0,
+  "keywords": [
+    "CRM",
+    "sales CRM",
+    "sales automation",
+    "lead management",
+    "pipeline",
+    "customer engagement",
+    "B2B sales",
+    "sales intelligence"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/21506d1f-99e3-56b8-971d-686340282981"
 }

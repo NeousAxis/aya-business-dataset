@@ -1,11 +1,21 @@
 {
   "entity_id": "f1565a9a-f2ac-5ed8-96e8-1c5eef0c571c",
+  "public_key_id": "f1565a9a-f2ac-5ed8-96e8-1c5eef0c571c",
   "name": "Roche",
   "what_it_does": "Roche is a pharmaceutical and diagnostics company focused on developing medicines and diagnostic tools.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "HU",
-  "keywords": [],
+  "keywords": [
+    "pharmaceuticals",
+    "diagnostics",
+    "drug development",
+    "medical diagnostics",
+    "healthcare",
+    "personalized medicine",
+    "oncology",
+    "immunology"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f1565a9a-f2ac-5ed8-96e8-1c5eef0c571c"
 }

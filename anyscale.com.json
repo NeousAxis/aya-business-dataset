@@ -1,11 +1,20 @@
 {
   "entity_id": "a2ba2319-23f4-5d5b-83e5-630682d548d8",
+  "public_key_id": "a2ba2319-23f4-5d5b-83e5-630682d548d8",
   "name": "Anyscale",
   "what_it_does": "Anyscale provides a platform for scaling Python applications, based on Ray.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
-  "location": "Global",
-  "keywords": [],
-  "aio_score": 73.0,
+  "location": "United States",
+  "keywords": [
+    "python scaling",
+    "ray distributed computing",
+    "distributed python",
+    "data science",
+    "machine learning",
+    "cluster computing",
+    "parallel processing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a2ba2319-23f4-5d5b-83e5-630682d548d8"
 }

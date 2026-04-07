@@ -1,11 +1,19 @@
 {
   "entity_id": "ce24e2ed-0a4d-5d71-a857-c22ad8dd5a8e",
+  "public_key_id": "ce24e2ed-0a4d-5d71-a857-c22ad8dd5a8e",
   "name": "TREATT",
   "what_it_does": "TREATT likely offers services or products related to media and communications.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "specialty chemicals",
+    "fragrance ingredients",
+    "personal care chemicals",
+    "crop protection",
+    "performance technologies",
+    "industrial chemicals"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ce24e2ed-0a4d-5d71-a857-c22ad8dd5a8e"
 }

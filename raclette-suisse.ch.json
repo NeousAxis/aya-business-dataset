@@ -1,11 +1,20 @@
 {
   "entity_id": "b18b7d89-2674-5502-8a5b-14265840de58",
+  "public_key_id": "b18b7d89-2674-5502-8a5b-14265840de58",
   "name": "Raclette Suisse",
   "what_it_does": "Raclette Suisse promotes and provides information about Swiss raclette cheese.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Swiss cheese",
+    "raclette",
+    "cheese promotion",
+    "dairy products",
+    "food information",
+    "culinary heritage",
+    "Swiss food"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b18b7d89-2674-5502-8a5b-14265840de58"
 }

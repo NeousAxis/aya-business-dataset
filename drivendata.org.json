@@ -1,11 +1,20 @@
 {
   "entity_id": "3bce4321-a97a-5a31-b2e3-5641934c7208",
+  "public_key_id": "3bce4321-a97a-5a31-b2e3-5641934c7208",
   "name": "DrivenData",
   "what_it_does": "DrivenData hosts data science competitions focused on social good.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "data science competitions",
+    "social good",
+    "machine learning challenges",
+    "AI for social impact",
+    "predictive modeling",
+    "data analysis contests",
+    "open-source solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3bce4321-a97a-5a31-b2e3-5641934c7208"
 }

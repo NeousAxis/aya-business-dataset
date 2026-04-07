@@ -1,20 +1,20 @@
 {
-  "entity_id": "e7907424-ca31-563a-b110-a6c33d581987",
-  "name": "Bdbiosciences",
-  "what_it_does": "Bdbiosciences develops and manufactures reagents, instruments, and software for use in life science research and clinical laboratories.",
+  "entity_id": "78b846bb-5df9-5fb8-93e4-94c7cdb26979",
+  "public_key_id": "78b846bb-5df9-5fb8-93e4-94c7cdb26979",
+  "name": "BD Biosciences",
+  "what_it_does": "BD Biosciences develops and manufactures instruments, reagents, and services for cell analysis and research.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
+  "location": "Canada",
   "keywords": [
+    "cell analysis instruments",
     "flow cytometry",
-    "cell analysis",
     "reagents",
     "antibodies",
-    "research tools",
-    "life science products",
-    "cell sorting",
-    "immunology research"
+    "life science research",
+    "cell culture",
+    "genomics"
   ],
   "aio_score": 50.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/e7907424-ca31-563a-b110-a6c33d581987"
+  "certificate_url": "https://ai-visionary.com/aya/e/78b846bb-5df9-5fb8-93e4-94c7cdb26979"
 }

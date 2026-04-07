@@ -1,11 +1,21 @@
 {
   "entity_id": "159f0765-2548-5d56-9b7d-795ec1ce5016",
+  "public_key_id": "159f0765-2548-5d56-9b7d-795ec1ce5016",
   "name": "Bulk™",
   "what_it_does": "Bulk sells sports nutrition, supplements, and healthy foods online.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Luxembourg",
-  "keywords": [],
+  "keywords": [
+    "sports nutrition",
+    "protein supplements",
+    "healthy foods",
+    "online retailer",
+    "bodybuilding supplements",
+    "fitness foods",
+    "nutrition products",
+    "weight loss supplements"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/159f0765-2548-5d56-9b7d-795ec1ce5016"
 }

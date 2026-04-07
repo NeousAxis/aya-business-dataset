@@ -1,11 +1,20 @@
 {
   "entity_id": "cf8a19c2-2c56-5f08-986c-70f23e7d85a9",
+  "public_key_id": "cf8a19c2-2c56-5f08-986c-70f23e7d85a9",
   "name": "Deindeal",
   "what_it_does": "Deindeal likely offers deals and promotions for travel and tourism activities in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Swiss deals",
+    "travel deals Switzerland",
+    "tourism promotions",
+    "discounted travel",
+    "activity booking Switzerland",
+    "Swiss travel offers",
+    "vacation packages Switzerland"
+  ],
   "aio_score": 24.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cf8a19c2-2c56-5f08-986c-70f23e7d85a9"
 }

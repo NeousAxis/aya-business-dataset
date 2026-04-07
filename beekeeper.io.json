@@ -1,11 +1,21 @@
 {
   "entity_id": "06bc30f9-b462-537b-a18d-dacc21013e8a",
+  "public_key_id": "06bc30f9-b462-537b-a18d-dacc21013e8a",
   "name": "Your Frontline Success Platform",
   "what_it_does": "Beekeeper is a communication platform designed for frontline workers to improve internal communication.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "frontline communication",
+    "internal communication",
+    "employee engagement",
+    "frontline workers",
+    "team collaboration",
+    "mobile communication",
+    "operational communication",
+    "employee communication"
+  ],
+  "aio_score": 68.0,
   "certificate_url": "https://ai-visionary.com/aya/e/06bc30f9-b462-537b-a18d-dacc21013e8a"
 }

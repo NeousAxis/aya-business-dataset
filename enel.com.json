@@ -1,11 +1,21 @@
 {
   "entity_id": "2bf5de54-05e4-5deb-9f55-8c7703af13f9",
+  "public_key_id": "2bf5de54-05e4-5deb-9f55-8c7703af13f9",
   "name": "About",
   "what_it_does": "Enel is a multinational energy company that generates and distributes electricity and gas.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "energy generation",
+    "electricity distribution",
+    "gas distribution",
+    "power plants",
+    "renewable energy",
+    "energy market",
+    "utilities",
+    "energy trading"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2bf5de54-05e4-5deb-9f55-8c7703af13f9"
 }

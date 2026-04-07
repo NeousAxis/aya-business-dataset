@@ -1,11 +1,21 @@
 {
   "entity_id": "ae764e87-02b8-5db8-930e-f8d401d85563",
+  "public_key_id": "ae764e87-02b8-5db8-930e-f8d401d85563",
   "name": "Backbase",
   "what_it_does": "Backbase provides a digital banking platform for financial institutions.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
-  "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "location": "Netherlands",
+  "keywords": [
+    "digital banking",
+    "banking software",
+    "financial institutions",
+    "customer experience",
+    "omnichannel banking",
+    "banking UX",
+    "fintech",
+    "banking platform"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ae764e87-02b8-5db8-930e-f8d401d85563"
 }

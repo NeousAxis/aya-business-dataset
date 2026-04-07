@@ -1,11 +1,20 @@
 {
   "entity_id": "53e143ca-5b66-524c-8795-a03590c877de",
+  "public_key_id": "53e143ca-5b66-524c-8795-a03590c877de",
   "name": "Upsun",
   "what_it_does": "Upsun provides a platform for deploying, managing, and scaling web applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "web applications",
+    "application deployment",
+    "application ",
+    "application scaling",
+    "hosting",
+    "web development",
+    "headless CMS"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/53e143ca-5b66-524c-8795-a03590c877de"
 }

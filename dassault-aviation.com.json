@@ -1,11 +1,21 @@
 {
   "entity_id": "95ce831a-361b-52d2-a5ae-2af3fec6b481",
+  "public_key_id": "95ce831a-361b-52d2-a5ae-2af3fec6b481",
   "name": "Dassault Aviation, a major player to aeronautics",
   "what_it_does": "Dassault Aviation designs and manufactures military and business aircraft.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "military aircraft",
+    "business jets",
+    "aircraft manufacturing",
+    "aviation technology",
+    "aerospace",
+    "defense industry",
+    "falcon jets",
+    "fighter jets"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/95ce831a-361b-52d2-a5ae-2af3fec6b481"
 }

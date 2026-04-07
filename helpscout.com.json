@@ -1,11 +1,20 @@
 {
   "entity_id": "5edc23f7-5ff9-50c9-a41b-e559a104efd9",
+  "public_key_id": "5edc23f7-5ff9-50c9-a41b-e559a104efd9",
   "name": "Help Scout",
   "what_it_does": "Help Scout provides customer support software with a focus on email management and knowledge bases.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "customer support",
+    "email management",
+    "knowledge base",
+    "help desk",
+    "customer communication",
+    "support ticketing",
+    "SaaS support"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5edc23f7-5ff9-50c9-a41b-e559a104efd9"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "4336835d-9feb-5490-860e-9b1d96650c9c",
+  "public_key_id": "4336835d-9feb-5490-860e-9b1d96650c9c",
   "name": "Baseten",
   "what_it_does": "Baseten provides a platform for deploying and scaling machine learning models.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "machine learning deployment",
+    "model scaling",
+    "MLOps",
+    "AI infrastructure",
+    "model serving",
+    "inference platform",
+    "AI deployment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4336835d-9feb-5490-860e-9b1d96650c9c"
 }

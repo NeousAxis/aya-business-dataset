@@ -1,11 +1,20 @@
 {
   "entity_id": "982cbecf-75d3-574b-a2ad-c9ea3d77c713",
+  "public_key_id": "982cbecf-75d3-574b-a2ad-c9ea3d77c713",
   "name": "Mapletree",
   "what_it_does": "Mapletree is a real estate company that invests in, develops, and manages a diverse portfolio of properties.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "China",
-  "keywords": [],
+  "keywords": [
+    "real estate investment",
+    "property development",
+    "real estate management",
+    "commercial real estate",
+    "residential real estate",
+    "property portfolio",
+    "real estate assets"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/982cbecf-75d3-574b-a2ad-c9ea3d77c713"
 }

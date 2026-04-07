@@ -1,11 +1,21 @@
 {
   "entity_id": "80ef5259-8cfe-51b6-8a2c-29b869aa499d",
+  "public_key_id": "80ef5259-8cfe-51b6-8a2c-29b869aa499d",
   "name": "EXPERTsuisse",
   "what_it_does": "EXPERTsuisse offers certifications and continuing education for audit, tax, and fiduciary professionals in Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 30.0,
+  "keywords": [
+    "Swiss certification",
+    "Switzerland",
+    "audit professionals",
+    "tax professionals",
+    "fiduciary professionals",
+    "continuing education",
+    "professional development",
+    "EXPERTsuisse certifications"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/80ef5259-8cfe-51b6-8a2c-29b869aa499d"
 }

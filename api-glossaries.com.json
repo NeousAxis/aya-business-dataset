@@ -1,0 +1,21 @@
+{
+  "entity_id": "fa0dff02-0079-4af1-826f-dd3b2c55cd8b",
+  "public_key_id": "fa0dff02-0079-4af1-826f-dd3b2c55cd8b",
+  "name": "API Glossaries",
+  "what_it_does": "API Glossaries provides structured and AI-optimized ESG databases and philosophies. It serves developers, API teams, technical writers, AI developers, researchers, and enterprises.",
+  "for_who": "developpeurs, equipes API, redacteurs techniques, IA développeurs, chercheurs, entreprises.",
+  "category": "Base de données ESG et philosophie structurées et optimisées pour l'IA",
+  "location": "Switzerland",
+  "keywords": [
+    "ESG data",
+    "API",
+    "AI",
+    "database",
+    "sustainability",
+    "technical documentation",
+    "developers",
+    "structured data"
+  ],
+  "aio_score": 50.0,
+  "certificate_url": "https://ai-visionary.com/aya/e/fa0dff02-0079-4af1-826f-dd3b2c55cd8b"
+}

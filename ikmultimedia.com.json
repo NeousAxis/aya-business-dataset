@@ -1,11 +1,21 @@
 {
   "entity_id": "d6152fd3-e98d-5f56-9fdf-4d50e146c5e2",
+  "public_key_id": "d6152fd3-e98d-5f56-9fdf-4d50e146c5e2",
   "name": "IK MULTIMEDIA. SOUND BETTER.",
   "what_it_does": "IK Multimedia develops music production software and hardware.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Italy",
-  "keywords": [],
+  "keywords": [
+    "music production",
+    "audio effects",
+    "virtual instruments",
+    "music software",
+    "audio hardware",
+    "guitar effects",
+    "synthesizers",
+    "recording equipment"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6152fd3-e98d-5f56-9fdf-4d50e146c5e2"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "a6412d5e-db6a-5d60-aff3-4b9698f63466",
-  "name": "Cooled by Corintis",
+  "public_key_id": "a6412d5e-db6a-5d60-aff3-4b9698f63466",
+  "name": "Corintis",
   "what_it_does": "Corintis manufactures cooling solutions for electronic components, likely focusing on high-performance applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "electronic cooling",
+    "thermal management",
+    "heat sinks",
+    "cooling solutions",
+    "high-performance cooling",
+    "electronics components",
+    "cooling systems"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a6412d5e-db6a-5d60-aff3-4b9698f63466"
 }

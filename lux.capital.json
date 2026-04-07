@@ -1,11 +1,20 @@
 {
   "entity_id": "88b27c8a-eef5-54d4-96a6-dff2cc71a7c7",
+  "public_key_id": "88b27c8a-eef5-54d4-96a6-dff2cc71a7c7",
   "name": "Lux Capital",
   "what_it_does": "Lux Capital is a venture capital firm that invests in science and technology startups.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "venture capital",
+    "startup investments",
+    "early stage funding",
+    "science investments",
+    "deep technology",
+    "technology startups",
+    "seed funding"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/88b27c8a-eef5-54d4-96a6-dff2cc71a7c7"
 }

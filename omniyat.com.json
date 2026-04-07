@@ -1,11 +1,20 @@
 {
   "entity_id": "ba60382f-4609-5c38-8f16-75fbbc5235ff",
+  "public_key_id": "ba60382f-4609-5c38-8f16-75fbbc5235ff",
   "name": "OMNIYAT",
   "what_it_does": "OMNIYAT likely produces media or communication-related content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Arab Emirates",
-  "keywords": [],
+  "keywords": [
+    "media production",
+    "communication strategy",
+    "content creation",
+    "brand storytelling",
+    "public relations",
+    "marketing campaigns",
+    "advertising"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ba60382f-4609-5c38-8f16-75fbbc5235ff"
 }

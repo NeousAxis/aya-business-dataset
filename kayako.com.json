@@ -1,11 +1,21 @@
 {
   "entity_id": "23833e55-0b51-5873-aefd-d159e3599cf3",
+  "public_key_id": "23833e55-0b51-5873-aefd-d159e3599cf3",
   "name": "Kayako",
   "what_it_does": "Kayako provides customer service and help desk software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "customer support",
+    "help desk",
+    "ticketing system",
+    "customer communication",
+    "support automation",
+    "customer relationship",
+    "issue tracking",
+    "SLA compliance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/23833e55-0b51-5873-aefd-d159e3599cf3"
 }

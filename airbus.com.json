@@ -1,11 +1,21 @@
 {
   "entity_id": "41d04282-590c-50ee-8072-f34ddd0eb085",
+  "public_key_id": "41d04282-590c-50ee-8072-f34ddd0eb085",
   "name": "Airbus",
   "what_it_does": "Airbus designs, manufactures, and sells commercial and military aircraft, helicopters, and space systems.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 73.0,
+  "keywords": [
+    "commercial aircraft",
+    "military aircraft",
+    "aerospace manufacturing",
+    "helicopter manufacturing",
+    "space systems",
+    "aviation industry",
+    "aircraft sales",
+    "aircraft engineering"
+  ],
+  "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/41d04282-590c-50ee-8072-f34ddd0eb085"
 }

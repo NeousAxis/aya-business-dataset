@@ -1,11 +1,21 @@
 {
   "entity_id": "b9ad9aaa-0622-5758-8264-e0184cad0ad5",
+  "public_key_id": "b9ad9aaa-0622-5758-8264-e0184cad0ad5",
   "name": "Renkus-Heinz",
   "what_it_does": "Renkus-Heinz designs and manufactures professional loudspeaker systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 58.0,
+  "keywords": [
+    "professional loudspeakers",
+    "sound reinforcement",
+    "audio systems",
+    "loudspeaker systems",
+    "sound systems",
+    "audio engineering",
+    "loudspeaker design",
+    "public address systems"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b9ad9aaa-0622-5758-8264-e0184cad0ad5"
 }

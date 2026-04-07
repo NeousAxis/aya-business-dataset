@@ -1,11 +1,19 @@
 {
   "entity_id": "3f71f558-19cb-563c-82b1-f8bbd2d83d65",
+  "public_key_id": "3f71f558-19cb-563c-82b1-f8bbd2d83d65",
   "name": "X. It’s what’s happening",
   "what_it_does": "X (formerly Twitter) is a social media platform for real-time communication and public discourse.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "FM",
-  "keywords": [],
-  "aio_score": 74.0,
+  "location": "United States",
+  "keywords": [
+    "microblogging",
+    "social networking",
+    "real-time communication",
+    "news sharing",
+    "public discourse",
+    "social media platform"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3f71f558-19cb-563c-82b1-f8bbd2d83d65"
 }

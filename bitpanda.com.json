@@ -1,11 +1,20 @@
 {
   "entity_id": "47685a54-1e8f-5038-ac3b-fd9779b47995",
+  "public_key_id": "47685a54-1e8f-5038-ac3b-fd9779b47995",
   "name": "Bitpanda",
   "what_it_does": "Bitpanda is a cryptocurrency brokerage platform enabling users to buy, sell, and trade digital assets.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "cryptocurrency brokerage",
+    "digital asset investment",
+    "bitcoin",
+    "ethereum",
+    "crypto trading",
+    "virtual assets",
+    "blockchain assets"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/47685a54-1e8f-5038-ac3b-fd9779b47995"
 }

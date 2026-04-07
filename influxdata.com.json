@@ -1,11 +1,21 @@
 {
   "entity_id": "4506a383-49e1-52c9-883b-c674dc076edb",
+  "public_key_id": "4506a383-49e1-52c9-883b-c674dc076edb",
   "name": "InfluxData",
   "what_it_does": "InfluxData provides a time series data platform for monitoring and analytics.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 41.0,
+  "keywords": [
+    "time series database",
+    "data analytics",
+    "monitoring tools",
+    "data visualization",
+    "IoT data",
+    "DevOps monitoring",
+    "application performance",
+    "time series platform"
+  ],
+  "aio_score": 66.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4506a383-49e1-52c9-883b-c674dc076edb"
 }

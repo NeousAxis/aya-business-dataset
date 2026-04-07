@@ -1,11 +1,21 @@
 {
   "entity_id": "c6a2fe81-86eb-559e-b929-45846ec9c53e",
+  "public_key_id": "c6a2fe81-86eb-559e-b929-45846ec9c53e",
   "name": "Cornerstone Research",
   "what_it_does": "Cornerstone Research provides economic and financial consulting services for litigation and regulatory matters.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 71.0,
+  "keywords": [
+    "economic consulting",
+    "financial consulting",
+    "litigation support",
+    "regulatory consulting",
+    "expert testimony",
+    "financial analysis",
+    "econometric analysis",
+    "damage assessment"
+  ],
+  "aio_score": 55.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c6a2fe81-86eb-559e-b929-45846ec9c53e"
 }

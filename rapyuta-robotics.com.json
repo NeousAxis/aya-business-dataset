@@ -1,11 +1,20 @@
 {
   "entity_id": "67acfdd5-90bb-5906-99e5-a502a94f3f89",
+  "public_key_id": "67acfdd5-90bb-5906-99e5-a502a94f3f89",
   "name": "Rapyuta Robotics",
   "what_it_does": "Rapyuta Robotics develops and deploys autonomous mobile robots and cloud robotics platforms.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "autonomous mobile robots",
+    "cloud robotics",
+    "robotics",
+    "automation",
+    "warehouse robotics",
+    "logistics robots",
+    "robot fleet"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/67acfdd5-90bb-5906-99e5-a502a94f3f89"
 }

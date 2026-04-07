@@ -1,11 +1,21 @@
 {
   "entity_id": "f8351904-ea79-5568-88d7-5a2cf7eeef03",
+  "public_key_id": "f8351904-ea79-5568-88d7-5a2cf7eeef03",
   "name": "Mimecast",
   "what_it_does": "Mimecast provides cloud-based email management services including security, archiving, and continuity.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "email security",
+    "email archiving",
+    "email continuity",
+    "cloud email",
+    "cybersecurity",
+    "email risk",
+    "threat protection",
+    "email management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f8351904-ea79-5568-88d7-5a2cf7eeef03"
 }

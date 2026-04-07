@@ -1,11 +1,20 @@
 {
   "entity_id": "36f5d075-f111-562e-9903-408fb216a144",
+  "public_key_id": "36f5d075-f111-562e-9903-408fb216a144",
   "name": "Getty Images",
   "what_it_does": "Getty Images is a stock photography agency providing images, videos, and music for commercial use.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Australia",
-  "keywords": [],
-  "aio_score": 68.0,
+  "keywords": [
+    "stock photos",
+    "stock videos",
+    "royalty-free images",
+    "editorial photography",
+    "commercial licensing",
+    "creative content",
+    "visual assets"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/36f5d075-f111-562e-9903-408fb216a144"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "588f0376-c3ab-5111-9cd7-cd753589e278",
+  "public_key_id": "588f0376-c3ab-5111-9cd7-cd753589e278",
   "name": "Westwing Group",
   "what_it_does": "Westwing Group operates an online shop for home and living products.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "home decor",
+    "furniture",
+    "interior design",
+    "living products",
+    "home accessories",
+    "online furniture",
+    "e-commerce",
+    "home furnishings"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/588f0376-c3ab-5111-9cd7-cd753589e278"
 }

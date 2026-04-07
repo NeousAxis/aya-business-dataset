@@ -1,11 +1,21 @@
 {
   "entity_id": "cd95513e-c87e-5acc-abc0-7caf745542a1",
+  "public_key_id": "cd95513e-c87e-5acc-abc0-7caf745542a1",
   "name": "Teradata",
   "what_it_does": "Teradata provides database and analytics software and services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "database software",
+    "analytics software",
+    "data warehousing",
+    "big data analytics",
+    "data management",
+    "cloud data platform",
+    "data integration",
+    "business intelligence"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cd95513e-c87e-5acc-abc0-7caf745542a1"
 }

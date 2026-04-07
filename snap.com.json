@@ -1,11 +1,21 @@
 {
   "entity_id": "ec747d4f-0f44-52b2-b651-1ecb4368f5b9",
+  "public_key_id": "ec747d4f-0f44-52b2-b651-1ecb4368f5b9",
   "name": "Snap",
   "what_it_does": "Snap operates the Snapchat messaging app and related advertising services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "India",
-  "keywords": [],
+  "keywords": [
+    "messaging app",
+    "Snapchat",
+    "photo sharing",
+    "video sharing",
+    "social media",
+    "augmented reality",
+    "mobile advertising",
+    "digital marketing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec747d4f-0f44-52b2-b651-1ecb4368f5b9"
 }

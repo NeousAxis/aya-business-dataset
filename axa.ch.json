@@ -1,11 +1,21 @@
 {
   "entity_id": "883b1af8-8f10-5369-93a0-b3364ecd57b1",
+  "public_key_id": "883b1af8-8f10-5369-93a0-b3364ecd57b1",
   "name": "AXA Versicherungen AG",
   "what_it_does": "AXA Versicherungen AG offers insurance products in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 80.0,
+  "keywords": [
+    "Swiss insurance",
+    "property insurance",
+    "liability insurance",
+    "health insurance",
+    "life insurance",
+    "accident insurance",
+    "pension plans",
+    "Swiss finance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/883b1af8-8f10-5369-93a0-b3364ecd57b1"
 }

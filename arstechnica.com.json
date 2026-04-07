@@ -1,11 +1,20 @@
 {
   "entity_id": "6c87fe6d-eff0-5c6e-932b-7721bf724028",
+  "public_key_id": "6c87fe6d-eff0-5c6e-932b-7721bf724028",
   "name": "Ars Technica",
   "what_it_does": "Ars Technica publishes news, reviews, and articles on technology, science, and culture.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 56.0,
+  "keywords": [
+    "Tech journalism",
+    "Science news",
+    "Technology reviews",
+    "Gadget reviews",
+    "Science articles",
+    "Tech analysis",
+    "Culture commentary"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6c87fe6d-eff0-5c6e-932b-7721bf724028"
 }

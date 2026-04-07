@@ -1,11 +1,21 @@
 {
   "entity_id": "3ee1b7d4-203e-5035-8892-5a9f0e523684",
+  "public_key_id": "3ee1b7d4-203e-5035-8892-5a9f0e523684",
   "name": "Verbier",
   "what_it_does": "Verbier is a village and major ski resort in the Swiss Alps.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "ski resort",
+    "Swiss Alps",
+    "skiing",
+    "winter sports",
+    "mountain resort",
+    "luxury travel",
+    "Valais",
+    "ski holidays"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3ee1b7d4-203e-5035-8892-5a9f0e523684"
 }

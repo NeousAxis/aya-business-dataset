@@ -1,11 +1,21 @@
 {
   "entity_id": "9688a315-d588-5592-8dcb-951761456d9a",
+  "public_key_id": "9688a315-d588-5592-8dcb-951761456d9a",
   "name": "Valeo",
   "what_it_does": "Valeo designs and manufactures automotive components and systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "automotive components",
+    "automotive systems",
+    "auto parts",
+    "automotive industry",
+    "driving assistance",
+    "powertrain systems",
+    "thermal systems",
+    "visibility systems"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9688a315-d588-5592-8dcb-951761456d9a"
 }

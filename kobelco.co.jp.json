@@ -1,11 +1,21 @@
 {
   "entity_id": "0d1c21a8-648b-592a-aa7a-6077d15357e5",
+  "public_key_id": "0d1c21a8-648b-592a-aa7a-6077d15357e5",
   "name": "KOBE STEEL, LTD.",
   "what_it_does": "Kobe Steel manufactures iron, steel, aluminum, and copper products, as well as industrial machinery.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Japan",
-  "keywords": [],
-  "aio_score": 58.0,
+  "keywords": [
+    "iron products",
+    "steel products",
+    "aluminum products",
+    "copper products",
+    "industrial machinery",
+    "material manufacturing",
+    "Kobe Steel",
+    "metal fabrication"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0d1c21a8-648b-592a-aa7a-6077d15357e5"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "17441c03-476d-5ebe-9d95-2499362afc67",
+  "public_key_id": "17441c03-476d-5ebe-9d95-2499362afc67",
   "name": "MyFitnessPal",
   "what_it_does": "MyFitnessPal is a mobile app and website for tracking diet and exercise.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "China",
-  "keywords": [],
+  "keywords": [
+    "diet tracking",
+    "exercise tracking",
+    "calorie counting",
+    "food diary",
+    "weight loss",
+    "nutrition app",
+    "fitness app",
+    "health tracking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/17441c03-476d-5ebe-9d95-2499362afc67"
 }

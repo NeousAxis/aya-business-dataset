@@ -1,11 +1,21 @@
 {
   "entity_id": "c56f9fee-0f54-51a6-9e99-c595a5e9a045",
+  "public_key_id": "c56f9fee-0f54-51a6-9e99-c595a5e9a045",
   "name": "SPARTOO",
   "what_it_does": "SPARTOO is an online retailer specializing in shoes and clothing.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "shoes",
+    "footwear",
+    "clothing",
+    "fashion retail",
+    "e-commerce",
+    "online shopping",
+    "bags",
+    "accessories"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c56f9fee-0f54-51a6-9e99-c595a5e9a045"
 }

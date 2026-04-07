@@ -1,11 +1,21 @@
 {
   "entity_id": "865112d7-d78e-55b9-8d99-2dbed57c50eb",
+  "public_key_id": "865112d7-d78e-55b9-8d99-2dbed57c50eb",
   "name": "Elastic",
   "what_it_does": "Elastic provides a search and analytics engine for structured and unstructured data.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "United States",
-  "keywords": [],
-  "aio_score": 75.0,
+  "location": "Netherlands",
+  "keywords": [
+    "search engine",
+    "analytics engine",
+    "data analysis",
+    "data visualization",
+    "structured data",
+    "unstructured data",
+    "data indexing",
+    "real-time search"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/865112d7-d78e-55b9-8d99-2dbed57c50eb"
 }

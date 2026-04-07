@@ -1,11 +1,21 @@
 {
   "entity_id": "af1e44d3-c2ce-567a-9372-1834e0fb6cbc",
+  "public_key_id": "af1e44d3-c2ce-567a-9372-1834e0fb6cbc",
   "name": "Dymension",
   "what_it_does": "Dymension is a modular blockchain network focused on building app-specific rollups.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "modular blockchain",
+    "app-specific rollups",
+    "blockchain network",
+    "layer 2 scaling",
+    "rollup infrastructure",
+    "blockchain development",
+    "decentralized applications",
+    "Web3 infrastructure"
+  ],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/af1e44d3-c2ce-567a-9372-1834e0fb6cbc"
 }

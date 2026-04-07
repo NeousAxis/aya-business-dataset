@@ -1,11 +1,21 @@
 {
   "entity_id": "3fdcb41b-4e8e-5d6e-81e9-d218f6be986a",
+  "public_key_id": "3fdcb41b-4e8e-5d6e-81e9-d218f6be986a",
   "name": "Bechtel",
   "what_it_does": "Bechtel is a large engineering, procurement, and construction company.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "engineering",
+    "procurement",
+    "construction",
+    "EPC",
+    "infrastructure projects",
+    "industrial construction",
+    "large scale construction",
+    "project management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3fdcb41b-4e8e-5d6e-81e9-d218f6be986a"
 }

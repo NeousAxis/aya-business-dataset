@@ -1,11 +1,20 @@
 {
   "entity_id": "3a96189d-c7e4-5868-9ce2-f4d864f9edbe",
+  "public_key_id": "3a96189d-c7e4-5868-9ce2-f4d864f9edbe",
   "name": "Accueil Particuliers",
   "what_it_does": "Malakoff Humanis offers insurance and financial services, including retirement planning, to individuals and businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 51.0,
+  "keywords": [
+    "insurance",
+    "retirement planning",
+    "financial services",
+    "health insurance",
+    "employee benefits",
+    "pension plans",
+    "wealth"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3a96189d-c7e4-5868-9ce2-f4d864f9edbe"
 }

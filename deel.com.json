@@ -1,11 +1,20 @@
 {
   "entity_id": "5aab4c00-2da0-5bc4-8ef5-ad572bd5497e",
+  "public_key_id": "5aab4c00-2da0-5bc4-8ef5-ad572bd5497e",
   "name": "Deel",
   "what_it_does": "Deel provides a global payroll and compliance platform for hiring and managing international teams.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "South Korea",
-  "keywords": [],
+  "keywords": [
+    "global payroll",
+    "international teams",
+    "compliance platform",
+    "remote hiring",
+    "global workforce",
+    "HR solutions",
+    "cross-border employment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5aab4c00-2da0-5bc4-8ef5-ad572bd5497e"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "8cc10553-bedb-5c49-8175-4c41ef825dfb",
+  "public_key_id": "8cc10553-bedb-5c49-8175-4c41ef825dfb",
   "name": "Vtx",
   "what_it_does": "VTX provides telecommunications services including internet, television, and telephone in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "Swiss telecom",
+    "internet access",
+    "television services",
+    "telephone services",
+    "Switzerland ISP",
+    "VTX telecom",
+    "data transmission",
+    "fiber optic internet"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8cc10553-bedb-5c49-8175-4c41ef825dfb"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "5940a3f7-ae74-51ed-ae0c-891c19c9ded6",
+  "public_key_id": "5940a3f7-ae74-51ed-ae0c-891c19c9ded6",
   "name": "Veeva Systems",
   "what_it_does": "Veeva Systems provides cloud-based software solutions and data management for the life sciences industry.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "life sciences software",
+    "pharmaceutical software",
+    "cloud solutions",
+    "data management",
+    "clinical trials",
+    "regulatory compliance",
+    "pharma industry"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5940a3f7-ae74-51ed-ae0c-891c19c9ded6"
 }

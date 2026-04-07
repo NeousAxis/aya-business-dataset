@@ -1,11 +1,21 @@
 {
   "entity_id": "a59edb30-019a-5cd7-90b2-127d8ec1b0b0",
+  "public_key_id": "a59edb30-019a-5cd7-90b2-127d8ec1b0b0",
   "name": "Wyze Labs, Inc.",
   "what_it_does": "Wyze Labs sells affordable smart home security cameras and devices.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "smart home cameras",
+    "home security",
+    "affordable electronics",
+    "security cameras",
+    "smart home devices",
+    "home automation",
+    "video surveillance",
+    "consumer electronics"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a59edb30-019a-5cd7-90b2-127d8ec1b0b0"
 }

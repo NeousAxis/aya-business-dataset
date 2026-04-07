@@ -1,11 +1,20 @@
 {
   "entity_id": "9a317a8b-4a59-53b6-860f-daf9854a6d0b",
+  "public_key_id": "9a317a8b-4a59-53b6-860f-daf9854a6d0b",
   "name": "Yac",
   "what_it_does": "Yac provides a voice messaging platform for workplace communication.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "voice messaging",
+    "workplace communication",
+    "asynchronous communication",
+    "team collaboration",
+    "audio messaging",
+    "internal communication",
+    "remote team communication"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9a317a8b-4a59-53b6-860f-daf9854a6d0b"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "c85b0741-0687-5e7a-93db-7187598d0240",
+  "public_key_id": "c85b0741-0687-5e7a-93db-7187598d0240",
   "name": "Trend Micro",
   "what_it_does": "Trend Micro develops cybersecurity software for businesses and consumers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 78.0,
+  "keywords": [
+    "cybersecurity",
+    "antivirus ",
+    "endpoint ",
+    "cloud security",
+    "threat intelligence",
+    "security ",
+    "data protection",
+    "malware protection"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c85b0741-0687-5e7a-93db-7187598d0240"
 }

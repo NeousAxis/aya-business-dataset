@@ -1,11 +1,21 @@
 {
   "entity_id": "3b3926ea-0ac8-5204-b301-2befb3788e71",
+  "public_key_id": "3b3926ea-0ac8-5204-b301-2befb3788e71",
   "name": "Swift.org",
   "what_it_does": "Swift.org develops and maintains the Swift programming language.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Swift programming language",
+    "open source language",
+    "iOS development",
+    "macOS development",
+    "Linux development",
+    "Apple ecosystem",
+    "systems programming",
+    "mobile app development"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b3926ea-0ac8-5204-b301-2befb3788e71"
 }

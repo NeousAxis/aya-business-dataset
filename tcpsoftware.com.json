@@ -1,11 +1,21 @@
 {
   "entity_id": "9f522f7c-6a67-5fd6-994a-7d6d672a9d2e",
+  "public_key_id": "9f522f7c-6a67-5fd6-994a-7d6d672a9d2e",
   "name": "Employee Scheduling & Shift Planning Software",
   "what_it_does": "TCP Software provides employee time and attendance, scheduling, and workforce management software.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 73.0,
+  "keywords": [
+    "employee time",
+    "attendance tracking",
+    "scheduling software",
+    "workforce management systems",
+    "labor management",
+    "time clocks",
+    "absence management",
+    "employee scheduling"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f522f7c-6a67-5fd6-994a-7d6d672a9d2e"
 }

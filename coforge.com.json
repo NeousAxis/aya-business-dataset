@@ -1,11 +1,20 @@
 {
   "entity_id": "b16369db-5796-548b-b810-73bc36b21cbf",
-  "name": "Coforge Corporate Showcase Video",
+  "public_key_id": "b16369db-5796-548b-b810-73bc36b21cbf",
+  "name": "Coforge",
   "what_it_does": "Coforge provides IT and business process outsourcing services to various industries.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
-  "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "location": "India",
+  "keywords": [
+    "IT outsourcing",
+    "business process outsourcing",
+    "application development",
+    "infrastructure",
+    "IT infrastructure",
+    "BPO",
+    "outsourcing services"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b16369db-5796-548b-b810-73bc36b21cbf"
 }

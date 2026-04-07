@@ -1,11 +1,20 @@
 {
   "entity_id": "31236c2f-43a1-51f8-b203-e04caedc8a80",
+  "public_key_id": "31236c2f-43a1-51f8-b203-e04caedc8a80",
   "name": "Airwallex UK",
   "what_it_does": "Airwallex provides a global financial platform for businesses, offering services like multi-currency accounts and international payments.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "global financial platform",
+    "multi-currency accounts",
+    "international payments",
+    "cross-border payments",
+    "FX solutions",
+    "global banking",
+    "financial infrastructure"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/31236c2f-43a1-51f8-b203-e04caedc8a80"
 }

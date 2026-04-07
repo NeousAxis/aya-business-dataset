@@ -1,11 +1,21 @@
 {
   "entity_id": "e0c46fe7-98cf-56ef-89cd-d05291b786d6",
+  "public_key_id": "e0c46fe7-98cf-56ef-89cd-d05291b786d6",
   "name": "DE-CIX",
   "what_it_does": "DE-CIX operates internet exchange points for network interconnection.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "internet exchange points",
+    "network interconnection",
+    "peering",
+    "data centers",
+    "carrier neutral",
+    "internet traffic exchange",
+    "bandwidth",
+    "network infrastructure"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e0c46fe7-98cf-56ef-89cd-d05291b786d6"
 }

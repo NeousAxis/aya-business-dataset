@@ -1,11 +1,21 @@
 {
   "entity_id": "d2e1d925-ab91-50f8-ad29-e498c9d1579b",
+  "public_key_id": "d2e1d925-ab91-50f8-ad29-e498c9d1579b",
   "name": "Wood",
   "what_it_does": "Wood Group provides engineering, project, and technical services to energy and industrial markets.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "engineering services",
+    "project services",
+    "technical services",
+    "energy market",
+    "industrial market",
+    "Wood Group",
+    "engineering",
+    "industrial"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d2e1d925-ab91-50f8-ad29-e498c9d1579b"
 }

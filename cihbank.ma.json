@@ -1,11 +1,20 @@
 {
   "entity_id": "2e44fed5-4847-52fb-9840-a0555088f4e9",
+  "public_key_id": "2e44fed5-4847-52fb-9840-a0555088f4e9",
   "name": "CIH BANK",
   "what_it_does": "CIH BANK is a Moroccan bank offering retail and commercial banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "retail banking",
+    "commercial banking",
+    "Moroccan banking",
+    "personal finance",
+    "corporate finance",
+    "investment products",
+    "banking services"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2e44fed5-4847-52fb-9840-a0555088f4e9"
 }

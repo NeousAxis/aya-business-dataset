@@ -1,11 +1,21 @@
 {
   "entity_id": "ddc2aade-f118-5a2b-86f0-bf6657f9f544",
+  "public_key_id": "ddc2aade-f118-5a2b-86f0-bf6657f9f544",
   "name": "Manchester",
   "what_it_does": "The University of Manchester is a public research university.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "higher education",
+    "university research",
+    "UK university",
+    "academic programs",
+    "student education",
+    "postgraduate studies",
+    "undergraduate studies",
+    "research institution"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ddc2aade-f118-5a2b-86f0-bf6657f9f544"
 }

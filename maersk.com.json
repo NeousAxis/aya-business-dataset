@@ -1,11 +1,21 @@
 {
   "entity_id": "cd45bca5-535f-5a31-8562-92fb8f21db99",
+  "public_key_id": "cd45bca5-535f-5a31-8562-92fb8f21db99",
   "name": "Maersk",
   "what_it_does": "Maersk is a global container logistics company involved in ocean and inland freight transportation and supply chain management.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "container shipping",
+    "freight transport",
+    "supply chain",
+    "ocean transport",
+    "inland logistics",
+    "global shipping",
+    "cargo transportation",
+    "maritime transport"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cd45bca5-535f-5a31-8562-92fb8f21db99"
 }

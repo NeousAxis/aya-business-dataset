@@ -1,11 +1,21 @@
 {
   "entity_id": "2c70bb19-9653-5452-affc-689753e27cce",
+  "public_key_id": "2c70bb19-9653-5452-affc-689753e27cce",
   "name": "Matmut",
   "what_it_does": "Matmut is a French insurance company offering a range of personal and property insurance products.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "french insurance",
+    "car insurance",
+    "home insurance",
+    "health insurance",
+    "personal insurance",
+    "property insurance",
+    "insurance products",
+    "auto insurance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2c70bb19-9653-5452-affc-689753e27cce"
 }

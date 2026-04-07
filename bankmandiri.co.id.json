@@ -1,11 +1,21 @@
 {
   "entity_id": "a50d6824-0878-56d3-8344-3fc4bc088f93",
+  "public_key_id": "a50d6824-0878-56d3-8344-3fc4bc088f93",
   "name": "Bank Mandiri",
   "what_it_does": "Bank Mandiri is an Indonesian bank offering a range of financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Indonesia",
-  "keywords": [],
+  "keywords": [
+    "Indonesian bank",
+    "financial institutions",
+    "retail banking",
+    "corporate banking",
+    "Indonesian finance",
+    "loans",
+    "banking services",
+    "investment products"
+  ],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a50d6824-0878-56d3-8344-3fc4bc088f93"
 }

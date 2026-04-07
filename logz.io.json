@@ -1,11 +1,20 @@
 {
   "entity_id": "ca99015f-d5a7-533f-b484-587150ed9393",
+  "public_key_id": "ca99015f-d5a7-533f-b484-587150ed9393",
   "name": "Logz",
   "what_it_does": "Logz provides a cloud-based log analytics platform for monitoring and troubleshooting software applications.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "log analytics",
+    "cloud monitoring",
+    "software troubleshooting",
+    "observability",
+    "application performance",
+    "log data analysis",
+    "cloud security"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ca99015f-d5a7-533f-b484-587150ed9393"
 }

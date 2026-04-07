@@ -1,11 +1,21 @@
 {
   "entity_id": "96d8c6b3-95c7-51e8-8a22-f0350f7476cc",
+  "public_key_id": "96d8c6b3-95c7-51e8-8a22-f0350f7476cc",
   "name": "RedTag",
   "what_it_does": "RedTag is an online retailer selling discounted or clearance items, possibly fashion apparel.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "discounted apparel",
+    "clearance clothing",
+    "fashion e-commerce",
+    "online retail",
+    "budget fashion",
+    "clothing sales",
+    "apparel outlet",
+    "value fashion"
+  ],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/96d8c6b3-95c7-51e8-8a22-f0350f7476cc"
 }

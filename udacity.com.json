@@ -1,11 +1,21 @@
 {
   "entity_id": "c9dfe13e-e200-5b52-8aa6-7c222ba5b112",
+  "public_key_id": "c9dfe13e-e200-5b52-8aa6-7c222ba5b112",
   "name": "Udacity",
   "what_it_does": "Udacity offers online courses and nanodegree programs focused on technology skills.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "online courses",
+    "nanodegree programs",
+    "technology education",
+    "online learning",
+    "skills training",
+    "career advancement",
+    "tech skills",
+    "digital education"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c9dfe13e-e200-5b52-8aa6-7c222ba5b112"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "569d3eeb-9a4c-565a-98fa-6f7b580a7ed1",
+  "public_key_id": "569d3eeb-9a4c-565a-98fa-6f7b580a7ed1",
   "name": "IKEA",
   "what_it_does": "IKEA is a multinational furniture retailer selling ready-to-assemble furniture, appliances, and home accessories.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
-  "location": "Netherlands",
-  "keywords": [],
-  "aio_score": 62.0,
+  "location": "Sweden",
+  "keywords": [
+    "ready-to-assemble furniture",
+    "home furnishings",
+    "furniture retailer",
+    "home decor",
+    "kitchen appliances",
+    "affordable furniture",
+    "Swedish furniture",
+    "household goods"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/569d3eeb-9a4c-565a-98fa-6f7b580a7ed1"
 }

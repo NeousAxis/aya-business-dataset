@@ -1,11 +1,21 @@
 {
   "entity_id": "7b4aadc7-202a-5673-9aa0-fadc86ac1cf7",
+  "public_key_id": "7b4aadc7-202a-5673-9aa0-fadc86ac1cf7",
   "name": "JFrog",
   "what_it_does": "JFrog provides a DevOps platform for software release automation and management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "DevOps ",
+    "software release automation",
+    "artifact ",
+    "binary repository",
+    "DevOps platform",
+    "release ",
+    "software deployment",
+    "artifact management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7b4aadc7-202a-5673-9aa0-fadc86ac1cf7"
 }

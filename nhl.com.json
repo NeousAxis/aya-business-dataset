@@ -1,11 +1,21 @@
 {
   "entity_id": "cd932b1c-22d5-5e09-b67f-51c66284cb54",
+  "public_key_id": "cd932b1c-22d5-5e09-b67f-51c66284cb54",
   "name": "NHL",
   "what_it_does": "The NHL is a professional ice hockey league in North America.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "ice hockey league",
+    "North America",
+    "professional sports",
+    "hockey games",
+    "hockey teams",
+    "sports entertainment",
+    "national hockey league",
+    "hockey"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cd932b1c-22d5-5e09-b67f-51c66284cb54"
 }

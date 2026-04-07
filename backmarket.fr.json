@@ -1,11 +1,21 @@
 {
   "entity_id": "50220bda-95d2-5861-bd15-5a1c37b0d5a6",
+  "public_key_id": "50220bda-95d2-5861-bd15-5a1c37b0d5a6",
   "name": "Back Market",
   "what_it_does": "Back Market sells refurbished electronics online.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "refurbished electronics",
+    "recommerce",
+    "used electronics",
+    "discount electronics",
+    "electronics marketplace",
+    "consumer electronics",
+    "French marketplace",
+    "second hand electronics"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/50220bda-95d2-5861-bd15-5a1c37b0d5a6"
 }

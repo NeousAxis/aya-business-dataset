@@ -1,11 +1,21 @@
 {
   "entity_id": "08df576b-6eac-5653-ae38-77820588a7c1",
-  "name": "Siemens Healthineers Corporate Homepage",
+  "public_key_id": "08df576b-6eac-5653-ae38-77820588a7c1",
+  "name": "Siemens Healthineers",
   "what_it_does": "Siemens Healthineers develops and manufactures medical technology and provides related services.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "medical imaging",
+    "diagnostic equipment",
+    "healthcare",
+    "medical technology",
+    "clinical diagnostics",
+    "imaging systems",
+    "in-vitro diagnostics",
+    "healthcare IT"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/08df576b-6eac-5653-ae38-77820588a7c1"
 }

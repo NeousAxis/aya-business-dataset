@@ -1,11 +1,21 @@
 {
   "entity_id": "1dc6aa0b-8ba4-5500-9129-602e7b79bbbc",
+  "public_key_id": "1dc6aa0b-8ba4-5500-9129-602e7b79bbbc",
   "name": "Knauf Schweiz",
   "what_it_does": "Knauf manufactures building materials and construction systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "building materials",
+    "construction systems",
+    "drywall",
+    "plasterboard",
+    "insulation materials",
+    "Knauf",
+    "acoustic solutions",
+    "construction chemicals"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1dc6aa0b-8ba4-5500-9129-602e7b79bbbc"
 }

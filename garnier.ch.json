@@ -1,11 +1,21 @@
 {
   "entity_id": "ec2432b1-de69-5d70-83e0-97fbe7a0bb44",
+  "public_key_id": "ec2432b1-de69-5d70-83e0-97fbe7a0bb44",
   "name": "Garnier Schweiz",
   "what_it_does": "Garnier Schweiz sells hair care and skincare products in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "hair care products",
+    "skincare products",
+    "beauty products",
+    "cosmetics",
+    "hair coloring",
+    "facial cleansers",
+    "moisturizers",
+    "Switzerland retail"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec2432b1-de69-5d70-83e0-97fbe7a0bb44"
 }

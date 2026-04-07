@@ -1,11 +1,21 @@
 {
   "entity_id": "c2298ae1-2708-56c6-af31-33e872c96739",
+  "public_key_id": "c2298ae1-2708-56c6-af31-33e872c96739",
   "name": "MediaTek",
   "what_it_does": "MediaTek designs and manufactures integrated circuits for wireless communications and digital multimedia.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Japan",
-  "keywords": [],
+  "keywords": [
+    "integrated circuits",
+    "wireless communication chips",
+    "digital multimedia processors",
+    "mobile device components",
+    "semiconductor manufacturing",
+    "chip design",
+    "SoC",
+    "connectivity solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c2298ae1-2708-56c6-af31-33e872c96739"
 }

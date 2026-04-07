@@ -1,11 +1,20 @@
 {
   "entity_id": "b7281b0e-bd06-5ada-9e24-0c320a1f5365",
+  "public_key_id": "b7281b0e-bd06-5ada-9e24-0c320a1f5365",
   "name": "Arkema Global",
   "what_it_does": "Arkema is a specialty chemicals company producing materials for various industries.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "JA",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "specialty chemicals",
+    "performance materials",
+    "industrial adhesives",
+    "coating solutions",
+    "advanced materials",
+    "chemical manufacturing",
+    "polymer solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b7281b0e-bd06-5ada-9e24-0c320a1f5365"
 }

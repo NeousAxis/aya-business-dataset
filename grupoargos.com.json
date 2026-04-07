@@ -1,11 +1,20 @@
 {
   "entity_id": "9f01dc95-13a5-5dde-a90a-abd19142b5bc",
+  "public_key_id": "9f01dc95-13a5-5dde-a90a-abd19142b5bc",
   "name": "Grupo Argos",
   "what_it_does": "Grupo Argos likely offers SaaS solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 51.0,
+  "keywords": [
+    "flavor ingredients",
+    "fragrance ingredients",
+    "citrus extracts",
+    "specialty ingredients",
+    "beverage flavors",
+    "natural extracts",
+    "essential oils"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f01dc95-13a5-5dde-a90a-abd19142b5bc"
 }

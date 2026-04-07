@@ -1,11 +1,21 @@
 {
   "entity_id": "b60c87b6-c7dd-5f11-8922-47eb85c35f19",
+  "public_key_id": "b60c87b6-c7dd-5f11-8922-47eb85c35f19",
   "name": "Swisscard AECS, the Swiss credit card company",
   "what_it_does": "Swisscard AECS issues and manages credit cards in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "Swiss credit cards",
+    "credit card issuance",
+    "card payments",
+    "reward programs",
+    "credit card services",
+    "financial transactions",
+    "payment solutions",
+    "card management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b60c87b6-c7dd-5f11-8922-47eb85c35f19"
 }

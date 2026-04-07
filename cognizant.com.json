@@ -1,11 +1,21 @@
 {
   "entity_id": "7f666204-b258-597e-8071-13559a2bab09",
+  "public_key_id": "7f666204-b258-597e-8071-13559a2bab09",
   "name": "Cognizant",
   "what_it_does": "Cognizant provides IT services and consulting to businesses globally.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "IT consulting",
+    "IT services",
+    "outsourcing",
+    "systems integration",
+    "application development",
+    "enterprise solutions",
+    "global IT",
+    "IT infrastructure"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7f666204-b258-597e-8071-13559a2bab09"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "1fe5015f-583e-506d-99e3-36de7d1ab1a5",
+  "public_key_id": "1fe5015f-583e-506d-99e3-36de7d1ab1a5",
   "name": "a global leader in rail infrastructure",
   "what_it_does": "Vossloh provides rail infrastructure products and services, including rail fastening systems and switches.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "rail infrastructure",
+    "rail fastening systems",
+    "rail switches",
+    "railway technology",
+    "railway infrastructure",
+    "track systems",
+    "rail components",
+    "railway maintenance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1fe5015f-583e-506d-99e3-36de7d1ab1a5"
 }

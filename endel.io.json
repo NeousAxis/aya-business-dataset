@@ -1,11 +1,21 @@
 {
   "entity_id": "baefd832-a089-5638-b6e2-dc0003471b30",
-  "name": "Endel: Focus, Relax & Sleep",
+  "public_key_id": "baefd832-a089-5638-b6e2-dc0003471b30",
+  "name": "Endel",
   "what_it_does": "Endel creates personalized soundscapes designed to improve focus, relaxation, and sleep.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "personalized soundscapes",
+    "adaptive audio",
+    "focus music",
+    "relaxation sounds",
+    "sleep aid",
+    "algorithmic music",
+    "AI-generated music",
+    "sound therapy"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/baefd832-a089-5638-b6e2-dc0003471b30"
 }

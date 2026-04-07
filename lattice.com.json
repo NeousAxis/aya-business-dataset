@@ -1,11 +1,21 @@
 {
   "entity_id": "d6c6faa4-2c59-579b-a998-ee1570df835c",
+  "public_key_id": "d6c6faa4-2c59-579b-a998-ee1570df835c",
   "name": "Lattice",
   "what_it_does": "Lattice is a performance management platform for employee reviews and feedback.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "performance reviews",
+    "employee feedback",
+    "HR tools",
+    "employee engagement",
+    "performance appraisal",
+    "goal setting",
+    "OKRs",
+    "talent development"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6c6faa4-2c59-579b-a998-ee1570df835c"
 }

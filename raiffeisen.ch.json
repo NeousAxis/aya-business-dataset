@@ -1,11 +1,21 @@
 {
   "entity_id": "13cab6c9-7a71-524b-a8d3-cf6d3f01a7f1",
+  "public_key_id": "13cab6c9-7a71-524b-a8d3-cf6d3f01a7f1",
   "name": "Raiffeisen Schweiz",
   "what_it_does": "Raiffeisen.ch provides banking and financial services in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "Swiss banking",
+    "retail banking",
+    "financial ",
+    "loans",
+    "mortgages",
+    "savings accounts",
+    "Switzerland finance",
+    "personal banking"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/13cab6c9-7a71-524b-a8d3-cf6d3f01a7f1"
 }

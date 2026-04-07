@@ -1,11 +1,20 @@
 {
   "entity_id": "f188f016-8f1a-5931-a94d-6a610cf785a9",
+  "public_key_id": "f188f016-8f1a-5931-a94d-6a610cf785a9",
   "name": "Husqvarna Forest & Garden",
   "what_it_does": "Husqvarna manufactures outdoor power equipment like chainsaws and lawnmowers.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "chainsaws",
+    "lawnmowers",
+    "outdoor power equipment",
+    "forestry equipment",
+    "garden equipment",
+    "landscaping tools",
+    "arborist equipment"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f188f016-8f1a-5931-a94d-6a610cf785a9"
 }

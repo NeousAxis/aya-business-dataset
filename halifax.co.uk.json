@@ -1,11 +1,21 @@
 {
   "entity_id": "daa20f06-101e-56ad-adad-f850df24684b",
+  "public_key_id": "daa20f06-101e-56ad-adad-f850df24684b",
   "name": "Halifax",
   "what_it_does": "Halifax is a UK-based bank offering mortgages, savings accounts, and other financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "mortgages",
+    "savings accounts",
+    "UK bank",
+    "financial services",
+    "loans",
+    "banking",
+    "personal banking",
+    "UK mortgages"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/daa20f06-101e-56ad-adad-f850df24684b"
 }

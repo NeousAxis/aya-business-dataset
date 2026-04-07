@@ -1,11 +1,20 @@
 {
   "entity_id": "cc320f29-459a-5869-a3b1-54b83f1f666c",
+  "public_key_id": "cc320f29-459a-5869-a3b1-54b83f1f666c",
   "name": "bonprix",
   "what_it_does": "bonprix is a fashion retailer that sells clothing and accessories online.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 52.0,
+  "keywords": [
+    "fashion retailer",
+    "clothing",
+    "accessories",
+    "womenswear",
+    "affordable fashion",
+    "online shopping",
+    "german fashion"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cc320f29-459a-5869-a3b1-54b83f1f666c"
 }

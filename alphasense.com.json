@@ -1,11 +1,21 @@
 {
   "entity_id": "6c35ca14-fc34-598a-9e40-ef3c5d2d64ae",
+  "public_key_id": "6c35ca14-fc34-598a-9e40-ef3c5d2d64ae",
   "name": "Alphasense UK",
   "what_it_does": "Alphasense designs and manufactures gas sensors for industrial and environmental monitoring.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "gas sensors",
+    "environmental monitoring",
+    "industrial safety",
+    "gas detection",
+    "electrochemical sensors",
+    "sensor design",
+    "air quality",
+    "sensor"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6c35ca14-fc34-598a-9e40-ef3c5d2d64ae"
 }

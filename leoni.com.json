@@ -1,11 +1,21 @@
 {
   "entity_id": "889c1b49-2f9c-5459-a4d7-aa8f002eec93",
+  "public_key_id": "889c1b49-2f9c-5459-a4d7-aa8f002eec93",
   "name": "LEONI Group",
   "what_it_does": "LEONI Group manufactures wires, optical fibers, cables and cable systems.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "wires",
+    "optical fibers",
+    "cables",
+    "cable systems",
+    "wiring solutions",
+    "cable assemblies",
+    "automotive cables",
+    "fiber optic cables"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/889c1b49-2f9c-5459-a4d7-aa8f002eec93"
 }

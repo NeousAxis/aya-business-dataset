@@ -1,11 +1,21 @@
 {
   "entity_id": "a8c42a7a-104e-5e0f-811b-7dd7258a7f64",
+  "public_key_id": "a8c42a7a-104e-5e0f-811b-7dd7258a7f64",
   "name": "FREITAG",
   "what_it_does": "FREITAG designs and manufactures bags and accessories made from recycled truck tarpaulins.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "recycled bags",
+    "truck tarpaulin bags",
+    "sustainable accessories",
+    "urban bags",
+    "eco-friendly fashion",
+    "messenger bags",
+    "unique design bags",
+    "Swiss design"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a8c42a7a-104e-5e0f-811b-7dd7258a7f64"
 }

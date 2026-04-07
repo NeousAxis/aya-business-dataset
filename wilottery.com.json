@@ -1,11 +1,21 @@
 {
   "entity_id": "a7d18193-d639-52da-9079-008355e4aa9b",
+  "public_key_id": "a7d18193-d639-52da-9079-008355e4aa9b",
   "name": "Wisconsin Lottery Wisconsin Lottery",
   "what_it_does": "The Wisconsin Lottery sells lottery tickets and conducts lottery games in Wisconsin.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "lottery tickets",
+    "lottery games",
+    "Wisconsin lottery",
+    "state lottery",
+    "drawing games",
+    "scratch-off tickets",
+    "lottery retailer",
+    "Wisconsin gaming"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a7d18193-d639-52da-9079-008355e4aa9b"
 }

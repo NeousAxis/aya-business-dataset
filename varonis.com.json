@@ -1,11 +1,21 @@
 {
   "entity_id": "bcdf23b6-9722-5fb4-afb8-26ac57d3ddbe",
+  "public_key_id": "bcdf23b6-9722-5fb4-afb8-26ac57d3ddbe",
   "name": "Varonis",
   "what_it_does": "Varonis provides data security and analytics software for protecting enterprise data.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [],
+  "keywords": [
+    "data security",
+    "data access governance",
+    "threat detection",
+    "insider threat",
+    "data loss prevention",
+    "file analysis",
+    "enterprise data protection",
+    "compliance reporting"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bcdf23b6-9722-5fb4-afb8-26ac57d3ddbe"
 }

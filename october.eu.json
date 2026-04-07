@@ -1,11 +1,20 @@
 {
   "entity_id": "a746d23b-055c-5b06-aadc-c9734f95e7d0",
+  "public_key_id": "a746d23b-055c-5b06-aadc-c9734f95e7d0",
   "name": "October Europe",
   "what_it_does": "October Europe operates a lending platform for small and medium-sized enterprises.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "SME lending",
+    "European loans",
+    "business financing",
+    "crowdlending",
+    "small business loans",
+    "fintech",
+    "loan marketplace"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a746d23b-055c-5b06-aadc-c9734f95e7d0"
 }

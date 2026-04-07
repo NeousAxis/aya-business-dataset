@@ -1,11 +1,21 @@
 {
   "entity_id": "bbc65ff7-cdf2-5a72-9f77-1357cb54ef2f",
+  "public_key_id": "bbc65ff7-cdf2-5a72-9f77-1357cb54ef2f",
   "name": "Banque et Assurance",
   "what_it_does": "La Banque Postale is a French bank offering financial and insurance products.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "French bank",
+    "retail banking",
+    "insurance products",
+    "financial services",
+    "postal banking",
+    "savings accounts",
+    "loan products",
+    "payment solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bbc65ff7-cdf2-5a72-9f77-1357cb54ef2f"
 }

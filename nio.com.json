@@ -1,11 +1,21 @@
 {
   "entity_id": "d07982b9-456f-5076-9c3c-4fb942dfcd05",
+  "public_key_id": "d07982b9-456f-5076-9c3c-4fb942dfcd05",
   "name": "NIO",
   "what_it_does": "NIO designs, develops, manufactures, and sells electric vehicles.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "electric vehicles",
+    "EVs",
+    "automotive",
+    "smart vehicles",
+    "battery technology",
+    "vehicle design",
+    "China automotive",
+    "electric car manufacturing"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d07982b9-456f-5076-9c3c-4fb942dfcd05"
 }

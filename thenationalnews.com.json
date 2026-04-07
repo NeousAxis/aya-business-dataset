@@ -1,11 +1,21 @@
 {
   "entity_id": "f90065d0-9e42-5c9f-a7e6-0fcd70183b80",
+  "public_key_id": "f90065d0-9e42-5c9f-a7e6-0fcd70183b80",
   "name": "The National",
   "what_it_does": "The National is an English-language newspaper based in the United Arab Emirates.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Arab Emirates",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "UAE newspaper",
+    "English-language news",
+    "daily news",
+    "Middle East news",
+    "United Arab Emirates",
+    "political reporting",
+    "business news",
+    "opinion pieces"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f90065d0-9e42-5c9f-a7e6-0fcd70183b80"
 }

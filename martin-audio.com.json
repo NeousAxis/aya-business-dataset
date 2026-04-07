@@ -1,11 +1,21 @@
 {
   "entity_id": "00d7eac1-fad8-5639-8cba-4e5cd5c2bde1",
+  "public_key_id": "00d7eac1-fad8-5639-8cba-4e5cd5c2bde1",
   "name": "Martin Audio",
   "what_it_does": "Martin Audio designs and manufactures professional loudspeaker systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "professional loudspeakers",
+    "sound systems",
+    "audio engineering",
+    "concert sound",
+    "live sound",
+    "loudspeaker design",
+    "touring audio",
+    "sound reinforcement"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/00d7eac1-fad8-5639-8cba-4e5cd5c2bde1"
 }

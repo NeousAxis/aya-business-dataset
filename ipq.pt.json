@@ -1,11 +1,21 @@
 {
   "entity_id": "46d4b2a2-0a55-551d-a2b8-a2cf5004e29c",
+  "public_key_id": "46d4b2a2-0a55-551d-a2b8-a2cf5004e29c",
   "name": "IPQ",
   "what_it_does": "IPQ likely provides travel and tourism services in Portugal.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Portugal",
-  "keywords": [],
+  "keywords": [
+    "Portugal tourism",
+    "travel services",
+    "holiday packages",
+    "Portuguese travel",
+    "vacation planning",
+    "tour operator",
+    "travel agency",
+    "destination management"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/46d4b2a2-0a55-551d-a2b8-a2cf5004e29c"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "416d9863-314e-5412-b7a1-e3a9d05675c2",
+  "public_key_id": "416d9863-314e-5412-b7a1-e3a9d05675c2",
   "name": "Synthetix",
   "what_it_does": "Synthetix is a decentralized finance (DeFi) protocol for issuing and trading synthetic assets.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "DeFi protocol",
+    "synthetic assets",
+    "crypto derivatives",
+    "blockchain finance",
+    "decentralized exchange",
+    "cryptocurrency trading",
+    "SNX token",
+    "Synthetix"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/416d9863-314e-5412-b7a1-e3a9d05675c2"
 }

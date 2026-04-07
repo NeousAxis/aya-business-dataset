@@ -1,11 +1,21 @@
 {
   "entity_id": "a614ee52-7710-5cef-88a7-1d996a168282",
+  "public_key_id": "a614ee52-7710-5cef-88a7-1d996a168282",
   "name": "Whereby",
   "what_it_does": "Whereby offers a video conferencing platform designed for easy and embeddable online meetings.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "video conferencing",
+    "online meetings",
+    "embeddable video",
+    "remote collaboration",
+    "browser-based video",
+    "video communication",
+    "virtual meeting rooms",
+    "video calls"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a614ee52-7710-5cef-88a7-1d996a168282"
 }

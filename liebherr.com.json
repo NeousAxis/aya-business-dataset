@@ -1,11 +1,21 @@
 {
   "entity_id": "9001ccbc-cd33-569d-a664-a86b480cc306",
+  "public_key_id": "9001ccbc-cd33-569d-a664-a86b480cc306",
   "name": "Liebherr",
   "what_it_does": "Liebherr manufactures a wide range of products including construction machinery, mining equipment, and domestic appliances.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Construction equipment",
+    "Mining machinery",
+    "Refrigerators",
+    "Freezers",
+    "Home appliances",
+    "Cranes",
+    "Aerospace components",
+    "Transportation systems"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9001ccbc-cd33-569d-a664-a86b480cc306"
 }

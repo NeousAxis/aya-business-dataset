@@ -1,11 +1,20 @@
 {
   "entity_id": "2a697810-c3a0-533c-9818-9807b05eaa30",
+  "public_key_id": "2a697810-c3a0-533c-9818-9807b05eaa30",
   "name": "argenx",
   "what_it_does": "Argenx is a biotechnology company focused on developing antibody-based therapies for autoimmune diseases and cancer.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "antibody therapies",
+    "autoimmune disease treatment",
+    "cancer therapeutics",
+    "biotechnology",
+    "immunoglobulin science",
+    "argenx products",
+    "pharmaceuticals"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2a697810-c3a0-533c-9818-9807b05eaa30"
 }

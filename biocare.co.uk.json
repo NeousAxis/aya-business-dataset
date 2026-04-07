@@ -1,11 +1,21 @@
 {
   "entity_id": "95e90ae4-0a5a-5d62-84e5-59b732200a16",
+  "public_key_id": "95e90ae4-0a5a-5d62-84e5-59b732200a16",
   "name": "BioCare",
   "what_it_does": "BioCare sells nutritional supplements and health products online.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "nutritional supplements",
+    "health products",
+    "vitamins",
+    "minerals",
+    "online pharmacy",
+    "UK health",
+    "natural remedies",
+    "wellness"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/95e90ae4-0a5a-5d62-84e5-59b732200a16"
 }

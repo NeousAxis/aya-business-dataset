@@ -1,11 +1,21 @@
 {
   "entity_id": "9311eeb5-0cab-570b-afbb-6b400b5a4bf5",
+  "public_key_id": "9311eeb5-0cab-570b-afbb-6b400b5a4bf5",
   "name": "IPFS",
   "what_it_does": "IPFS is a decentralized storage network for data.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "decentralized storage",
+    "data sharing",
+    "content addressing",
+    "peer-to-peer network",
+    "file storage",
+    "data distribution",
+    "web3 storage",
+    "immutable storage"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9311eeb5-0cab-570b-afbb-6b400b5a4bf5"
 }

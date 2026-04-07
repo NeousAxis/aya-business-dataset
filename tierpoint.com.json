@@ -1,11 +1,20 @@
 {
   "entity_id": "33195282-8d46-543c-bdd4-ff8e05ac72fb",
+  "public_key_id": "33195282-8d46-543c-bdd4-ff8e05ac72fb",
   "name": "Power Your Digital Breakaway with TierPoint",
   "what_it_does": "TierPoint offers data center services including colocation, cloud computing, and managed services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "data centers",
+    "colocation",
+    "cloud computing",
+    "managed hosting",
+    "IT infrastructure",
+    "disaster recovery",
+    "cloud services"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/33195282-8d46-543c-bdd4-ff8e05ac72fb"
 }

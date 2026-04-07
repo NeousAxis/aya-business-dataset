@@ -1,11 +1,21 @@
 {
   "entity_id": "89d45d87-7f4b-5f29-8939-96e8d14e5de4",
+  "public_key_id": "89d45d87-7f4b-5f29-8939-96e8d14e5de4",
   "name": "Nickel",
   "what_it_does": "Nickel offers a simplified current account accessible through tobacconists in France and other European countries.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 68.0,
+  "keywords": [
+    "current accounts",
+    "simplified banking",
+    "tobacco shops",
+    "French banking",
+    "low-cost banking",
+    "European accounts",
+    "basic banking services",
+    "payment solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/89d45d87-7f4b-5f29-8939-96e8d14e5de4"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "733cd6e8-6263-56bb-b6c4-f2ae1fdaa44a",
+  "public_key_id": "733cd6e8-6263-56bb-b6c4-f2ae1fdaa44a",
   "name": "RØDE (Australia)",
   "what_it_does": "RØDE manufactures professional microphones and audio equipment.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "professional microphones",
+    "audio equipment",
+    "studio microphones",
+    "broadcast audio",
+    "recording devices",
+    "audio interfaces",
+    "microphone accessories",
+    "audio production"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/733cd6e8-6263-56bb-b6c4-f2ae1fdaa44a"
 }

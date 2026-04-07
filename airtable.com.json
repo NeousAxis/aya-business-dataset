@@ -1,11 +1,20 @@
 {
   "entity_id": "6d7715cc-a292-59b0-9872-f630b6dc3223",
+  "public_key_id": "6d7715cc-a292-59b0-9872-f630b6dc3223",
   "name": "Airtable",
   "what_it_does": "Airtable provides a cloud-based platform for creating and sharing relational databases.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "location": "United States",
+  "keywords": [
+    "relational databases",
+    "cloud databases",
+    "database creation",
+    "collaborative databases",
+    "data organization",
+    "no-code databases",
+    "spreadsheet databases"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6d7715cc-a292-59b0-9872-f630b6dc3223"
 }

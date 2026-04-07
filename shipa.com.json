@@ -1,11 +1,21 @@
 {
   "entity_id": "d245d303-74d3-5df6-a04f-7934c596dae3",
+  "public_key_id": "d245d303-74d3-5df6-a04f-7934c596dae3",
   "name": "Shipa",
   "what_it_does": "Shipa offers a platform for application deployment and management across multiple Kubernetes clusters.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "application deployment",
+    "Kubernetes",
+    "containerization",
+    "multi-cluster",
+    "cloud native",
+    "DevOps",
+    "application management",
+    "container orchestration"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d245d303-74d3-5df6-a04f-7934c596dae3"
 }

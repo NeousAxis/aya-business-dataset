@@ -1,11 +1,21 @@
 {
   "entity_id": "f2fb4328-62bf-51cd-acfc-a50a06ca7d57",
+  "public_key_id": "f2fb4328-62bf-51cd-acfc-a50a06ca7d57",
   "name": "SODIC",
   "what_it_does": "SODIC is an Egyptian real estate development company.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "real estate",
+    "property",
+    "development",
+    "residential",
+    "commercial",
+    "Egyptian real estate",
+    "Cairo real estate",
+    "new homes"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f2fb4328-62bf-51cd-acfc-a50a06ca7d57"
 }

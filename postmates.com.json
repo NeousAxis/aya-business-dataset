@@ -1,11 +1,21 @@
 {
   "entity_id": "4209acf5-97dc-5e56-bdc3-911a7c4868f1",
+  "public_key_id": "4209acf5-97dc-5e56-bdc3-911a7c4868f1",
   "name": "Postmates",
   "what_it_does": "Postmates is a food and goods delivery service.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "food delivery",
+    "goods delivery",
+    "courier services",
+    "on-demand delivery",
+    "restaurant delivery",
+    "grocery delivery",
+    "alcohol delivery",
+    "same-day delivery"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4209acf5-97dc-5e56-bdc3-911a7c4868f1"
 }

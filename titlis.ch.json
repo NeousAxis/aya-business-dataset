@@ -1,11 +1,21 @@
 {
   "entity_id": "9ac09661-5223-5a56-b7f9-3ea6f5ccd2f3",
+  "public_key_id": "9ac09661-5223-5a56-b7f9-3ea6f5ccd2f3",
   "name": "TITLIS #ThePeakToBe",
   "what_it_does": "TITLIS operates a mountain resort in the Swiss Alps, featuring a revolving cable car and various attractions.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "mountain resort",
+    "swiss alps",
+    "cable car",
+    "skiing",
+    "snow activities",
+    "tourist attractions",
+    "engelberg",
+    "revolving gondola"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9ac09661-5223-5a56-b7f9-3ea6f5ccd2f3"
 }

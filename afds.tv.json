@@ -1,11 +1,21 @@
 {
   "entity_id": "0624d996-0bf0-5ed1-b93e-4a9501e077b1",
+  "public_key_id": "0624d996-0bf0-5ed1-b93e-4a9501e077b1",
   "name": "Loyalbet88",
   "what_it_does": "Loyalbet88 is likely an online gambling or betting platform.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "gambling",
+    "online betting",
+    "casino games",
+    "sports betting",
+    "wagering platform",
+    "online gaming",
+    "betting odds",
+    "sportsbook"
+  ],
+  "aio_score": 63.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0624d996-0bf0-5ed1-b93e-4a9501e077b1"
 }

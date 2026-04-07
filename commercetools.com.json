@@ -1,11 +1,21 @@
 {
   "entity_id": "6f5c1ffb-74a5-5c6a-bab5-4018cef87d08",
+  "public_key_id": "6f5c1ffb-74a5-5c6a-bab5-4018cef87d08",
   "name": "Commercetools",
   "what_it_does": "Commercetools provides a headless commerce platform for retailers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "headless commerce",
+    "e-commerce platform",
+    "API-first commerce",
+    "composable commerce",
+    "retail technology",
+    "digital storefront",
+    "e-commerce solutions",
+    "omnichannel commerce"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6f5c1ffb-74a5-5c6a-bab5-4018cef87d08"
 }

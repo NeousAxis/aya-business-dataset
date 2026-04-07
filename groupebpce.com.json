@@ -1,11 +1,21 @@
 {
   "entity_id": "d1e14962-fd6c-5aea-b751-bd48140b117f",
+  "public_key_id": "d1e14962-fd6c-5aea-b751-bd48140b117f",
   "name": "Groupebpce",
   "what_it_does": "Groupe BPCE is a French banking group comprising Banque Populaire and Caisse d'Epargne.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "French banking",
+    "Banque Populaire",
+    "Caisse d'Epargne",
+    "retail banking",
+    "cooperative bank",
+    "financial group",
+    "banking services",
+    "France finance"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d1e14962-fd6c-5aea-b751-bd48140b117f"
 }

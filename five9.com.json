@@ -1,11 +1,20 @@
 {
   "entity_id": "25290231-3b42-54ef-af7a-2d3c4e41c4c6",
+  "public_key_id": "25290231-3b42-54ef-af7a-2d3c4e41c4c6",
   "name": "AI Software As A Service",
   "what_it_does": "Five9 offers cloud contact center software for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "EN",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "cloud contact center",
+    "call center ai",
+    "customer engagement",
+    "inbound contact center",
+    "outbound contact center",
+    "contact center analytics",
+    "virtual agent"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/25290231-3b42-54ef-af7a-2d3c4e41c4c6"
 }

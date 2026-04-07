@@ -1,11 +1,20 @@
 {
   "entity_id": "2fa981e0-1dba-5770-bda0-ba6e42e82568",
+  "public_key_id": "2fa981e0-1dba-5770-bda0-ba6e42e82568",
   "name": "We engineer a better future",
   "what_it_does": "Danfoss engineers and manufactures industrial components and solutions for climate and energy efficiency.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "industrial components",
+    "climate solutions",
+    "energy efficiency",
+    "automation solutions",
+    "refrigeration",
+    "heating systems",
+    "hydraulic components"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2fa981e0-1dba-5770-bda0-ba6e42e82568"
 }

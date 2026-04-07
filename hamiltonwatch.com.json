@@ -1,11 +1,21 @@
 {
   "entity_id": "c13c9c7b-7e6c-544b-8e98-051ff14e8631",
+  "public_key_id": "c13c9c7b-7e6c-544b-8e98-051ff14e8631",
   "name": "Women's & Men's Watches",
   "what_it_does": "Hamilton Watch manufactures and sells watches for men and women.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 54.0,
+  "keywords": [
+    "men's watches",
+    "women's watches",
+    "watch retailer",
+    "timepieces",
+    "automatic watches",
+    "quartz watches",
+    "Swiss watches",
+    "luxury goods"
+  ],
+  "aio_score": 63.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c13c9c7b-7e6c-544b-8e98-051ff14e8631"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "676e6a06-96ff-5b1c-a77b-a328ca1789c9",
+  "public_key_id": "676e6a06-96ff-5b1c-a77b-a328ca1789c9",
   "name": "Valu",
   "what_it_does": "Valu is a fintech company providing BNPL (buy now pay later) services in Egypt.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "buy now pay later",
+    "BNPL",
+    "fintech",
+    "consumer finance",
+    "installment payments",
+    "Egyptian market",
+    "e-commerce finance",
+    "point of sale finance"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/676e6a06-96ff-5b1c-a77b-a328ca1789c9"
 }

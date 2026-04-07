@@ -1,11 +1,20 @@
 {
   "entity_id": "2e1e2a8f-cebb-5368-b235-084fc55859e7",
+  "public_key_id": "2e1e2a8f-cebb-5368-b235-084fc55859e7",
   "name": "Yale University",
   "what_it_does": "Yale University is a private Ivy League research university offering undergraduate, graduate, and professional degree programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "higher education",
+    "research university",
+    "undergraduate programs",
+    "graduate programs",
+    "Ivy League",
+    "professional degrees",
+    "university education"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2e1e2a8f-cebb-5368-b235-084fc55859e7"
 }

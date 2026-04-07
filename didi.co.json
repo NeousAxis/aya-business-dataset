@@ -1,11 +1,21 @@
 {
   "entity_id": "2cb6364d-cd9e-5d0e-92b6-5a66da67c542",
+  "public_key_id": "2cb6364d-cd9e-5d0e-92b6-5a66da67c542",
   "name": "Digital Image Design Incorporated",
   "what_it_does": "Digital Image Design Incorporated likely provides digital imaging and design training programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "digital imaging",
+    "design training",
+    "graphic design courses",
+    "image editing",
+    "visual communication",
+    "creative education",
+    "design software",
+    "art education"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2cb6364d-cd9e-5d0e-92b6-5a66da67c542"
 }

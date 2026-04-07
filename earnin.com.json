@@ -1,11 +1,21 @@
 {
   "entity_id": "22f16bc2-78d5-546c-af18-4b0f1ab86a3b",
+  "public_key_id": "22f16bc2-78d5-546c-af18-4b0f1ab86a3b",
   "name": "EarnIn",
   "what_it_does": "EarnIn provides a service that allows users to access a portion of their earned wages before payday.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "earned wage access",
+    "early paycheck",
+    "wage advances",
+    "financial flexibility",
+    "paycheck access",
+    "liquidity solutions",
+    "short-term credit",
+    "employee benefits"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/22f16bc2-78d5-546c-af18-4b0f1ab86a3b"
 }

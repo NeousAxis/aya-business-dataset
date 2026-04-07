@@ -1,11 +1,21 @@
 {
   "entity_id": "d106710e-727e-5dc1-8cd4-9b1bac0cfe2c",
+  "public_key_id": "d106710e-727e-5dc1-8cd4-9b1bac0cfe2c",
   "name": "Stato e organizzazione",
   "what_it_does": "www4.ti.ch likely provides information on the government and administration of the Canton of Ticino in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Ticino government",
+    "Swiss canton",
+    "public administration",
+    "local government",
+    "regional information",
+    "cantonal services",
+    "Switzerland government",
+    "government information"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d106710e-727e-5dc1-8cd4-9b1bac0cfe2c"
 }

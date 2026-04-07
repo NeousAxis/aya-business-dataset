@@ -1,11 +1,21 @@
 {
   "entity_id": "61a2c6f4-dac4-5363-a3bc-d3e18b77b054",
+  "public_key_id": "61a2c6f4-dac4-5363-a3bc-d3e18b77b054",
   "name": "Tchibo",
   "what_it_does": "Tchibo sells coffee and a variety of non-food consumer goods through its retail stores and online.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "Coffee",
+    "Consumer goods",
+    "Retail stores",
+    "E-commerce",
+    "Non-food products",
+    "Coffee beans",
+    "Retail coffee",
+    "Consumer products"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/61a2c6f4-dac4-5363-a3bc-d3e18b77b054"
 }

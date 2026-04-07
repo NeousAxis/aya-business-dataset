@@ -1,11 +1,21 @@
 {
   "entity_id": "6b1b262b-1d53-50e5-b4eb-c0a86f068cc7",
+  "public_key_id": "6b1b262b-1d53-50e5-b4eb-c0a86f068cc7",
   "name": "Atos",
   "what_it_does": "Atos is a multinational information technology service and consulting company.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "information technology",
+    "IT outsourcing",
+    "system integration",
+    "IT infrastructure",
+    "cloud services",
+    "cybersecurity",
+    "digital workplace",
+    "business process"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6b1b262b-1d53-50e5-b4eb-c0a86f068cc7"
 }

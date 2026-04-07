@@ -1,11 +1,20 @@
 {
   "entity_id": "97412dd1-ef27-50da-ad0d-265fc5fe7b72",
+  "public_key_id": "97412dd1-ef27-50da-ad0d-265fc5fe7b72",
   "name": "AGIBOT Innovation (Shanghai) Technology Co.",
   "what_it_does": "AGIBOT likely provides AI-powered robotic solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "China",
-  "keywords": [],
+  "keywords": [
+    "AI robotics",
+    "automation",
+    "manufacturing solutions",
+    "Shanghai",
+    "industrial robots",
+    "smart factory",
+    "China market"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/97412dd1-ef27-50da-ad0d-265fc5fe7b72"
 }

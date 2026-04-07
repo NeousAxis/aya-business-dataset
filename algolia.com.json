@@ -1,11 +1,21 @@
 {
   "entity_id": "27498135-07c0-545c-b42c-0e2b8e63d66b",
+  "public_key_id": "27498135-07c0-545c-b42c-0e2b8e63d66b",
   "name": "Algolia",
   "what_it_does": "Algolia provides a search and discovery platform as a service for websites and applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "search platform",
+    "discovery platform",
+    "API",
+    "indexing",
+    "search engine",
+    "relevant results",
+    "search infrastructure",
+    "information retrieval"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/27498135-07c0-545c-b42c-0e2b8e63d66b"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "f67d35cc-339b-5db9-85e4-cc4433cb2b17",
+  "public_key_id": "f67d35cc-339b-5db9-85e4-cc4433cb2b17",
   "name": "ADP Official Site",
   "what_it_does": "ADP provides payroll processing and human capital management solutions to businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "payroll",
+    "HCM",
+    "human capital",
+    "benefits administration",
+    "tax filing",
+    "workforce management",
+    "HR"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f67d35cc-339b-5db9-85e4-cc4433cb2b17"
 }

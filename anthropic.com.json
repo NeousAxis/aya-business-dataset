@@ -1,11 +1,21 @@
 {
   "entity_id": "837b9bb1-070f-51a9-8393-ba06fe1150eb",
+  "public_key_id": "837b9bb1-070f-51a9-8393-ba06fe1150eb",
   "name": "Anthropic",
   "what_it_does": "Anthropic develops advanced AI models with a focus on safety and alignment.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "South Korea",
-  "keywords": [],
+  "location": "United States",
+  "keywords": [
+    "AI models",
+    "artificial intelligence",
+    "AI safety",
+    "AI alignment",
+    "advanced AI",
+    "machine learning",
+    "large language models",
+    "responsible AI"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/837b9bb1-070f-51a9-8393-ba06fe1150eb"
 }

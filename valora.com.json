@@ -1,11 +1,21 @@
 {
   "entity_id": "08409acd-ad9b-5e7f-b5f9-abefca7af31e",
+  "public_key_id": "08409acd-ad9b-5e7f-b5f9-abefca7af31e",
   "name": "Valora",
   "what_it_does": "Valora operates a network of convenience stores and food service outlets.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 30.0,
+  "keywords": [
+    "convenience stores",
+    "food retail",
+    "quick-service restaurants",
+    "on-the-go snacks",
+    "forecourt retailing",
+    "European retail",
+    "travel retail",
+    "kiosk network"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/08409acd-ad9b-5e7f-b5f9-abefca7af31e"
 }

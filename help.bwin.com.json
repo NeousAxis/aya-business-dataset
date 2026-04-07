@@ -1,11 +1,21 @@
 {
   "entity_id": "09824647-b950-5c56-8ed6-535d1ec40d2e",
+  "public_key_id": "09824647-b950-5c56-8ed6-535d1ec40d2e",
   "name": "Help",
   "what_it_does": "help.bwin.com likely provides customer support for the Bwin online gambling platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 25.0,
+  "keywords": [
+    "Bwin support",
+    "gambling assistance",
+    "account help",
+    "technical support",
+    "customer service",
+    "gaming queries",
+    "online betting",
+    "problem gambling support"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/09824647-b950-5c56-8ed6-535d1ec40d2e"
 }

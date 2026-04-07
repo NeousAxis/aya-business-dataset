@@ -1,11 +1,20 @@
 {
   "entity_id": "e16c6755-521a-528c-a2e7-284fe3722dcf",
+  "public_key_id": "e16c6755-521a-528c-a2e7-284fe3722dcf",
   "name": "Bricorama",
   "what_it_does": "Bricorama is a French retailer specializing in home improvement and DIY products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "home improvement products",
+    "DIY supplies",
+    "gardening equipment",
+    "hardware retail",
+    "building materials",
+    "French DIY market",
+    "home renovation"
+  ],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e16c6755-521a-528c-a2e7-284fe3722dcf"
 }

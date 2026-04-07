@@ -1,11 +1,21 @@
 {
   "entity_id": "4c7d8dca-a441-5fc1-ad3a-90c0f0e600ed",
+  "public_key_id": "4c7d8dca-a441-5fc1-ad3a-90c0f0e600ed",
   "name": "NEN",
   "what_it_does": "NEN facilitates the development and application of standards and guidelines.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Netherlands",
-  "keywords": [],
+  "keywords": [
+    "standardization",
+    "standards development",
+    "technical guidelines",
+    "ISO standards",
+    "industry standards",
+    "product standards",
+    "testing standards",
+    "normative documents"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4c7d8dca-a441-5fc1-ad3a-90c0f0e600ed"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "160db2ff-d31d-569d-9806-6ba1bef97524",
+  "public_key_id": "160db2ff-d31d-569d-9806-6ba1bef97524",
   "name": "Tandem Bank",
   "what_it_does": "Tandem Bank is a UK-based digital bank.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "UK digital bank",
+    "mobile banking",
+    "savings accounts",
+    "personal loans",
+    "credit cards",
+    "online banking",
+    "retail banking",
+    "financial products"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/160db2ff-d31d-569d-9806-6ba1bef97524"
 }

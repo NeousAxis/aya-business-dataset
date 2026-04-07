@@ -1,11 +1,21 @@
 {
   "entity_id": "3c4abe52-7737-57cf-8015-fb6b1806f6f2",
+  "public_key_id": "3c4abe52-7737-57cf-8015-fb6b1806f6f2",
   "name": "Ubc",
   "what_it_does": "The University of British Columbia (UBC) is a public research university in British Columbia, Canada.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Canada",
-  "keywords": [],
+  "keywords": [
+    "public research university",
+    "higher education",
+    "British Columbia university",
+    "Canadian education",
+    "academic research",
+    "undergraduate studies",
+    "graduate studies",
+    "scientific studies"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3c4abe52-7737-57cf-8015-fb6b1806f6f2"
 }

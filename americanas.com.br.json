@@ -1,11 +1,21 @@
 {
   "entity_id": "3e5307c2-1e4d-518a-a8af-cad7a586c2bf",
+  "public_key_id": "3e5307c2-1e4d-518a-a8af-cad7a586c2bf",
   "name": "Americanas",
   "what_it_does": "Americanas is a Brazilian online and brick-and-mortar retailer selling a variety of products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Brazil",
-  "keywords": [],
+  "keywords": [
+    "Brazilian retail",
+    "online retailer",
+    "e-commerce",
+    "consumer goods",
+    "department store",
+    "Americanas products",
+    "retail sales",
+    "Brazilian e-commerce"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3e5307c2-1e4d-518a-a8af-cad7a586c2bf"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "2472ef61-7007-5b2f-8e84-5a83f1f9ede6",
+  "public_key_id": "2472ef61-7007-5b2f-8e84-5a83f1f9ede6",
   "name": "BigCommerce",
   "what_it_does": "BigCommerce provides an e-commerce platform enabling businesses to build and manage online stores.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 78.0,
+  "keywords": [
+    "e-commerce store builder",
+    "shopping cart",
+    "storefront design",
+    "e-commerce hosting",
+    "product catalogs",
+    "payment gateways",
+    "sales channels",
+    "order fulfillment"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2472ef61-7007-5b2f-8e84-5a83f1f9ede6"
 }

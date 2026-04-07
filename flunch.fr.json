@@ -1,11 +1,21 @@
 {
   "entity_id": "744efd3a-9bca-54d1-a569-b2b5e23a8d99",
+  "public_key_id": "744efd3a-9bca-54d1-a569-b2b5e23a8d99",
   "name": "Restaurants flunch",
   "what_it_does": "Flunch is a chain of self-service restaurants in France.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "France",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "self-service restaurant",
+    "French restaurant chain",
+    "buffet restaurant",
+    "family restaurant",
+    "value dining",
+    "casual dining",
+    "French cuisine",
+    "restaurant"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/744efd3a-9bca-54d1-a569-b2b5e23a8d99"
 }

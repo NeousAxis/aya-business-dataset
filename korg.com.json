@@ -1,11 +1,21 @@
 {
   "entity_id": "654912c1-5b14-5555-8e48-44f79c329865",
+  "public_key_id": "654912c1-5b14-5555-8e48-44f79c329865",
   "name": "KORG (EU",
   "what_it_does": "Korg manufactures electronic musical instruments, including synthesizers, keyboards, and recording equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Argentina",
-  "keywords": [],
-  "aio_score": 58.0,
+  "keywords": [
+    "electronic musical instruments",
+    "synthesizers",
+    "keyboards",
+    "music production",
+    "recording equipment",
+    "audio equipment",
+    "musical gear",
+    "digital pianos"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/654912c1-5b14-5555-8e48-44f79c329865"
 }

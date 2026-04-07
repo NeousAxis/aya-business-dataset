@@ -1,11 +1,20 @@
 {
   "entity_id": "7278e449-921e-56a5-b699-2250de454edb",
+  "public_key_id": "7278e449-921e-56a5-b699-2250de454edb",
   "name": "SambaNova",
   "what_it_does": "SambaNova develops systems and software that accelerate AI workloads.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "AI acceleration",
+    "machine learning",
+    "deep learning",
+    "AI hardware",
+    "AI systems",
+    "data analytics",
+    "neural networks"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7278e449-921e-56a5-b699-2250de454edb"
 }

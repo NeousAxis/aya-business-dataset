@@ -1,11 +1,21 @@
 {
   "entity_id": "5105271c-76da-5ca7-bdb6-a8bb910960a2",
+  "public_key_id": "5105271c-76da-5ca7-bdb6-a8bb910960a2",
   "name": "Hikvision",
   "what_it_does": "Hikvision manufactures and sells video surveillance equipment and solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "BY",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "video surveillance",
+    "security cameras",
+    "CCTV systems",
+    "IP cameras",
+    "video recorders",
+    "access control",
+    "security solutions",
+    "surveillance equipment"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5105271c-76da-5ca7-bdb6-a8bb910960a2"
 }

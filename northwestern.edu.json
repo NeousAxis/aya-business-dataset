@@ -1,11 +1,21 @@
 {
   "entity_id": "1d0b4697-0301-58d3-8c64-94c59b31f906",
+  "public_key_id": "1d0b4697-0301-58d3-8c64-94c59b31f906",
   "name": "Northwestern University",
   "what_it_does": "Northwestern University is a private research university offering undergraduate and graduate programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "university",
+    "higher education",
+    "research university",
+    "undergraduate programs",
+    "graduate programs",
+    "academic research",
+    "Chicago",
+    "Northwestern"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1d0b4697-0301-58d3-8c64-94c59b31f906"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "27ac0172-e940-57d2-8be0-1f73f3bf5601",
+  "public_key_id": "27ac0172-e940-57d2-8be0-1f73f3bf5601",
   "name": "Startseite",
   "what_it_does": "bs.ch likely provides financial and banking services at a canton level in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "canton banking",
+    "canton finance",
+    "Switzerland banking",
+    "Switzerland finance",
+    "regional banking",
+    "public finance",
+    "financial services",
+    "Basel-Stadt"
+  ],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/27ac0172-e940-57d2-8be0-1f73f3bf5601"
 }

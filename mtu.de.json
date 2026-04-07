@@ -1,11 +1,20 @@
 {
   "entity_id": "56bff01b-f17e-5d6f-b9dc-0d7a6de8138c",
+  "public_key_id": "56bff01b-f17e-5d6f-b9dc-0d7a6de8138c",
   "name": "MTU Aero Engines AG",
   "what_it_does": "MTU Aero Engines AG manufactures and maintains aircraft engines.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "aircraft engines",
+    "engine manufacturing",
+    "engine maintenance",
+    "aerospace engineering",
+    "aviation technology",
+    "engine repair",
+    "aviation parts"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/56bff01b-f17e-5d6f-b9dc-0d7a6de8138c"
 }

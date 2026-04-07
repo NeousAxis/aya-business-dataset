@@ -1,11 +1,21 @@
 {
   "entity_id": "bede1f3f-1750-5e93-82f0-fc1a3f4c7061",
+  "public_key_id": "bede1f3f-1750-5e93-82f0-fc1a3f4c7061",
   "name": "CSA Group",
   "what_it_does": "CSA Group provides testing, inspection, and certification services for products and systems.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 69.0,
+  "keywords": [
+    "testing",
+    "inspection",
+    "certification",
+    "product safety",
+    "standards compliance",
+    "product certification",
+    "system certification",
+    "regulatory compliance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bede1f3f-1750-5e93-82f0-fc1a3f4c7061"
 }

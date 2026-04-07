@@ -1,11 +1,21 @@
 {
   "entity_id": "77e51dc2-2988-5f02-b952-ce4c2cfe3c62",
+  "public_key_id": "77e51dc2-2988-5f02-b952-ce4c2cfe3c62",
   "name": "Hotjar",
   "what_it_does": "Hotjar provides website heatmaps, session recordings, and user feedback tools.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "website heatmaps",
+    "session recording",
+    "user behavior analytics",
+    "UX research",
+    "conversion optimization",
+    "web analytics",
+    "user feedback",
+    "site analysis"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/77e51dc2-2988-5f02-b952-ce4c2cfe3c62"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "2b3c2965-07cf-5f4f-a99b-8f4d4c0033fa",
+  "public_key_id": "2b3c2965-07cf-5f4f-a99b-8f4d4c0033fa",
   "name": "Trinasolar EN GLB",
   "what_it_does": "Trinasolar manufactures and distributes photovoltaic modules for solar energy applications.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "photovoltaic modules",
+    "solar panels",
+    "solar energy",
+    "renewable energy",
+    "solar power systems",
+    "clean energy",
+    "solar module distribution"
+  ],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2b3c2965-07cf-5f4f-a99b-8f4d4c0033fa"
 }

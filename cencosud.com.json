@@ -1,11 +1,21 @@
 {
   "entity_id": "79673d0e-a80b-5d7e-b96e-26be669870fd",
+  "public_key_id": "79673d0e-a80b-5d7e-b96e-26be669870fd",
   "name": "Cencosud",
   "what_it_does": "Cencosud is a South American retail company operating supermarkets, department stores, and shopping malls.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "South American retail",
+    "supermarkets",
+    "department stores",
+    "shopping malls",
+    "home improvement",
+    "consumer goods",
+    "retail chains",
+    "grocery stores"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/79673d0e-a80b-5d7e-b96e-26be669870fd"
 }

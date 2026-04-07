@@ -1,5 +1,6 @@
 {
   "entity_id": "4300d644-885b-51bd-a205-9e1c8bbd9c6c",
+  "public_key_id": "4300d644-885b-51bd-a205-9e1c8bbd9c6c",
   "name": "Make",
   "what_it_does": "Make is a visual platform to design, build, and automate anything, from simple tasks to complex workflows.",
   "for_who": "Businesses and developers.",
@@ -15,6 +16,6 @@
     "application integration",
     "business process automation"
   ],
-  "aio_score": 74.0,
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4300d644-885b-51bd-a205-9e1c8bbd9c6c"
 }

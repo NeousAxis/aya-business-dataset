@@ -1,11 +1,21 @@
 {
   "entity_id": "5cae2876-cb72-518a-b5f4-cd887d79d71a",
+  "public_key_id": "5cae2876-cb72-518a-b5f4-cd887d79d71a",
   "name": "Vox",
   "what_it_does": "Vox produces news and opinion journalism, explainer videos, and podcasts.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 55.0,
+  "keywords": [
+    "news journalism",
+    "explainer videos",
+    "political analysis",
+    "cultural commentary",
+    "podcast production",
+    "investigative reporting",
+    "current events",
+    "digital media"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5cae2876-cb72-518a-b5f4-cd887d79d71a"
 }

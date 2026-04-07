@@ -1,11 +1,21 @@
 {
   "entity_id": "df5fb1c7-a1fe-5ce0-9d39-1331583ea7be",
+  "public_key_id": "df5fb1c7-a1fe-5ce0-9d39-1331583ea7be",
   "name": "Le CEA",
   "what_it_does": "Le CEA (Commissariat à l'énergie atomique et aux énergies alternatives) is a French public research organization focused on energy, defense, security, information technologies and health technologies.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "atomic energy research",
+    "alternative energy research",
+    "French research organization",
+    "energy technologies",
+    "scientific research",
+    "technology development",
+    "CEA",
+    "nuclear research"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/df5fb1c7-a1fe-5ce0-9d39-1331583ea7be"
 }

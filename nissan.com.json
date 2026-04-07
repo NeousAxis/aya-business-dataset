@@ -1,11 +1,20 @@
 {
   "entity_id": "0306f076-be60-52dd-80ee-892a387c1fcb",
+  "public_key_id": "0306f076-be60-52dd-80ee-892a387c1fcb",
   "name": "In loving memory of Uzi Nissan, z\"l",
   "what_it_does": "nissan.com is the website for Nissan, a multinational automobile manufacturer.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 23.0,
+  "keywords": [
+    "automobiles",
+    "passenger vehicles",
+    "car sales",
+    "vehicle manufacturing",
+    "automotive engineering",
+    "global automaker",
+    "auto industry"
+  ],
+  "aio_score": 25.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0306f076-be60-52dd-80ee-892a387c1fcb"
 }

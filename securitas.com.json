@@ -1,11 +1,21 @@
 {
   "entity_id": "ce0730e5-190d-558f-a7d7-cefb0779708f",
+  "public_key_id": "ce0730e5-190d-558f-a7d7-cefb0779708f",
   "name": "Securitas Group",
   "what_it_does": "Securitas Group provides security services, including guarding, mobile patrols, and alarm monitoring.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 54.0,
+  "keywords": [
+    "security guarding",
+    "mobile patrol",
+    "alarm monitoring",
+    "loss prevention",
+    "security technology",
+    "risk assessment",
+    "facility protection",
+    "security systems"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ce0730e5-190d-558f-a7d7-cefb0779708f"
 }

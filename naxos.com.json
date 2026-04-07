@@ -1,11 +1,21 @@
 {
   "entity_id": "830feb8e-8daa-5175-bd15-ad4940be76c2",
+  "public_key_id": "830feb8e-8daa-5175-bd15-ad4940be76c2",
   "name": "Naxos",
   "what_it_does": "Naxos is a classical music label and online retailer.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 36.0,
+  "keywords": [
+    "classical music",
+    "music recordings",
+    "orchestral music",
+    "opera recordings",
+    "chamber music",
+    "music streaming",
+    "classical composers",
+    "music distribution"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/830feb8e-8daa-5175-bd15-ad4940be76c2"
 }

@@ -1,11 +1,19 @@
 {
   "entity_id": "aa408559-1f8d-5f91-b44f-c90f23b6774f",
+  "public_key_id": "aa408559-1f8d-5f91-b44f-c90f23b6774f",
   "name": "Crit Job",
   "what_it_does": "Crit-Job.com likely provides job listings or career resources within the finance and banking sector.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "finance job board",
+    "banking careers",
+    "financial job listings",
+    "job postings",
+    "career resources",
+    "banking employment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aa408559-1f8d-5f91-b44f-c90f23b6774f"
 }

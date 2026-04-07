@@ -1,11 +1,20 @@
 {
   "entity_id": "c9145788-cc4e-5f3b-9ddb-887506796ae4",
+  "public_key_id": "c9145788-cc4e-5f3b-9ddb-887506796ae4",
   "name": "SUNU GROUP",
   "what_it_does": "SUNU GROUP is a pan-African insurance, banking and real estate financial services group.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 27.0,
+  "keywords": [
+    "pan-African insurance",
+    "banking group",
+    "real estate finance",
+    "financial protection",
+    "African market",
+    "investment solutions",
+    "wealth management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c9145788-cc4e-5f3b-9ddb-887506796ae4"
 }

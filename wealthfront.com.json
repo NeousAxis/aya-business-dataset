@@ -1,11 +1,20 @@
 {
   "entity_id": "aa72166b-a737-5f1c-8a62-db2b9a8c575a",
+  "public_key_id": "aa72166b-a737-5f1c-8a62-db2b9a8c575a",
   "name": "Wealthfront",
   "what_it_does": "Wealthfront is an automated investment service (robo-advisor) that manages investment portfolios.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "robo-advisor",
+    "automated investing",
+    "investment portfolios",
+    "algorithmic trading",
+    "financial planning",
+    "wealth management",
+    "investment management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aa72166b-a737-5f1c-8a62-db2b9a8c575a"
 }

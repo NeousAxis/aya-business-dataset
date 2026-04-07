@@ -1,11 +1,20 @@
 {
   "entity_id": "462fdef4-2eda-563a-aa70-9a3902dc9186",
+  "public_key_id": "462fdef4-2eda-563a-aa70-9a3902dc9186",
   "name": "Greenhouse",
   "what_it_does": "Greenhouse provides recruiting software to help companies manage the hiring process.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "applicant tracking",
+    "recruiting software",
+    "talent acquisition",
+    "hiring process",
+    "HR technology",
+    "recruitment management",
+    "employee onboarding"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/462fdef4-2eda-563a-aa70-9a3902dc9186"
 }

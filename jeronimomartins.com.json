@@ -1,5 +1,6 @@
 {
   "entity_id": "644ba573-7f83-534b-ac79-16d60de63c3b",
+  "public_key_id": "644ba573-7f83-534b-ac79-16d60de63c3b",
   "name": "Jerónimo Martins",
   "what_it_does": "Jerónimo Martins is a Portuguese international food and retail company.",
   "for_who": "Businesses and professionals.",
@@ -15,6 +16,6 @@
     "colombian retail",
     "retail chain"
   ],
-  "aio_score": 60.0,
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/644ba573-7f83-534b-ac79-16d60de63c3b"
 }

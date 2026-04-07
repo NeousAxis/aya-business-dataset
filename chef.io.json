@@ -1,11 +1,21 @@
 {
   "entity_id": "56d4d7ae-b9e7-52b0-95dd-2bce899d5154",
+  "public_key_id": "56d4d7ae-b9e7-52b0-95dd-2bce899d5154",
   "name": "Chef",
   "what_it_does": "Chef provides an automation platform for infrastructure and application delivery.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "infrastructure automation",
+    "application delivery",
+    "configuration automation",
+    "DevOps automation",
+    "IT automation",
+    "compliance automation",
+    "infrastructure as code",
+    "server automation"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/56d4d7ae-b9e7-52b0-95dd-2bce899d5154"
 }

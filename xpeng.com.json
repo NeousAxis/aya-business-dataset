@@ -1,11 +1,20 @@
 {
   "entity_id": "cebb3a9f-59fb-5b6e-b1b7-36df5784a273",
+  "public_key_id": "cebb3a9f-59fb-5b6e-b1b7-36df5784a273",
   "name": "XPENG",
   "what_it_does": "XPENG designs, develops, manufactures, and markets smart electric vehicles.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Belgium",
-  "keywords": [],
+  "keywords": [
+    "electric vehicles",
+    "smart EVs",
+    "automotive design",
+    "vehicle manufacturing",
+    "EV technology",
+    "sustainable transportation",
+    "autonomous driving"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cebb3a9f-59fb-5b6e-b1b7-36df5784a273"
 }

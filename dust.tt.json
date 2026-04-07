@@ -1,11 +1,21 @@
 {
   "entity_id": "b18384ab-fa94-5cad-ba14-f809fba03783",
+  "public_key_id": "b18384ab-fa94-5cad-ba14-f809fba03783",
   "name": "Dust",
   "what_it_does": "Dust provides secure messaging with disappearing messages and encryption.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "secure messaging",
+    "encrypted messaging",
+    "disappearing messages",
+    "private communication",
+    "ephemeral messaging",
+    "confidential chat",
+    "privacy focused",
+    "encrypted chat"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b18384ab-fa94-5cad-ba14-f809fba03783"
 }

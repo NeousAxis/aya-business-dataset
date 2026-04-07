@@ -1,11 +1,21 @@
 {
   "entity_id": "e3799fb8-83c0-5847-ae23-88d889c82175",
+  "public_key_id": "e3799fb8-83c0-5847-ae23-88d889c82175",
   "name": "Rust Programming Language",
   "what_it_does": "Rust is a systems programming language focused on safety, speed, and concurrency.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "systems programming",
+    "memory safety",
+    "concurrent programming",
+    "performance programming",
+    "software development",
+    "open source language",
+    "Rust language",
+    "programming language"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e3799fb8-83c0-5847-ae23-88d889c82175"
 }

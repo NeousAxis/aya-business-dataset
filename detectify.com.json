@@ -1,11 +1,21 @@
 {
   "entity_id": "09791d8e-0894-5f44-99a8-19bc4fea404c",
-  "name": "Application security testing reimagined",
+  "public_key_id": "09791d8e-0894-5f44-99a8-19bc4fea404c",
+  "name": "Detectify",
   "what_it_does": "Detectify provides automated web application security scanning and vulnerability assessment.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 50.0,
+  "keywords": [
+    "web application security",
+    "vulnerability scanning",
+    "security automation",
+    "web security",
+    "attack surface monitoring",
+    "cybersecurity scanning",
+    "application security",
+    "security testing"
+  ],
+  "aio_score": 25.0,
   "certificate_url": "https://ai-visionary.com/aya/e/09791d8e-0894-5f44-99a8-19bc4fea404c"
 }

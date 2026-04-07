@@ -1,11 +1,21 @@
 {
   "entity_id": "0da04550-65e9-58e4-a27f-14437f1add1c",
+  "public_key_id": "0da04550-65e9-58e4-a27f-14437f1add1c",
   "name": "Swissmilk",
   "what_it_does": "Swissmilk is a marketing organization promoting Swiss milk and dairy products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "Swiss milk",
+    "dairy products",
+    "milk promotion",
+    "dairy marketing",
+    "Swiss agriculture",
+    "dairy advertising",
+    "milk campaign",
+    "dairy consumption"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0da04550-65e9-58e4-a27f-14437f1add1c"
 }

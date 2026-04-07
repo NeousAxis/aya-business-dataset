@@ -1,11 +1,21 @@
 {
   "entity_id": "c15a7e4d-f60c-5cfe-97b1-0d4b1d88fe7f",
+  "public_key_id": "c15a7e4d-f60c-5cfe-97b1-0d4b1d88fe7f",
   "name": "Cyient",
   "what_it_does": "Cyient provides engineering, manufacturing, data analytics, and digital solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "India",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "engineering services",
+    "manufacturing solutions",
+    "data analytics",
+    "digital transformation",
+    "geospatial services",
+    "aerospace engineering",
+    "medical devices",
+    "industrial manufacturing"
+  ],
+  "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c15a7e4d-f60c-5cfe-97b1-0d4b1d88fe7f"
 }

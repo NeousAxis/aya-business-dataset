@@ -1,11 +1,21 @@
 {
   "entity_id": "bbe5e749-4bd0-57d1-921c-6768bfda94cc",
+  "public_key_id": "bbe5e749-4bd0-57d1-921c-6768bfda94cc",
   "name": "Tissot® Schweiz",
   "what_it_does": "Tissot sells watches online.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
-  "keywords": [],
+  "keywords": [
+    "Swiss watches",
+    "luxury watches",
+    "timepieces",
+    "watch retailer",
+    "online watch sales",
+    "wrist watches",
+    "watch e-commerce",
+    "Swiss made"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bbe5e749-4bd0-57d1-921c-6768bfda94cc"
 }

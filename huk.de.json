@@ -1,11 +1,20 @@
 {
   "entity_id": "c60ff39d-5c3f-5236-abfe-6ceffeb5e5bf",
+  "public_key_id": "c60ff39d-5c3f-5236-abfe-6ceffeb5e5bf",
   "name": "HUK-COBURG",
   "what_it_does": "HUK-COBURG is an insurance company offering a range of insurance products in Germany.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 34.0,
+  "keywords": [
+    "German insurance",
+    "insurance products",
+    "auto insurance",
+    "home insurance",
+    "liability insurance",
+    "insurance services",
+    "financial protection"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c60ff39d-5c3f-5236-abfe-6ceffeb5e5bf"
 }

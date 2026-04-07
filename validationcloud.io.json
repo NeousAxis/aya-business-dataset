@@ -1,11 +1,20 @@
 {
   "entity_id": "38c3b9a3-7cba-5ad9-9dbb-7ef91749e6dd",
+  "public_key_id": "38c3b9a3-7cba-5ad9-9dbb-7ef91749e6dd",
   "name": "Validation Cloud",
   "what_it_does": "Validation Cloud offers a platform for testing and validating software and cloud infrastructure.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 71.0,
+  "keywords": [
+    "software testing",
+    "cloud infrastructure validation",
+    "testing platforms",
+    "validation",
+    "QA",
+    "test automation",
+    "cloud testing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/38c3b9a3-7cba-5ad9-9dbb-7ef91749e6dd"
 }

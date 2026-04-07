@@ -1,11 +1,20 @@
 {
   "entity_id": "b1905e62-615d-5e29-8499-99d65c56f35f",
+  "public_key_id": "b1905e62-615d-5e29-8499-99d65c56f35f",
   "name": "RM 07-01 Coloured Ceramics⋅ Richard Mille",
   "what_it_does": "Richard Mille manufactures and sells luxury timepieces, specializing in innovative materials and designs.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "luxury timepieces",
+    "haute horlogerie",
+    "Swiss watches",
+    "innovative materials",
+    "watch manufacturing",
+    "high-end watches",
+    "watch design"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b1905e62-615d-5e29-8499-99d65c56f35f"
 }

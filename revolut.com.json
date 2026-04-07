@@ -1,10 +1,11 @@
 {
   "entity_id": "099e4621-4db7-5909-a85d-55c1842eecd4",
+  "public_key_id": "099e4621-4db7-5909-a85d-55c1842eecd4",
   "name": "Revolut",
   "what_it_does": "Revolut is a financial technology company offering banking and payment services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
+  "location": "United Kingdom",
   "keywords": [
     "financial platform",
     "currency exchange",

@@ -1,11 +1,21 @@
 {
   "entity_id": "05abe0d8-e088-5bf5-9289-0e067179c48f",
+  "public_key_id": "05abe0d8-e088-5bf5-9289-0e067179c48f",
   "name": "Oyster",
   "what_it_does": "OysterHR offers a platform for managing international employees, including payroll and compliance.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "global employment",
+    "international payroll",
+    "HR",
+    "compliance",
+    "global hiring",
+    "international employees",
+    "employment regulations",
+    "remote teams"
+  ],
+  "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/05abe0d8-e088-5bf5-9289-0e067179c48f"
 }

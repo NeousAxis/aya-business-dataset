@@ -1,11 +1,20 @@
 {
   "entity_id": "ac80696d-3ac8-5413-aedc-d5e681183d83",
+  "public_key_id": "ac80696d-3ac8-5413-aedc-d5e681183d83",
   "name": "Salesloft",
   "what_it_does": "Salesloft is a sales engagement platform that helps sales teams automate and personalize outreach.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "sales engagement",
+    "sales automation",
+    "sales communication",
+    "outreach personalization",
+    "B2B sales",
+    "sales cadence",
+    "sales analytics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ac80696d-3ac8-5413-aedc-d5e681183d83"
 }

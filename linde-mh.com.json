@@ -1,11 +1,20 @@
 {
   "entity_id": "3bb9b700-2e58-568e-8cdf-8269a76331c0",
+  "public_key_id": "3bb9b700-2e58-568e-8cdf-8269a76331c0",
   "name": "Linde Material Handling",
   "what_it_does": "Linde Material Handling manufactures forklifts and warehouse equipment.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "forklifts",
+    "warehouse equipment",
+    "material handling",
+    "industrial trucks",
+    "logistics equipment",
+    "supply chain solutions",
+    "warehouse automation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3bb9b700-2e58-568e-8cdf-8269a76331c0"
 }

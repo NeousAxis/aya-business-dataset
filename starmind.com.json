@@ -1,11 +1,21 @@
 {
   "entity_id": "c1e118a4-fe45-5202-9e57-488beccedbbd",
+  "public_key_id": "c1e118a4-fe45-5202-9e57-488beccedbbd",
   "name": "Starmind",
   "what_it_does": "Starmind offers a platform to connect employees with internal experts to solve business problems.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "knowledge management",
+    "expert identification",
+    "employee connectivity",
+    "internal expertise",
+    "organizational intelligence",
+    "AI powered knowledge",
+    "enterprise knowledge",
+    "knowledge sharing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c1e118a4-fe45-5202-9e57-488beccedbbd"
 }

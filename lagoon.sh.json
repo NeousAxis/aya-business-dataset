@@ -1,11 +1,21 @@
 {
   "entity_id": "dfcce0d7-ff06-5de5-91e6-060bb38a5ab2",
+  "public_key_id": "dfcce0d7-ff06-5de5-91e6-060bb38a5ab2",
   "name": "Lagoon",
   "what_it_does": "Lagoon offers an open-source application delivery platform for developing, building, and running applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "application delivery",
+    "open-source",
+    "container orchestration",
+    "development environments",
+    "CI/CD pipelines",
+    "cloud deployments",
+    "application hosting",
+    "development workflows"
+  ],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dfcce0d7-ff06-5de5-91e6-060bb38a5ab2"
 }

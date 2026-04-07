@@ -1,11 +1,21 @@
 {
   "entity_id": "b501fbac-670b-56d2-bea6-e6cfcc92cfa9",
+  "public_key_id": "b501fbac-670b-56d2-bea6-e6cfcc92cfa9",
   "name": "Das ist RWE",
   "what_it_does": "RWE is a German energy company that generates and trades electricity.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "energy generation",
+    "electricity trading",
+    "German energy",
+    "power company",
+    "renewable energy",
+    "energy market",
+    "RWE",
+    "energy trading"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b501fbac-670b-56d2-bea6-e6cfcc92cfa9"
 }

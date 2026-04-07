@@ -1,11 +1,21 @@
 {
   "entity_id": "81c0fefd-c9ef-5e73-b053-480c7b7dc551",
+  "public_key_id": "81c0fefd-c9ef-5e73-b053-480c7b7dc551",
   "name": "Pasqal",
   "what_it_does": "Pasqal builds quantum computers using neutral atoms.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "quantum computers",
+    "neutral atom quantum computing",
+    "quantum processing",
+    "quantum technology",
+    "high-performance computing",
+    "scientific computing",
+    "quantum hardware",
+    "atomic clocks"
+  ],
+  "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/81c0fefd-c9ef-5e73-b053-480c7b7dc551"
 }

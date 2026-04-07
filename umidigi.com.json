@@ -1,11 +1,21 @@
 {
   "entity_id": "8ebe9e42-3178-593a-844c-925603b4a63c",
+  "public_key_id": "8ebe9e42-3178-593a-844c-925603b4a63c",
   "name": "UMIDIGI Smartphones, Smart Wearables",
   "what_it_does": "UMIDIGI sells smartphones and smart wearable devices directly to consumers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 39.0,
+  "keywords": [
+    "smartphones",
+    "wearable devices",
+    "consumer electronics",
+    "mobile phones",
+    "smartwatches",
+    "fitness trackers",
+    "direct-to-consumer",
+    "mobile accessories"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8ebe9e42-3178-593a-844c-925603b4a63c"
 }

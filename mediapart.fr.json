@@ -1,11 +1,21 @@
 {
   "entity_id": "d0763eb6-80f7-5da5-bfda-5c4f6e5869ce",
+  "public_key_id": "d0763eb6-80f7-5da5-bfda-5c4f6e5869ce",
   "name": "Mediapart",
   "what_it_does": "Mediapart is a French online investigative and opinion journal.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "french journalism",
+    "investigative reporting",
+    "opinion journal",
+    "independent news",
+    "european news",
+    "political analysis",
+    "news ",
+    "online journal"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d0763eb6-80f7-5da5-bfda-5c4f6e5869ce"
 }

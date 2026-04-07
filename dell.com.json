@@ -1,11 +1,21 @@
 {
   "entity_id": "48b55d4a-2ec7-55d0-ad1d-f6fbd5af9845",
+  "public_key_id": "48b55d4a-2ec7-55d0-ad1d-f6fbd5af9845",
   "name": "Dell Schweiz",
   "what_it_does": "Dell Schweiz sells computers and related products to consumers and businesses in Switzerland.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 55.0,
+  "keywords": [
+    "computers Switzerland",
+    "laptops Switzerland",
+    "desktops Switzerland",
+    "Swiss electronics",
+    "PC sales Switzerland",
+    "business computers",
+    "home computers",
+    "IT equipment"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/48b55d4a-2ec7-55d0-ad1d-f6fbd5af9845"
 }

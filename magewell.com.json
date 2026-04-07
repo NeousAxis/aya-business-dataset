@@ -1,11 +1,21 @@
 {
   "entity_id": "bd511e2c-4140-51a9-a78e-9ed186f44533",
+  "public_key_id": "bd511e2c-4140-51a9-a78e-9ed186f44533",
   "name": "Magewell",
   "what_it_does": "Magewell designs and manufactures video and audio capture, processing, and streaming devices.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "video capture cards",
+    "audio capture",
+    "video processing",
+    "streaming devices",
+    "HDMI capture",
+    "SDI capture",
+    "video encoders",
+    "audio processing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bd511e2c-4140-51a9-a78e-9ed186f44533"
 }

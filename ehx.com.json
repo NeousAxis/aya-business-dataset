@@ -1,11 +1,21 @@
 {
   "entity_id": "546b6074-278b-52af-a602-acfe7813ad4f",
+  "public_key_id": "546b6074-278b-52af-a602-acfe7813ad4f",
   "name": "Electro-Harmonix",
   "what_it_does": "Electro-Harmonix manufactures electronic audio processors and effects pedals for musicians.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "audio effects pedals",
+    "guitar effects",
+    "electronic audio processors",
+    "music electronics",
+    "guitar pedals",
+    "bass effects",
+    "audio equipment",
+    "musical instruments"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/546b6074-278b-52af-a602-acfe7813ad4f"
 }

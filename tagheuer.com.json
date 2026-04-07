@@ -1,11 +1,21 @@
 {
   "entity_id": "2e38ef97-42ba-50bc-805f-11e72f1075c8",
+  "public_key_id": "2e38ef97-42ba-50bc-805f-11e72f1075c8",
   "name": "TAG Heuer",
   "what_it_does": "TAG Heuer manufactures and sells luxury watches.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "luxury watches",
+    "Swiss watches",
+    "chronographs",
+    "watchmaking",
+    "timepieces",
+    "luxury goods",
+    "high-end watches",
+    "wristwatches"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2e38ef97-42ba-50bc-805f-11e72f1075c8"
 }

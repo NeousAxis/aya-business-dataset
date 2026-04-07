@@ -1,11 +1,21 @@
 {
   "entity_id": "46a8bd37-fce8-5fef-bbe5-80832b8dfb1b",
+  "public_key_id": "46a8bd37-fce8-5fef-bbe5-80832b8dfb1b",
   "name": "Symrise",
   "what_it_does": "Symrise produces fragrances, flavorings, cosmetic active ingredients and raw materials.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "fragrances",
+    "flavorings",
+    "cosmetic ingredients",
+    "raw materials",
+    "sensory solutions",
+    "perfume ingredients",
+    "flavor compounds",
+    "cosmetics industry"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/46a8bd37-fce8-5fef-bbe5-80832b8dfb1b"
 }

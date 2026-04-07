@@ -1,11 +1,21 @@
 {
   "entity_id": "4f97c160-dfe3-59b1-befd-5892e6b8572a",
+  "public_key_id": "4f97c160-dfe3-59b1-befd-5892e6b8572a",
   "name": "Peoplebox.ai",
   "what_it_does": "Peoplebox.ai offers an AI-powered platform for employee feedback and performance management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "employee feedback",
+    "performance management",
+    "AI-powered HR",
+    "HR platform",
+    "employee engagement",
+    "performance tracking",
+    "feedback software",
+    "HR tech"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4f97c160-dfe3-59b1-befd-5892e6b8572a"
 }

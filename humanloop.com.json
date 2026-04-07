@@ -1,11 +1,20 @@
 {
   "entity_id": "ab9285b0-d0d5-5dba-80a7-1f3827a74baf",
+  "public_key_id": "ab9285b0-d0d5-5dba-80a7-1f3827a74baf",
   "name": "Humanloop joins Anthropic",
   "what_it_does": "Humanloop's AI feedback platform has been acquired by Anthropic.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "AI feedback",
+    "AI training data",
+    "human-in-the-loop",
+    "machine learning",
+    "Anthropic acquisition",
+    "artificial intelligence",
+    "model improvement"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab9285b0-d0d5-5dba-80a7-1f3827a74baf"
 }

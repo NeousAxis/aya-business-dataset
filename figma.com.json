@@ -1,11 +1,20 @@
 {
   "entity_id": "81e4bc02-2743-5b47-b672-7d020371c66f",
+  "public_key_id": "81e4bc02-2743-5b47-b672-7d020371c66f",
   "name": "Figma",
   "what_it_does": "Figma provides a collaborative web-based interface design tool.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Spain",
-  "keywords": [],
-  "aio_score": 77.0,
+  "location": "United States",
+  "keywords": [
+    "collaborative design",
+    "web-based design",
+    "UI design",
+    "UX design",
+    "interface design",
+    "design prototyping",
+    "vector graphics"
+  ],
+  "aio_score": 52.0,
   "certificate_url": "https://ai-visionary.com/aya/e/81e4bc02-2743-5b47-b672-7d020371c66f"
 }

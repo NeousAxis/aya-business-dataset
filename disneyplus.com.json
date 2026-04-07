@@ -1,11 +1,21 @@
 {
   "entity_id": "d23a9009-0ef8-57ed-b668-9868837dd2f4",
+  "public_key_id": "d23a9009-0ef8-57ed-b668-9868837dd2f4",
   "name": "Disney+",
   "what_it_does": "Disney+ is a subscription-based video streaming service featuring content from Disney, Pixar, Marvel, Star Wars, and National Geographic.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "streaming video",
+    "subscription movies",
+    "TV shows",
+    "family entertainment",
+    "movie streaming",
+    "TV streaming",
+    "Disney content",
+    "Pixar content"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d23a9009-0ef8-57ed-b668-9868837dd2f4"
 }

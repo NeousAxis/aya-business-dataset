@@ -1,11 +1,20 @@
 {
   "entity_id": "e569c92e-3d37-5510-9360-886b084bb969",
+  "public_key_id": "e569c92e-3d37-5510-9360-886b084bb969",
   "name": "L-Acoustics",
   "what_it_does": "L-Acoustics manufactures professional sound reinforcement systems.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "sound reinforcement",
+    "professional audio",
+    "speaker systems",
+    "audio equipment",
+    "live sound",
+    "concert sound",
+    "L-Acoustics speakers"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e569c92e-3d37-5510-9360-886b084bb969"
 }

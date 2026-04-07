@@ -1,11 +1,21 @@
 {
   "entity_id": "c2206cac-7fc7-553c-bbcf-33f4af3cab50",
+  "public_key_id": "c2206cac-7fc7-553c-bbcf-33f4af3cab50",
   "name": "The Graph",
   "what_it_does": "The Graph is a decentralized indexing protocol for querying blockchain data.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "decentralized indexing",
+    "blockchain data",
+    "querying protocol",
+    "API indexing",
+    "web3 data",
+    "GraphQL queries",
+    "data aggregation",
+    "smart contract data"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c2206cac-7fc7-553c-bbcf-33f4af3cab50"
 }

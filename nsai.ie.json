@@ -1,11 +1,20 @@
 {
   "entity_id": "c32fbd62-86ba-5c35-85af-2b3ff317ccea",
+  "public_key_id": "c32fbd62-86ba-5c35-85af-2b3ff317ccea",
   "name": "NSAI",
   "what_it_does": "NSAI (National Standards Authority of Ireland) develops standards and provides certification services.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Ireland",
-  "keywords": [],
-  "aio_score": 49.0,
+  "keywords": [
+    "standards development",
+    "certification body",
+    "quality assurance",
+    "Irish standards",
+    "testing services",
+    "product certification",
+    "Ireland regulatory"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c32fbd62-86ba-5c35-85af-2b3ff317ccea"
 }

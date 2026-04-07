@@ -1,11 +1,21 @@
 {
   "entity_id": "d23bb648-5742-5818-810e-644f130125c5",
+  "public_key_id": "d23bb648-5742-5818-810e-644f130125c5",
   "name": "Santander UK",
   "what_it_does": "Santander UK is a British bank providing retail and commercial banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 52.0,
+  "keywords": [
+    "British bank",
+    "retail banking",
+    "commercial banking",
+    "mortgages",
+    "loans",
+    "savings accounts",
+    "financial services",
+    "UK banking"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d23bb648-5742-5818-810e-644f130125c5"
 }

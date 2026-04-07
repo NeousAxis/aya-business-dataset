@@ -1,11 +1,21 @@
 {
   "entity_id": "417ad231-640b-552b-8e9b-98cbb9e83015",
+  "public_key_id": "417ad231-640b-552b-8e9b-98cbb9e83015",
   "name": "Monabanq",
   "what_it_does": "Monabanq is an online bank offering retail banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 46.0,
+  "keywords": [
+    "French banking",
+    " bank",
+    "retail banking",
+    " banking",
+    " savings accounts",
+    "personal finance",
+    "French finance",
+    " debit cards"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/417ad231-640b-552b-8e9b-98cbb9e83015"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "50f76854-a06c-516a-b33d-6b71a98e4989",
+  "public_key_id": "50f76854-a06c-516a-b33d-6b71a98e4989",
   "name": "yallo",
   "what_it_does": "yallo is a Swiss mobile virtual network operator (MVNO) offering telecommunication services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Swiss MVNO",
+    "mobile telecommunications",
+    "prepaid SIM cards",
+    "mobile data plans",
+    "international calls",
+    "Switzerland mobile",
+    "cellular network",
+    "voice and SMS"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/50f76854-a06c-516a-b33d-6b71a98e4989"
 }

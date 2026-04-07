@@ -1,11 +1,20 @@
 {
   "entity_id": "17ac00ce-ae0d-595e-a88b-67ce4bc22a85",
+  "public_key_id": "17ac00ce-ae0d-595e-a88b-67ce4bc22a85",
   "name": "Freelancer",
   "what_it_does": "Freelancer operates an online marketplace connecting freelancers with employers for various project-based tasks.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Australia",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "freelance marketplace",
+    "project sourcing",
+    "remote workers",
+    "outsourcing platform",
+    "gig economy",
+    "contract jobs",
+    "talent acquisition"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/17ac00ce-ae0d-595e-a88b-67ce4bc22a85"
 }

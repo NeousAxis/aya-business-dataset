@@ -1,11 +1,21 @@
 {
   "entity_id": "6ea41cbd-165d-5afa-b4f2-6eb951c1f885",
+  "public_key_id": "6ea41cbd-165d-5afa-b4f2-6eb951c1f885",
   "name": "FastPix",
   "what_it_does": "FastPix likely offers rapid image hosting and processing services for websites and applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "image hosting",
+    "image processing",
+    "image optimization",
+    "content delivery",
+    "website images",
+    "image CDN",
+    "API",
+    "image resizing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6ea41cbd-165d-5afa-b4f2-6eb951c1f885"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "70534bea-ec84-59e5-b5e5-49c83d581910",
+  "public_key_id": "70534bea-ec84-59e5-b5e5-49c83d581910",
   "name": "Envoy proxy",
   "what_it_does": "Envoy is an open-source edge and service proxy designed for cloud-native applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "edge proxy",
+    "service proxy",
+    "cloud-native",
+    "microservices",
+    "API gateway",
+    "traffic management",
+    "load balancing",
+    "observability"
+  ],
   "aio_score": 20.0,
   "certificate_url": "https://ai-visionary.com/aya/e/70534bea-ec84-59e5-b5e5-49c83d581910"
 }

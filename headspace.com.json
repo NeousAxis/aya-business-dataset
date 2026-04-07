@@ -1,11 +1,21 @@
 {
   "entity_id": "69a3a28c-b2ad-5868-8dea-cdbbf80e6794",
+  "public_key_id": "69a3a28c-b2ad-5868-8dea-cdbbf80e6794",
   "name": "Headspace",
   "what_it_does": "Headspace provides guided meditation and mindfulness content through a subscription-based app.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "guided meditation",
+    "mindfulness content",
+    "subscription access",
+    "stress reduction",
+    "sleep improvement",
+    "mental wellness",
+    "relaxation techniques",
+    "behavioral change"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/69a3a28c-b2ad-5868-8dea-cdbbf80e6794"
 }

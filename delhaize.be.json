@@ -1,11 +1,20 @@
 {
   "entity_id": "ed0ebb83-fe1c-5ccd-bf56-5b9c3a99917f",
+  "public_key_id": "ed0ebb83-fe1c-5ccd-bf56-5b9c3a99917f",
   "name": "MyDelhaize",
   "what_it_does": "MyDelhaize likely provides a platform for Delhaize customers to manage their accounts and orders.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "grocery account management",
+    "Delhaize customer platform",
+    "grocery orders",
+    "loyalty programs",
+    "personalized shopping",
+    "grocery e-commerce",
+    "Delhaize Belgium"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ed0ebb83-fe1c-5ccd-bf56-5b9c3a99917f"
 }

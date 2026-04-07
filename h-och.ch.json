@@ -1,11 +1,21 @@
 {
   "entity_id": "0a37c4a6-a1db-5a86-87ae-7db513910a9d",
+  "public_key_id": "0a37c4a6-a1db-5a86-87ae-7db513910a9d",
   "name": "HOCH Health Ostschweiz",
   "what_it_does": "HOCH Health Ostschweiz provides laboratory diagnostic services and medical care in eastern Switzerland.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "laboratory diagnostics",
+    "medical laboratory",
+    "diagnostic testing",
+    "medical care",
+    "eastern Switzerland healthcare",
+    "clinical diagnostics",
+    "pathology",
+    "medical analysis"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0a37c4a6-a1db-5a86-87ae-7db513910a9d"
 }

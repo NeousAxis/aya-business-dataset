@@ -1,11 +1,21 @@
 {
   "entity_id": "282a0ab5-cbe0-5b44-94d6-1870bce2afaa",
+  "public_key_id": "282a0ab5-cbe0-5b44-94d6-1870bce2afaa",
   "name": "iFLYTEK",
   "what_it_does": "iFLYTEK specializes in intelligent speech and language technologies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "speech recognition",
+    "natural language processing",
+    "artificial intelligence",
+    "language technologies",
+    "voice technology",
+    "intelligent speech",
+    "AI solutions",
+    "language understanding"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/282a0ab5-cbe0-5b44-94d6-1870bce2afaa"
 }

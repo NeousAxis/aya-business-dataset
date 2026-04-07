@@ -1,11 +1,21 @@
 {
   "entity_id": "7487e2d1-f608-5295-be98-872ffd505285",
-  "name": "Homepage EDP",
+  "public_key_id": "7487e2d1-f608-5295-be98-872ffd505285",
+  "name": "EDP",
   "what_it_does": "EDP is likely a media and communications company, possibly providing news or advertising services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "media",
+    "communications",
+    "advertising",
+    "news",
+    "content creation",
+    "content distribution",
+    "public relations",
+    "digital marketing"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7487e2d1-f608-5295-be98-872ffd505285"
 }

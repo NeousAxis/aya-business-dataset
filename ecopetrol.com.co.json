@@ -1,11 +1,21 @@
 {
   "entity_id": "802e5e29-dab4-581f-8bba-dde4f348d7d4",
+  "public_key_id": "802e5e29-dab4-581f-8bba-dde4f348d7d4",
   "name": "Ecopetrol",
   "what_it_does": "Ecopetrol is a Colombian oil and gas company involved in exploration, production, and refining.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 44.0,
+  "keywords": [
+    "crude oil",
+    "natural gas",
+    "petroleum products",
+    "oil exploration",
+    "oil production",
+    "petroleum refining",
+    "Colombian energy",
+    "gas distribution"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/802e5e29-dab4-581f-8bba-dde4f348d7d4"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "9e637199-029e-5266-ad73-50e45fce23a7",
+  "public_key_id": "9e637199-029e-5266-ad73-50e45fce23a7",
   "name": "HARVEST.com",
   "what_it_does": "Harvest.com likely connects buyers and sellers of agricultural products and services.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "agricultural products",
+    "agricultural services",
+    "farm supplies",
+    "agricultural marketplace",
+    "crop inputs",
+    "livestock",
+    "farming equipment"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9e637199-029e-5266-ad73-50e45fce23a7"
 }

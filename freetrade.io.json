@@ -1,11 +1,21 @@
 {
   "entity_id": "610503ca-1800-52bc-a1f9-f03ee84a9669",
+  "public_key_id": "610503ca-1800-52bc-a1f9-f03ee84a9669",
   "name": "Freetrade",
   "what_it_does": "Freetrade offers a commission-free investment platform for trading stocks and shares.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "stock trading",
+    "commission-free investing",
+    "investment platform",
+    "retail investing",
+    "stock market",
+    "trading app",
+    "share dealing",
+    "financial investments"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/610503ca-1800-52bc-a1f9-f03ee84a9669"
 }

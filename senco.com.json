@@ -1,11 +1,21 @@
 {
   "entity_id": "292dee81-8cbf-5ab0-a265-76e4fb261db2",
+  "public_key_id": "292dee81-8cbf-5ab0-a265-76e4fb261db2",
   "name": "SENCO",
   "what_it_does": "SENCO manufactures and sells pneumatic and battery-powered fastening tools.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "pneumatic fastening tools",
+    "battery powered fastening tools",
+    "construction tools",
+    "industrial tools",
+    "nail guns",
+    "staple guns",
+    "SENCO",
+    "fastening solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/292dee81-8cbf-5ab0-a265-76e4fb261db2"
 }

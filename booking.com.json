@@ -1,11 +1,21 @@
 {
   "entity_id": "4a8e7d2d-d5c9-5e44-86b5-32d0ef42e9af",
+  "public_key_id": "4a8e7d2d-d5c9-5e44-86b5-32d0ef42e9af",
   "name": "Booking",
   "what_it_does": "Booking.com is an online travel agency for booking accommodations and travel services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "travel bookings",
+    "accommodation reservations",
+    "hotel booking",
+    "vacation rentals",
+    "flight search",
+    "online travel",
+    "travel services",
+    "holiday booking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a8e7d2d-d5c9-5e44-86b5-32d0ef42e9af"
 }

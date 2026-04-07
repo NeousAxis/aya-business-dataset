@@ -1,11 +1,21 @@
 {
   "entity_id": "6632faf1-254d-5ca0-a12a-d6f2d31821ab",
+  "public_key_id": "6632faf1-254d-5ca0-a12a-d6f2d31821ab",
   "name": "AVerMedia",
   "what_it_does": "AVerMedia Technologies manufactures digital video and audio convergence products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "video capture",
+    "audio capture",
+    "video processing",
+    "streaming media",
+    "video encoders",
+    "capture cards",
+    "multimedia products",
+    "video solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6632faf1-254d-5ca0-a12a-d6f2d31821ab"
 }

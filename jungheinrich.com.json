@@ -1,11 +1,21 @@
 {
   "entity_id": "a6a2092b-1147-5616-8b95-ac88631b7ee6",
+  "public_key_id": "a6a2092b-1147-5616-8b95-ac88631b7ee6",
   "name": "Jungheinrich AG",
   "what_it_does": "Jungheinrich AG manufactures and supplies intralogistics solutions, including forklifts and warehouse equipment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "intralogistics",
+    "forklifts",
+    "warehouse equipment",
+    "material handling",
+    "logistics solutions",
+    "warehouse trucks",
+    "storage systems",
+    "supply chain"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a6a2092b-1147-5616-8b95-ac88631b7ee6"
 }

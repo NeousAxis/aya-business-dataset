@@ -1,11 +1,20 @@
 {
   "entity_id": "09c8eaa0-4afe-5731-8b03-2be30cd87788",
+  "public_key_id": "09c8eaa0-4afe-5731-8b03-2be30cd87788",
   "name": "Bloomenergy",
   "what_it_does": "Bloomenergy manufactures and sells fuel cell systems for on-site power generation.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "fuel cell systems",
+    "on-site power generation",
+    "distributed power",
+    "clean energy",
+    "power generation equipment",
+    "stationary power",
+    "energy independence"
+  ],
+  "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/09c8eaa0-4afe-5731-8b03-2be30cd87788"
 }

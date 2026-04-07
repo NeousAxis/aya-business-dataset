@@ -1,11 +1,20 @@
 {
   "entity_id": "0c793d2f-3cff-5070-b2d8-d347f3d60cc5",
+  "public_key_id": "0c793d2f-3cff-5070-b2d8-d347f3d60cc5",
   "name": "Later",
   "what_it_does": "Later is a social media scheduling and marketing platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "social media scheduling",
+    "Instagram marketing",
+    "content calendar",
+    "social media analytics",
+    "visual content",
+    "social media management",
+    "post scheduling"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0c793d2f-3cff-5070-b2d8-d347f3d60cc5"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "aeaf2f93-6a4e-5f92-82a1-40742f7ec79b",
+  "public_key_id": "aeaf2f93-6a4e-5f92-82a1-40742f7ec79b",
   "name": "Framer",
   "what_it_does": "Framer is a web-based design and prototyping tool for creating interactive user interfaces.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "interactive UI design",
+    "web prototyping",
+    "UI animation",
+    "design collaboration",
+    "user interface tools",
+    "web-based design",
+    "UX prototyping",
+    "frontend design"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aeaf2f93-6a4e-5f92-82a1-40742f7ec79b"
 }

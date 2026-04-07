@@ -1,11 +1,21 @@
 {
   "entity_id": "d7e429bd-522e-5e17-84fa-b69316eb715e",
+  "public_key_id": "d7e429bd-522e-5e17-84fa-b69316eb715e",
   "name": "Visana Versicherungen",
   "what_it_does": "Visana Versicherungen offers health insurance and other insurance products in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "health insurance",
+    "Swiss insurance",
+    "insurance products",
+    "healthcare coverage",
+    "supplemental insurance",
+    "accident insurance",
+    "medical expenses",
+    "insurance plans"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d7e429bd-522e-5e17-84fa-b69316eb715e"
 }

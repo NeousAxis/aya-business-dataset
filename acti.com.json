@@ -1,11 +1,21 @@
 {
   "entity_id": "fb15b5b1-34ce-56ef-9eef-aa100a4c5697",
+  "public_key_id": "fb15b5b1-34ce-56ef-9eef-aa100a4c5697",
   "name": "ACTi Corporation",
   "what_it_does": "ACTi Corporation manufactures IP surveillance cameras and video management systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "China",
-  "keywords": [],
+  "keywords": [
+    "IP surveillance cameras",
+    "video management systems",
+    "security cameras",
+    "surveillance solutions",
+    "network cameras",
+    "ACTi Corporation",
+    "CCTV",
+    "video security"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fb15b5b1-34ce-56ef-9eef-aa100a4c5697"
 }

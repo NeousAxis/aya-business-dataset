@@ -1,11 +1,21 @@
 {
   "entity_id": "db4ea2a0-7dfc-50b8-99a7-d328fc3c98cd",
+  "public_key_id": "db4ea2a0-7dfc-50b8-99a7-d328fc3c98cd",
   "name": "FlyBaboo",
   "what_it_does": "FlyBaboo was a regional airline operating in Switzerland before going out of business.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 58.0,
+  "keywords": [
+    "regional airline",
+    "Swiss aviation",
+    "passenger flights",
+    "domestic routes",
+    "short-haul travel",
+    "ceased operations",
+    "air transport",
+    "scheduled flights"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/db4ea2a0-7dfc-50b8-99a7-d328fc3c98cd"
 }

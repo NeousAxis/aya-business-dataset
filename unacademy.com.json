@@ -1,11 +1,21 @@
 {
   "entity_id": "531c55e3-9423-5e9c-a932-1255a412d5c3",
+  "public_key_id": "531c55e3-9423-5e9c-a932-1255a412d5c3",
   "name": "Unacademy",
   "what_it_does": "Unacademy is an Indian online learning platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "India",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "Indian learning",
+    "education platform",
+    "exam preparation",
+    "test preparation",
+    "online courses",
+    "educational videos",
+    "India education",
+    "learning resources"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/531c55e3-9423-5e9c-a932-1255a412d5c3"
 }

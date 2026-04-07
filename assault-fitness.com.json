@@ -1,11 +1,21 @@
 {
   "entity_id": "4a32d098-8f19-58ea-87b4-532cca5cdcf3",
+  "public_key_id": "4a32d098-8f19-58ea-87b4-532cca5cdcf3",
   "name": "Assault Fitness LLC",
   "what_it_does": "Assault Fitness LLC sells fitness equipment, specifically designed for high-intensity training.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "fitness equipment",
+    "high-intensity training",
+    "exercise bikes",
+    "rowing machines",
+    "air bikes",
+    "performance training",
+    "functional fitness",
+    "cardio equipment"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a32d098-8f19-58ea-87b4-532cca5cdcf3"
 }

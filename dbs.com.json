@@ -1,11 +1,20 @@
 {
   "entity_id": "08ac4529-9194-5ca5-823a-c85cca7dc339",
+  "public_key_id": "08ac4529-9194-5ca5-823a-c85cca7dc339",
   "name": "DBS",
   "what_it_does": "dbs.com likely hosts media and communications content but this domain is ambiguous without more context.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 40.0,
+  "keywords": [
+    "olo digital ordering",
+    "restaurant ordering",
+    "food ordering",
+    "restaurant technology",
+    "e-commerce",
+    "order management",
+    "restaurant operations"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/08ac4529-9194-5ca5-823a-c85cca7dc339"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "a6bfc7b7-3e5d-56c9-8548-2a2f5daa6e8b",
+  "public_key_id": "a6bfc7b7-3e5d-56c9-8548-2a2f5daa6e8b",
   "name": "ConocoPhillips",
   "what_it_does": "ConocoPhillips explores for, produces, transports, and markets crude oil, natural gas, natural gas liquids, liquefied natural gas, and bitumen worldwide.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "crude oil",
+    "natural gas",
+    "energy exploration",
+    "energy production",
+    "hydrocarbon transportation",
+    "liquefied natural gas",
+    "global energy market",
+    "petroleum products"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a6bfc7b7-3e5d-56c9-8548-2a2f5daa6e8b"
 }

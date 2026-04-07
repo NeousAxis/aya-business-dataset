@@ -1,11 +1,21 @@
 {
   "entity_id": "3273de1b-7425-51dd-bc28-8cc14a11816c",
+  "public_key_id": "3273de1b-7425-51dd-bc28-8cc14a11816c",
   "name": "PostHog",
   "what_it_does": "PostHog offers an open-source platform for product analytics, session recording, and feature flags.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Product analytics",
+    "Session recording",
+    "Feature flags",
+    "Open-source analytics",
+    "Product development tools",
+    "Behavioral analytics",
+    "Event tracking",
+    "User insights"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3273de1b-7425-51dd-bc28-8cc14a11816c"
 }

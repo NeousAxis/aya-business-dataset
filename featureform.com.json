@@ -1,11 +1,21 @@
 {
   "entity_id": "703c28dd-dfab-5fc3-83c3-e5a61afb9a8a",
+  "public_key_id": "703c28dd-dfab-5fc3-83c3-e5a61afb9a8a",
   "name": "Featureform",
   "what_it_does": "Featureform provides a platform for managing and deploying machine learning features.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "machine learning",
+    "feature management",
+    "feature deployment",
+    "MLOps",
+    "data engineering",
+    "feature engineering",
+    "AI platform",
+    "ML features"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/703c28dd-dfab-5fc3-83c3-e5a61afb9a8a"
 }

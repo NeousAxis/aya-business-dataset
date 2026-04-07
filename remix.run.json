@@ -1,11 +1,21 @@
 {
   "entity_id": "839a1a92-29bc-55ff-bd2e-6de1c06c9c63",
+  "public_key_id": "839a1a92-29bc-55ff-bd2e-6de1c06c9c63",
   "name": "Remix",
   "what_it_does": "Remix is a full stack web framework for building fast, resilient user interfaces.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 49.0,
+  "keywords": [
+    "web framework",
+    "full stack",
+    "React framework",
+    "UI development",
+    "server-side rendering",
+    "web applications",
+    "JavaScript framework",
+    "web development tools"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/839a1a92-29bc-55ff-bd2e-6de1c06c9c63"
 }

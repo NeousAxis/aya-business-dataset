@@ -1,11 +1,21 @@
 {
   "entity_id": "ad53cb50-1e54-5289-ae0f-be86720c5345",
+  "public_key_id": "ad53cb50-1e54-5289-ae0f-be86720c5345",
   "name": "Fortum",
   "what_it_does": "Fortum is an energy company focused on electricity and heat production, and energy trading.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "electricity production",
+    "heat production",
+    "energy trading",
+    "renewable energy",
+    "hydropower",
+    "nuclear power",
+    "Nordic energy market",
+    "energy solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ad53cb50-1e54-5289-ae0f-be86720c5345"
 }

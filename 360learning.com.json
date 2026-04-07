@@ -1,11 +1,21 @@
 {
   "entity_id": "20665955-ab6b-5c29-aed7-4132c5326b2c",
+  "public_key_id": "20665955-ab6b-5c29-aed7-4132c5326b2c",
   "name": "AI-Powered LMS & Collaborative Learning Platform",
   "what_it_does": "360Learning offers a learning management system (LMS) with collaborative features.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "learning management system",
+    "LMS",
+    "collaborative learning",
+    "e-learning",
+    "training",
+    "employee development",
+    "corporate learning",
+    "skills training"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/20665955-ab6b-5c29-aed7-4132c5326b2c"
 }

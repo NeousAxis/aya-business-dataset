@@ -1,11 +1,21 @@
 {
   "entity_id": "8b20f182-0cc0-52aa-b6c7-4a2b307b0167",
+  "public_key_id": "8b20f182-0cc0-52aa-b6c7-4a2b307b0167",
   "name": "EBRD",
   "what_it_does": "The EBRD (European Bank for Reconstruction and Development) is a multilateral development bank that invests in projects in transition economies.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "development bank",
+    "project finance",
+    "infrastructure investment",
+    "sustainable development",
+    "transition economies",
+    "international finance",
+    "economic development",
+    "European investments"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8b20f182-0cc0-52aa-b6c7-4a2b307b0167"
 }

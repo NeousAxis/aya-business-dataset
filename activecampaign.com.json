@@ -1,11 +1,20 @@
 {
   "entity_id": "626c6d32-e8f9-5644-ac4e-905f0a455661",
+  "public_key_id": "626c6d32-e8f9-5644-ac4e-905f0a455661",
   "name": "Marketing automation for any business",
   "what_it_does": "ActiveCampaign offers a marketing automation platform for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "marketing automation",
+    "email marketing",
+    "CRM",
+    "customer engagement",
+    "marketing campaigns",
+    "SaaS marketing",
+    "marketing software"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/626c6d32-e8f9-5644-ac4e-905f0a455661"
 }

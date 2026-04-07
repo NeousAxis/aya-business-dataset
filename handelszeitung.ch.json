@@ -1,11 +1,20 @@
 {
   "entity_id": "48215c69-ee57-5e4f-9958-afe080205c49",
+  "public_key_id": "48215c69-ee57-5e4f-9958-afe080205c49",
   "name": "Handelszeitung",
   "what_it_does": "Handelszeitung is a Swiss business newspaper.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "Swiss newspaper",
+    "business news",
+    "financial journalism",
+    "Swiss economy",
+    "stock market analysis",
+    "business analysis",
+    "economic reporting"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/48215c69-ee57-5e4f-9958-afe080205c49"
 }

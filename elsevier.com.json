@@ -1,11 +1,21 @@
 {
   "entity_id": "542d380b-4d1c-5d06-8940-d7d0f2c24aa2",
+  "public_key_id": "542d380b-4d1c-5d06-8940-d7d0f2c24aa2",
   "name": "Elsevier",
   "what_it_does": "Elsevier publishes science and health information.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Japan",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "science information",
+    "health information",
+    "scientific publications",
+    "medical publications",
+    "research databases",
+    "academic publishing",
+    "healthcare resources",
+    "scientific research"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/542d380b-4d1c-5d06-8940-d7d0f2c24aa2"
 }

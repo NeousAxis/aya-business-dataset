@@ -1,11 +1,21 @@
 {
   "entity_id": "0193f06d-8227-58aa-ad9c-2f54a43c5db2",
+  "public_key_id": "0193f06d-8227-58aa-ad9c-2f54a43c5db2",
   "name": "Challenges in Cloud Migration",
   "what_it_does": "Computacenter likely sells cloud migration services and related IT solutions.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Netherlands",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "cloud migration",
+    "IT solutions",
+    "cloud infrastructure",
+    "managed IT",
+    "data center migration",
+    "cloud computing",
+    "IT modernization",
+    "enterprise cloud"
+  ],
+  "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0193f06d-8227-58aa-ad9c-2f54a43c5db2"
 }

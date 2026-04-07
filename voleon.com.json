@@ -1,11 +1,20 @@
 {
   "entity_id": "d6745a97-dec6-5bbb-abe6-2a153ccdd46a",
+  "public_key_id": "d6745a97-dec6-5bbb-abe6-2a153ccdd46a",
   "name": "Voleon",
   "what_it_does": "Voleon employs machine learning and statistical methods for quantitative investment management.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "quantitative investment",
+    "machine learning",
+    "statistical modeling",
+    "algorithmic trading",
+    "hedge fund",
+    "investment strategies",
+    "financial modeling"
+  ],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6745a97-dec6-5bbb-abe6-2a153ccdd46a"
 }

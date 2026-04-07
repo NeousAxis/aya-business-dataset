@@ -1,11 +1,21 @@
 {
   "entity_id": "dd02d0ee-ef44-5803-8518-e705291b26c3",
+  "public_key_id": "dd02d0ee-ef44-5803-8518-e705291b26c3",
   "name": "Dranetz",
   "what_it_does": "Dranetz manufactures power quality monitoring equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "power quality monitoring",
+    "electrical testing",
+    "power meters",
+    "energy monitoring",
+    "harmonic analysis",
+    "voltage monitoring",
+    "electrical safety",
+    "power diagnostics"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dd02d0ee-ef44-5803-8518-e705291b26c3"
 }

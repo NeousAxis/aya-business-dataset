@@ -1,11 +1,20 @@
 {
   "entity_id": "8809a848-81cc-5e51-bf22-1fa0f0cf557d",
+  "public_key_id": "8809a848-81cc-5e51-bf22-1fa0f0cf557d",
   "name": "Celestia",
   "what_it_does": "Celestia is developing a modular blockchain network for scalable data availability.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [],
+  "location": "United States",
+  "keywords": [
+    "modular blockchain",
+    "data availability",
+    "blockchain scalability",
+    "Celestia network",
+    "layer-2 blockchain",
+    "blockchain infrastructure",
+    "rollups"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8809a848-81cc-5e51-bf22-1fa0f0cf557d"
 }

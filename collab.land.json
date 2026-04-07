@@ -1,11 +1,21 @@
 {
   "entity_id": "739a499e-be6e-53c8-9c2c-d002080df5c3",
+  "public_key_id": "739a499e-be6e-53c8-9c2c-d002080df5c3",
   "name": "Collab.Land",
   "what_it_does": "Collab.Land provides tools for managing access to online communities based on blockchain token ownership.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "token-based access",
+    "blockchain communities",
+    "community management tools",
+    "NFT access control",
+    "web3 access",
+    "decentralized access",
+    "discord access",
+    "telegram access"
+  ],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/739a499e-be6e-53c8-9c2c-d002080df5c3"
 }

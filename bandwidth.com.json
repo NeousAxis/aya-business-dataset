@@ -1,11 +1,21 @@
 {
   "entity_id": "d5c5dd6b-0422-5260-a2cc-15f55b0405fe",
+  "public_key_id": "d5c5dd6b-0422-5260-a2cc-15f55b0405fe",
   "name": "Bandwidth",
   "what_it_does": "Bandwidth provides communication APIs and network services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "communication APIs",
+    "network services",
+    "CPaaS",
+    "voice APIs",
+    "text messaging APIs",
+    "telecom infrastructure",
+    "VoIP",
+    "embedded communications"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d5c5dd6b-0422-5260-a2cc-15f55b0405fe"
 }

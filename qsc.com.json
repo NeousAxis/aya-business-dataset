@@ -1,11 +1,20 @@
 {
   "entity_id": "ee4dfc94-24ca-5cdc-b12c-abcbdef46ea8",
+  "public_key_id": "ee4dfc94-24ca-5cdc-b12c-abcbdef46ea8",
   "name": "QSC",
   "what_it_does": "QSC manufactures professional audio and video products, including amplifiers and loudspeakers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "professional audio",
+    "audio amplifiers",
+    "loudspeakers",
+    "audio processing",
+    "video products",
+    "sound systems",
+    "pro AV equipment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ee4dfc94-24ca-5cdc-b12c-abcbdef46ea8"
 }

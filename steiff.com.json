@@ -1,11 +1,21 @@
 {
   "entity_id": "04e57a89-6197-548a-bff1-be208d6d29d1",
+  "public_key_id": "04e57a89-6197-548a-bff1-be208d6d29d1",
   "name": "Steiff Onlineshop",
   "what_it_does": "Steiff sells plush toys, collectibles, and clothing, primarily featuring teddy bears and other animals.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 32.0,
+  "keywords": [
+    "plush toys",
+    "teddy bears",
+    "stuffed animals",
+    "toy collectibles",
+    "children's clothing",
+    "toy manufacturing",
+    "animal plushies",
+    "German toys"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/04e57a89-6197-548a-bff1-be208d6d29d1"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "7102dc60-d36f-51b5-929d-0fe16ac9cda8",
+  "public_key_id": "7102dc60-d36f-51b5-929d-0fe16ac9cda8",
   "name": "Bosch Global",
   "what_it_does": "Bosch.com is a multinational engineering and technology company.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
-  "location": "Global",
-  "keywords": [],
+  "location": "Germany",
+  "keywords": [
+    "engineering solutions",
+    "industrial automation",
+    "mobility solutions",
+    "connected devices",
+    "home appliances",
+    "power tools",
+    "security systems",
+    "automotive technology"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7102dc60-d36f-51b5-929d-0fe16ac9cda8"
 }

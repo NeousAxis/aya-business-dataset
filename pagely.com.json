@@ -1,11 +1,21 @@
 {
   "entity_id": "e1877a63-f819-5a9f-841d-7b290c870b01",
+  "public_key_id": "e1877a63-f819-5a9f-841d-7b290c870b01",
   "name": "Pagely",
   "what_it_does": "Pagely provides managed WordPress hosting services specifically for enterprise and high-growth companies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "managed WordPress hosting",
+    "enterprise WordPress",
+    "high-growth WordPress",
+    "WordPress hosting",
+    "WordPress VIP",
+    "scalable hosting",
+    "WordPress security",
+    "WordPress performance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e1877a63-f819-5a9f-841d-7b290c870b01"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "33525123-f397-5a70-a249-5a946d2fe686",
+  "public_key_id": "33525123-f397-5a70-a249-5a946d2fe686",
   "name": "Enphase Suisse",
   "what_it_does": "Enphase Energy develops and manufactures microinverter-based solar and storage systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
-  "keywords": [],
+  "keywords": [
+    "microinverters",
+    "solar energy systems",
+    "renewable energy",
+    "energy storage",
+    "solar inverters",
+    "home solar",
+    "residential solar",
+    "solar power"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/33525123-f397-5a70-a249-5a946d2fe686"
 }

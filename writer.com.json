@@ -1,11 +1,21 @@
 {
   "entity_id": "57546b22-bab3-55f8-8e87-e4a97e422f57",
+  "public_key_id": "57546b22-bab3-55f8-8e87-e4a97e422f57",
   "name": "WRITER",
   "what_it_does": "Writer provides an AI writing platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "AI writing",
+    "content creation",
+    "grammar checking",
+    "style guides",
+    "brand voice",
+    "content optimization",
+    "AI assistance",
+    "enterprise writing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/57546b22-bab3-55f8-8e87-e4a97e422f57"
 }

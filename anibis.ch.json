@@ -1,11 +1,21 @@
 {
   "entity_id": "2b5c1021-d3c9-51cb-9d08-490e7510074a",
+  "public_key_id": "2b5c1021-d3c9-51cb-9d08-490e7510074a",
   "name": "Anibis",
   "what_it_does": "Anibis is a Swiss online classifieds platform for buying and selling various goods and services.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "online classifieds",
+    "Swiss marketplace",
+    "secondhand goods",
+    "classified advertisements",
+    "local ads",
+    "buy and sell",
+    "Swiss e-commerce",
+    "used items"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2b5c1021-d3c9-51cb-9d08-490e7510074a"
 }

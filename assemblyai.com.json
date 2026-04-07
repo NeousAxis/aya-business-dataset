@@ -1,11 +1,21 @@
 {
   "entity_id": "66be814b-2455-5152-92bf-47e8d7805da7",
+  "public_key_id": "66be814b-2455-5152-92bf-47e8d7805da7",
   "name": "AssemblyAI",
   "what_it_does": "AssemblyAI provides an API platform for transcribing and understanding audio data.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "audio transcription",
+    "speech recognition",
+    "audio intelligence",
+    "API",
+    "speech-to-text",
+    "natural language processing",
+    "audio analysis",
+    "voice AI"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/66be814b-2455-5152-92bf-47e8d7805da7"
 }

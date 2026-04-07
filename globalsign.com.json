@@ -1,11 +1,21 @@
 {
   "entity_id": "71e91e7c-e062-5370-87e5-684e6c0fd82f",
+  "public_key_id": "71e91e7c-e062-5370-87e5-684e6c0fd82f",
   "name": "SSL/TLS 🌎 GlobalSign GMO",
   "what_it_does": "GlobalSign provides digital certificates for securing online communications and transactions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "digital certificates",
+    "SSL certificates",
+    "TLS certificates",
+    "PKI",
+    "cyber security",
+    "website security",
+    "certificate authority",
+    "encryption"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/71e91e7c-e062-5370-87e5-684e6c0fd82f"
 }

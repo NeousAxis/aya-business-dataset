@@ -1,11 +1,21 @@
 {
   "entity_id": "779e9f7d-0f8b-531e-83de-8e88dbd0d847",
+  "public_key_id": "779e9f7d-0f8b-531e-83de-8e88dbd0d847",
   "name": "California Ripe Olives",
   "what_it_does": "California Ripe Olives is an association representing California olive growers and processors.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "California olives",
+    "ripe olives",
+    "olive growers",
+    "olive processors",
+    "California agriculture",
+    "table olives",
+    "e-commerce olive products",
+    "retail olives"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/779e9f7d-0f8b-531e-83de-8e88dbd0d847"
 }

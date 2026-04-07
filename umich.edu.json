@@ -1,11 +1,21 @@
 {
   "entity_id": "eed8ed9c-b164-5d5c-85d8-dd728ec1eeba",
+  "public_key_id": "eed8ed9c-b164-5d5c-85d8-dd728ec1eeba",
   "name": "University of Michigan",
   "what_it_does": "The University of Michigan is a public research university offering undergraduate, graduate, and professional degree programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "higher education",
+    "university",
+    "research university",
+    "undergraduate degrees",
+    "graduate degrees",
+    "professional programs",
+    "public education",
+    "Michigan"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eed8ed9c-b164-5d5c-85d8-dd728ec1eeba"
 }

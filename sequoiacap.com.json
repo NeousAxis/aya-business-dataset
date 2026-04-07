@@ -1,11 +1,21 @@
 {
   "entity_id": "ca71f88f-960b-5e04-9db2-8e9edbc0aee2",
+  "public_key_id": "ca71f88f-960b-5e04-9db2-8e9edbc0aee2",
   "name": "Sequoia Capital",
   "what_it_does": "Sequoia Capital is a venture capital firm that invests in startups.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "venture capital",
+    "startup funding",
+    "seed investments",
+    "early-stage investments",
+    "growth equity",
+    "private equity",
+    "investment firm",
+    "technology investments"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ca71f88f-960b-5e04-9db2-8e9edbc0aee2"
 }

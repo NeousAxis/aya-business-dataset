@@ -1,11 +1,21 @@
 {
   "entity_id": "3549e423-8e4b-51b3-94b6-7a878f969a92",
+  "public_key_id": "3549e423-8e4b-51b3-94b6-7a878f969a92",
   "name": "ZKTeco",
   "what_it_does": "ZKTeco manufactures and sells biometric and RFID-based security and time management solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "biometric security",
+    "RFID solutions",
+    "time attendance",
+    "access control",
+    "security hardware",
+    "workforce management",
+    "fingerprint recognition",
+    "facial recognition"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3549e423-8e4b-51b3-94b6-7a878f969a92"
 }

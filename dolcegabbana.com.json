@@ -1,11 +1,21 @@
 {
   "entity_id": "ecc8b182-5c03-5d26-9401-0e02f1f959d9",
+  "public_key_id": "ecc8b182-5c03-5d26-9401-0e02f1f959d9",
   "name": "Dolce & Gabbana",
   "what_it_does": "Dolce & Gabbana is an Italian luxury fashion house.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Italy",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "luxury fashion",
+    "Italian fashion",
+    "designer clothing",
+    "high-end accessories",
+    "couture",
+    "ready-to-wear",
+    "luxury handbags",
+    "eyewear"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ecc8b182-5c03-5d26-9401-0e02f1f959d9"
 }

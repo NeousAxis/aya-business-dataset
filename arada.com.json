@@ -1,11 +1,21 @@
 {
   "entity_id": "97d2e8af-63e6-549e-a9e6-2dba097bff30",
+  "public_key_id": "97d2e8af-63e6-549e-a9e6-2dba097bff30",
   "name": "Arada",
   "what_it_does": "Arada develops and manages real estate projects in the United Arab Emirates.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Arab Emirates",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "real estate development",
+    "UAE property",
+    "property management",
+    "residential projects",
+    "commercial real estate",
+    "urban development",
+    "master-planned communities",
+    "real estate investment"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/97d2e8af-63e6-549e-a9e6-2dba097bff30"
 }

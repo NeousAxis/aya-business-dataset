@@ -1,11 +1,21 @@
 {
   "entity_id": "c949c755-ee7e-558f-8597-4229f3a666e1",
+  "public_key_id": "c949c755-ee7e-558f-8597-4229f3a666e1",
   "name": "Jolt",
   "what_it_does": "Jolt provides a platform with scheduling, training, and task management software for deskless teams.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "deskless teams",
+    "workforce scheduling",
+    "employee training",
+    "task",
+    "shift",
+    "team collaboration",
+    "restaurant",
+    "retail operations"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c949c755-ee7e-558f-8597-4229f3a666e1"
 }

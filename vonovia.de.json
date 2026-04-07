@@ -1,11 +1,21 @@
 {
   "entity_id": "2d113c54-fa90-56b7-9f05-6a90624baf51",
+  "public_key_id": "2d113c54-fa90-56b7-9f05-6a90624baf51",
   "name": "Vonovia SE",
   "what_it_does": "Vonovia SE is a German residential real estate company.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "residential real estate",
+    "German property",
+    "apartment rentals",
+    "housing market",
+    "property management",
+    "real estate investment",
+    "rental properties",
+    "housing solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2d113c54-fa90-56b7-9f05-6a90624baf51"
 }

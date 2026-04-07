@@ -1,11 +1,21 @@
 {
   "entity_id": "d9680499-d138-583c-a4bb-4d9bde818ff6",
+  "public_key_id": "d9680499-d138-583c-a4bb-4d9bde818ff6",
   "name": "State Farm®",
   "what_it_does": "State Farm provides insurance and financial services products, including auto, home, and life insurance.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "auto insurance",
+    "home insurance",
+    "life insurance",
+    "financial products",
+    "insurance policies",
+    "property insurance",
+    "casualty insurance",
+    "retirement accounts"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d9680499-d138-583c-a4bb-4d9bde818ff6"
 }

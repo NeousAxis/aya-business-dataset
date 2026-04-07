@@ -1,11 +1,21 @@
 {
   "entity_id": "6e4aca88-fb1f-5904-8add-bfea042e7279",
+  "public_key_id": "6e4aca88-fb1f-5904-8add-bfea042e7279",
   "name": "wenglor sensoric group",
   "what_it_does": "Wenglor Sensoric Group manufactures sensors and sensor systems for industrial automation.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "industrial sensors",
+    "sensor systems",
+    "automation",
+    "machine vision",
+    "object recognition",
+    "industrial automation",
+    "sensors",
+    "factory automation"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6e4aca88-fb1f-5904-8add-bfea042e7279"
 }

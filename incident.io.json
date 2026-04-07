@@ -1,11 +1,20 @@
 {
   "entity_id": "b9fec258-47e0-5bdc-95f5-39863185ed5c",
+  "public_key_id": "b9fec258-47e0-5bdc-95f5-39863185ed5c",
   "name": "incident.io",
   "what_it_does": "incident.io provides a platform for managing and resolving incidents in software systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "incident resolution",
+    "software incidents",
+    "incident response",
+    "on-call",
+    "SRE",
+    "DevOps",
+    "alerting"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b9fec258-47e0-5bdc-95f5-39863185ed5c"
 }

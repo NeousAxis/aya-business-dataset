@@ -1,11 +1,21 @@
 {
   "entity_id": "809e88f5-3922-58f8-86e3-294662e97a7c",
+  "public_key_id": "809e88f5-3922-58f8-86e3-294662e97a7c",
   "name": "Photomath",
   "what_it_does": "Photomath provides a mobile app that solves math problems by scanning them with a camera.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Italy",
-  "keywords": [],
+  "keywords": [
+    "math solver",
+    "camera math",
+    "equation scanner",
+    "mobile learning",
+    "educational tool",
+    "mathematics education",
+    "algebra solver",
+    "geometry solver"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/809e88f5-3922-58f8-86e3-294662e97a7c"
 }

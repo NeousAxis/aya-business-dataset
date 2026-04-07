@@ -1,11 +1,21 @@
 {
   "entity_id": "12e8857f-ec03-52cc-ace1-a169088a493a",
+  "public_key_id": "12e8857f-ec03-52cc-ace1-a169088a493a",
   "name": "Preset",
   "what_it_does": "Preset offers a cloud-based data exploration and visualization platform built on Apache Superset.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "data exploration",
+    "data visualization",
+    "Apache Superset",
+    "BI tools",
+    "cloud data",
+    "analytics platform",
+    "data dashboards",
+    "business intelligence"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/12e8857f-ec03-52cc-ace1-a169088a493a"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "5545e5af-cefb-5346-94c2-399b31a95a93",
+  "public_key_id": "5545e5af-cefb-5346-94c2-399b31a95a93",
   "name": "Craft",
   "what_it_does": "Craft is a document creation and collaboration app.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "China",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "document editor",
+    "note taking",
+    "collaborative documents",
+    "writing",
+    "content creation",
+    "team workspaces",
+    "rich text editing",
+    "document sharing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5545e5af-cefb-5346-94c2-399b31a95a93"
 }

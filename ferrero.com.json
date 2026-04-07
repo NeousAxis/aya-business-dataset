@@ -1,11 +1,21 @@
 {
   "entity_id": "b6a5072d-e852-59e7-b30e-699197d368cb",
+  "public_key_id": "b6a5072d-e852-59e7-b30e-699197d368cb",
   "name": "Ferrero Group Official Website",
   "what_it_does": "Ferrero manufactures and distributes branded confectionery and chocolate products worldwide.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 73.0,
+  "keywords": [
+    "branded confectionery",
+    "chocolate products",
+    "sweets",
+    "global distribution",
+    "nutella",
+    "kinder chocolate",
+    "tic tac",
+    "ferrero rocher"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b6a5072d-e852-59e7-b30e-699197d368cb"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "895d39a4-273b-5172-91c7-1783142c31ad",
+  "public_key_id": "895d39a4-273b-5172-91c7-1783142c31ad",
   "name": "Fresh bananas, pineapples, and more Dole fruits",
   "what_it_does": "Dole is a multinational corporation that produces and distributes fresh fruits and vegetables.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Canada",
-  "keywords": [],
+  "keywords": [
+    "fresh fruit",
+    "fresh vegetables",
+    "banana",
+    "pineapple",
+    "packaged fruit",
+    "fruit distribution",
+    "produce supplier",
+    "agricultural products"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/895d39a4-273b-5172-91c7-1783142c31ad"
 }

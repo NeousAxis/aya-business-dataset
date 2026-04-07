@@ -1,11 +1,21 @@
 {
   "entity_id": "9908e7ff-a3f3-5c23-beb1-d4cb070c87aa",
+  "public_key_id": "9908e7ff-a3f3-5c23-beb1-d4cb070c87aa",
   "name": "HDFC Bank",
   "what_it_does": "HDFC Bank is an Indian banking and financial services company.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "India",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "banking",
+    "financial services",
+    "Indian banking",
+    "retail banking",
+    "corporate banking",
+    "loans",
+    "investment banking",
+    "wealth management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9908e7ff-a3f3-5c23-beb1-d4cb070c87aa"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "a75e9032-2adc-5360-afb6-92bcf6759df2",
+  "public_key_id": "a75e9032-2adc-5360-afb6-92bcf6759df2",
   "name": "swiss granum",
   "what_it_does": "Swiss Granum promotes and supports the Swiss grain industry.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "grain",
+    "Swiss agriculture",
+    "wheat",
+    "barley",
+    "rye",
+    "flour",
+    "grain industry",
+    "crop production"
+  ],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a75e9032-2adc-5360-afb6-92bcf6759df2"
 }

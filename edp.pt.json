@@ -1,11 +1,20 @@
 {
   "entity_id": "11f284b1-1092-5bcc-b582-d1bc26428555",
+  "public_key_id": "11f284b1-1092-5bcc-b582-d1bc26428555",
   "name": "EDP",
   "what_it_does": "EDP (Energias de Portugal) is a Portuguese energy company involved in electricity generation and distribution.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Portugal",
-  "keywords": [],
+  "keywords": [
+    "electricity generation",
+    "power distribution",
+    "renewable energy",
+    "hydroelectric power",
+    "Portuguese energy",
+    "energy grid",
+    "Portugal electricity"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/11f284b1-1092-5bcc-b582-d1bc26428555"
 }

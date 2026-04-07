@@ -1,11 +1,21 @@
 {
   "entity_id": "ee51c977-d9c0-5681-a10a-709fb865d39c",
+  "public_key_id": "ee51c977-d9c0-5681-a10a-709fb865d39c",
   "name": "DEWALT® Home",
   "what_it_does": "DEWALT Home sells DEWALT-branded tools and equipment for home use.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "power tools",
+    "hand tools",
+    "home improvement",
+    "construction equipment",
+    "tool storage",
+    "tool accessories",
+    "DIY tools",
+    "workshop tools"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ee51c977-d9c0-5681-a10a-709fb865d39c"
 }

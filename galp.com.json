@@ -1,11 +1,20 @@
 {
   "entity_id": "eb53af0f-da04-5bae-a6a9-04aee604dc54",
+  "public_key_id": "eb53af0f-da04-5bae-a6a9-04aee604dc54",
   "name": "Galp",
   "what_it_does": "Galp is an energy company involved in oil and gas exploration, production, and refining.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Oil and gas",
+    "Energy exploration",
+    "Petroleum refining",
+    "Energy production",
+    "Natural gas",
+    "Energy company",
+    "Fuel products"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eb53af0f-da04-5bae-a6a9-04aee604dc54"
 }

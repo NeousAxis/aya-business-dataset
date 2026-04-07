@@ -1,11 +1,20 @@
 {
   "entity_id": "1acdf58e-b35e-55e3-a858-a364e0edcc85",
+  "public_key_id": "1acdf58e-b35e-55e3-a858-a364e0edcc85",
   "name": "Northvolt",
   "what_it_does": "Northvolt manufactures lithium-ion batteries for electric vehicles and energy storage systems.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Sweden",
-  "keywords": [],
+  "keywords": [
+    "lithium-ion batteries",
+    "electric vehicles",
+    "energy storage",
+    "battery manufacturing",
+    "battery technology",
+    "automotive batteries",
+    "battery systems"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1acdf58e-b35e-55e3-a858-a364e0edcc85"
 }

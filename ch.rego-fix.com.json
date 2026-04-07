@@ -1,11 +1,21 @@
 {
   "entity_id": "c4f3a544-3dc9-50e8-aba6-34775c636ee4",
+  "public_key_id": "c4f3a544-3dc9-50e8-aba6-34775c636ee4",
   "name": "REGO-FIX",
   "what_it_does": "REGO-FIX manufactures precision tools and toolholding systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 48.0,
+  "keywords": [
+    "precision toolholders",
+    "tool clamping systems",
+    "collets",
+    "swiss tooling",
+    "metal cutting tools",
+    "tooling solutions",
+    "machine tool accessories",
+    "high precision tools"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c4f3a544-3dc9-50e8-aba6-34775c636ee4"
 }

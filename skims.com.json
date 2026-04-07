@@ -1,11 +1,21 @@
 {
   "entity_id": "da10c32c-27f8-561b-921c-89a27478f95c",
+  "public_key_id": "da10c32c-27f8-561b-921c-89a27478f95c",
   "name": "SKIMS",
   "what_it_does": "SKIMS sells shapewear, underwear, and loungewear.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "shapewear",
+    "underwear",
+    "loungewear",
+    "intimates",
+    "athleisure",
+    "body positive",
+    "apparel",
+    "direct-to-consumer"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/da10c32c-27f8-561b-921c-89a27478f95c"
 }

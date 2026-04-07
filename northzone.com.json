@@ -1,11 +1,20 @@
 {
   "entity_id": "4991e26f-fb13-5e29-b235-953f0616244d",
+  "public_key_id": "4991e26f-fb13-5e29-b235-953f0616244d",
   "name": "Northzone multi-stage venture capital fund",
   "what_it_does": "Northzone invests in early-stage technology companies across Europe and the US.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "venture capital",
+    "early-stage investments",
+    "technology startups",
+    "European investments",
+    "US investments",
+    "seed funding",
+    "Series A funding"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4991e26f-fb13-5e29-b235-953f0616244d"
 }

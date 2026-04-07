@@ -1,11 +1,21 @@
 {
   "entity_id": "5daf6bbd-50e1-532a-b1b3-7e7234eec400",
+  "public_key_id": "5daf6bbd-50e1-532a-b1b3-7e7234eec400",
   "name": "Buderus",
   "what_it_does": "Buderus.de likely provides heating and energy solutions in Luxembourg.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Luxembourg",
-  "keywords": [],
+  "keywords": [
+    "heating systems",
+    "energy solutions",
+    "boilers",
+    "Luxembourg market",
+    "climate control",
+    "heating technology",
+    "renewable energy",
+    "HVAC equipment"
+  ],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5daf6bbd-50e1-532a-b1b3-7e7234eec400"
 }

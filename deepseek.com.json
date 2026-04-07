@@ -1,11 +1,20 @@
 {
   "entity_id": "8e193970-27d6-526e-b34d-0dea60bcf7bd",
+  "public_key_id": "8e193970-27d6-526e-b34d-0dea60bcf7bd",
   "name": "DeepSeek",
   "what_it_does": "DeepSeek develops and provides artificial intelligence technology and services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "artificial intelligence",
+    "AI models",
+    "AI development tools",
+    "machine learning",
+    "AI infrastructure",
+    "generative AI",
+    "large language models"
+  ],
   "aio_score": 24.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8e193970-27d6-526e-b34d-0dea60bcf7bd"
 }

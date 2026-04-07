@@ -1,11 +1,21 @@
 {
   "entity_id": "bfe8f43b-dd51-54a6-a5ef-6cb9b9ab8ee7",
+  "public_key_id": "bfe8f43b-dd51-54a6-a5ef-6cb9b9ab8ee7",
   "name": "Akamai",
   "what_it_does": "Akamai provides cloud computing infrastructure, including virtual servers and related services (inferred from acquiring Linode).",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "cloud infrastructure",
+    "virtual servers",
+    "cloud computing",
+    "IaaS",
+    "server hosting",
+    "cloud solutions",
+    "computing infrastructure",
+    "IT infrastructure"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bfe8f43b-dd51-54a6-a5ef-6cb9b9ab8ee7"
 }

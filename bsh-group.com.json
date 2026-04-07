@@ -1,11 +1,21 @@
 {
   "entity_id": "72a91dab-6a3e-5699-a32d-1b537542935e",
-  "name": "BSH HausgerÃ¤te GmbH",
+  "public_key_id": "72a91dab-6a3e-5699-a32d-1b537542935e",
+  "name": "BSH Hausgeräte GmbH",
   "what_it_does": "BSH Hausgeräte GmbH manufactures home appliances such as refrigerators, washing machines, and ovens.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "home appliances",
+    "refrigerators",
+    "washing machines",
+    "ovens",
+    "kitchen appliances",
+    "consumer electronics",
+    "household appliances",
+    "white goods"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/72a91dab-6a3e-5699-a32d-1b537542935e"
 }

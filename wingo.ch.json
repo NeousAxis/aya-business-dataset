@@ -1,11 +1,21 @@
 {
   "entity_id": "78f86a3f-9dab-5a10-8b9d-bd408b41f7f6",
+  "public_key_id": "78f86a3f-9dab-5a10-8b9d-bd408b41f7f6",
   "name": "Wingo",
   "what_it_does": "Wingo is a budget telecommunications provider in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 52.0,
+  "keywords": [
+    "budget telecommunications",
+    "Swiss telecom",
+    "mobile plans",
+    "internet plans",
+    "Switzerland mobile",
+    "low-cost telecom",
+    "data plans",
+    "telephony"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/78f86a3f-9dab-5a10-8b9d-bd408b41f7f6"
 }

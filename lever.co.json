@@ -1,11 +1,20 @@
 {
   "entity_id": "984498d0-e6bb-5fda-8c37-9728ac2feb07",
+  "public_key_id": "984498d0-e6bb-5fda-8c37-9728ac2feb07",
   "name": "Lever",
   "what_it_does": "Lever provides an applicant tracking system (ATS) for enterprise companies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "applicant tracking system",
+    "ATS software",
+    "enterprise recruiting",
+    "talent acquisition",
+    "recruitment platform",
+    "HR technology",
+    "hiring solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/984498d0-e6bb-5fda-8c37-9728ac2feb07"
 }

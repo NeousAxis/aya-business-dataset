@@ -1,11 +1,21 @@
 {
   "entity_id": "2cbacf30-fe56-5986-819e-c46c61947c72",
+  "public_key_id": "2cbacf30-fe56-5986-819e-c46c61947c72",
   "name": "Elixir-lang",
   "what_it_does": "Elixir-lang develops and maintains the Elixir programming language, designed for building scalable and maintainable applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "Elixir programming",
+    "concurrent programming",
+    "functional programming",
+    "BEAM virtual machine",
+    "scalable applications",
+    "fault-tolerant systems",
+    "Erlang ecosystem",
+    "distributed systems"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2cbacf30-fe56-5986-819e-c46c61947c72"
 }

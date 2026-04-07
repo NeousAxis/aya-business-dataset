@@ -1,11 +1,20 @@
 {
   "entity_id": "58ab49f0-dd0d-5ffe-b762-5f9e5e3efcaf",
+  "public_key_id": "58ab49f0-dd0d-5ffe-b762-5f9e5e3efcaf",
   "name": "General Atlantic",
   "what_it_does": "General Atlantic is a global growth equity firm that invests in companies across various sectors.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "growth equity",
+    "private equity",
+    "venture capital",
+    "investment firm",
+    "global investments",
+    "financial investments",
+    "equity investments"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/58ab49f0-dd0d-5ffe-b762-5f9e5e3efcaf"
 }

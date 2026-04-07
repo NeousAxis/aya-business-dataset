@@ -1,11 +1,21 @@
 {
   "entity_id": "c8d14bf3-d712-5c1d-b777-bea5611864b3",
+  "public_key_id": "c8d14bf3-d712-5c1d-b777-bea5611864b3",
   "name": "Insel Gruppe",
   "what_it_does": "Insel Gruppe is a network of hospitals and healthcare institutions in the Bern region of Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "hospital network",
+    "healthcare institutions",
+    "Swiss healthcare",
+    "medical services",
+    "Bern healthcare",
+    "clinical services",
+    "patient care",
+    "medical network"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c8d14bf3-d712-5c1d-b777-bea5611864b3"
 }

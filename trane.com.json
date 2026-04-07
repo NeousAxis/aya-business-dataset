@@ -1,11 +1,21 @@
 {
   "entity_id": "ae618977-75dc-525a-bef1-0630bef9e4b6",
+  "public_key_id": "ae618977-75dc-525a-bef1-0630bef9e4b6",
   "name": "Trane",
   "what_it_does": "Trane manufactures and services heating, ventilation, and air conditioning (HVAC) systems and solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "HVAC Systems",
+    "Heating Equipment",
+    "Ventilation Products",
+    "Air Conditioning Units",
+    "Climate Control",
+    "Building Solutions",
+    "Industrial HVAC",
+    "Commercial HVAC"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ae618977-75dc-525a-bef1-0630bef9e4b6"
 }

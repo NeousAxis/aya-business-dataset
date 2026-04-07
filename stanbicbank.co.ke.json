@@ -1,11 +1,21 @@
 {
   "entity_id": "9f01d351-c448-59d2-abdc-b8cfe127b505",
+  "public_key_id": "9f01d351-c448-59d2-abdc-b8cfe127b505",
   "name": "Stanbic Bank Kenya",
   "what_it_does": "Stanbic Bank Kenya is a commercial bank providing financial services in Kenya.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "Kenyan banking",
+    "commercial bank",
+    "financial services",
+    "retail banking",
+    "corporate banking",
+    "loan products",
+    "personal banking",
+    "banking services"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f01d351-c448-59d2-abdc-b8cfe127b505"
 }

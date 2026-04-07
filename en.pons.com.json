@@ -1,11 +1,20 @@
 {
   "entity_id": "46482fc7-2cda-570c-b103-d872e7f54419",
+  "public_key_id": "46482fc7-2cda-570c-b103-d872e7f54419",
   "name": "PONS dictionary",
   "what_it_does": "PONS provides online dictionaries and language learning resources.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 45.0,
+  "keywords": [
+    "dictionaries",
+    "language learning",
+    "vocabulary training",
+    "phrasebooks",
+    "language resources",
+    "translation tools",
+    "language reference"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/46482fc7-2cda-570c-b103-d872e7f54419"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "89ab70fd-5c23-5a9d-bcdb-2d6583872f39",
+  "public_key_id": "89ab70fd-5c23-5a9d-bcdb-2d6583872f39",
   "name": "Ferrovial",
   "what_it_does": "Ferrovial is a global infrastructure operator involved in construction, airports, mobility, and energy.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Spain",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "infrastructure operator",
+    "construction projects",
+    "airport management",
+    "mobility solutions",
+    "energy infrastructure",
+    "toll roads",
+    "civil engineering"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/89ab70fd-5c23-5a9d-bcdb-2d6583872f39"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "a89f47bf-ecc3-51ba-bd27-f419c18c13e3",
+  "public_key_id": "a89f47bf-ecc3-51ba-bd27-f419c18c13e3",
   "name": "WooCommerce",
   "what_it_does": "WooCommerce provides an open-source e-commerce platform plugin for WordPress websites.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "e-commerce plugin",
+    "WordPress e-commerce",
+    "open-source e-commerce",
+    "WooCommerce",
+    "online stores",
+    "e-commerce",
+    "shopping cart",
+    "WordPress"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a89f47bf-ecc3-51ba-bd27-f419c18c13e3"
 }

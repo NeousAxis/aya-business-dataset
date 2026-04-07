@@ -1,11 +1,21 @@
 {
   "entity_id": "adb7b903-fb21-5279-a5c1-c8ec05c3cfa6",
+  "public_key_id": "adb7b903-fb21-5279-a5c1-c8ec05c3cfa6",
   "name": "Jabra",
   "what_it_does": "Jabra manufactures audio and video solutions, including headsets and speakerphones.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Belgium",
-  "keywords": [],
+  "keywords": [
+    "headsets",
+    "speakerphones",
+    "audio solutions",
+    "video conferencing",
+    "Bluetooth headsets",
+    "enterprise audio",
+    "consumer electronics",
+    "call center headsets"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/adb7b903-fb21-5279-a5c1-c8ec05c3cfa6"
 }

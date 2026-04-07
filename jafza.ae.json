@@ -1,11 +1,21 @@
 {
   "entity_id": "56287d97-91cf-5eba-8dc4-19829b29fb52",
+  "public_key_id": "56287d97-91cf-5eba-8dc4-19829b29fb52",
   "name": "Jebel Ali Free Zone (Jafza)",
   "what_it_does": "Jebel Ali Free Zone (Jafza) is a free economic zone in Dubai that provides a business ecosystem for companies to operate with various incentives.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United Arab Emirates",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "free zone",
+    "economic zone",
+    "trade",
+    "logistics",
+    "dubai",
+    "import",
+    "export",
+    "manufacturing"
+  ],
+  "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/56287d97-91cf-5eba-8dc4-19829b29fb52"
 }

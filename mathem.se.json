@@ -1,11 +1,21 @@
 {
   "entity_id": "7b152bea-2f17-563d-915b-862c84a50ece",
+  "public_key_id": "7b152bea-2f17-563d-915b-862c84a50ece",
   "name": "Mat och inspiration för en smidigare matvardag",
   "what_it_does": "Mathem.se is a Swedish online grocery store.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Sweden",
-  "keywords": [],
+  "keywords": [
+    "online grocery",
+    "swedish grocery",
+    "food delivery",
+    "recipe",
+    "home delivery",
+    "grocery",
+    "mathem",
+    "convenience foods"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7b152bea-2f17-563d-915b-862c84a50ece"
 }

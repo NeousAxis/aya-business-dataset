@@ -1,11 +1,21 @@
 {
   "entity_id": "e4dad73c-64c9-54e8-bed9-a48cd263b5ab",
+  "public_key_id": "e4dad73c-64c9-54e8-bed9-a48cd263b5ab",
   "name": "Soundcloud",
   "what_it_does": "Soundcloud is an online audio distribution platform and music streaming service.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "audio streaming",
+    "music sharing",
+    "audio distribution",
+    "music platform",
+    "indie music",
+    "social audio",
+    "music community",
+    "audio hosting"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e4dad73c-64c9-54e8-bed9-a48cd263b5ab"
 }

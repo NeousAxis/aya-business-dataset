@@ -1,11 +1,21 @@
 {
   "entity_id": "ec120111-1a00-5f4c-9304-1cb211ba4f92",
+  "public_key_id": "ec120111-1a00-5f4c-9304-1cb211ba4f92",
   "name": "Side",
   "what_it_does": "Side connects businesses with freelance workers for temporary assignments.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "freelance talent",
+    "temporary staffing",
+    "gig workers",
+    "project-based roles",
+    "on-demand workforce",
+    "contract assignments",
+    "flexible labor",
+    "independent professionals"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec120111-1a00-5f4c-9304-1cb211ba4f92"
 }

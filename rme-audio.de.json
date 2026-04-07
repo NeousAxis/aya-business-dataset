@@ -1,11 +1,21 @@
 {
   "entity_id": "b23cd6be-58b8-5af2-a99d-990f5a0dae4c",
+  "public_key_id": "b23cd6be-58b8-5af2-a99d-990f5a0dae4c",
   "name": "RME Audio Interfaces",
   "what_it_does": "RME Audio manufactures professional audio interfaces and digital audio equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 53.0,
+  "keywords": [
+    "audio interfaces",
+    "digital audio equipment",
+    "pro audio gear",
+    "sound cards",
+    "audio converters",
+    "studio recording",
+    "music production",
+    "audio engineering"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b23cd6be-58b8-5af2-a99d-990f5a0dae4c"
 }

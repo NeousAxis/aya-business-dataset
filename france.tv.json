@@ -1,11 +1,21 @@
 {
   "entity_id": "d8622752-08a1-515c-a655-a832285c63d1",
+  "public_key_id": "d8622752-08a1-515c-a655-a832285c63d1",
   "name": "France Télévisions",
   "what_it_does": "France Télévisions is a French public national television broadcaster offering streaming of its channels and content.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "French television",
+    "national broadcaster",
+    "streaming video",
+    "news programs",
+    "cultural content",
+    "French channels",
+    "TV replay",
+    "live television"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d8622752-08a1-515c-a655-a832285c63d1"
 }

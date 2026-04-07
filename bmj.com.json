@@ -1,11 +1,21 @@
 {
   "entity_id": "383b078f-eadc-5eec-b87b-c10d7366b373",
+  "public_key_id": "383b078f-eadc-5eec-b87b-c10d7366b373",
   "name": "The BMJ",
   "what_it_does": "The BMJ (British Medical Journal) publishes medical research and information for healthcare professionals.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "medical research",
+    "clinical guidelines",
+    "healthcare information",
+    "medical journals",
+    "evidence-based medicine",
+    "healthcare professionals",
+    "medical education",
+    "peer-reviewed research"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/383b078f-eadc-5eec-b87b-c10d7366b373"
 }

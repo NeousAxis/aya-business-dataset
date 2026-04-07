@@ -1,11 +1,21 @@
 {
   "entity_id": "94287a9b-bdcc-5952-988d-2f95d66ed968",
+  "public_key_id": "94287a9b-bdcc-5952-988d-2f95d66ed968",
   "name": "Exclusive Banking Services in Kenya",
   "what_it_does": "Prime Bank Kenya offers banking services to individuals and businesses within Kenya.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "Kenyan banking",
+    "retail banking",
+    "corporate banking",
+    "SME loans",
+    "trade finance",
+    "personal accounts",
+    "business accounts",
+    "banking services Kenya"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/94287a9b-bdcc-5952-988d-2f95d66ed968"
 }

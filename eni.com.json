@@ -1,11 +1,21 @@
 {
   "entity_id": "81531238-cf82-5e27-ad57-2a01755ba296",
+  "public_key_id": "81531238-cf82-5e27-ad57-2a01755ba296",
   "name": "ENI",
   "what_it_does": "ENI is an Italian multinational oil and gas company.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 45.0,
+  "keywords": [
+    "oil and gas",
+    "energy exploration",
+    "petroleum products",
+    "natural gas",
+    "energy production",
+    "refining",
+    "energy trading",
+    "fuel distribution"
+  ],
+  "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/81531238-cf82-5e27-ad57-2a01755ba296"
 }

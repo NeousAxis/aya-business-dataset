@@ -1,11 +1,21 @@
 {
   "entity_id": "59f31d3b-cbf1-5fb1-ac06-fba451fa877d",
+  "public_key_id": "59f31d3b-cbf1-5fb1-ac06-fba451fa877d",
   "name": "Help",
   "what_it_does": "Help offers customer service and support software solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "customer support",
+    "help desk",
+    "ticket management",
+    "customer service",
+    "support software",
+    "CRM",
+    "incident management",
+    "customer communication"
+  ],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/59f31d3b-cbf1-5fb1-ac06-fba451fa877d"
 }

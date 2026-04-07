@@ -1,11 +1,21 @@
 {
   "entity_id": "7cc15d1f-a99f-5c0f-b979-3709797f049a",
+  "public_key_id": "7cc15d1f-a99f-5c0f-b979-3709797f049a",
   "name": "John Deere US",
   "what_it_does": "John Deere manufactures agricultural machinery, heavy equipment, forestry machinery, diesel engines, drivetrains used in heavy equipment, and lawn care equipment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "agricultural machinery",
+    "farm equipment",
+    "heavy equipment",
+    "forestry machinery",
+    "diesel engines",
+    "tractors",
+    "construction equipment",
+    "agriculture technology"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7cc15d1f-a99f-5c0f-b979-3709797f049a"
 }

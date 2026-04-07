@@ -1,11 +1,20 @@
 {
   "entity_id": "d1f55733-9ff8-5179-8402-cd29cacd402f",
+  "public_key_id": "d1f55733-9ff8-5179-8402-cd29cacd402f",
   "name": "SaaS cloud banking platform",
   "what_it_does": "Mambu provides a cloud banking platform enabling banks and financial institutions to build and manage financial products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "cloud banking",
+    "banking platform",
+    "financial products",
+    "SaaS banking",
+    "core banking",
+    "loan origination",
+    "API banking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d1f55733-9ff8-5179-8402-cd29cacd402f"
 }

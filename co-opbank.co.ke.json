@@ -1,11 +1,21 @@
 {
   "entity_id": "c4fad7cd-8438-5189-b335-97e6e5346695",
+  "public_key_id": "c4fad7cd-8438-5189-b335-97e6e5346695",
   "name": "Personal & Business Banking in Kenya",
   "what_it_does": "Co-op Bank provides banking services to individuals and businesses in Kenya.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "Kenyan banking",
+    "personal banking",
+    "business banking",
+    "retail banking",
+    "SME banking",
+    "cooperative banking",
+    "loans",
+    "savings accounts"
+  ],
+  "aio_score": 78.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c4fad7cd-8438-5189-b335-97e6e5346695"
 }

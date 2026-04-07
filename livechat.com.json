@@ -1,11 +1,21 @@
 {
   "entity_id": "8b8a4c66-d382-5472-87be-60a540215959",
+  "public_key_id": "8b8a4c66-d382-5472-87be-60a540215959",
   "name": "LiveChat®",
   "what_it_does": "LiveChat provides a customer service platform that enables businesses to chat with website visitors.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "customer chat",
+    "live support",
+    "customer engagement",
+    "chat software",
+    "help desk",
+    "real-time messaging",
+    "customer communication",
+    "website chat"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8b8a4c66-d382-5472-87be-60a540215959"
 }

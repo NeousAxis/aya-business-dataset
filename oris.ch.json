@@ -1,11 +1,20 @@
 {
   "entity_id": "7cf23d23-9285-55c4-ad49-1e69c8abf728",
+  "public_key_id": "7cf23d23-9285-55c4-ad49-1e69c8abf728",
   "name": "Oris",
   "what_it_does": "Oris is a Swiss manufacturer of mechanical watches.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Swiss watches",
+    "mechanical movements",
+    "luxury timepieces",
+    "horology",
+    "automatic watches",
+    "diving watches",
+    "Swiss made"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7cf23d23-9285-55c4-ad49-1e69c8abf728"
 }

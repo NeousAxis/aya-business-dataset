@@ -1,11 +1,21 @@
 {
   "entity_id": "9d7899b8-b0f2-58cf-882e-d63b8af7b282",
+  "public_key_id": "9d7899b8-b0f2-58cf-882e-d63b8af7b282",
   "name": "American National Standards Institute",
   "what_it_does": "ANSI develops and publishes standards for various industries in the United States.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "standards development",
+    "industry standards",
+    "national standards",
+    "conformity assessment",
+    "technical standards",
+    "safety standards",
+    "US standards",
+    "accreditation services"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9d7899b8-b0f2-58cf-882e-d63b8af7b282"
 }

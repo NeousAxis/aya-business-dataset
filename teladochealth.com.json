@@ -1,11 +1,21 @@
 {
   "entity_id": "ca9d85c9-7346-544b-a90e-67b58580ec4f",
+  "public_key_id": "ca9d85c9-7346-544b-a90e-67b58580ec4f",
   "name": "Telehealth & Telemedicine Provider",
   "what_it_does": "Teladoc Health provides virtual healthcare services including remote doctor consultations.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "telehealth",
+    "telemedicine",
+    "virtual doctor",
+    "remote consultation",
+    "virtual healthcare",
+    "remote patient",
+    "chronic care",
+    "on-demand healthcare"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ca9d85c9-7346-544b-a90e-67b58580ec4f"
 }

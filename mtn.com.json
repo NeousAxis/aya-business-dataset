@@ -1,11 +1,20 @@
 {
   "entity_id": "648a131b-290b-5e87-9093-2d31da29ecee",
+  "public_key_id": "648a131b-290b-5e87-9093-2d31da29ecee",
   "name": "MTN Group",
   "what_it_does": "MTN Group is a multinational mobile telecommunications company operating in Africa and the Middle East.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "mobile telecommunications",
+    "telecommunication network",
+    "Africa telecom",
+    "Middle East telecom",
+    "mobile communication",
+    "wireless",
+    "data plans"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/648a131b-290b-5e87-9093-2d31da29ecee"
 }

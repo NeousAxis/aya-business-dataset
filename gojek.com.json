@@ -1,11 +1,20 @@
 {
   "entity_id": "22ac82cd-64d0-58ff-b9dc-e3d10e7ac339",
+  "public_key_id": "22ac82cd-64d0-58ff-b9dc-e3d10e7ac339",
   "name": "Gojek Super App",
   "what_it_does": "Gojek provides a multi-service platform including ride-hailing, food delivery, and digital payments.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "ride-hailing",
+    "food delivery",
+    "digital payments",
+    "transportation",
+    "e-wallet",
+    "on-demand",
+    "logistics"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/22ac82cd-64d0-58ff-b9dc-e3d10e7ac339"
 }

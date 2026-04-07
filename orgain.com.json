@@ -1,11 +1,21 @@
 {
   "entity_id": "42472214-7f58-5f45-9a6e-b97a8caa7a99",
+  "public_key_id": "42472214-7f58-5f45-9a6e-b97a8caa7a99",
   "name": "Orgain",
   "what_it_does": "Orgain sells organic nutritional products such as protein powders and shakes.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "organic protein",
+    "nutritional shakes",
+    "protein powders",
+    "health supplements",
+    "plant-based nutrition",
+    "vegan protein",
+    "sports nutrition",
+    "dietary products"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/42472214-7f58-5f45-9a6e-b97a8caa7a99"
 }

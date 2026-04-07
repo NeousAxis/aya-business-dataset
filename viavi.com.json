@@ -1,11 +1,19 @@
 {
   "entity_id": "8751540f-c304-5999-b3fc-971d6a5b5aa6",
+  "public_key_id": "8751540f-c304-5999-b3fc-971d6a5b5aa6",
   "name": "Viavi",
   "what_it_does": "Viavi provides network test, measurement, and assurance solutions for communication service providers and enterprises.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 73.0,
+  "keywords": [
+    "network testing",
+    "network measurement",
+    "network assurance",
+    "communication providers",
+    "enterprise networks",
+    "telecom testing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8751540f-c304-5999-b3fc-971d6a5b5aa6"
 }

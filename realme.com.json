@@ -1,11 +1,20 @@
 {
   "entity_id": "bb6e162e-cee3-5a5f-b001-47c90fd5c563",
+  "public_key_id": "bb6e162e-cee3-5a5f-b001-47c90fd5c563",
   "name": "realme",
   "what_it_does": "Realme manufactures and sells smartphones and related consumer electronics.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Indonesia",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "realme smartphones",
+    "consumer electronics",
+    "mobile devices",
+    "android phones",
+    "budget smartphones",
+    "asian market",
+    "smartphone accessories"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bb6e162e-cee3-5a5f-b001-47c90fd5c563"
 }

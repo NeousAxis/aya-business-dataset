@@ -1,20 +1,21 @@
 {
-  "entity_id": "4760cb90-a078-5760-a3d5-b75ba512230c",
+  "entity_id": "fe965378-4b24-52e5-b36b-73111e4d2ac9",
+  "public_key_id": "fe965378-4b24-52e5-b36b-73111e4d2ac9",
   "name": "Babolat",
-  "what_it_does": "Babolat manufactures tennis racquets, strings, and other tennis equipment.",
+  "what_it_does": "Babolat manufactures and sells tennis, badminton, and padel equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
-  "location": "Global",
+  "location": "France",
   "keywords": [
-    "tennis rackets",
-    "tennis strings",
     "tennis equipment",
+    "badminton equipment",
+    "padel equipment",
+    "rackets",
+    "tennis strings",
+    "sports equipment",
     "racquet sports",
-    "tennis gear",
-    "sporting goods",
-    "tennis accessories",
-    "performance tennis"
+    "tennis accessories"
   ],
-  "aio_score": 57.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/4760cb90-a078-5760-a3d5-b75ba512230c"
+  "aio_score": 50.0,
+  "certificate_url": "https://ai-visionary.com/aya/e/fe965378-4b24-52e5-b36b-73111e4d2ac9"
 }

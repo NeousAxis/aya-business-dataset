@@ -1,11 +1,21 @@
 {
   "entity_id": "2a82dca8-879d-5d5d-8e4e-5a919be471ff",
+  "public_key_id": "2a82dca8-879d-5d5d-8e4e-5a919be471ff",
   "name": "EN",
   "what_it_does": "KBC is a Belgian bank and insurance company.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Belgium",
-  "keywords": [],
+  "keywords": [
+    "belgian bank",
+    "insurance",
+    "retail banking",
+    "financial services",
+    "mortgages",
+    "investment products",
+    "wealth management",
+    "banking services"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2a82dca8-879d-5d5d-8e4e-5a919be471ff"
 }

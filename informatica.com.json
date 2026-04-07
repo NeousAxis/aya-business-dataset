@@ -1,11 +1,21 @@
 {
   "entity_id": "ff07c80d-532c-55c0-af60-d5ed63686c80",
+  "public_key_id": "ff07c80d-532c-55c0-af60-d5ed63686c80",
   "name": "Informatica",
   "what_it_does": "Informatica provides enterprise cloud data management solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "data",
+    "cloud data",
+    "data ",
+    "ETL",
+    "data integration",
+    "data governance",
+    "data catalog",
+    "data quality"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ff07c80d-532c-55c0-af60-d5ed63686c80"
 }

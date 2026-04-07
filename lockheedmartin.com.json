@@ -1,11 +1,21 @@
 {
-  "entity_id": "cae8b394-00a3-50e2-84f4-1189026f16a6",
+  "entity_id": "0ccfbbcc-5d03-5c65-b35a-bb15bb7690f0",
+  "public_key_id": "0ccfbbcc-5d03-5c65-b35a-bb15bb7690f0",
   "name": "Leading Aerospace and Defense",
-  "what_it_does": "Lockheed Martin is an aerospace and defense company that designs, develops, manufactures and supports advanced technology systems.",
+  "what_it_does": "Lockheed Martin is an aerospace and defense company that manufactures military aircraft, missiles, and related technologies.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "aerospace",
+    "defense",
+    "security systems",
+    "military contractors",
+    "aviation",
+    "global security",
+    "defense technology",
+    "government defense"
+  ],
   "aio_score": 50.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/cae8b394-00a3-50e2-84f4-1189026f16a6"
+  "certificate_url": "https://ai-visionary.com/aya/e/0ccfbbcc-5d03-5c65-b35a-bb15bb7690f0"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "f68e2cb7-d89c-5b4d-a52a-2a308a0db3b8",
+  "public_key_id": "f68e2cb7-d89c-5b4d-a52a-2a308a0db3b8",
   "name": "Binghatti UAE",
   "what_it_does": "Binghatti UAE is a real estate developer in the United Arab Emirates known for its distinctive architectural designs.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "real estate development",
+    "UAE real estate",
+    "architectural design",
+    "property development",
+    "residential properties",
+    "luxury apartments",
+    "urban development",
+    "dubai real estate"
+  ],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f68e2cb7-d89c-5b4d-a52a-2a308a0db3b8"
 }

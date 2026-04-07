@@ -1,11 +1,21 @@
 {
   "entity_id": "25395950-f936-58d0-af50-03e11243cde6",
+  "public_key_id": "25395950-f936-58d0-af50-03e11243cde6",
   "name": "Epson Global Portal",
   "what_it_does": "Epson manufactures printers, projectors, and other digital imaging equipment.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "printers",
+    "projectors",
+    "imaging equipment",
+    "printing solutions",
+    "scanning devices",
+    "point of sale systems",
+    "inkjet printers",
+    "laser printers"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/25395950-f936-58d0-af50-03e11243cde6"
 }

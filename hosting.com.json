@@ -1,11 +1,21 @@
 {
   "entity_id": "3a41efae-cc7d-567b-9d0a-e20feea7a676",
+  "public_key_id": "3a41efae-cc7d-567b-9d0a-e20feea7a676",
   "name": "hosting.com",
   "what_it_does": "Hosting.com provides web hosting services, including dedicated servers, cloud hosting, and VPS solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "BD",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "dedicated servers",
+    "cloud hosting",
+    "VPS hosting",
+    "web hosting",
+    "data centers",
+    "managed hosting",
+    "server infrastructure",
+    "hosting solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3a41efae-cc7d-567b-9d0a-e20feea7a676"
 }

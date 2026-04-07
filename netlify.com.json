@@ -1,11 +1,21 @@
 {
   "entity_id": "ee7d5d30-e333-51fc-884f-2da701e46ebb",
+  "public_key_id": "ee7d5d30-e333-51fc-884f-2da701e46ebb",
   "name": "Netlify",
   "what_it_does": "Netlify provides a platform for building, deploying, and hosting web applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "web application hosting",
+    "static site generator",
+    "headless CMS",
+    "CI/CD",
+    "edge deployment",
+    "web development",
+    "serverless functions",
+    "Jamstack architecture"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ee7d5d30-e333-51fc-884f-2da701e46ebb"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "d7a2778d-5f55-5c2d-bc6b-3e1c881f82bf",
+  "public_key_id": "d7a2778d-5f55-5c2d-bc6b-3e1c881f82bf",
   "name": "Groupama",
   "what_it_does": "Groupama is a French insurance company providing a range of insurance and financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "French insurance",
+    "property insurance",
+    "liability insurance",
+    "financial planning",
+    "banking France",
+    "agricultural insurance",
+    "life insurance",
+    "investment products"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d7a2778d-5f55-5c2d-bc6b-3e1c881f82bf"
 }

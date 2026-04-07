@@ -1,11 +1,21 @@
 {
   "entity_id": "9db05a14-2eb2-5227-abac-e3df1d796d32",
+  "public_key_id": "9db05a14-2eb2-5227-abac-e3df1d796d32",
   "name": "Chainalysis",
   "what_it_does": "Chainalysis offers blockchain data and analysis to government agencies, exchanges, and financial institutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 56.0,
+  "keywords": [
+    "blockchain analysis",
+    "cryptocurrency investigations",
+    "crypto compliance",
+    "anti-money laundering",
+    "blockchain data forensics",
+    "digital asset tracing",
+    "crypto risk management",
+    "government blockchain"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9db05a14-2eb2-5227-abac-e3df1d796d32"
 }

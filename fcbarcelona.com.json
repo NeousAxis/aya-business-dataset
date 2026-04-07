@@ -1,11 +1,21 @@
 {
   "entity_id": "51248433-fe3e-5cc7-b6bb-aa51e0d1412c",
+  "public_key_id": "51248433-fe3e-5cc7-b6bb-aa51e0d1412c",
   "name": "FC Barcelona",
   "what_it_does": "FC Barcelona is a professional football club based in Barcelona, Spain.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "football club",
+    "Barcelona",
+    "Spanish football",
+    "La Liga",
+    "Camp Nou",
+    "football tickets",
+    "sports merchandise",
+    "soccer club"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/51248433-fe3e-5cc7-b6bb-aa51e0d1412c"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "dcce85f8-6596-5def-87c5-010bc408d071",
+  "public_key_id": "dcce85f8-6596-5def-87c5-010bc408d071",
   "name": "Compass",
   "what_it_does": "Compass is a real estate brokerage firm that uses technology to streamline the buying, selling, and renting process.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "real estate brokerage",
+    "property sales",
+    "home buying",
+    "real estate technology",
+    "property rentals",
+    "real estate listings",
+    "urban real estate",
+    "residential properties"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dcce85f8-6596-5def-87c5-010bc408d071"
 }

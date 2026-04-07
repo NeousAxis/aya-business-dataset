@@ -1,11 +1,20 @@
 {
   "entity_id": "d27604da-a923-5c17-8cae-03cf2b8bedc9",
+  "public_key_id": "d27604da-a923-5c17-8cae-03cf2b8bedc9",
   "name": "Brex",
   "what_it_does": "Brex.com offers financial services and corporate cards specifically for startups.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "corporate cards",
+    "startup finance",
+    "financial services",
+    "venture capital",
+    "business credit cards",
+    "expense management",
+    "startup banking"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d27604da-a923-5c17-8cae-03cf2b8bedc9"
 }

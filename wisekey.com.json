@@ -1,5 +1,6 @@
 {
   "entity_id": "b96ea952-510a-5ae4-ac2a-a5869063cbdb",
+  "public_key_id": "b96ea952-510a-5ae4-ac2a-a5869063cbdb",
   "name": "WISeKey",
   "what_it_does": "WISeKey offers cybersecurity, digital identity, and IoT solutions.",
   "for_who": "Businesses and developers.",
@@ -14,6 +15,6 @@
     "electronic signatures",
     "digital certificates"
   ],
-  "aio_score": 77.0,
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b96ea952-510a-5ae4-ac2a-a5869063cbdb"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "bcf9f61f-f7ae-57f7-92e3-f5b5e00a4247",
+  "public_key_id": "bcf9f61f-f7ae-57f7-92e3-f5b5e00a4247",
   "name": "Université catholique de Louvain",
   "what_it_does": "Université catholique de Louvain is a Belgian university offering higher education and research programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Belgium",
-  "keywords": [],
+  "keywords": [
+    "Belgian university",
+    "higher education",
+    "research programs",
+    "academic degrees",
+    "university education",
+    "Louvain university",
+    "degree studies",
+    "research institution"
+  ],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bcf9f61f-f7ae-57f7-92e3-f5b5e00a4247"
 }

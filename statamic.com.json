@@ -1,11 +1,21 @@
 {
   "entity_id": "2cfb6cc2-ca13-50a0-870f-9bdedb6c5eed",
+  "public_key_id": "2cfb6cc2-ca13-50a0-870f-9bdedb6c5eed",
   "name": "Statamic",
   "what_it_does": "Statamic is a content management system built on Laravel.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Laravel CMS",
+    "flat file CMS",
+    "content management",
+    "website builder",
+    "PHP CMS",
+    "developer tools",
+    "headless CMS",
+    "static site generator"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2cfb6cc2-ca13-50a0-870f-9bdedb6c5eed"
 }

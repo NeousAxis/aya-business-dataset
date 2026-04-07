@@ -1,11 +1,20 @@
 {
   "entity_id": "edda0d56-d4b9-5823-9377-78f0fa5d8468",
+  "public_key_id": "edda0d56-d4b9-5823-9377-78f0fa5d8468",
   "name": "NetZone",
   "what_it_does": "NetZone provides internet and telecommunications services in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "internet provider",
+    "telecommunications",
+    "internet",
+    "Switzerland internet",
+    "fiber internet",
+    "broadband internet",
+    "telephony"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/edda0d56-d4b9-5823-9377-78f0fa5d8468"
 }

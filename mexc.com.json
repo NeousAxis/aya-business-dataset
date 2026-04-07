@@ -1,11 +1,21 @@
 {
   "entity_id": "f7ee106e-f7eb-50ca-8830-2c1785698f6c",
+  "public_key_id": "f7ee106e-f7eb-50ca-8830-2c1785698f6c",
   "name": "MEXC Exchange",
   "what_it_does": "MEXC Exchange is a cryptocurrency exchange platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "MY",
-  "keywords": [],
+  "keywords": [
+    "cryptocurrency exchange",
+    "digital asset trading",
+    "crypto trading pairs",
+    "bitcoin",
+    "altcoins",
+    "crypto investments",
+    "digital currency",
+    "spot trading"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f7ee106e-f7eb-50ca-8830-2c1785698f6c"
 }

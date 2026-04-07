@@ -1,11 +1,21 @@
 {
   "entity_id": "5f18af62-ca4e-5db6-854c-77218214e856",
+  "public_key_id": "5f18af62-ca4e-5db6-854c-77218214e856",
   "name": "PING",
   "what_it_does": "PING manufactures golf clubs and equipment.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "golf clubs",
+    "golf equipment",
+    "golfing",
+    "golf gear",
+    "golfing equipment",
+    "golfing accessories",
+    "golf club manufacturer",
+    "golfing brand"
+  ],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5f18af62-ca4e-5db6-854c-77218214e856"
 }

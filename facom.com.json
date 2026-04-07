@@ -1,11 +1,21 @@
 {
   "entity_id": "3856bddc-d598-5fc2-ae01-388c542ca84d",
+  "public_key_id": "3856bddc-d598-5fc2-ae01-388c542ca84d",
   "name": "FACOM",
   "what_it_does": "FACOM manufactures hand tools, tool storage solutions, and automotive diagnostic equipment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "hand tools",
+    "tool storage",
+    "automotive diagnostics",
+    "mechanic tools",
+    "toolboxes",
+    "wrench sets",
+    "socket sets",
+    "automotive tools"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3856bddc-d598-5fc2-ae01-388c542ca84d"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "e0fa4d93-3935-5b7d-847f-570715ff517e",
+  "public_key_id": "e0fa4d93-3935-5b7d-847f-570715ff517e",
   "name": "Wayflyer",
   "what_it_does": "Wayflyer provides revenue-based financing and analytics to e-commerce businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Ireland",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "revenue-based financing",
+    "e-commerce funding",
+    "marketing analytics",
+    "growth capital",
+    "online business loans",
+    "digital advertising",
+    "e-commerce data",
+    "working capital"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e0fa4d93-3935-5b7d-847f-570715ff517e"
 }

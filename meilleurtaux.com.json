@@ -1,11 +1,20 @@
 {
   "entity_id": "253622cb-f0f7-57f0-9069-5ea790a47707",
+  "public_key_id": "253622cb-f0f7-57f0-9069-5ea790a47707",
   "name": "Meilleurtaux",
   "what_it_does": "Meilleurtaux is a French online platform that compares and brokers financial products like mortgages and insurance.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "mortgage comparison",
+    "insurance brokerage",
+    "financial product comparison",
+    "French finance",
+    "loan brokerage",
+    "financial services",
+    "insurance comparison"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/253622cb-f0f7-57f0-9069-5ea790a47707"
 }

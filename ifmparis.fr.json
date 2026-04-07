@@ -1,11 +1,21 @@
 {
   "entity_id": "f0eea971-2926-5691-8440-654fefa3d65d",
+  "public_key_id": "f0eea971-2926-5691-8440-654fefa3d65d",
   "name": "Ecole mode Paris",
   "what_it_does": "Institut Français de la Mode (IFM Paris) offers fashion education and training programs.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "fashion education",
+    "fashion design",
+    "fashion school",
+    "Paris fashion",
+    "IFM Paris",
+    "fashion training",
+    "apparel studies",
+    "luxury fashion"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f0eea971-2926-5691-8440-654fefa3d65d"
 }

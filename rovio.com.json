@@ -1,11 +1,21 @@
 {
   "entity_id": "235fad39-1380-5e91-872f-cd992ad2bf83",
+  "public_key_id": "235fad39-1380-5e91-872f-cd992ad2bf83",
   "name": "Rovio",
   "what_it_does": "Rovio is a mobile game developer best known for the Angry Birds franchise.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "mobile games",
+    "game development",
+    "casual games",
+    "angry birds",
+    "mobile entertainment",
+    "ios games",
+    "android games",
+    "app store games"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/235fad39-1380-5e91-872f-cd992ad2bf83"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "105c988b-8888-545b-8949-8924d0e7d2ee",
+  "public_key_id": "105c988b-8888-545b-8949-8924d0e7d2ee",
   "name": "Pierre et vacances",
   "what_it_does": "Pierre et Vacances offers holiday rentals and resorts, primarily in Europe.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "holiday rentals",
+    "European resorts",
+    "vacation apartments",
+    "holiday parks",
+    "family holidays",
+    "beach resorts",
+    "ski resorts"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/105c988b-8888-545b-8949-8924d0e7d2ee"
 }

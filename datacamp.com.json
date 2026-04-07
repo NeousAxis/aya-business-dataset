@@ -1,11 +1,21 @@
 {
   "entity_id": "e08379eb-6dac-56f1-989c-eeafc32b9c6e",
+  "public_key_id": "e08379eb-6dac-56f1-989c-eeafc32b9c6e",
   "name": "DataCamp",
   "what_it_does": "DataCamp provides an online interactive platform for learning data science skills.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "data science training",
+    "interactive coding courses",
+    "data analytics education",
+    "programming skills",
+    "skill assessments",
+    "data literacy",
+    "online learning",
+    "coding tutorials"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e08379eb-6dac-56f1-989c-eeafc32b9c6e"
 }

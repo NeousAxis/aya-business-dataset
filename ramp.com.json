@@ -1,11 +1,20 @@
 {
   "entity_id": "d0c541eb-121b-5167-acf9-9db03b972025",
+  "public_key_id": "d0c541eb-121b-5167-acf9-9db03b972025",
   "name": "Ramp",
   "what_it_does": "Ramp provides corporate cards and expense management software designed to save businesses money.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "corporate credit cards",
+    "expense tracking",
+    "spend management",
+    "business expense cards",
+    "expense reporting",
+    "financial control tools",
+    "corporate finance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d0c541eb-121b-5167-acf9-9db03b972025"
 }

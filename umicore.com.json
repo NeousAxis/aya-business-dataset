@@ -1,11 +1,21 @@
 {
   "entity_id": "10149a0a-3926-546e-8f3e-c0b2f2956e01",
+  "public_key_id": "10149a0a-3926-546e-8f3e-c0b2f2956e01",
   "name": "Umicore",
   "what_it_does": "Umicore is a materials technology and recycling company specializing in precious and base metals.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Materials technology",
+    "Recycling precious metals",
+    "Base metals recycling",
+    "Catalysis",
+    "Metal refining",
+    "Battery materials",
+    "Zinc chemicals",
+    "Cobalt & Nickel specialties"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/10149a0a-3926-546e-8f3e-c0b2f2956e01"
 }

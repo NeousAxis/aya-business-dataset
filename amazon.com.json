@@ -1,10 +1,11 @@
 {
   "entity_id": "ed357b6a-c532-5e9b-ae6c-2625ccef145a",
+  "public_key_id": "ed357b6a-c532-5e9b-ae6c-2625ccef145a",
   "name": "Amazon",
   "what_it_does": "Amazon operates a global e-commerce marketplace and provides cloud computing services.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
-  "location": "Global",
+  "location": "United States",
   "keywords": [
     "retail marketplace",
     "ecommerce",

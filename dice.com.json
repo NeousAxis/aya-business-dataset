@@ -1,11 +1,20 @@
 {
   "entity_id": "20935436-0153-5fce-b13c-641cddc4324f",
+  "public_key_id": "20935436-0153-5fce-b13c-641cddc4324f",
   "name": "Job Search on Dice.com",
   "what_it_does": "Dice.com is a career website for technology and engineering professionals.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "IT jobs",
+    "engineering careers",
+    "tech recruitment",
+    "job listings",
+    "career search",
+    "employer branding",
+    "technology professionals"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/20935436-0153-5fce-b13c-641cddc4324f"
 }

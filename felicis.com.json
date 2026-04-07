@@ -1,11 +1,21 @@
 {
   "entity_id": "61b61ff0-5e9d-5d78-9adc-ca360629fb55",
+  "public_key_id": "61b61ff0-5e9d-5d78-9adc-ca360629fb55",
   "name": "Felicis",
   "what_it_does": "Felicis is a venture capital firm that invests in early-stage technology companies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "venture capital",
+    "seed funding",
+    "early-stage investments",
+    "technology investments",
+    "startup funding",
+    "venture investments",
+    "VC firm",
+    "tech startups"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/61b61ff0-5e9d-5d78-9adc-ca360629fb55"
 }

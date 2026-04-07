@@ -1,11 +1,21 @@
 {
   "entity_id": "afd1b47d-ea13-58f1-8204-3327f15d7bd1",
+  "public_key_id": "afd1b47d-ea13-58f1-8204-3327f15d7bd1",
   "name": "Doosan Group",
   "what_it_does": "Doosan is a South Korean conglomerate with businesses in power, construction, and engineering.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "power generation",
+    "construction equipment",
+    "engineering solutions",
+    "South Korean conglomerate",
+    "heavy industries",
+    "infrastructure development",
+    "plant engineering",
+    "industrial machinery"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/afd1b47d-ea13-58f1-8204-3327f15d7bd1"
 }

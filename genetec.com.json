@@ -1,11 +1,21 @@
 {
   "entity_id": "c196f22d-3c8a-588e-bed3-6317118fb8e1",
+  "public_key_id": "c196f22d-3c8a-588e-bed3-6317118fb8e1",
   "name": "Genetec Inc",
   "what_it_does": "Genetec Inc develops unified security solutions encompassing video surveillance, access control, and automatic license plate recognition.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "video surveillance",
+    "access control",
+    "automatic license plate recognition",
+    "unified security",
+    "IP security cameras",
+    "security management",
+    " Genetec Stratocast",
+    "security solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c196f22d-3c8a-588e-bed3-6317118fb8e1"
 }

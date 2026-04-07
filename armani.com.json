@@ -1,11 +1,21 @@
 {
   "entity_id": "6111009a-8e88-5284-9230-e0b561b141cc",
+  "public_key_id": "6111009a-8e88-5284-9230-e0b561b141cc",
   "name": "Armani",
   "what_it_does": "Armani is a luxury fashion house that designs, manufactures, distributes, and retails haute couture, ready-to-wear, leather accessories, shoes, watches, jewelry, cosmetics, and home interiors.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "luxury fashion",
+    "haute couture",
+    "ready-to-wear",
+    "leather goods",
+    "Armani clothing",
+    "designer apparel",
+    "high-end retail",
+    "Italian fashion"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6111009a-8e88-5284-9230-e0b561b141cc"
 }

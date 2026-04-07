@@ -1,11 +1,21 @@
 {
   "entity_id": "8673210d-19cb-5d3b-ad64-82fa563025d7",
+  "public_key_id": "8673210d-19cb-5d3b-ad64-82fa563025d7",
   "name": "Butterfly",
   "what_it_does": "Butterfly provides an AI-powered employee engagement and feedback platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "employee engagement",
+    "feedback platform",
+    "AI powered HR",
+    "employee surveys",
+    "sentiment analysis",
+    "HR analytics",
+    "Butterfly",
+    "workplace feedback"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8673210d-19cb-5d3b-ad64-82fa563025d7"
 }

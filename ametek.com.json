@@ -1,11 +1,21 @@
 {
   "entity_id": "da3b6de7-51c0-5d00-ae43-f2a49909b97a",
+  "public_key_id": "da3b6de7-51c0-5d00-ae43-f2a49909b97a",
   "name": "AMETEK",
   "what_it_does": "AMETEK manufactures and sells electronic instruments and electromechanical devices.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "electronic instruments",
+    "electromechanical devices",
+    "test instruments",
+    "process instruments",
+    "aerospace components",
+    "power systems",
+    "precision instruments",
+    "industrial automation"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/da3b6de7-51c0-5d00-ae43-f2a49909b97a"
 }

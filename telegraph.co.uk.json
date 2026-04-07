@@ -1,11 +1,21 @@
 {
   "entity_id": "a02e7b85-bfaf-5a26-abe6-8329b21e1644",
+  "public_key_id": "a02e7b85-bfaf-5a26-abe6-8329b21e1644",
   "name": "Telegraph",
   "what_it_does": "The Telegraph is a British newspaper providing news and information online.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "British newspapers",
+    "UK news",
+    "current affairs",
+    "news articles",
+    "opinion pieces",
+    "journalism",
+    "breaking news",
+    "UK politics"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a02e7b85-bfaf-5a26-abe6-8329b21e1644"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "c84ab28a-519c-543b-85d2-a9fbcdde7cfe",
+  "public_key_id": "c84ab28a-519c-543b-85d2-a9fbcdde7cfe",
   "name": "Bechtle AG",
   "what_it_does": "Bechtle AG is a European IT provider offering hardware, software, and IT services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
-  "keywords": [],
+  "keywords": [
+    "IT infrastructure",
+    "hardware solutions",
+    "IT services",
+    "network solutions",
+    "client devices",
+    "European IT",
+    "IT consulting"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c84ab28a-519c-543b-85d2-a9fbcdde7cfe"
 }

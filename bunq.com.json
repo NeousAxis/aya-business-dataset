@@ -1,11 +1,20 @@
 {
   "entity_id": "a6b1cc94-4306-5984-beaa-ec5c6c6ba669",
+  "public_key_id": "a6b1cc94-4306-5984-beaa-ec5c6c6ba669",
   "name": "Join bunq in 5 Minutes",
   "what_it_does": "Bunq is a neobank providing mobile-first banking services, including personal and business accounts, in Europe.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Netherlands",
-  "keywords": [],
+  "keywords": [
+    "neobank",
+    "mobile banking",
+    "European banking",
+    "personal accounts",
+    "business accounts",
+    "financial technology",
+    "banking services"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a6b1cc94-4306-5984-beaa-ec5c6c6ba669"
 }

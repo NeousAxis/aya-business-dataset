@@ -1,11 +1,21 @@
 {
   "entity_id": "35d797a4-be1f-5996-9899-8236d0b1fb90",
+  "public_key_id": "35d797a4-be1f-5996-9899-8236d0b1fb90",
   "name": "Spectris",
   "what_it_does": "Spectris manufactures precision instrumentation and controls for industrial applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "precision instrumentation",
+    "industrial controls",
+    "test equipment",
+    "process automation",
+    "industrial sensors",
+    "monitoring equipment",
+    "measurement instruments",
+    "industrial manufacturing"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/35d797a4-be1f-5996-9899-8236d0b1fb90"
 }

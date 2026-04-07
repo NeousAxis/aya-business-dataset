@@ -1,11 +1,21 @@
 {
   "entity_id": "a2e2976b-a563-5d01-bfe9-31b441ca069a",
+  "public_key_id": "a2e2976b-a563-5d01-bfe9-31b441ca069a",
   "name": "UNSW Sydney",
   "what_it_does": "UNSW Sydney (University of New South Wales) is a public research and teaching university in Sydney, Australia.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Australia",
-  "keywords": [],
+  "keywords": [
+    "higher education",
+    "university",
+    "research university",
+    "undergraduate programs",
+    "graduate programs",
+    "sydney australia",
+    "academic research",
+    "tertiary education"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a2e2976b-a563-5d01-bfe9-31b441ca069a"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "b5ccc307-a4ef-5ab0-a980-87f5931e7753",
+  "public_key_id": "b5ccc307-a4ef-5ab0-a980-87f5931e7753",
   "name": "Croda",
   "what_it_does": "Croda manufactures and sells specialty chemicals.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "IT services",
+    "cloud computing",
+    "cognitive computing",
+    "digital transformation",
+    "application development",
+    "infrastructure services",
+    "IT consulting"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b5ccc307-a4ef-5ab0-a980-87f5931e7753"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "de02b313-c69b-56d4-8f26-ba98482296b9",
+  "public_key_id": "de02b313-c69b-56d4-8f26-ba98482296b9",
   "name": "Epik",
   "what_it_does": "Epik is a domain name registrar.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "domain registration",
+    "domain names",
+    "web hosting",
+    "domain transfer",
+    "domain services",
+    "TLD domains",
+    "domain privacy",
+    "web address"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/de02b313-c69b-56d4-8f26-ba98482296b9"
 }

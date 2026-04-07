@@ -1,11 +1,21 @@
 {
   "entity_id": "e930744d-e087-594c-ab46-a13fafffe9db",
+  "public_key_id": "e930744d-e087-594c-ab46-a13fafffe9db",
   "name": "Aéroport Toulouse Blagnac",
   "what_it_does": "Aéroport Toulouse Blagnac operates the Toulouse–Blagnac Airport in France.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "Toulouse Airport",
+    "French Airport",
+    "Aviation Transportation",
+    "Passenger Flights",
+    "Airport Facilities",
+    "Air Travel",
+    "France Air Transport",
+    "Blagnac"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e930744d-e087-594c-ab46-a13fafffe9db"
 }

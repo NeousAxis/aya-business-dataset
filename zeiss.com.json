@@ -1,11 +1,21 @@
 {
   "entity_id": "9dbd87c6-8094-5496-b111-cfd2bb20a5f0",
+  "public_key_id": "9dbd87c6-8094-5496-b111-cfd2bb20a5f0",
   "name": "ZEISS Group",
   "what_it_does": "ZEISS Group develops and manufactures optical and optoelectronic products, including lenses, microscopes, and industrial metrology equipment.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "optics",
+    "microscopy",
+    "lenses",
+    "optoelectronics",
+    "industrial metrology",
+    "medical technology",
+    "vision care",
+    "semiconductor manufacturing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9dbd87c6-8094-5496-b111-cfd2bb20a5f0"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "bd5f7ff5-8568-5d2c-96ef-9203d5de332d",
+  "public_key_id": "bd5f7ff5-8568-5d2c-96ef-9203d5de332d",
   "name": "Russell Reynolds Associates",
   "what_it_does": "Russell Reynolds Associates is a global leadership advisory and executive search firm.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "China",
-  "keywords": [],
+  "keywords": [
+    "leadership advisory",
+    "executive search",
+    "talent acquisition",
+    "executive recruiting",
+    "leadership assessment",
+    "board consulting",
+    "human capital",
+    "global recruiting"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bd5f7ff5-8568-5d2c-96ef-9203d5de332d"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "da80ce93-dff9-5f57-a04e-c7cd3bd617c9",
+  "public_key_id": "da80ce93-dff9-5f57-a04e-c7cd3bd617c9",
   "name": "Ironclad®  Performance Wear",
   "what_it_does": "Ironclad® Performance Wear sells work gloves and protective apparel.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "work gloves",
+    "protective apparel",
+    "hand protection",
+    "industrial workwear",
+    "safety gear",
+    "construction gloves",
+    "performance workwear",
+    "gloves"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/da80ce93-dff9-5f57-a04e-c7cd3bd617c9"
 }

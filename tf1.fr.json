@@ -1,11 +1,21 @@
 {
   "entity_id": "e5d1d1d0-60ea-5bc8-a575-281f1ff10462",
+  "public_key_id": "e5d1d1d0-60ea-5bc8-a575-281f1ff10462",
   "name": "TF1+",
   "what_it_does": "TF1+ is a streaming service provided by the French TV channel TF1, offering on-demand access to their content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "French streaming",
+    "on-demand television",
+    "TF1 content",
+    "French TV shows",
+    "replay TV",
+    "streaming video",
+    "French entertainment",
+    "television catch-up"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e5d1d1d0-60ea-5bc8-a575-281f1ff10462"
 }

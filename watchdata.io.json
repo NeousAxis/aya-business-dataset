@@ -1,11 +1,20 @@
 {
   "entity_id": "3dae4e83-dd77-5a5a-a0e4-45e527acc721",
-  "name": "Watchdata â Blockchain API for WEB 3.0",
+  "public_key_id": "3dae4e83-dd77-5a5a-a0e4-45e527acc721",
+  "name": "Watchdata – Blockchain API for WEB 3.0",
   "what_it_does": "Watchdata provides blockchain API solutions for Web3 applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "blockchain API",
+    "Web3 development",
+    "decentralized applications",
+    "blockchain integration",
+    "API solutions",
+    "crypto",
+    "dApp development"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3dae4e83-dd77-5a5a-a0e4-45e527acc721"
 }

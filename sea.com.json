@@ -1,11 +1,21 @@
 {
   "entity_id": "4c93bc2a-e225-507b-8f39-c4d7a1d390b9",
+  "public_key_id": "4c93bc2a-e225-507b-8f39-c4d7a1d390b9",
   "name": "Sea",
   "what_it_does": "Sea is a global consumer internet company operating in e-commerce, digital entertainment, and financial services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Singapore",
-  "keywords": [],
+  "keywords": [
+    "e-commerce",
+    "digital entertainment",
+    "financial transactions",
+    "consumer internet",
+    "online retail",
+    "online shopping",
+    "e-payments",
+    "digital gaming"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4c93bc2a-e225-507b-8f39-c4d7a1d390b9"
 }

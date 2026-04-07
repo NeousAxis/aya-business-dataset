@@ -1,11 +1,19 @@
 {
   "entity_id": "a430e98f-d364-5f32-a500-190f599c1568",
+  "public_key_id": "a430e98f-d364-5f32-a500-190f599c1568",
   "name": "Graphic Online",
   "what_it_does": "Graphic.com.gh provides news and information relevant to education in Ghana.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "GH",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "Ghana education news",
+    "Ghanaian education",
+    "educational information",
+    "school news",
+    "college updates",
+    "academic articles"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a430e98f-d364-5f32-a500-190f599c1568"
 }

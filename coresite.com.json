@@ -1,11 +1,21 @@
 {
   "entity_id": "c2aaf38a-f289-5e25-a165-13498ac91a62",
+  "public_key_id": "c2aaf38a-f289-5e25-a165-13498ac91a62",
   "name": "CoreSite, an American Tower Company",
   "what_it_does": "CoreSite operates data centers providing colocation and interconnection services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 78.0,
+  "keywords": [
+    "data centers",
+    "colocation",
+    "interconnection",
+    "IT infrastructure",
+    "data storage",
+    "cloud connectivity",
+    "network services",
+    "hosting services"
+  ],
+  "aio_score": 71.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c2aaf38a-f289-5e25-a165-13498ac91a62"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "996223a6-9635-57e7-ba50-b8090ab9087f",
+  "public_key_id": "996223a6-9635-57e7-ba50-b8090ab9087f",
   "name": "Air New Zealand",
   "what_it_does": "Air New Zealand provides passenger and cargo air transportation services, and likely uses this domain for some tech services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "New Zealand",
-  "keywords": [],
+  "keywords": [
+    "airline",
+    "air travel",
+    "passenger flights",
+    "cargo transportation",
+    "New Zealand airline",
+    "pacific routes",
+    "domestic flights",
+    "air freight"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/996223a6-9635-57e7-ba50-b8090ab9087f"
 }

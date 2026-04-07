@@ -1,11 +1,21 @@
 {
   "entity_id": "163a2722-75b3-521b-acb0-692076210de7",
+  "public_key_id": "163a2722-75b3-521b-acb0-692076210de7",
   "name": "Navya Mobility",
   "what_it_does": "Navya designs and manufactures autonomous vehicles and related mobility solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "autonomous vehicles",
+    "self-driving cars",
+    "driverless shuttles",
+    "robotic mobility",
+    "autonomous transport",
+    "urban mobility",
+    "autonomous systems",
+    "L4 autonomy"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/163a2722-75b3-521b-acb0-692076210de7"
 }

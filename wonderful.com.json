@@ -1,11 +1,21 @@
 {
   "entity_id": "18c2fb43-d9b4-548d-badf-e1e39a707570",
+  "public_key_id": "18c2fb43-d9b4-548d-badf-e1e39a707570",
   "name": "The Wonderful\nCompany :",
   "what_it_does": "The Wonderful Company is a food and beverage company known for brands like POM Wonderful and Fiji Water.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "food and beverage",
+    "POM Wonderful",
+    "Fiji Water",
+    "almonds",
+    "pistachios",
+    "citrus fruits",
+    "nut products",
+    "beverage brands"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/18c2fb43-d9b4-548d-badf-e1e39a707570"
 }

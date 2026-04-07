@@ -1,11 +1,21 @@
 {
   "entity_id": "3872885c-7188-508e-999d-cc9105956d40",
+  "public_key_id": "3872885c-7188-508e-999d-cc9105956d40",
   "name": "TVS Motor",
   "what_it_does": "TVS Motor Company manufactures motorcycles, scooters, and auto rickshaws.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "motorcycles",
+    "scooters",
+    "auto rickshaws",
+    "two-wheelers",
+    "indian motorcycles",
+    "urban transport",
+    "motor vehicle manufacturer",
+    "vehicle manufacturer"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3872885c-7188-508e-999d-cc9105956d40"
 }

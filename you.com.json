@@ -1,11 +1,21 @@
 {
   "entity_id": "d5ae09df-3b49-5664-b4ab-eecc697ece29",
+  "public_key_id": "d5ae09df-3b49-5664-b4ab-eecc697ece29",
   "name": "You.com",
   "what_it_does": "You.com is a search engine that emphasizes user privacy and customization.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "search engine",
+    "privacy focused search",
+    "customizable search",
+    "unbiased search",
+    "private search",
+    "ad-free search",
+    "alternative search engine",
+    "user-centric search"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d5ae09df-3b49-5664-b4ab-eecc697ece29"
 }

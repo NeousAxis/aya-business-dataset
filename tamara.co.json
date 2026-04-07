@@ -1,11 +1,21 @@
 {
   "entity_id": "a8c1f484-6a90-5cfb-b217-e43880a5ac60",
+  "public_key_id": "a8c1f484-6a90-5cfb-b217-e43880a5ac60",
   "name": "Tamara",
   "what_it_does": "Tamara is a buy-now-pay-later platform for online shopping in Saudi Arabia.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Saudi Arabia",
-  "keywords": [],
+  "keywords": [
+    "buy now pay later",
+    "BNPL",
+    "Saudi Arabia",
+    "e-commerce financing",
+    "installment payments",
+    "online shopping",
+    "retail finance",
+    "consumer credit"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a8c1f484-6a90-5cfb-b217-e43880a5ac60"
 }

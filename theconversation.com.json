@@ -1,11 +1,21 @@
 {
   "entity_id": "73fb35af-9419-5bec-b18a-43ff98ef6b1e",
+  "public_key_id": "73fb35af-9419-5bec-b18a-43ff98ef6b1e",
   "name": "The Conversation",
   "what_it_does": "The Conversation publishes articles written by academics and researchers on a variety of topics.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "academic articles",
+    "research publications",
+    "expert commentary",
+    "educational content",
+    "scholarly journalism",
+    "university research",
+    "factual reporting",
+    "evidence-based analysis"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/73fb35af-9419-5bec-b18a-43ff98ef6b1e"
 }

@@ -1,5 +1,6 @@
 {
   "entity_id": "3c68c38f-657d-534b-950d-091805978297",
+  "public_key_id": "3c68c38f-657d-534b-950d-091805978297",
   "name": "GODIVA Chocolatier, Inc.",
   "what_it_does": "GODIVA Chocolatier sells premium chocolates and related products.",
   "for_who": "Businesses and professionals.",
@@ -14,6 +15,6 @@
     "truffles",
     "chocolatier"
   ],
-  "aio_score": 57.0,
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3c68c38f-657d-534b-950d-091805978297"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "6624b1b0-f13e-59cf-81d9-291d6034a091",
+  "public_key_id": "6624b1b0-f13e-59cf-81d9-291d6034a091",
   "name": "CBRE UK",
   "what_it_does": "CBRE UK provides commercial real estate services in the United Kingdom.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "UK commercial real estate",
+    "property brokerage",
+    "real estate investments",
+    "property valuation",
+    "facilities",
+    "corporate real estate",
+    "property management",
+    "leasing agents"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6624b1b0-f13e-59cf-81d9-291d6034a091"
 }

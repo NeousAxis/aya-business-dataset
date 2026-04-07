@@ -1,11 +1,21 @@
 {
   "entity_id": "458d385d-f995-5ed9-a3a3-489f224632b6",
+  "public_key_id": "458d385d-f995-5ed9-a3a3-489f224632b6",
   "name": "Juhayna",
   "what_it_does": "Juhayna produces and distributes dairy and juice products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "dairy products",
+    "juice products",
+    "food production",
+    "beverage production",
+    "milk",
+    "yogurt",
+    "juice",
+    "Egyptian food"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/458d385d-f995-5ed9-a3a3-489f224632b6"
 }

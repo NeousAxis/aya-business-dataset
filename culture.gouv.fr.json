@@ -1,11 +1,21 @@
 {
   "entity_id": "61ed0346-627c-58b0-a9be-0df8cef576e9",
+  "public_key_id": "61ed0346-627c-58b0-a9be-0df8cef576e9",
   "name": "Ministère de la Culture",
   "what_it_does": "The French Ministry of Culture manages and promotes arts and culture in France.",
   "for_who": "Businesses and professionals.",
   "category": "Administration & Public",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "French arts",
+    "cultural heritage",
+    "France culture",
+    "arts funding",
+    "cultural policy",
+    "French ministry",
+    "cultural preservation",
+    "public administration"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/61ed0346-627c-58b0-a9be-0df8cef576e9"
 }

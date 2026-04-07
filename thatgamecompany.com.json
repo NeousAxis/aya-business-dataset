@@ -1,11 +1,21 @@
 {
   "entity_id": "682d56f7-4718-5b36-b22b-be63fe9810e6",
+  "public_key_id": "682d56f7-4718-5b36-b22b-be63fe9810e6",
   "name": "thatgamecompany",
   "what_it_does": "Thatgamecompany develops and publishes artistic video games.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "artistic games",
+    "video game development",
+    "indie games",
+    "console games",
+    "PC games",
+    "game publishing",
+    "interactive entertainment",
+    "game design"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/682d56f7-4718-5b36-b22b-be63fe9810e6"
 }

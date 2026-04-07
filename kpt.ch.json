@@ -1,11 +1,21 @@
 {
   "entity_id": "903db301-49d4-506a-a821-71da1b71e983",
+  "public_key_id": "903db301-49d4-506a-a821-71da1b71e983",
   "name": "KPT",
   "what_it_does": "KPT is likely a Swiss financial institution providing banking or insurance services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Swiss banking",
+    "Swiss financial",
+    "banking services",
+    "insurance services",
+    "financial institution",
+    "health insurance",
+    "asset protection",
+    "financial products"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/903db301-49d4-506a-a821-71da1b71e983"
 }

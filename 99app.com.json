@@ -1,11 +1,21 @@
 {
   "entity_id": "23af48c5-3bc5-5547-bce4-db5f36380e88",
-  "name": "Baixe o app 99",
+  "public_key_id": "23af48c5-3bc5-5547-bce4-db5f36380e88",
+  "name": "99",
   "what_it_does": "99 is a Brazilian ride-hailing and food delivery app.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "ride-hailing",
+    "food delivery",
+    "Brazil",
+    "urban mobility",
+    "delivery eats",
+    "mobile transportation",
+    "on-demand transport",
+    "local delivery"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/23af48c5-3bc5-5547-bce4-db5f36380e88"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "e4f05ab3-d2de-5967-97d6-5c5489744d16",
+  "public_key_id": "e4f05ab3-d2de-5967-97d6-5c5489744d16",
   "name": "Fortescue",
   "what_it_does": "Fortescue is likely a media and communications company.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "media publishing",
+    "news media",
+    "content creation",
+    "digital media",
+    "broadcasting",
+    "media marketing",
+    "social media",
+    "communications"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e4f05ab3-d2de-5967-97d6-5c5489744d16"
 }

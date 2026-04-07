@@ -1,11 +1,18 @@
 {
   "entity_id": "66bc1228-611e-5b80-9c78-64540100a318",
+  "public_key_id": "66bc1228-611e-5b80-9c78-64540100a318",
   "name": "emeis France",
   "what_it_does": "Emeis France provides technology and SaaS solutions (inferred from domain and sector).",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [],
-  "aio_score": 54.0,
+  "keywords": [
+    "healthcare IT",
+    "senior care technology",
+    "e-health solutions",
+    "care home",
+    "digital health"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/66bc1228-611e-5b80-9c78-64540100a318"
 }

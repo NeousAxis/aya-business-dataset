@@ -1,11 +1,21 @@
 {
   "entity_id": "53fcfcdd-878e-50da-a56b-07f182dd577a",
+  "public_key_id": "53fcfcdd-878e-50da-a56b-07f182dd577a",
   "name": "Kakao Corp",
   "what_it_does": "Kakao Corp is a South Korean internet company that offers a variety of services including messaging, social networking, and digital content.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "South Korean internet",
+    "mobile messaging",
+    "social networking",
+    "digital content",
+    "communication tools",
+    "internet services",
+    "Korean market",
+    "mobile platform"
+  ],
   "aio_score": 28.0,
   "certificate_url": "https://ai-visionary.com/aya/e/53fcfcdd-878e-50da-a56b-07f182dd577a"
 }

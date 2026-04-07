@@ -1,11 +1,21 @@
 {
   "entity_id": "626612d0-b795-510b-a9ed-7534133ea253",
+  "public_key_id": "626612d0-b795-510b-a9ed-7534133ea253",
   "name": "NN Group",
   "what_it_does": "NN Group is a Dutch insurance and asset management company.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Netherlands",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "insurance products",
+    "asset management",
+    "life insurance",
+    "pension products",
+    "investment funds",
+    "retirement planning",
+    "financial security",
+    "Dutch insurance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/626612d0-b795-510b-a9ed-7534133ea253"
 }

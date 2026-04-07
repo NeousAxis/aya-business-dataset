@@ -1,11 +1,21 @@
 {
   "entity_id": "e9f64cac-2cef-54d7-8135-7a7535f6979a",
+  "public_key_id": "e9f64cac-2cef-54d7-8135-7a7535f6979a",
   "name": "RITTER SPORT",
   "what_it_does": "RITTER SPORT manufactures and sells square-shaped chocolate bars.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "chocolate bars",
+    "square chocolate",
+    "confectionery",
+    "cocoa products",
+    "snack food",
+    "chocolate gifts",
+    "european chocolate",
+    "filled chocolate"
+  ],
   "aio_score": 20.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e9f64cac-2cef-54d7-8135-7a7535f6979a"
 }

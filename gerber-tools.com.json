@@ -1,11 +1,21 @@
 {
   "entity_id": "1224d5b4-f3ed-560a-a58d-f05dbe68888b",
+  "public_key_id": "1224d5b4-f3ed-560a-a58d-f05dbe68888b",
   "name": "Two Point Enterprise, LLC",
   "what_it_does": "Two Point Enterprise, LLC manufactures and distributes Gerber brand hand tools.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "hand tools",
+    "gerber tools",
+    "tool distribution",
+    "tool manufacturing",
+    "industrial tools",
+    "construction tools",
+    "cutting tools",
+    "utility knives"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1224d5b4-f3ed-560a-a58d-f05dbe68888b"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "9a17f678-8523-5033-8502-3398c4f5327c",
-  "name": "Ferien buchen Â» sicher und gÃ¼nstig reisen",
+  "public_key_id": "9a17f678-8523-5033-8502-3398c4f5327c",
+  "name": "Ferien buchen Â» sicher und günstig reisen",
   "what_it_does": "TUI Suisse is a Swiss travel agency offering packaged holidays and travel services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "swiss travel agency",
+    "packaged holidays",
+    "travel services",
+    "vacation packages",
+    "flights and hotels",
+    "holiday bookings",
+    "european tours"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9a17f678-8523-5033-8502-3398c4f5327c"
 }

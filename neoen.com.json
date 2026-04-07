@@ -1,11 +1,21 @@
 {
   "entity_id": "8b8038c9-9cf6-5455-b731-8efc2616d49e",
+  "public_key_id": "8b8038c9-9cf6-5455-b731-8efc2616d49e",
   "name": "Neoen",
   "what_it_does": "Neoen is an independent renewable energy producer.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "renewable energy",
+    "solar farms",
+    "wind farms",
+    "energy storage",
+    "independent power producer",
+    "green energy projects",
+    "sustainable energy",
+    "clean energy"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8b8038c9-9cf6-5455-b731-8efc2616d49e"
 }

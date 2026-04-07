@@ -1,11 +1,21 @@
 {
   "entity_id": "a4db40c4-5273-5ae2-a5a3-21e26a808464",
+  "public_key_id": "a4db40c4-5273-5ae2-a5a3-21e26a808464",
   "name": "Infobip",
   "what_it_does": "Infobip provides a cloud communications platform as a service (CPaaS) for businesses to engage with customers across various channels.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "RU",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "cloud communications",
+    "CPaaS",
+    "customer engagement",
+    "SMS",
+    "messaging",
+    "APIs",
+    "customer communications",
+    "omnichannel"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a4db40c4-5273-5ae2-a5a3-21e26a808464"
 }

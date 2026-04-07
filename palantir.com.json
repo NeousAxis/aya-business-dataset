@@ -1,11 +1,21 @@
 {
   "entity_id": "c53225af-1210-5cd8-9b09-9d94f582e62d",
+  "public_key_id": "c53225af-1210-5cd8-9b09-9d94f582e62d",
   "name": "Palantir",
   "what_it_does": "Palantir develops data analytics software for organizations with complex and sensitive data.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [],
-  "aio_score": 42.0,
+  "location": "United States",
+  "keywords": [
+    "data analytics",
+    "complex data",
+    "sensitive data",
+    "government solutions",
+    "enterprise data",
+    "data integration",
+    "data security",
+    "data analysis"
+  ],
+  "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c53225af-1210-5cd8-9b09-9d94f582e62d"
 }

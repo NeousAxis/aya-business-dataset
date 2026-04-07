@@ -1,11 +1,21 @@
 {
   "entity_id": "1bbf1fe0-a63f-5cf7-a35e-bc21985b2007",
+  "public_key_id": "1bbf1fe0-a63f-5cf7-a35e-bc21985b2007",
   "name": "Razer",
   "what_it_does": "Razer manufactures and sells gaming peripherals, laptops, and software.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "gaming peripherals",
+    "gaming laptops",
+    "eSports hardware",
+    "Razer products",
+    "gaming equipment",
+    "PC gaming",
+    "gaming accessories",
+    "competitive gaming"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1bbf1fe0-a63f-5cf7-a35e-bc21985b2007"
 }

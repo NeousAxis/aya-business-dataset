@@ -1,11 +1,20 @@
 {
   "entity_id": "4d2743bf-c615-5e7d-b201-dad4e3d1f894",
+  "public_key_id": "4d2743bf-c615-5e7d-b201-dad4e3d1f894",
   "name": "corporate",
   "what_it_does": "Perrigo manufactures and markets over-the-counter healthcare products and nutritional supplements.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "over-the-counter medications",
+    "healthcare products",
+    "nutritional supplements",
+    "self-care products",
+    "consumer health",
+    "pharmaceutical manufacturing",
+    "OTC drugs"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4d2743bf-c615-5e7d-b201-dad4e3d1f894"
 }

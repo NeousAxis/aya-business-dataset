@@ -1,11 +1,21 @@
 {
   "entity_id": "76270b13-08d3-586c-8bbc-f30aaa5a21b4",
+  "public_key_id": "76270b13-08d3-586c-8bbc-f30aaa5a21b4",
   "name": "Bird Micro-Electric Mobility",
   "what_it_does": "Bird provides electric scooters for short-distance urban transportation.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "electric scooters",
+    "micro-mobility",
+    "urban transportation",
+    "scooter sharing",
+    "last mile travel",
+    "city travel",
+    "dockless scooters",
+    "sustainable transport"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/76270b13-08d3-586c-8bbc-f30aaa5a21b4"
 }

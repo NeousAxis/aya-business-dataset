@@ -1,11 +1,21 @@
 {
   "entity_id": "f04ec2f3-209c-5353-8187-6e506b2a9704",
+  "public_key_id": "f04ec2f3-209c-5353-8187-6e506b2a9704",
   "name": "TotalEnergies",
   "what_it_does": "TotalEnergies (France) likely provides consulting and professional services related to energy solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "France",
-  "keywords": [],
-  "aio_score": 68.0,
+  "keywords": [
+    "energy consulting",
+    "energy efficiency",
+    "renewable energy",
+    "sustainable energy",
+    "energy solutions",
+    "French energy",
+    "energy audits",
+    "energy management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f04ec2f3-209c-5353-8187-6e506b2a9704"
 }

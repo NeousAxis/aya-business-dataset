@@ -1,11 +1,21 @@
 {
   "entity_id": "580b8b3f-bd00-52b1-97cd-c82a1aae7155",
+  "public_key_id": "580b8b3f-bd00-52b1-97cd-c82a1aae7155",
   "name": "Keppel",
   "what_it_does": "Keppel is a conglomerate company with business interests in offshore & marine, property, infrastructure and investment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "offshore engineering",
+    "marine construction",
+    "property development",
+    "infrastructure investments",
+    "investment firm",
+    "Keppel infrastructure",
+    "real estate",
+    "oil & gas"
+  ],
   "aio_score": 20.0,
   "certificate_url": "https://ai-visionary.com/aya/e/580b8b3f-bd00-52b1-97cd-c82a1aae7155"
 }

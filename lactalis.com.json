@@ -1,11 +1,21 @@
 {
   "entity_id": "50883b70-7844-5a6b-9d96-2a9821d3f442",
+  "public_key_id": "50883b70-7844-5a6b-9d96-2a9821d3f442",
   "name": "Lactalis",
   "what_it_does": "Lactalis is a global dairy company producing milk, cheese, yogurt, and other dairy products.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "France",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "dairy products",
+    "milk",
+    "cheese",
+    "yogurt",
+    "global dairy",
+    "dairy company",
+    "butter",
+    "dairy ingredients"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/50883b70-7844-5a6b-9d96-2a9821d3f442"
 }

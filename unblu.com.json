@@ -1,11 +1,21 @@
 {
   "entity_id": "5dc790ea-0d6c-50b2-a8f8-1ae80b24a5cb",
+  "public_key_id": "5dc790ea-0d6c-50b2-a8f8-1ae80b24a5cb",
   "name": "Digital Interaction for Financial Services I Unblu",
   "what_it_does": "Unblu provides a platform for financial institutions to offer interactive customer engagement.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "financial interaction",
+    "customer engagement",
+    "financial institution communication",
+    "interactive channels",
+    "banking customer",
+    "financial client",
+    "conversational banking",
+    "digital advisory"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5dc790ea-0d6c-50b2-a8f8-1ae80b24a5cb"
 }

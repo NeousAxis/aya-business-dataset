@@ -1,11 +1,21 @@
 {
   "entity_id": "72f67c3b-87ca-52fa-8166-d9d4d5c182f7",
+  "public_key_id": "72f67c3b-87ca-52fa-8166-d9d4d5c182f7",
   "name": "Parasound",
   "what_it_does": "Parasound manufactures and sells high-end audio amplifiers and processors.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "audio amplifiers",
+    "audio processors",
+    "high-end audio equipment",
+    "audiophile amplifiers",
+    "stereo amplifiers",
+    "home theater",
+    "audio components",
+    "power amplifiers"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/72f67c3b-87ca-52fa-8166-d9d4d5c182f7"
 }

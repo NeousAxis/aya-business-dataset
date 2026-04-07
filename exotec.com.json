@@ -1,11 +1,21 @@
 {
   "entity_id": "31b25fe6-2cfb-57cf-bfee-ca681188f5a3",
+  "public_key_id": "31b25fe6-2cfb-57cf-bfee-ca681188f5a3",
   "name": "Exotec",
   "what_it_does": "Exotec provides warehouse automation solutions utilizing mobile robots for order picking and fulfillment.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "warehouse automation",
+    "mobile robots",
+    "order picking",
+    "fulfillment systems",
+    "logistics automation",
+    "e-commerce warehousing",
+    "robotics",
+    "supply chain"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/31b25fe6-2cfb-57cf-bfee-ca681188f5a3"
 }

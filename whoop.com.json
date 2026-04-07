@@ -1,11 +1,21 @@
 {
   "entity_id": "851c778c-a592-5f32-bbf2-86086ad370b6",
+  "public_key_id": "851c778c-a592-5f32-bbf2-86086ad370b6",
   "name": "WHOOP",
   "what_it_does": "WHOOP sells a wearable fitness tracker and subscription service focused on recovery, sleep, and training optimization.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "wearable fitness tracker",
+    "fitness monitoring",
+    "recovery tracking",
+    "sleep analysis",
+    "training optimization",
+    "physiological data",
+    "performance metrics",
+    "fitness subscription"
+  ],
+  "aio_score": 64.0,
   "certificate_url": "https://ai-visionary.com/aya/e/851c778c-a592-5f32-bbf2-86086ad370b6"
 }

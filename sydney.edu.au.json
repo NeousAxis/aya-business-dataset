@@ -1,11 +1,21 @@
 {
   "entity_id": "abd6252d-325c-571a-9971-929495299a94",
+  "public_key_id": "abd6252d-325c-571a-9971-929495299a94",
   "name": "One of Australia’s top universities",
   "what_it_does": "The University of Sydney is a research-intensive university offering undergraduate and postgraduate programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Australia",
-  "keywords": [],
+  "keywords": [
+    "university",
+    "higher education",
+    "research",
+    "undergraduate",
+    "postgraduate",
+    "Australia",
+    "academic programs",
+    "scholarships"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/abd6252d-325c-571a-9971-929495299a94"
 }

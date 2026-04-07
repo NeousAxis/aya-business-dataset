@@ -1,11 +1,21 @@
 {
   "entity_id": "434751c1-aeea-541e-b172-c978bd97222c",
+  "public_key_id": "434751c1-aeea-541e-b172-c978bd97222c",
   "name": "bus, railway, ferry, cargo... transportation",
   "what_it_does": "Transdev operates public transportation services including buses, trains, and ferries.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "public transport",
+    "bus operations",
+    "railway operations",
+    "ferry operations",
+    "urban mobility",
+    "transportation solutions",
+    "passenger transport",
+    "transit systems"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/434751c1-aeea-541e-b172-c978bd97222c"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "750ecb76-fda3-5c95-913f-b1ff45bf8beb",
+  "public_key_id": "750ecb76-fda3-5c95-913f-b1ff45bf8beb",
   "name": "Okr",
   "what_it_does": "okr.fr sells products related to setting Objectives and Key Results (OKRs).",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "objectives key results",
+    "OKR",
+    "goal setting",
+    "performance",
+    "business goals",
+    "strategy",
+    "achievement tools"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/750ecb76-fda3-5c95-913f-b1ff45bf8beb"
 }

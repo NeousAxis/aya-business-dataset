@@ -1,11 +1,21 @@
 {
   "entity_id": "df1438a5-e1c7-5368-88c8-f313541a9f03",
+  "public_key_id": "df1438a5-e1c7-5368-88c8-f313541a9f03",
   "name": "Cargill",
   "what_it_does": "Cargill is likely engaged in media and communication activities.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "agricultural commodities",
+    "food ingredients",
+    "risk management",
+    "supply chain",
+    "food processing",
+    "agricultural products",
+    "grain trading",
+    "ingredient solutions"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/df1438a5-e1c7-5368-88c8-f313541a9f03"
 }

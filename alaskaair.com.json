@@ -1,11 +1,20 @@
 {
   "entity_id": "0b065e86-f1dd-5454-8ec2-a3a9bab2fcef",
+  "public_key_id": "0b065e86-f1dd-5454-8ec2-a3a9bab2fcef",
   "name": "Alaska Airlines",
   "what_it_does": "Alaska Airlines provides passenger air transportation services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Japan",
-  "keywords": [],
+  "keywords": [
+    "passenger air transportation",
+    "airline",
+    "air travel",
+    "flight bookings",
+    "domestic flights",
+    "international flights",
+    "air cargo"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0b065e86-f1dd-5454-8ec2-a3a9bab2fcef"
 }

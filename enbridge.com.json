@@ -1,11 +1,21 @@
 {
   "entity_id": "e140d821-5fe4-50e9-9f11-94fd42e6a684",
+  "public_key_id": "e140d821-5fe4-50e9-9f11-94fd42e6a684",
   "name": "Enbridge Inc.",
   "what_it_does": "Enbridge Inc. is a multinational energy transportation company focusing on pipelines.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "energy transportation",
+    "pipeline operation",
+    "natural gas pipelines",
+    "oil pipelines",
+    "energy infrastructure",
+    "crude oil transport",
+    "liquids pipelines",
+    "petroleum transport"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e140d821-5fe4-50e9-9f11-94fd42e6a684"
 }

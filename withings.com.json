@@ -1,11 +1,21 @@
 {
   "entity_id": "03279d15-0ca2-55fe-952f-2c90576c3af9",
+  "public_key_id": "03279d15-0ca2-55fe-952f-2c90576c3af9",
   "name": "Withings",
   "what_it_does": "Withings manufactures and sells smart health devices such as scales and watches.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "smart scales",
+    "wearable health",
+    "health monitoring",
+    "consumer electronics",
+    "activity trackers",
+    "connected devices",
+    "digital health",
+    "weight management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/03279d15-0ca2-55fe-952f-2c90576c3af9"
 }

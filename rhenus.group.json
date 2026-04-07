@@ -1,11 +1,21 @@
 {
   "entity_id": "b8011376-27da-5227-ac93-6dff72d35c69",
+  "public_key_id": "b8011376-27da-5227-ac93-6dff72d35c69",
   "name": "Rhenus",
   "what_it_does": "Rhenus provides logistics and transportation services including freight forwarding and warehousing.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Mexico",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "logistics",
+    "transportation",
+    "freight forwarding",
+    "warehousing",
+    "supply chain",
+    "contract logistics",
+    "global logistics",
+    "transport management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b8011376-27da-5227-ac93-6dff72d35c69"
 }

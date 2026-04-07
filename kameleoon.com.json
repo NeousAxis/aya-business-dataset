@@ -1,11 +1,21 @@
 {
   "entity_id": "8eeabe33-f622-542d-9fa5-0acb9ce6cc42",
+  "public_key_id": "8eeabe33-f622-542d-9fa5-0acb9ce6cc42",
   "name": "Kameleoon",
   "what_it_does": "Kameleoon offers a platform for website personalization and experimentation.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "website personalization",
+    "A/B testing",
+    "experimentation platform",
+    "conversion rate optimization",
+    "UX optimization",
+    "digital experience",
+    "user segmentation",
+    "predictive targeting"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8eeabe33-f622-542d-9fa5-0acb9ce6cc42"
 }

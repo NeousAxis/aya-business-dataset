@@ -1,11 +1,21 @@
 {
   "entity_id": "3743f924-be74-5cb1-920f-a4853e682109",
+  "public_key_id": "3743f924-be74-5cb1-920f-a4853e682109",
   "name": "Perrett Laver",
   "what_it_does": "Perrett Laver is an executive search firm specializing in leadership appointments for universities, research institutions, and related organizations.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "executive search",
+    "leadership recruitment",
+    "university appointments",
+    "research institution hiring",
+    "higher education recruitment",
+    "academic leadership",
+    "vice chancellor search",
+    "provost recruitment"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3743f924-be74-5cb1-920f-a4853e682109"
 }

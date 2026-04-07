@@ -1,11 +1,20 @@
 {
   "entity_id": "b556e971-73c1-543b-92a1-91a5165a0b86",
+  "public_key_id": "b556e971-73c1-543b-92a1-91a5165a0b86",
   "name": "Appenzell Innerrhoden",
   "what_it_does": "Appenzell Innerrhoden is the official website for the Swiss canton of the same name.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Appenzell Innerrhoden",
+    "Swiss canton ",
+    "regional government",
+    "local ",
+    "Switzerland region",
+    "canton information",
+    "Appenzell information"
+  ],
   "aio_score": 29.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b556e971-73c1-543b-92a1-91a5165a0b86"
 }

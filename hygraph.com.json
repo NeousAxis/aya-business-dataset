@@ -1,11 +1,20 @@
 {
   "entity_id": "e79a7291-9e7d-5bed-a19b-01836874d236",
+  "public_key_id": "e79a7291-9e7d-5bed-a19b-01836874d236",
   "name": "Hygraph",
   "what_it_does": "Hygraph offers a headless content management system (CMS).",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "headless CMS",
+    "content API",
+    "GraphQL CMS",
+    "composable content",
+    "content management",
+    "API-first CMS",
+    "developer CMS"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e79a7291-9e7d-5bed-a19b-01836874d236"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "a2181288-b066-57d1-9223-bff36a7b442b",
+  "public_key_id": "a2181288-b066-57d1-9223-bff36a7b442b",
   "name": "Magento",
   "what_it_does": "Magento provides an e-commerce platform for online businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "ecommerce",
+    "shopping cart",
+    "b2b ecommerce",
+    "open source",
+    "sales",
+    "marketplace",
+    "SaaS",
+    "api"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a2181288-b066-57d1-9223-bff36a7b442b"
 }

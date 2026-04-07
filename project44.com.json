@@ -1,11 +1,21 @@
 {
   "entity_id": "b0fa8dee-23e5-5883-8971-70448d01d80f",
+  "public_key_id": "b0fa8dee-23e5-5883-8971-70448d01d80f",
   "name": "project44",
   "what_it_does": "Project44 provides supply chain visibility solutions for shippers and logistics providers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "supply chain visibility",
+    "logistics tracking",
+    "real-time monitoring",
+    "freight visibility",
+    "transportation",
+    "supply chain data",
+    "shipment tracking",
+    "logistics solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b0fa8dee-23e5-5883-8971-70448d01d80f"
 }

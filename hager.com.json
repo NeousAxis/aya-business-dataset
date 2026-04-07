@@ -1,11 +1,21 @@
 {
   "entity_id": "60704b52-af05-55f3-a588-07380ff8f397",
+  "public_key_id": "60704b52-af05-55f3-a588-07380ff8f397",
   "name": "Hager worldwide",
   "what_it_does": "Hager provides solutions and services for electrical installations in residential, commercial, and industrial buildings.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 51.0,
+  "keywords": [
+    "electrical installation",
+    "building technology",
+    "electrical solutions",
+    "residential electrics",
+    "commercial electrics",
+    "industrial electrics",
+    "power distribution",
+    "circuit protection"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/60704b52-af05-55f3-a588-07380ff8f397"
 }

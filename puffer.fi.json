@@ -1,11 +1,19 @@
 {
   "entity_id": "5fa994f8-ee75-5aac-8df1-001ba2f28931",
+  "public_key_id": "5fa994f8-ee75-5aac-8df1-001ba2f28931",
   "name": "Puffer",
   "what_it_does": "Puffer likely offers streaming or media-related services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Finland",
-  "keywords": [],
+  "keywords": [
+    "streaming media",
+    "video delivery",
+    "content distribution",
+    "network optimization",
+    "live streaming",
+    "media infrastructure"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5fa994f8-ee75-5aac-8df1-001ba2f28931"
 }

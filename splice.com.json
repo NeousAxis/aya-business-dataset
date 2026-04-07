@@ -1,11 +1,21 @@
 {
   "entity_id": "40af69d5-e987-5999-8b9b-a017554f3293",
+  "public_key_id": "40af69d5-e987-5999-8b9b-a017554f3293",
   "name": "Splice",
   "what_it_does": "Splice provides a platform for music creators with samples, plugins, and collaboration tools.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 78.0,
+  "keywords": [
+    "music samples",
+    "audio plugins",
+    "music collaboration",
+    "music creation",
+    "digital audio workstation",
+    "sound libraries",
+    "music software",
+    "producer tools"
+  ],
+  "aio_score": 63.0,
   "certificate_url": "https://ai-visionary.com/aya/e/40af69d5-e987-5999-8b9b-a017554f3293"
 }

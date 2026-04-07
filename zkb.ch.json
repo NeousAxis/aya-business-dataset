@@ -1,11 +1,21 @@
 {
   "entity_id": "b5adfd2e-ab9c-5264-8531-5f8005270e8a",
+  "public_key_id": "b5adfd2e-ab9c-5264-8531-5f8005270e8a",
   "name": "Zürcher Kantonalbank",
   "what_it_does": "Zürcher Kantonalbank is a Swiss cantonal bank offering financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Swiss bank",
+    "cantonal bank",
+    "financial services",
+    "banking",
+    "investment banking",
+    "private banking",
+    "retail banking",
+    "mortgages"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b5adfd2e-ab9c-5264-8531-5f8005270e8a"
 }

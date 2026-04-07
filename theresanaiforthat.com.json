@@ -1,11 +1,21 @@
 {
   "entity_id": "93e37782-95b6-5653-8e8e-f231064fb399",
+  "public_key_id": "93e37782-95b6-5653-8e8e-f231064fb399",
   "name": "There's An AI For That (TAAFT)®",
   "what_it_does": "There's An AI For That (TAAFT)® likely catalogs and provides information on various AI tools and applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "AI tools directory",
+    "AI applications",
+    "artificial intelligence",
+    "machine learning",
+    "AI database",
+    "AI resource",
+    "AI search engine",
+    "AI product discovery"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/93e37782-95b6-5653-8e8e-f231064fb399"
 }

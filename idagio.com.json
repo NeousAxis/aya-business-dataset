@@ -1,11 +1,21 @@
 {
   "entity_id": "9a8648df-b962-5eb0-926c-e70113296ba6",
+  "public_key_id": "9a8648df-b962-5eb0-926c-e70113296ba6",
   "name": "IDAGIO",
   "what_it_does": "IDAGIO is a streaming service specifically for classical music.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "classical music",
+    "music streaming",
+    "classical music streaming",
+    "online music",
+    "audio streaming",
+    "classical recordings",
+    "music app",
+    "classical music library"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9a8648df-b962-5eb0-926c-e70113296ba6"
 }

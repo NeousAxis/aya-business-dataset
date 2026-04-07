@@ -1,11 +1,20 @@
 {
   "entity_id": "08d24da5-842f-5e6b-8bea-5732612713de",
+  "public_key_id": "08d24da5-842f-5e6b-8bea-5732612713de",
   "name": "Buildium",
   "what_it_does": "Buildium provides property management software for real estate professionals.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "property management",
+    "real estate",
+    "rental properties",
+    "tenant screening",
+    "lease tracking",
+    "accounting for landlords",
+    "property accounting"
+  ],
+  "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/08d24da5-842f-5e6b-8bea-5732612713de"
 }

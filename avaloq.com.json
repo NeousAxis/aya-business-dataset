@@ -1,11 +1,20 @@
 {
   "entity_id": "81f58b79-3782-528b-908c-5f748461362b",
+  "public_key_id": "81f58b79-3782-528b-908c-5f748461362b",
   "name": "Avaloq",
   "what_it_does": "Avaloq develops and provides integrated banking software and services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [],
-  "aio_score": 77.0,
+  "location": "Switzerland",
+  "keywords": [
+    "banking software",
+    "wealth management",
+    "private banking",
+    "core banking",
+    "financial institutions",
+    "banking solutions",
+    "digital banking"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/81f58b79-3782-528b-908c-5f748461362b"
 }

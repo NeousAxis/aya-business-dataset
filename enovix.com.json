@@ -1,11 +1,21 @@
 {
   "entity_id": "d7d70d1e-cc5c-5fba-acc2-187d8b368e54",
+  "public_key_id": "d7d70d1e-cc5c-5fba-acc2-187d8b368e54",
   "name": "Enovix",
   "what_it_does": "Enovix designs and manufactures advanced silicon lithium-ion batteries.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "silicon lithium-ion batteries",
+    "advanced batteries",
+    "battery technology",
+    "energy storage",
+    "battery manufacturing",
+    "electric vehicle batteries",
+    "high-performance batteries",
+    "mobile device batteries"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d7d70d1e-cc5c-5fba-acc2-187d8b368e54"
 }

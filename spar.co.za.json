@@ -1,11 +1,21 @@
 {
   "entity_id": "1187af26-e382-5f60-aaba-b1ac7304fa37",
+  "public_key_id": "1187af26-e382-5f60-aaba-b1ac7304fa37",
   "name": "SPAR",
   "what_it_does": "SPAR South Africa operates a network of independently owned grocery stores.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "South Africa",
-  "keywords": [],
+  "keywords": [
+    "grocery stores",
+    "retail franchise",
+    "independent retailers",
+    "food distribution",
+    "supermarket chain",
+    "convenience stores",
+    "South Africa grocery",
+    "branded groceries"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1187af26-e382-5f60-aaba-b1ac7304fa37"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "c1df2611-b354-5cc9-8e11-726a2147ff95",
+  "public_key_id": "c1df2611-b354-5cc9-8e11-726a2147ff95",
   "name": "Alteryx",
   "what_it_does": "Alteryx offers a self-service analytics platform for data preparation, blending, and analysis.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "data preparation",
+    "data blending",
+    "data analysis",
+    "self-service analytics",
+    "analytics platform",
+    "predictive analytics",
+    "data science",
+    "business intelligence"
+  ],
+  "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c1df2611-b354-5cc9-8e11-726a2147ff95"
 }

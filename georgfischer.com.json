@@ -1,11 +1,21 @@
 {
   "entity_id": "3ee860f5-ea62-5ea3-a985-9981e3079275",
+  "public_key_id": "3ee860f5-ea62-5ea3-a985-9981e3079275",
   "name": "Georg Fischer Ltd",
   "what_it_does": "Georg Fischer Ltd. manufactures piping systems and related flow control solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "piping systems",
+    "flow control solutions",
+    "industrial piping",
+    "plastic piping",
+    "metal piping",
+    "fittings",
+    "valves",
+    "water treatment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3ee860f5-ea62-5ea3-a985-9981e3079275"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "022432ea-85a0-593f-a60e-0ef6c77f5058",
+  "public_key_id": "022432ea-85a0-593f-a60e-0ef6c77f5058",
   "name": "Filecoin",
   "what_it_does": "Filecoin is a decentralized storage network that incentivizes data storage.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "decentralized storage",
+    "data storage network",
+    "blockchain storage",
+    "peer-to-peer storage",
+    "cryptocurrency storage",
+    "distributed data",
+    "data preservation",
+    "storage marketplace"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/022432ea-85a0-593f-a60e-0ef6c77f5058"
 }

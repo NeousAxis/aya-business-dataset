@@ -1,11 +1,21 @@
 {
   "entity_id": "7a1a3320-486e-5950-b31b-acffdd66881c",
+  "public_key_id": "7a1a3320-486e-5950-b31b-acffdd66881c",
   "name": "Deutsche Grammophon",
   "what_it_does": "Deutsche Grammophon is a classical music record label.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "classical music",
+    "record label",
+    "music recording",
+    "music publishing",
+    "orchestral music",
+    "opera recordings",
+    "classical artists",
+    "music production"
+  ],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7a1a3320-486e-5950-b31b-acffdd66881c"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "7622d2b1-e2c2-54be-b274-4cb8034ffba4",
+  "public_key_id": "7622d2b1-e2c2-54be-b274-4cb8034ffba4",
   "name": "norisbank",
   "what_it_does": "Norisbank is a German bank offering retail banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 63.0,
+  "keywords": [
+    "retail banking",
+    "German bank",
+    "personal finance",
+    "checking accounts",
+    "savings accounts",
+    "loans",
+    "banking",
+    "financial products"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7622d2b1-e2c2-54be-b274-4cb8034ffba4"
 }

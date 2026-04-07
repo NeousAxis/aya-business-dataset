@@ -1,11 +1,21 @@
 {
   "entity_id": "f8e5d06a-65f1-5f04-be4e-c5bb55d382b9",
+  "public_key_id": "f8e5d06a-65f1-5f04-be4e-c5bb55d382b9",
   "name": "Fiduconsult",
   "what_it_does": "Fiduconsult provides financial and business consulting services.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 52.0,
+  "keywords": [
+    "financial consulting",
+    "business advisory",
+    "tax consulting",
+    "accounting",
+    "wealth planning",
+    "audit services",
+    "financial planning",
+    "management consulting"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f8e5d06a-65f1-5f04-be4e-c5bb55d382b9"
 }

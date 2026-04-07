@@ -1,11 +1,20 @@
 {
   "entity_id": "9dcc4ee4-9cfd-55b4-9730-82ed17756e48",
+  "public_key_id": "9dcc4ee4-9cfd-55b4-9730-82ed17756e48",
   "name": "Tellent Recruitee",
   "what_it_does": "Recruitee provides recruiting software for talent acquisition.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "recruiting software",
+    "talent acquisition",
+    "applicant tracking",
+    "recruitment marketing",
+    "candidate sourcing",
+    "HR technology",
+    "employer branding"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9dcc4ee4-9cfd-55b4-9730-82ed17756e48"
 }

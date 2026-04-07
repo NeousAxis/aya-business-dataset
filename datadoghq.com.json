@@ -1,11 +1,21 @@
 {
   "entity_id": "b254913b-9377-550a-8181-3ebd38d3bf3b",
+  "public_key_id": "b254913b-9377-550a-8181-3ebd38d3bf3b",
   "name": "Datadog",
   "what_it_does": "Datadog offers a monitoring and analytics platform for cloud-scale applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "cloud monitoring",
+    "analytics",
+    "application monitoring",
+    "infrastructure monitoring",
+    "log analytics",
+    "performance monitoring",
+    "observability",
+    "cloud applications"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b254913b-9377-550a-8181-3ebd38d3bf3b"
 }

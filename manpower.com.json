@@ -1,11 +1,21 @@
 {
   "entity_id": "79c900d3-b511-5a71-b38e-28c45940efb6",
+  "public_key_id": "79c900d3-b511-5a71-b38e-28c45940efb6",
   "name": "Manpower",
   "what_it_does": "Manpower provides workforce solutions, including recruitment, staffing, and outsourcing.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "workforce solutions",
+    "recruitment",
+    "staffing agency",
+    "outsourcing",
+    "temporary employment",
+    "permanent placement",
+    "human resources",
+    "talent acquisition"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/79c900d3-b511-5a71-b38e-28c45940efb6"
 }

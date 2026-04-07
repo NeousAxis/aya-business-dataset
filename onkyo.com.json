@@ -1,11 +1,20 @@
 {
   "entity_id": "9f90958a-cbbd-5b00-916e-4179643a18a4",
+  "public_key_id": "9f90958a-cbbd-5b00-916e-4179643a18a4",
   "name": "Onkyo",
   "what_it_does": "Onkyo manufactures home audio and theater equipment, including receivers, amplifiers, and speakers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "home audio equipment",
+    "theater receivers",
+    "stereo amplifiers",
+    "audio speakers",
+    "hi-fi components",
+    "audio systems",
+    "home theater"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f90958a-cbbd-5b00-916e-4179643a18a4"
 }

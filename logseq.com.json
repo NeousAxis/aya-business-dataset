@@ -1,11 +1,21 @@
 {
   "entity_id": "12520558-09a3-51f0-bb88-5a76c1f2c7b1",
+  "public_key_id": "12520558-09a3-51f0-bb88-5a76c1f2c7b1",
   "name": "A privacy-first, open-source knowledge base",
   "what_it_does": "Logseq is an open-source, local-first knowledge base application focused on privacy.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "knowledge base",
+    "note-taking",
+    "open-source",
+    "local-first",
+    "privacy-focused",
+    "personal knowledge",
+    "PKM tool",
+    "offline application"
+  ],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/12520558-09a3-51f0-bb88-5a76c1f2c7b1"
 }

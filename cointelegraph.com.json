@@ -1,11 +1,21 @@
 {
   "entity_id": "ab2dd3c6-79cf-5796-9830-4fff17864bfd",
+  "public_key_id": "ab2dd3c6-79cf-5796-9830-4fff17864bfd",
   "name": "Cointelegraph",
   "what_it_does": "Cointelegraph is a news publication covering the cryptocurrency and blockchain space.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Arab Emirates",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "cryptocurrency news",
+    "blockchain news",
+    "crypto journalism",
+    "digital currency reporting",
+    "crypto market updates",
+    "blockchain technology",
+    "crypto regulation",
+    "decentralized finance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab2dd3c6-79cf-5796-9830-4fff17864bfd"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "d17d8562-4ae8-5c5e-8988-27db807f89ca",
+  "public_key_id": "d17d8562-4ae8-5c5e-8988-27db807f89ca",
   "name": "Omio",
   "what_it_does": "Omio is a travel booking platform that allows users to compare and book trains, buses, and flights.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "oil and gas",
+    "chemical company",
+    "integrated energy",
+    "petroleum products",
+    "energy production",
+    "crude oil",
+    "natural gas"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d17d8562-4ae8-5c5e-8988-27db807f89ca"
 }

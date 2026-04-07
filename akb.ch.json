@@ -1,11 +1,21 @@
 {
   "entity_id": "c5b5adb1-3d87-5397-a4bb-9b581cf55284",
+  "public_key_id": "c5b5adb1-3d87-5397-a4bb-9b581cf55284",
   "name": "Aargauische Kantonalbank",
   "what_it_does": "Aargauische Kantonalbank is a Swiss cantonal bank providing financial services to residents and businesses in the Canton of Aargau.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "Swiss banking",
+    "cantonal bank",
+    "financial services",
+    "retail banking",
+    "commercial banking",
+    "mortgages",
+    "loans",
+    "wealth management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c5b5adb1-3d87-5397-a4bb-9b581cf55284"
 }

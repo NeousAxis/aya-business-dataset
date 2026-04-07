@@ -1,11 +1,21 @@
 {
   "entity_id": "ea3fdd93-9f70-5219-aaac-53c177132c00",
+  "public_key_id": "ea3fdd93-9f70-5219-aaac-53c177132c00",
   "name": "Injective",
   "what_it_does": "Injective is a blockchain built for finance, providing infrastructure for decentralized finance applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "DeFi blockchain",
+    "decentralized finance",
+    "blockchain infrastructure",
+    "financial applications",
+    "crypto trading",
+    "derivatives",
+    "security tokens",
+    "tokenized assets"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ea3fdd93-9f70-5219-aaac-53c177132c00"
 }

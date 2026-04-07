@@ -1,11 +1,21 @@
 {
   "entity_id": "f742cfb5-dc06-5795-9947-53f862bfac25",
+  "public_key_id": "f742cfb5-dc06-5795-9947-53f862bfac25",
   "name": "TechnipFMC plc",
   "what_it_does": "TechnipFMC provides engineering and construction services for the energy industry.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "energy industry",
+    "engineering",
+    "construction",
+    "subsea",
+    "onshore",
+    "offshore",
+    "oil and gas",
+    "project management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f742cfb5-dc06-5795-9947-53f862bfac25"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "8c45f6bf-6537-587d-9e3c-f926b3130573",
+  "public_key_id": "8c45f6bf-6537-587d-9e3c-f926b3130573",
   "name": "Eagle Hills",
   "what_it_does": "Eagle Hills is a real estate development company focusing on large-scale urban projects.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "real estate development",
+    "urban development",
+    "large-scale projects",
+    "property development",
+    "Eagle Hills",
+    "real estate investment",
+    "urban planning",
+    "mixed-use developments"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8c45f6bf-6537-587d-9e3c-f926b3130573"
 }

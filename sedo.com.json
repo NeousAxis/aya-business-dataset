@@ -1,11 +1,21 @@
 {
   "entity_id": "ec72a2d7-e1ed-5f55-8a33-a60f80405307",
+  "public_key_id": "ec72a2d7-e1ed-5f55-8a33-a60f80405307",
   "name": "Sedo",
   "what_it_does": "Sedo is a domain name marketplace for buying and selling domain names.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "domain names",
+    "domain marketplace",
+    "domain brokerage",
+    "domain appraisal",
+    "domain buying",
+    "domain selling",
+    "premium domains",
+    "domain parking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec72a2d7-e1ed-5f55-8a33-a60f80405307"
 }

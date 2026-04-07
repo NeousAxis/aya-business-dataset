@@ -1,11 +1,21 @@
 {
   "entity_id": "5ed0d544-ad68-5910-b8d2-33c57dc4dd31",
+  "public_key_id": "5ed0d544-ad68-5910-b8d2-33c57dc4dd31",
   "name": "die erste Adresse für Nachrichten und Information",
   "what_it_does": "Tagesschau.de provides German news and information programming.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 58.0,
+  "keywords": [
+    "German news",
+    "news programming",
+    "information programming",
+    "German media",
+    "current events",
+    "news broadcasting",
+    "TV news",
+    "national news"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5ed0d544-ad68-5910-b8d2-33c57dc4dd31"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "1f4dc07b-d94d-5f31-94aa-65ca7dd2b385",
+  "public_key_id": "1f4dc07b-d94d-5f31-94aa-65ca7dd2b385",
   "name": "This is LAAX Mountains",
   "what_it_does": "Laax operates a ski resort in the Swiss Alps.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "ski resort",
+    "Swiss Alps",
+    "winter sports",
+    "snowboarding",
+    "mountain activities",
+    "Laax slopes",
+    "skiing holidays"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1f4dc07b-d94d-5f31-94aa-65ca7dd2b385"
 }

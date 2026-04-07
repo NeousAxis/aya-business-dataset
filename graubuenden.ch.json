@@ -1,11 +1,20 @@
 {
   "entity_id": "8a8c7677-421d-58d6-b4e1-b28100f7bf72",
+  "public_key_id": "8a8c7677-421d-58d6-b4e1-b28100f7bf72",
   "name": "Ferien in Graubünden",
   "what_it_does": "Graubuenden.ch promotes tourism in the Graubünden region of Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Graubünden tourism",
+    "Swiss Alps vacations",
+    "Switzerland travel",
+    "ski resorts",
+    "hiking trails",
+    "mountain tourism",
+    "holiday destinations"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8a8c7677-421d-58d6-b4e1-b28100f7bf72"
 }

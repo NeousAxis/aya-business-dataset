@@ -1,11 +1,21 @@
 {
   "entity_id": "f906eec6-b90e-53f8-9b74-8a0c8af6783a",
+  "public_key_id": "f906eec6-b90e-53f8-9b74-8a0c8af6783a",
   "name": "Swiss Cycling",
   "what_it_does": "Swiss Cycling is the national governing body for cycling in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "cycling federation",
+    "Swiss cycling",
+    "competitive cycling",
+    "cycling events",
+    "national cycling",
+    "bicycle racing",
+    "Switzerland sports",
+    "cycling advocacy"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f906eec6-b90e-53f8-9b74-8a0c8af6783a"
 }

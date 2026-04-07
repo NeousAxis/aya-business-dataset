@@ -1,11 +1,21 @@
 {
   "entity_id": "c17c951b-d847-5c3d-ada5-bbb1f2bfdc86",
+  "public_key_id": "c17c951b-d847-5c3d-ada5-bbb1f2bfdc86",
   "name": "CyberArk",
   "what_it_does": "CyberArk provides privileged access management and identity security solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "privileged access management",
+    "identity security",
+    "cybersecurity",
+    "access control",
+    "credential security",
+    "identity governance",
+    "security solutions",
+    "threat protection"
+  ],
+  "aio_score": 69.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c17c951b-d847-5c3d-ada5-bbb1f2bfdc86"
 }

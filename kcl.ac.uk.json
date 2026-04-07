@@ -1,11 +1,21 @@
 {
   "entity_id": "d748b8d4-b385-5213-a2df-0265bc6ba820",
+  "public_key_id": "d748b8d4-b385-5213-a2df-0265bc6ba820",
   "name": "Smart care: How teamwork and technology are…",
   "what_it_does": "KCL.ac.uk (King's College London) is a university providing higher education and research.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "higher education",
+    "university",
+    "research",
+    "undergraduate programs",
+    "postgraduate programs",
+    "academic courses",
+    "student learning",
+    "king's college london"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d748b8d4-b385-5213-a2df-0265bc6ba820"
 }

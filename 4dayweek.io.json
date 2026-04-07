@@ -1,11 +1,19 @@
 {
   "entity_id": "e4537b35-6317-5de2-ae3e-a567769e8ffb",
-  "name": "4 Day Week Jobs (32hrs @ 100% salary)",
+  "public_key_id": "e4537b35-6317-5de2-ae3e-a567769e8ffb",
+  "name": "4 Day Week Jobs",
   "what_it_does": "4dayweek.io is a job board that specifically lists positions offering a four-day work week.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "four-day work week",
+    "job board",
+    "flexible jobs",
+    "reduced hours",
+    "work-life balance",
+    "career opportunities"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e4537b35-6317-5de2-ae3e-a567769e8ffb"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "0e967a49-db72-5acb-8e4e-93d6c984fd6a",
+  "public_key_id": "0e967a49-db72-5acb-8e4e-93d6c984fd6a",
   "name": "Grain",
   "what_it_does": "Grain.com offers a platform for recording and sharing meeting highlights.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 78.0,
+  "keywords": [
+    "meeting recording",
+    "meeting transcription",
+    "meeting highlights",
+    "video summaries",
+    "collaboration tools",
+    "knowledge sharing",
+    "meeting analysis"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0e967a49-db72-5acb-8e4e-93d6c984fd6a"
 }

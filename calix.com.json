@@ -1,11 +1,21 @@
 {
   "entity_id": "26997bc1-d8e7-5e59-9f54-cec331f58aa9",
+  "public_key_id": "26997bc1-d8e7-5e59-9f54-cec331f58aa9",
   "name": "Calix",
   "what_it_does": "Calix provides cloud and software platforms, systems, and services for communications service providers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "communications service providers",
+    "cloud platforms",
+    "telecom solutions",
+    "fiber optics",
+    "broadband",
+    "network infrastructure",
+    "subscriber management",
+    "access networks"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/26997bc1-d8e7-5e59-9f54-cec331f58aa9"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "daae0bb0-104c-5eac-ad9a-bd8736161550",
+  "public_key_id": "daae0bb0-104c-5eac-ad9a-bd8736161550",
   "name": "Lupin",
   "what_it_does": "Lupin develops and manufactures pharmaceutical products.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "India",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "pharmaceutical products",
+    "generic drugs",
+    "branded drugs",
+    "drug development",
+    "pharmaceutical manufacturing",
+    "API",
+    "healthcare",
+    "medications"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/daae0bb0-104c-5eac-ad9a-bd8736161550"
 }

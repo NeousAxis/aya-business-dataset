@@ -1,11 +1,21 @@
 {
   "entity_id": "5cf0c41a-c225-5165-a97e-2e15028f4e7a",
+  "public_key_id": "5cf0c41a-c225-5165-a97e-2e15028f4e7a",
   "name": "Savills",
   "what_it_does": "Savills provides real estate services including sales, leasing, and property management.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "commercial real estate",
+    "property sales",
+    "property leasing",
+    "property valuation",
+    "property management",
+    "real estate investment",
+    "real estate agency",
+    "real estate services"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5cf0c41a-c225-5165-a97e-2e15028f4e7a"
 }

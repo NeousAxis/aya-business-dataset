@@ -1,11 +1,21 @@
 {
   "entity_id": "869a3f86-4e6c-5d7f-8f98-cf97de749efd",
+  "public_key_id": "869a3f86-4e6c-5d7f-8f98-cf97de749efd",
   "name": "Pet Supplies, Accessories, and Pet Food",
   "what_it_does": "PetSmart is a retailer of pet supplies, services, and grooming.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "pet supplies",
+    "pet accessories",
+    "pet food",
+    "grooming products",
+    "dog toys",
+    "cat treats",
+    "aquarium supplies",
+    "small animal care"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/869a3f86-4e6c-5d7f-8f98-cf97de749efd"
 }

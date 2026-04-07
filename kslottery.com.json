@@ -1,11 +1,19 @@
 {
   "entity_id": "6367296c-6b4a-5487-9c99-a6c82f60e5ad",
+  "public_key_id": "6367296c-6b4a-5487-9c99-a6c82f60e5ad",
   "name": "KSL-Home",
   "what_it_does": "KSL-Home likely provides content related to the Utah lottery.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Utah lottery",
+    "lottery results",
+    "drawing schedules",
+    "prize information",
+    "KSL content",
+    "lottery news"
+  ],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6367296c-6b4a-5487-9c99-a6c82f60e5ad"
 }

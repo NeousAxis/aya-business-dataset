@@ -1,11 +1,21 @@
 {
   "entity_id": "b4dae967-2e87-5974-abbd-0cf2e3b1ec58",
+  "public_key_id": "b4dae967-2e87-5974-abbd-0cf2e3b1ec58",
   "name": "Line 6",
   "what_it_does": "Line 6 manufactures digital modeling amplifiers, effects, and other music technology products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "guitar amplifiers",
+    "digital modeling",
+    "guitar effects",
+    "music technology",
+    "audio equipment",
+    "musical instruments",
+    "vocal processing",
+    "signal processing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b4dae967-2e87-5974-abbd-0cf2e3b1ec58"
 }

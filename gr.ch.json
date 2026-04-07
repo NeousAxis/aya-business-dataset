@@ -1,11 +1,20 @@
 {
   "entity_id": "28bff368-4ed6-5950-b050-c1d34e84d39e",
+  "public_key_id": "28bff368-4ed6-5950-b050-c1d34e84d39e",
   "name": "Gr",
   "what_it_does": "GR likely provides news and information related to the Graubünden region of Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Graubünden news",
+    "Swiss region information",
+    "local journalism",
+    "regional media",
+    "Switzerland news",
+    "GR canton news",
+    "Graubünden canton"
+  ],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/28bff368-4ed6-5950-b050-c1d34e84d39e"
 }

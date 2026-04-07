@@ -1,11 +1,21 @@
 {
   "entity_id": "1ab19d6f-ef39-5ecf-a972-bb44ab57ba13",
+  "public_key_id": "1ab19d6f-ef39-5ecf-a972-bb44ab57ba13",
   "name": "Textron",
   "what_it_does": "Textron manufactures aircraft, defense, industrial, and finance products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "aircraft manufacturing",
+    "defense products",
+    "industrial components",
+    "aviation finance",
+    "aerospace engineering",
+    "specialized vehicles",
+    "military equipment",
+    "commercial jets"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1ab19d6f-ef39-5ecf-a972-bb44ab57ba13"
 }

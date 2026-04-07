@@ -1,11 +1,21 @@
 {
   "entity_id": "46e57c41-2689-544b-a75d-fc07b0da790b",
+  "public_key_id": "46e57c41-2689-544b-a75d-fc07b0da790b",
   "name": "Chegg",
   "what_it_does": "Chegg provides online textbook rentals, homework help, and tutoring services for students.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "textbook rentals",
+    "homework assistance",
+    "student tutoring",
+    "academic support",
+    "educational resources",
+    "student resources",
+    "online learning",
+    "higher education"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/46e57c41-2689-544b-a75d-fc07b0da790b"
 }

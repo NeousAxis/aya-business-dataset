@@ -1,11 +1,20 @@
 {
   "entity_id": "e270e71a-ba97-5628-b8d3-70465c7c5f22",
+  "public_key_id": "e270e71a-ba97-5628-b8d3-70465c7c5f22",
   "name": "Cisco",
   "what_it_does": "Cisco develops and sells networking hardware, software, telecommunications equipment and other high-technology services and products.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
-  "location": "Belgium",
-  "keywords": [],
-  "aio_score": 74.0,
+  "location": "United States",
+  "keywords": [
+    "networking hardware",
+    "telecommunications equipment",
+    "network security",
+    "enterprise networking",
+    "cloud networking",
+    "data center solutions",
+    "network infrastructure"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e270e71a-ba97-5628-b8d3-70465c7c5f22"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "6554ba4d-bcdc-5ad7-813e-c7689a23197c",
+  "public_key_id": "6554ba4d-bcdc-5ad7-813e-c7689a23197c",
   "name": "local.ch",
   "what_it_does": "Local.ch provides a local search directory for businesses and services in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "local search",
+    "business directory",
+    "Swiss businesses",
+    "local listings",
+    "Swiss services",
+    "address search",
+    "phone number search"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6554ba4d-bcdc-5ad7-813e-c7689a23197c"
 }

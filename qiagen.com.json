@@ -1,11 +1,21 @@
 {
   "entity_id": "2d4c395a-46b7-50cb-a545-72ce6013f6a3",
+  "public_key_id": "2d4c395a-46b7-50cb-a545-72ce6013f6a3",
   "name": "QIAGEN",
   "what_it_does": "QIAGEN provides sample and assay technologies for molecular testing.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "molecular diagnostics",
+    "sample preparation",
+    "assay technologies",
+    "genomics",
+    "DNA RNA",
+    "molecular testing",
+    "life science",
+    "sample analysis"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2d4c395a-46b7-50cb-a545-72ce6013f6a3"
 }

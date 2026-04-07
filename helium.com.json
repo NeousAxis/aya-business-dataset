@@ -1,11 +1,21 @@
 {
   "entity_id": "46ef6905-563d-57a5-ba8d-33dae9b2afc7",
+  "public_key_id": "46ef6905-563d-57a5-ba8d-33dae9b2afc7",
   "name": "Helium",
   "what_it_does": "Helium operates a decentralized wireless network powered by blockchain technology.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "decentralized wireless",
+    "blockchain network",
+    "wireless network",
+    "IoT connectivity",
+    "LPWAN",
+    "cryptocurrency",
+    "peer-to-peer network",
+    "IoT devices"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/46ef6905-563d-57a5-ba8d-33dae9b2afc7"
 }

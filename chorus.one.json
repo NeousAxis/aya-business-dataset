@@ -1,11 +1,21 @@
 {
   "entity_id": "9e077e20-890f-5deb-bbda-2821d851cf8c",
+  "public_key_id": "9e077e20-890f-5deb-bbda-2821d851cf8c",
   "name": "Chorus One",
   "what_it_does": "Chorus One provides staking and validator services for blockchain networks.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "blockchain staking",
+    "validator nodes",
+    "cryptocurrency staking",
+    "proof-of-stake",
+    "blockchain infrastructure",
+    "decentralized finance",
+    "crypto network validation",
+    "web3 infrastructure"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9e077e20-890f-5deb-bbda-2821d851cf8c"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "12a917c4-f679-50af-9819-8c9a867f478c",
+  "public_key_id": "12a917c4-f679-50af-9819-8c9a867f478c",
   "name": "Bern Welcome",
   "what_it_does": "Bern Welcome is the official tourism organization for Bern, Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Bern tourism",
+    "Bern Switzerland",
+    "travel guide",
+    "Swiss tourism",
+    "city tours",
+    "Bern attractions",
+    "vacation planning"
+  ],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/12a917c4-f679-50af-9819-8c9a867f478c"
 }

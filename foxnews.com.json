@@ -1,11 +1,21 @@
 {
   "entity_id": "5c51edbe-2a54-5bda-9ba1-866389bb5e38",
+  "public_key_id": "5c51edbe-2a54-5bda-9ba1-866389bb5e38",
   "name": "Fox News",
   "what_it_does": "Fox News is a cable news channel providing news and opinion programming.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "cable news",
+    "news channel",
+    "political news",
+    "current events",
+    "opinion programming",
+    "news broadcasting",
+    "US news",
+    "television news"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5c51edbe-2a54-5bda-9ba1-866389bb5e38"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "681904bd-ff99-5f0b-923c-b36f117a8d73",
+  "public_key_id": "681904bd-ff99-5f0b-923c-b36f117a8d73",
   "name": "Kleiner Perkins",
   "what_it_does": "Kleiner Perkins is a venture capital firm that invests in early-stage and growth companies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "venture capital",
+    "early-stage investments",
+    "growth investments",
+    "startup funding",
+    "technology investments",
+    "investment portfolio",
+    "seed funding",
+    "series A funding"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/681904bd-ff99-5f0b-923c-b36f117a8d73"
 }

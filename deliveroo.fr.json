@@ -1,11 +1,21 @@
 {
   "entity_id": "be91cccc-3d76-5af1-a480-39c6c79fec08",
+  "public_key_id": "be91cccc-3d76-5af1-a480-39c6c79fec08",
   "name": "Deliveroo.fr",
   "what_it_does": "Deliveroo.fr operates an online platform for ordering food from restaurants for delivery in France.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "food delivery",
+    "restaurant delivery",
+    "meal delivery",
+    "takeaway orders",
+    "delivery platform",
+    "restaurants",
+    "food couriers",
+    "French food"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/be91cccc-3d76-5af1-a480-39c6c79fec08"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "6529211d-b9c4-53f7-abd8-1a1fa59413b2",
+  "public_key_id": "6529211d-b9c4-53f7-abd8-1a1fa59413b2",
   "name": "Veezoo",
   "what_it_does": "Veezoo provides a search-based data analytics platform that allows users to ask questions in natural language to explore and visualize data.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "data analytics",
+    "natural language query",
+    "search-based analytics",
+    "business intelligence",
+    "data visualization",
+    "self-data exploration",
+    "data analysis",
+    "conversational AI"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6529211d-b9c4-53f7-abd8-1a1fa59413b2"
 }

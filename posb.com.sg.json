@@ -1,11 +1,21 @@
 {
   "entity_id": "b6f0c086-2837-548b-b19a-ffaf7304a41e",
+  "public_key_id": "b6f0c086-2837-548b-b19a-ffaf7304a41e",
   "name": "POSB Singapore",
   "what_it_does": "POSB (Post Office Savings Bank) is a Singaporean bank providing personal banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Singapore",
-  "keywords": [],
+  "keywords": [
+    "personal banking",
+    "savings accounts",
+    "Singaporean bank",
+    "retail banking",
+    "debit cards",
+    "loans",
+    "financial products",
+    "banking services"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b6f0c086-2837-548b-b19a-ffaf7304a41e"
 }

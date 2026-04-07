@@ -1,11 +1,20 @@
 {
   "entity_id": "00e824a2-2ee4-59cf-add2-92fa18b56714",
+  "public_key_id": "00e824a2-2ee4-59cf-add2-92fa18b56714",
   "name": "Sasken",
   "what_it_does": "Sasken provides product engineering and digital transformation services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "product engineering",
+    "digital transformation",
+    "embedded systems",
+    "semiconductor solutions",
+    "communication technologies",
+    "IoT solutions",
+    "digital services"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/00e824a2-2ee4-59cf-add2-92fa18b56714"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "33cc3f00-6ccf-56be-9349-552f2d170bca",
+  "public_key_id": "33cc3f00-6ccf-56be-9349-552f2d170bca",
   "name": "Renishaw",
   "what_it_does": "Renishaw is a global engineering company specializing in measurement, motion control, and healthcare products.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "engineering",
+    "measurement systems",
+    "motion control",
+    "healthcare products",
+    "industrial automation",
+    "manufacturing metrology",
+    "additive manufacturing",
+    "precision engineering"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/33cc3f00-6ccf-56be-9349-552f2d170bca"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "20403a3f-0003-55af-b3f3-d168fa2c2632",
+  "public_key_id": "20403a3f-0003-55af-b3f3-d168fa2c2632",
   "name": "KAVAK",
   "what_it_does": "KAVAK operates an online platform for buying, selling, and financing used cars in Latin America.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Arab Emirates",
-  "keywords": [],
+  "keywords": [
+    "used car marketplace",
+    "car buying",
+    "car selling",
+    "pre-owned vehicles",
+    "auto finance",
+    "Latin America autos",
+    "vehicle inspection",
+    "car valuation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/20403a3f-0003-55af-b3f3-d168fa2c2632"
 }

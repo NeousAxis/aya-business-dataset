@@ -1,11 +1,21 @@
 {
   "entity_id": "84c77aff-6379-5507-9083-cc4053f2867d",
+  "public_key_id": "84c77aff-6379-5507-9083-cc4053f2867d",
   "name": "DIB",
   "what_it_does": "Dubai Islamic Bank (DIB) offers Sharia-compliant banking products and services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 47.0,
+  "keywords": [
+    "Islamic banking",
+    "Sharia-compliant finance",
+    "retail banking",
+    "corporate banking",
+    "investment products",
+    "Dubai bank",
+    "ethical finance",
+    "banking services"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/84c77aff-6379-5507-9083-cc4053f2867d"
 }

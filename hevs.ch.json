@@ -1,11 +1,20 @@
 {
   "entity_id": "a0635dec-56a7-5ecb-8fcc-c3160e2650e6",
+  "public_key_id": "a0635dec-56a7-5ecb-8fcc-c3160e2650e6",
   "name": "HES-SO Valais-Wallis",
   "what_it_does": "HES-SO Valais-Wallis is the Valais-Wallis branch of the University of Applied Sciences and Arts Western Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 54.0,
+  "keywords": [
+    "applied sciences",
+    "arts university",
+    "Valais-Wallis education",
+    "higher education",
+    "vocational training",
+    "research institution",
+    "swiss university"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a0635dec-56a7-5ecb-8fcc-c3160e2650e6"
 }

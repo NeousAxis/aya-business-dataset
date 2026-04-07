@@ -1,11 +1,21 @@
 {
   "entity_id": "28253d6d-03e0-5455-b441-2fd714e26c7f",
+  "public_key_id": "28253d6d-03e0-5455-b441-2fd714e26c7f",
   "name": "Georgetown University in Washington DC",
   "what_it_does": "Georgetown University in Washington DC is a research university offering undergraduate and graduate programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "research university",
+    "higher education",
+    "graduate programs",
+    "undergraduate programs",
+    "Washington DC",
+    "university degree",
+    "academic research",
+    "liberal arts"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/28253d6d-03e0-5455-b441-2fd714e26c7f"
 }

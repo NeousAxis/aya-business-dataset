@@ -1,11 +1,20 @@
 {
   "entity_id": "f9c8e42b-6685-5b7b-a7e2-da10e7a8aa87",
+  "public_key_id": "f9c8e42b-6685-5b7b-a7e2-da10e7a8aa87",
   "name": "Henkel",
   "what_it_does": "Henkel manufactures and markets adhesives, beauty care, and laundry & home care products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Arab Emirates",
-  "keywords": [],
+  "keywords": [
+    "adhesives",
+    "beauty care",
+    "laundry products",
+    "home care",
+    "consumer goods",
+    "hair care",
+    "detergents"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f9c8e42b-6685-5b7b-a7e2-da10e7a8aa87"
 }

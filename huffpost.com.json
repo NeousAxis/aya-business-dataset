@@ -1,11 +1,21 @@
 {
   "entity_id": "4d863864-c3ba-5205-86bd-f46fd0b9a195",
+  "public_key_id": "4d863864-c3ba-5205-86bd-f46fd0b9a195",
   "name": "HuffPost",
   "what_it_does": "HuffPost is a news and opinion website covering a variety of topics.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Canada",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "news website",
+    "opinion articles",
+    "current events",
+    "news coverage",
+    "political news",
+    "entertainment news",
+    "world news",
+    "breaking news"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4d863864-c3ba-5205-86bd-f46fd0b9a195"
 }

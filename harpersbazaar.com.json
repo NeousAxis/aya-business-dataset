@@ -1,11 +1,20 @@
 {
   "entity_id": "4d171f9d-d895-55cd-89a2-a35442db777a",
+  "public_key_id": "4d171f9d-d895-55cd-89a2-a35442db777a",
   "name": "Harper's BAZAAR",
   "what_it_does": "Harper's BAZAAR is a women's fashion magazine covering clothing, beauty, and lifestyle topics.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "fashion magazine",
+    "women's fashion",
+    "beauty",
+    "lifestyle",
+    "luxury fashion",
+    "fashion trends",
+    "style advice"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4d171f9d-d895-55cd-89a2-a35442db777a"
 }

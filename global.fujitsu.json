@@ -1,11 +1,21 @@
 {
   "entity_id": "c7cb6e68-7c2e-5298-a49b-0d54a6e09718",
-  "name": "Your Sustainability Transformation Partner",
+  "public_key_id": "c7cb6e68-7c2e-5298-a49b-0d54a6e09718",
+  "name": "Fujitsu",
   "what_it_does": "Fujitsu provides a broad range of IT services, consulting, and technology solutions globally with a focus on sustainability.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [],
+  "location": "Japan",
+  "keywords": [
+    "IT infrastructure",
+    "Global IT services",
+    "Business consulting",
+    "Sustainable solutions",
+    "Systems integration",
+    "Cloud solutions",
+    "Managed services",
+    "Digital transformation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c7cb6e68-7c2e-5298-a49b-0d54a6e09718"
 }

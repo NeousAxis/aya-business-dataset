@@ -1,11 +1,20 @@
 {
   "entity_id": "0905b973-41ed-51a9-b5e6-7ea61caaa758",
+  "public_key_id": "0905b973-41ed-51a9-b5e6-7ea61caaa758",
   "name": "ABC",
   "what_it_does": "ABC is a Spanish news publication providing online articles and media.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Spain",
-  "keywords": [],
-  "aio_score": 50.0,
+  "keywords": [
+    "Spanish news",
+    "news publication",
+    "current affairs",
+    "online journalism",
+    "political news",
+    "international news",
+    "media outlet"
+  ],
+  "aio_score": 53.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0905b973-41ed-51a9-b5e6-7ea61caaa758"
 }

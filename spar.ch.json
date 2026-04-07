@@ -1,11 +1,21 @@
 {
   "entity_id": "132ff61f-fba1-5b25-9189-b0b557da0f84",
+  "public_key_id": "132ff61f-fba1-5b25-9189-b0b557da0f84",
   "name": "SPAR Handels AG",
   "what_it_does": "SPAR Handels AG operates a chain of supermarkets and convenience stores in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "Swiss supermarkets",
+    "Swiss convenience stores",
+    "grocery retail",
+    "food retail",
+    "Switzerland",
+    "retail chain",
+    "consumer goods",
+    "food products"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/132ff61f-fba1-5b25-9189-b0b557da0f84"
 }

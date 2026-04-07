@@ -1,11 +1,21 @@
 {
   "entity_id": "1cab891f-a0b8-5c4d-bbb9-f2762188508f",
+  "public_key_id": "1cab891f-a0b8-5c4d-bbb9-f2762188508f",
   "name": "HONOR GLOBAL",
   "what_it_does": "HONOR designs, develops, and sells smartphones, laptops, and other smart devices.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "MY",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "smartphones",
+    "laptops",
+    "wearable devices",
+    "consumer electronics",
+    "mobile technology",
+    "android devices",
+    "smart devices",
+    "personal computing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1cab891f-a0b8-5c4d-bbb9-f2762188508f"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "3a0471da-bf7a-59f4-88e4-9c08c76d2cec",
+  "public_key_id": "3a0471da-bf7a-59f4-88e4-9c08c76d2cec",
   "name": "Statsig",
   "what_it_does": "Statsig provides a platform for feature flagging and A/B testing.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "feature flags",
+    "A/B testing",
+    "product experimentation",
+    "data driven product",
+    "experimentation",
+    "product development",
+    "feature management",
+    "product analytics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3a0471da-bf7a-59f4-88e4-9c08c76d2cec"
 }

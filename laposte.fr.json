@@ -1,11 +1,21 @@
 {
   "entity_id": "cbbe9bda-99f3-5a47-b954-640eddac027b",
+  "public_key_id": "cbbe9bda-99f3-5a47-b954-640eddac027b",
   "name": "La Poste",
   "what_it_does": "La Poste is the French postal service, providing mail delivery, banking, and other related services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "postal delivery",
+    "mail services",
+    "package delivery",
+    "banking services",
+    "French postal",
+    "express delivery",
+    "financial transactions",
+    "postal insurance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cbbe9bda-99f3-5a47-b954-640eddac027b"
 }

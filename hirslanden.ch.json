@@ -1,11 +1,20 @@
 {
   "entity_id": "4ec8d7af-bfcf-5f04-b258-ead203b2c111",
+  "public_key_id": "4ec8d7af-bfcf-5f04-b258-ead203b2c111",
   "name": "Hirslanden-Gruppe",
   "what_it_does": "Hirslanden is a private hospital group in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "private hospitals",
+    "healthcare",
+    "medical group",
+    "Swiss hospitals",
+    "inpatient care",
+    "surgical services",
+    "medical treatments"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4ec8d7af-bfcf-5f04-b258-ead203b2c111"
 }

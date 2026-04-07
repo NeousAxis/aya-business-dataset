@@ -1,11 +1,20 @@
 {
   "entity_id": "c5c76d48-95cd-5994-840e-f59fc244aa50",
+  "public_key_id": "c5c76d48-95cd-5994-840e-f59fc244aa50",
   "name": "Salt",
   "what_it_does": "Salt is a Swiss company offering travel and transportation services, possibly including rail passes and public transport ticketing.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "Swiss travel",
+    "public transport",
+    "rail passes",
+    "travel tickets",
+    "Switzerland transportation",
+    "travel solutions",
+    "Swiss tourism"
+  ],
+  "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c5c76d48-95cd-5994-840e-f59fc244aa50"
 }

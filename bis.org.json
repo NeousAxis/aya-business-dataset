@@ -1,11 +1,19 @@
 {
   "entity_id": "eb06d759-e647-5478-9efc-56377c5f545c",
+  "public_key_id": "eb06d759-e647-5478-9efc-56377c5f545c",
   "name": "Bank for International Settlements",
   "what_it_does": "The Bank for International Settlements serves as a bank for central banks and fosters international monetary and financial cooperation.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "central bank cooperation",
+    "international monetary policy",
+    "financial stability",
+    "banking supervision",
+    "global financial system",
+    "monetary economics"
+  ],
   "aio_score": 40.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eb06d759-e647-5478-9efc-56377c5f545c"
 }

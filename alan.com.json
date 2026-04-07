@@ -1,11 +1,20 @@
 {
   "entity_id": "b7ef1859-bbe6-5c11-872b-f2bca1e15803",
+  "public_key_id": "b7ef1859-bbe6-5c11-872b-f2bca1e15803",
   "name": "Alan",
   "what_it_does": "Alan provides a digital health insurance platform offering health coverage and related services in France.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "France",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "health insurance",
+    "digital health",
+    "healthcare coverage",
+    "employee benefits",
+    "France health insurance",
+    "health plans",
+    "insurance technology"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b7ef1859-bbe6-5c11-872b-f2bca1e15803"
 }

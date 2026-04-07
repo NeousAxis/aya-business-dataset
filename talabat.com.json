@@ -1,11 +1,21 @@
 {
   "entity_id": "c6da12d4-4453-596e-8944-21f4a210ecd4",
+  "public_key_id": "c6da12d4-4453-596e-8944-21f4a210ecd4",
   "name": "Talabat",
   "what_it_does": "Talabat is an online food ordering and delivery platform in the Middle East.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "KW",
-  "keywords": [],
+  "keywords": [
+    "food delivery",
+    "online food ordering",
+    "restaurant delivery",
+    "Middle East food",
+    "mobile food order",
+    "food marketplace",
+    "online takeout",
+    "delivery platform"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c6da12d4-4453-596e-8944-21f4a210ecd4"
 }

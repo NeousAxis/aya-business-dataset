@@ -1,11 +1,21 @@
 {
   "entity_id": "45122a5f-720e-51ae-9adb-f1fbb734a5bf",
+  "public_key_id": "45122a5f-720e-51ae-9adb-f1fbb734a5bf",
   "name": "MGEN",
   "what_it_does": "MGEN is a French mutual insurance company primarily serving education professionals.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [],
-  "aio_score": 53.0,
+  "keywords": [
+    "French mutual insurance",
+    "insurance for educators",
+    "health insurance",
+    "life insurance",
+    "French insurance",
+    "social security",
+    "education sector insurance",
+    "healthcare benefits"
+  ],
+  "aio_score": 76.0,
   "certificate_url": "https://ai-visionary.com/aya/e/45122a5f-720e-51ae-9adb-f1fbb734a5bf"
 }

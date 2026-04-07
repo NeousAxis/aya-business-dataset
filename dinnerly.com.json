@@ -1,11 +1,21 @@
 {
   "entity_id": "52f05fec-4759-578c-90b8-6d20e49a6f5d",
+  "public_key_id": "52f05fec-4759-578c-90b8-6d20e49a6f5d",
   "name": "Dinnerly",
   "what_it_does": "Dinnerly delivers affordable meal kits to customers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Australia",
-  "keywords": [],
+  "keywords": [
+    "affordable meal kits",
+    "recipe delivery",
+    "family meals",
+    "pre-portioned meals",
+    "discount grocery",
+    "home cooking",
+    "budget meal plans",
+    "easy dinners"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/52f05fec-4759-578c-90b8-6d20e49a6f5d"
 }

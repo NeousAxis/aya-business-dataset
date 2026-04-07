@@ -1,11 +1,21 @@
 {
   "entity_id": "dea1dfcf-0d2d-5a84-8470-98f53f34bb2c",
+  "public_key_id": "dea1dfcf-0d2d-5a84-8470-98f53f34bb2c",
   "name": "AutoGPT",
   "what_it_does": "AutoGPT is a tool that uses the GPT language model to autonomously achieve goals.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "GPT language model",
+    "autonomous agents",
+    "AI automation",
+    "task automation",
+    "large language models",
+    "artificial general intelligence",
+    "AI tool",
+    "AI powered"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dea1dfcf-0d2d-5a84-8470-98f53f34bb2c"
 }

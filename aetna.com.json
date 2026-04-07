@@ -1,11 +1,21 @@
 {
   "entity_id": "28a719c6-3108-56bc-bf53-72a8cc523440",
+  "public_key_id": "28a719c6-3108-56bc-bf53-72a8cc523440",
   "name": "Aetna",
   "what_it_does": "Aetna provides health insurance and related services to individuals, employers, and other organizations.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "health insurance",
+    "healthcare benefits",
+    "employee benefits",
+    "health plans",
+    "insurance coverage",
+    "medical insurance",
+    "group health",
+    "individual health insurance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/28a719c6-3108-56bc-bf53-72a8cc523440"
 }

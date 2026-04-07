@@ -1,11 +1,20 @@
 {
   "entity_id": "a4e8b149-89dd-5bc3-b698-4296cc2c32af",
+  "public_key_id": "a4e8b149-89dd-5bc3-b698-4296cc2c32af",
   "name": "Precor",
   "what_it_does": "Precor manufactures and sells fitness equipment.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "fitness equipment",
+    "treadmills",
+    "ellipticals",
+    "exercise bikes",
+    "strength training",
+    "cardio equipment",
+    "gym equipment"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a4e8b149-89dd-5bc3-b698-4296cc2c32af"
 }

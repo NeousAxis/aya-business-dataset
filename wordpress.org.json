@@ -1,11 +1,21 @@
 {
   "entity_id": "9409eecb-d502-510e-b70f-837e4f8f44ba",
+  "public_key_id": "9409eecb-d502-510e-b70f-837e4f8f44ba",
   "name": "Blog Tool, Publishing Platform, and CMS",
   "what_it_does": "WordPress.org provides open-source software for creating and managing websites and blogs.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "India",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "open-source",
+    "CMS",
+    "blogging",
+    "website creation",
+    "content publishing",
+    "website builder",
+    "PHP",
+    "self-hosted"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9409eecb-d502-510e-b70f-837e4f8f44ba"
 }

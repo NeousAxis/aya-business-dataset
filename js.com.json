@@ -1,11 +1,21 @@
 {
   "entity_id": "62b4d9c9-cf24-539f-a60c-43ecf081c324",
+  "public_key_id": "62b4d9c9-cf24-539f-a60c-43ecf081c324",
   "name": "JSCL",
   "what_it_does": "JSCL likely offers financial services or investment banking services based on the 'js' domain.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 52.0,
+  "keywords": [
+    "financial services",
+    "investment banking",
+    "financial investments",
+    "asset management",
+    "wealth creation",
+    "capital markets",
+    "investment solutions",
+    "trading"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/62b4d9c9-cf24-539f-a60c-43ecf081c324"
 }

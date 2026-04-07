@@ -1,11 +1,21 @@
 {
   "entity_id": "e543e313-7da5-5f4a-b249-d7b1bd0987ca",
+  "public_key_id": "e543e313-7da5-5f4a-b249-d7b1bd0987ca",
   "name": "Egon Zehnder",
   "what_it_does": "Egon Zehnder is a global executive search and leadership advisory firm.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "executive search",
+    "leadership advisory",
+    "talent acquisition",
+    "executive recruitment",
+    "leadership assessment",
+    "board consulting",
+    "C-suite recruitment",
+    "executive coaching"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e543e313-7da5-5f4a-b249-d7b1bd0987ca"
 }

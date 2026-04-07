@@ -1,11 +1,21 @@
 {
   "entity_id": "2ce7c269-24bc-5be9-8905-8dfb51d6cb91",
+  "public_key_id": "2ce7c269-24bc-5be9-8905-8dfb51d6cb91",
   "name": "Victorinox Switzerland",
   "what_it_does": "Victorinox manufactures and sells Swiss Army knives, cutlery, watches, travel gear, and fragrances.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Swiss Army knives",
+    "pocket tools",
+    "cutlery",
+    "watches",
+    "travel gear",
+    "fragrances",
+    "Swiss made",
+    "knife manufacturing"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2ce7c269-24bc-5be9-8905-8dfb51d6cb91"
 }

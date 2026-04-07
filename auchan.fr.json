@@ -1,11 +1,21 @@
 {
   "entity_id": "59432669-5ab7-51bd-87fe-c36c090e461d",
+  "public_key_id": "59432669-5ab7-51bd-87fe-c36c090e461d",
   "name": "Auchan. Promos",
   "what_it_does": "Auchan.fr provides online grocery shopping and other retail products in France.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
-  "keywords": [],
-  "aio_score": 53.0,
+  "keywords": [
+    "French grocery",
+    "France retail",
+    "Auchan supermarket",
+    "online groceries",
+    "food delivery",
+    "consumer products",
+    "household goods",
+    "French e-commerce"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/59432669-5ab7-51bd-87fe-c36c090e461d"
 }

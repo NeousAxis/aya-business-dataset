@@ -1,11 +1,21 @@
 {
   "entity_id": "1ad5d247-64aa-5474-bc8e-2255e52a4949",
+  "public_key_id": "1ad5d247-64aa-5474-bc8e-2255e52a4949",
   "name": "Aktuelle Nachrichten und Kommentare",
   "what_it_does": "Süddeutsche Zeitung provides German-language news and commentary.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "German news",
+    "German commentary",
+    "Süddeutsche Zeitung",
+    "news articles",
+    "political analysis",
+    "Germany news",
+    "current affairs",
+    "news publication"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1ad5d247-64aa-5474-bc8e-2255e52a4949"
 }

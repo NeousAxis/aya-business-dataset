@@ -1,11 +1,21 @@
 {
   "entity_id": "c0eb9fdf-51c2-5042-a851-77c1495feb65",
+  "public_key_id": "c0eb9fdf-51c2-5042-a851-77c1495feb65",
   "name": "Tabnine",
   "what_it_does": "Tabnine offers an AI-powered code completion tool for software developers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 78.0,
+  "keywords": [
+    "AI code completion",
+    "code completion tool",
+    "AI assistant",
+    "developer tool",
+    "software development",
+    "code editor",
+    "coding AI",
+    "programming assistant"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c0eb9fdf-51c2-5042-a851-77c1495feb65"
 }

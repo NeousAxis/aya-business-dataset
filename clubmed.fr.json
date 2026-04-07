@@ -1,11 +1,21 @@
 {
   "entity_id": "dc33d3be-6749-569b-a875-a11424d1bbe3",
+  "public_key_id": "dc33d3be-6749-569b-a875-a11424d1bbe3",
   "name": "Club Med",
   "what_it_does": "Club Med operates all-inclusive resorts around the world.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "all-inclusive resorts",
+    "vacation packages",
+    "travel destinations",
+    "family vacations",
+    "beach resorts",
+    "ski resorts",
+    "holiday packages",
+    "international travel"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dc33d3be-6749-569b-a875-a11424d1bbe3"
 }

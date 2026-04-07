@@ -1,11 +1,21 @@
 {
   "entity_id": "e1d758c4-eb35-5a33-bd23-dcbd585f59de",
+  "public_key_id": "e1d758c4-eb35-5a33-bd23-dcbd585f59de",
   "name": "NSF",
   "what_it_does": "NSF International is a non-profit organization that develops standards and certifies products for food, water, health sciences, and consumer goods.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "food safety",
+    "water quality",
+    "health product certification",
+    "product standards",
+    "public health",
+    "consumer safety",
+    "testing services",
+    "non-profit standards organization"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e1d758c4-eb35-5a33-bd23-dcbd585f59de"
 }

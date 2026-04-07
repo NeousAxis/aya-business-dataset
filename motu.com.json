@@ -1,11 +1,21 @@
 {
   "entity_id": "c92221cc-ef7f-5480-ba7b-a477a680bfbf",
+  "public_key_id": "c92221cc-ef7f-5480-ba7b-a477a680bfbf",
   "name": "MOTU.com",
   "what_it_does": "MOTU.com sells hardware and software for music production and audio engineering.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "music production hardware",
+    "audio engineering",
+    "recording interfaces",
+    "DAW software",
+    "music creation",
+    "audio software",
+    "MIDI controllers",
+    "studio equipment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c92221cc-ef7f-5480-ba7b-a477a680bfbf"
 }

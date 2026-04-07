@@ -1,11 +1,21 @@
 {
   "entity_id": "97222d48-305a-55e9-9787-6c309e2a3d8a",
+  "public_key_id": "97222d48-305a-55e9-9787-6c309e2a3d8a",
   "name": "Sony Corporation",
   "what_it_does": "Sony Corporation develops and manufactures electronics, gaming consoles, and entertainment products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Japan",
-  "keywords": [],
+  "keywords": [
+    "consumer electronics",
+    "gaming consoles",
+    "entertainment",
+    "electronics manufacturing",
+    "audio equipment",
+    "image sensors",
+    "mobile communication",
+    "home entertainment"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/97222d48-305a-55e9-9787-6c309e2a3d8a"
 }

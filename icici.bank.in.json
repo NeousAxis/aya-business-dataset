@@ -1,11 +1,21 @@
 {
   "entity_id": "6de9a46c-6ab3-5c53-8ac3-b9524cd3cd24",
+  "public_key_id": "6de9a46c-6ab3-5c53-8ac3-b9524cd3cd24",
   "name": "ICICI Bank",
   "what_it_does": "ICICI Bank is a private sector bank offering various financial products and services in India.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "India",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "indian banking",
+    "private sector bank",
+    "financial services",
+    "retail banking",
+    "corporate banking",
+    "loan products",
+    "deposit accounts",
+    "wealth management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6de9a46c-6ab3-5c53-8ac3-b9524cd3cd24"
 }

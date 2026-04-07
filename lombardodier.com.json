@@ -1,11 +1,21 @@
 {
   "entity_id": "2a572719-b405-54ec-afa0-ad6775300a43",
+  "public_key_id": "2a572719-b405-54ec-afa0-ad6775300a43",
   "name": "Lombard Odier",
   "what_it_does": "Lombard Odier is a global wealth and asset manager offering private and institutional investment services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "wealth management",
+    "asset management",
+    "private banking",
+    "investment management",
+    "financial advisory",
+    "portfolio management",
+    "private wealth",
+    "global investments"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2a572719-b405-54ec-afa0-ad6775300a43"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "813b62cd-9c02-5a7b-b7ad-bfd50df8ce62",
+  "public_key_id": "813b62cd-9c02-5a7b-b7ad-bfd50df8ce62",
   "name": "Frontend Mentor",
   "what_it_does": "Frontend Mentor provides coding challenges and resources for front-end web developers to improve their skills.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "frontend development challenges",
+    "coding practice",
+    "web development resources",
+    "HTML CSS JavaScript",
+    "front-end skills",
+    "coding projects",
+    "developer training",
+    "coding community"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/813b62cd-9c02-5a7b-b7ad-bfd50df8ce62"
 }

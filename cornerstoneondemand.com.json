@@ -1,11 +1,21 @@
 {
   "entity_id": "39d78a27-f5a2-5f4d-b9cc-4416083b3aee",
+  "public_key_id": "39d78a27-f5a2-5f4d-b9cc-4416083b3aee",
   "name": "Cornerstone Talent Experience",
   "what_it_does": "Cornerstone OnDemand offers a cloud-based talent management and learning platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Spain",
-  "keywords": [],
+  "keywords": [
+    "talent management",
+    "learning management system",
+    "cloud-based HR",
+    "employee development",
+    "performance management",
+    "training programs",
+    "workforce management",
+    "human capital"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/39d78a27-f5a2-5f4d-b9cc-4416083b3aee"
 }

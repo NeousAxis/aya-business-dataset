@@ -1,11 +1,20 @@
 {
   "entity_id": "9dc50be6-3d18-5dde-be80-1dd1e2856204",
+  "public_key_id": "9dc50be6-3d18-5dde-be80-1dd1e2856204",
   "name": "Nrk",
   "what_it_does": "NRK is the Norwegian Broadcasting Corporation, a public service broadcaster.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Norway",
-  "keywords": [],
+  "keywords": [
+    "Norwegian broadcaster",
+    "public broadcasting",
+    "news media",
+    "radio",
+    "television",
+    "Norwegian content",
+    "cultural programming"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9dc50be6-3d18-5dde-be80-1dd1e2856204"
 }

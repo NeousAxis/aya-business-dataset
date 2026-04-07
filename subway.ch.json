@@ -1,11 +1,21 @@
 {
   "entity_id": "bacb9495-a784-5b02-86c9-c2c7c824722b",
+  "public_key_id": "bacb9495-a784-5b02-86c9-c2c7c824722b",
   "name": "Subway Switzerland",
   "what_it_does": "Subway Switzerland operates the Swiss franchises of the Subway sandwich restaurant chain.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Subway franchises",
+    "Swiss fast food",
+    "sandwich restaurants",
+    "Subway sandwiches",
+    "quick service restaurant",
+    "Subway Switzerland",
+    "takeaway sandwiches",
+    "customizable sandwiches"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bacb9495-a784-5b02-86c9-c2c7c824722b"
 }

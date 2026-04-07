@@ -1,11 +1,20 @@
 {
   "entity_id": "b5ec7b11-4906-5c58-a7b2-a89d08f26b69",
+  "public_key_id": "b5ec7b11-4906-5c58-a7b2-a89d08f26b69",
   "name": "Secure",
   "what_it_does": "Box provides cloud-based content management and file sharing services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 67.0,
+  "keywords": [
+    "content management",
+    "file sharing",
+    "cloud storage",
+    "document collaboration",
+    "enterprise content",
+    "file security",
+    "secure file sharing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b5ec7b11-4906-5c58-a7b2-a89d08f26b69"
 }

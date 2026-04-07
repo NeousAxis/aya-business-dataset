@@ -1,11 +1,21 @@
 {
   "entity_id": "b8fc05ba-25b5-5cc8-ae20-e436555e9a7d",
+  "public_key_id": "b8fc05ba-25b5-5cc8-ae20-e436555e9a7d",
   "name": "Lovys",
   "what_it_does": "Lovys offers digital home insurance solutions.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "EN",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "home insurance",
+    "digital insurance",
+    "insurance products",
+    "property insurance",
+    "renters insurance",
+    "online insurance",
+    "insurance coverage",
+    "residential insurance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b8fc05ba-25b5-5cc8-ae20-e436555e9a7d"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "ca4254f8-98b2-592e-9a0d-75c5c49063a2",
+  "public_key_id": "ca4254f8-98b2-592e-9a0d-75c5c49063a2",
   "name": "AltLayer",
   "what_it_does": "AltLayer provides a decentralized rollup-as-a-service platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "rollup-as-a-service",
+    "decentralized rollups",
+    "blockchain scaling",
+    "layer 2 scaling",
+    "Web3 infrastructure",
+    "modular blockchain",
+    "blockchain development"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ca4254f8-98b2-592e-9a0d-75c5c49063a2"
 }

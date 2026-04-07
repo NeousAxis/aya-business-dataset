@@ -1,11 +1,21 @@
 {
   "entity_id": "7b34d883-1b77-5323-bf4c-e8b73924ae3a",
+  "public_key_id": "7b34d883-1b77-5323-bf4c-e8b73924ae3a",
   "name": "Memrise",
   "what_it_does": "Memrise provides a language-learning platform using spaced repetition and mnemonics.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "language learning",
+    "spaced repetition",
+    "mnemonics",
+    "vocabulary building",
+    "language courses",
+    "online education",
+    "language acquisition",
+    "memory techniques"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7b34d883-1b77-5323-bf4c-e8b73924ae3a"
 }

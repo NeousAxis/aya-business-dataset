@@ -1,11 +1,21 @@
 {
   "entity_id": "8dc3fced-49ec-51bf-8194-eb10adda4b88",
+  "public_key_id": "8dc3fced-49ec-51bf-8194-eb10adda4b88",
   "name": "Transak",
   "what_it_does": "Transak provides an API for developers to integrate fiat-to-crypto and crypto-to-fiat onramps into their applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "fiat-to-crypto",
+    "crypto-to-fiat",
+    "on-ramp API",
+    "payment gateway",
+    "crypto payments",
+    "developer API",
+    "crypto on-ramp",
+    "blockchain infrastructure"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8dc3fced-49ec-51bf-8194-eb10adda4b88"
 }

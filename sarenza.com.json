@@ -1,11 +1,19 @@
 {
   "entity_id": "ec5a00e8-3879-51da-af86-f60f27f6f431",
+  "public_key_id": "ec5a00e8-3879-51da-af86-f60f27f6f431",
   "name": "Sarenza Suisse",
   "what_it_does": "Sarenza is an online retailer specializing in the sale of shoes and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "shoes e-commerce",
+    "accessories retail",
+    "footwear sales",
+    "branded shoes",
+    "online shoe store",
+    "European shoe market"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec5a00e8-3879-51da-af86-f60f27f6f431"
 }

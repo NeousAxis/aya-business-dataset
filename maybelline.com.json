@@ -1,11 +1,21 @@
 {
   "entity_id": "1cae75d2-a812-5cb1-b71c-a45ddf48cad3",
+  "public_key_id": "1cae75d2-a812-5cb1-b71c-a45ddf48cad3",
   "name": "Virtual Beauty Studio",
   "what_it_does": "Maybelline offers virtual makeup try-on experiences through their website.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "virtual makeup",
+    "makeup try-on",
+    "cosmetics",
+    "beauty products",
+    "online makeup",
+    "virtual beauty",
+    "Maybelline",
+    "cosmetic simulator"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1cae75d2-a812-5cb1-b71c-a45ddf48cad3"
 }

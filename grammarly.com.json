@@ -1,11 +1,20 @@
 {
   "entity_id": "d6193b54-866e-5295-9062-f37f84267acf",
+  "public_key_id": "d6193b54-866e-5295-9062-f37f84267acf",
   "name": "Grammarly",
   "what_it_does": "Grammarly.com offers a writing assistance tool that provides grammar and style suggestions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "grammar checker",
+    "writing assistant",
+    "style editor",
+    "proofreading tool",
+    "AI writing",
+    "English grammar",
+    "writing enhancement"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d6193b54-866e-5295-9062-f37f84267acf"
 }

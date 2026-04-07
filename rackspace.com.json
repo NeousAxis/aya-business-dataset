@@ -1,11 +1,21 @@
 {
   "entity_id": "571c9d5c-a6f9-565c-8659-c748b01cbcf6",
+  "public_key_id": "571c9d5c-a6f9-565c-8659-c748b01cbcf6",
   "name": "Rackspace Technology",
   "what_it_does": "Rackspace Technology offers managed cloud computing services and solutions for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Austria",
-  "keywords": [],
+  "keywords": [
+    "managed cloud",
+    "cloud computing",
+    "IT infrastructure",
+    "hybrid cloud",
+    "multi-cloud",
+    "cloud solutions",
+    "data centers",
+    "cloud migration"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/571c9d5c-a6f9-565c-8659-c748b01cbcf6"
 }

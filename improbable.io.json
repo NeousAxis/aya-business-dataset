@@ -1,11 +1,21 @@
 {
   "entity_id": "fcf39383-21a9-5dc7-b987-1f7561784f90",
+  "public_key_id": "fcf39383-21a9-5dc7-b987-1f7561784f90",
   "name": "Improbable",
   "what_it_does": "Improbable develops virtual world technology and platforms.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "virtual world",
+    "metaverse",
+    "spatial computing",
+    "simulation",
+    "game development",
+    "virtual experiences",
+    "cloud gaming",
+    "scalable infrastructure"
+  ],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fcf39383-21a9-5dc7-b987-1f7561784f90"
 }

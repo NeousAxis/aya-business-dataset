@@ -1,11 +1,21 @@
 {
   "entity_id": "8867451f-9ed0-5897-8df4-5df42a35a728",
+  "public_key_id": "8867451f-9ed0-5897-8df4-5df42a35a728",
   "name": "Lori Anne Wardi",
   "what_it_does": "Lori.co likely provides services related to media and communications, potentially content creation or public relations.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "media relations",
+    "content marketing",
+    "public relations",
+    "brand communication",
+    "media strategy",
+    "content creation",
+    "strategic communication",
+    "digital media"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8867451f-9ed0-5897-8df4-5df42a35a728"
 }

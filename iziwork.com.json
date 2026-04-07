@@ -1,11 +1,21 @@
 {
   "entity_id": "2a7287f6-3782-5637-b60b-cd24f412b758",
+  "public_key_id": "2a7287f6-3782-5637-b60b-cd24f412b758",
   "name": "iziwork",
   "what_it_does": "iziwork is likely a platform for temporary staffing or gig work.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 58.0,
+  "keywords": [
+    "temporary staffing",
+    "gig employment",
+    "hourly work",
+    "flexible jobs",
+    "workforce solutions",
+    "staffing agency",
+    "job matching",
+    "employment"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2a7287f6-3782-5637-b60b-cd24f412b758"
 }

@@ -1,11 +1,19 @@
 {
   "entity_id": "cf942d4b-9b04-5452-b637-e57d8a1e7e6c",
+  "public_key_id": "cf942d4b-9b04-5452-b637-e57d8a1e7e6c",
   "name": "Bittensor",
   "what_it_does": "Bittensor is a decentralized machine learning network.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "decentralized machine learning",
+    "blockchain AI",
+    "distributed computing",
+    "AI network",
+    "artificial intelligence",
+    "machine learning models"
+  ],
   "aio_score": 23.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cf942d4b-9b04-5452-b637-e57d8a1e7e6c"
 }

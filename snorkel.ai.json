@@ -1,11 +1,20 @@
 {
   "entity_id": "bbb2ff9e-d4a5-5d5c-b9c1-8c69283f3002",
+  "public_key_id": "bbb2ff9e-d4a5-5d5c-b9c1-8c69283f3002",
   "name": "Snorkel AI",
   "what_it_does": "Snorkel AI provides a platform for programmatically labeling data to train AI models.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "AI training data",
+    "data labeling",
+    "weak supervision",
+    "machine learning",
+    "programmatic labeling",
+    "AI model development",
+    "training datasets"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bbb2ff9e-d4a5-5d5c-b9c1-8c69283f3002"
 }

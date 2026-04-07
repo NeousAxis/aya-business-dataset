@@ -1,11 +1,21 @@
 {
   "entity_id": "8cf1a310-db53-5627-892d-9c48ecf0c3a5",
+  "public_key_id": "8cf1a310-db53-5627-892d-9c48ecf0c3a5",
   "name": "Cornershop (Official Website)",
   "what_it_does": "Cornershop is a grocery delivery service operating primarily in Latin America and Canada.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "grocery delivery",
+    "Latin America",
+    "Canada",
+    "same-day delivery",
+    "personal shoppers",
+    "supermarket goods",
+    "on-demand shopping",
+    "food retail"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8cf1a310-db53-5627-892d-9c48ecf0c3a5"
 }

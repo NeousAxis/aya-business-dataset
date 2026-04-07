@@ -1,11 +1,21 @@
 {
   "entity_id": "44688774-ea55-55cd-88b3-48e4aa07e1f6",
+  "public_key_id": "44688774-ea55-55cd-88b3-48e4aa07e1f6",
   "name": "Betterment",
   "what_it_does": "Betterment is an online investment advisor providing automated investment management and financial planning services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
-  "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "location": "United States",
+  "keywords": [
+    "automated investing",
+    "robo-advisor",
+    "investment management",
+    "financial planning",
+    "online advisor",
+    "investment portfolios",
+    "retirement planning",
+    "financial goals"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/44688774-ea55-55cd-88b3-48e4aa07e1f6"
 }

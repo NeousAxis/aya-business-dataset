@@ -1,11 +1,21 @@
 {
   "entity_id": "7879a74b-63b9-5fe5-9246-93ae9567b152",
+  "public_key_id": "7879a74b-63b9-5fe5-9246-93ae9567b152",
   "name": "Marley Spoon",
   "what_it_does": "Marley Spoon delivers pre-portioned ingredients and recipes for customers to cook meals at home.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 78.0,
+  "keywords": [
+    "meal kits",
+    "recipe delivery",
+    "home cooking",
+    "food ingredients",
+    "pre-portioned meals",
+    "recipe boxes",
+    "food delivery",
+    "cooking recipes"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7879a74b-63b9-5fe5-9246-93ae9567b152"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "753def44-2b16-5ccc-943e-b231cf81fc5d",
+  "public_key_id": "753def44-2b16-5ccc-943e-b231cf81fc5d",
   "name": "Safebound Moving & Storage",
   "what_it_does": "Safebound Moving & Storage provides relocation services for residential and commercial clients.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 63.0,
+  "keywords": [
+    "residential moving",
+    "commercial relocation",
+    "furniture storage",
+    "long-distance movers",
+    "local moving",
+    "packing services",
+    "moving company"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/753def44-2b16-5ccc-943e-b231cf81fc5d"
 }

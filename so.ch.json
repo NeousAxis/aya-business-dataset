@@ -1,11 +1,21 @@
 {
   "entity_id": "fc6150be-412a-5ef5-8fb5-cabd88914004",
+  "public_key_id": "fc6150be-412a-5ef5-8fb5-cabd88914004",
   "name": "Kanton Solothurn",
   "what_it_does": "Kanton Solothurn's website likely provides financial and banking information for the Swiss canton of Solothurn.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "solothurn canton",
+    "swiss banking",
+    "financial information",
+    "cantonal finance",
+    "swiss finance",
+    "banking information",
+    "solothurn government",
+    "canton banking"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fc6150be-412a-5ef5-8fb5-cabd88914004"
 }

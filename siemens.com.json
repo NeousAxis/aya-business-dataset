@@ -1,11 +1,20 @@
 {
   "entity_id": "0c0f1306-06ba-5c2f-9d0d-c8c87cda5b97",
+  "public_key_id": "0c0f1306-06ba-5c2f-9d0d-c8c87cda5b97",
   "name": "Siemens",
   "what_it_does": "Siemens is a multinational conglomerate focused on industrial manufacturing, automation, and electrification.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "BG",
-  "keywords": [],
-  "aio_score": 79.0,
+  "location": "Germany",
+  "keywords": [
+    "industrial automation",
+    "manufacturing solutions",
+    "electrification products",
+    "engineering",
+    "automation systems",
+    "industrial manufacturing",
+    "automation technology"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0c0f1306-06ba-5c2f-9d0d-c8c87cda5b97"
 }

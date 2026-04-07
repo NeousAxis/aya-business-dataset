@@ -1,11 +1,21 @@
 {
   "entity_id": "d46c0bf5-f59d-500d-a8c7-8bdd4e246d2e",
+  "public_key_id": "d46c0bf5-f59d-500d-a8c7-8bdd4e246d2e",
   "name": "Honeycomb",
   "what_it_does": "Honeycomb offers an observability platform for understanding and debugging complex software systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "observability platform",
+    "software debugging",
+    "complex systems",
+    "performance monitoring",
+    "distributed tracing",
+    "application performance",
+    "system observability",
+    "debugging tools"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d46c0bf5-f59d-500d-a8c7-8bdd4e246d2e"
 }

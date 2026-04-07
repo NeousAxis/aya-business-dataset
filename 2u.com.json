@@ -1,11 +1,21 @@
 {
   "entity_id": "3a1f8842-3e33-5de2-9007-79e05deeae23",
+  "public_key_id": "3a1f8842-3e33-5de2-9007-79e05deeae23",
   "name": "2U, Inc.",
   "what_it_does": "2U partners with universities to offer online degree programs.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 58.0,
+  "keywords": [
+    "online degree programs",
+    "university partnerships",
+    "higher education",
+    "e-learning",
+    "online courses",
+    "academic programs",
+    "distance learning",
+    "university degree"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3a1f8842-3e33-5de2-9007-79e05deeae23"
 }

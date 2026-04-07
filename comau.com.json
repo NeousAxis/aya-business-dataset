@@ -1,11 +1,21 @@
 {
   "entity_id": "4d5142fb-8583-5e04-b00e-39fa7c4478de",
+  "public_key_id": "4d5142fb-8583-5e04-b00e-39fa7c4478de",
   "name": "Comau",
   "what_it_does": "Comau specializes in industrial automation systems and robotics.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "industrial robots",
+    "automation systems",
+    "manufacturing solutions",
+    "robotics engineering",
+    "automated assembly",
+    "industrial manufacturing",
+    "robotics integration",
+    "manufacturing automation"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4d5142fb-8583-5e04-b00e-39fa7c4478de"
 }

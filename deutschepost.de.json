@@ -1,11 +1,21 @@
 {
   "entity_id": "2df75f10-8b43-5c22-8f13-000fc7e1d53c",
+  "public_key_id": "2df75f10-8b43-5c22-8f13-000fc7e1d53c",
   "name": "Deutsche Post",
   "what_it_does": "Deutsche Post provides postal and logistics services in Germany and internationally.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "postal services",
+    "logistics",
+    "mail delivery",
+    "package delivery",
+    "international shipping",
+    "German postal",
+    "express delivery",
+    "supply chain"
+  ],
   "aio_score": 22.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2df75f10-8b43-5c22-8f13-000fc7e1d53c"
 }

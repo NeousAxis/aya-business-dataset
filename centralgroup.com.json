@@ -1,11 +1,21 @@
 {
   "entity_id": "4fbac5f0-a0fc-5d04-9a58-93dacd96378c",
+  "public_key_id": "4fbac5f0-a0fc-5d04-9a58-93dacd96378c",
   "name": "Central Group",
   "what_it_does": "Central Group is a Thai conglomerate operating department stores, shopping malls, and hotels.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "department stores",
+    "shopping malls",
+    "hotel chains",
+    "retail properties",
+    "Thai conglomerate",
+    "real estate",
+    "hospitality",
+    "brand management"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4fbac5f0-a0fc-5d04-9a58-93dacd96378c"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "20273e6c-3b17-51fb-8df0-b67c327a025c",
+  "public_key_id": "20273e6c-3b17-51fb-8df0-b67c327a025c",
   "name": "Shop Online",
   "what_it_does": "Benetton's Swiss online store sells clothing and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "Benetton clothing",
+    "Swiss e-commerce",
+    "fashion accessories",
+    "apparel retail",
+    "Swiss fashion store",
+    "clothing shop",
+    "buy clothes"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/20273e6c-3b17-51fb-8df0-b67c327a025c"
 }

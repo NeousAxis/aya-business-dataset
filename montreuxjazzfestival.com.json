@@ -1,11 +1,21 @@
 {
   "entity_id": "f269f78e-d633-5e61-a2fc-db7a19bfe1c4",
+  "public_key_id": "f269f78e-d633-5e61-a2fc-db7a19bfe1c4",
   "name": "Montreux Jazz Festival",
   "what_it_does": "The Montreux Jazz Festival organizes and promotes the annual Montreux Jazz Festival in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "jazz festival",
+    "music festival",
+    "live music",
+    "Swiss festival",
+    "music event",
+    "concert promotion",
+    "jazz music",
+    "Montreux event"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f269f78e-d633-5e61-a2fc-db7a19bfe1c4"
 }

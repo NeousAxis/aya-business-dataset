@@ -1,11 +1,21 @@
 {
   "entity_id": "7d65b230-0ef0-5485-96a6-12bc898bb1f9",
+  "public_key_id": "7d65b230-0ef0-5485-96a6-12bc898bb1f9",
   "name": "Liverpool FC",
   "what_it_does": "Liverpool FC operates a professional football club and related businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 53.0,
+  "keywords": [
+    "football club",
+    "sports entertainment",
+    "soccer",
+    "sports franchise",
+    "football merchandise",
+    "matchday operations",
+    "premier league",
+    "football academy"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7d65b230-0ef0-5485-96a6-12bc898bb1f9"
 }

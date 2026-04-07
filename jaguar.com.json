@@ -1,11 +1,21 @@
 {
   "entity_id": "77aad4f1-09ce-58c4-b5ba-8fc5d98c64d5",
+  "public_key_id": "77aad4f1-09ce-58c4-b5ba-8fc5d98c64d5",
   "name": "Jaguar",
   "what_it_does": "Jaguar manufactures luxury automobiles.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Italy",
-  "keywords": [],
+  "keywords": [
+    "luxury vehicles",
+    "automobiles",
+    "car manufacturing",
+    "automotive engineering",
+    "premium cars",
+    "performance vehicles",
+    "vehicle design",
+    "car models"
+  ],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/77aad4f1-09ce-58c4-b5ba-8fc5d98c64d5"
 }

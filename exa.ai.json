@@ -1,11 +1,21 @@
 {
   "entity_id": "24ad748f-db4b-5df3-91d5-bd00edaf4d2c",
+  "public_key_id": "24ad748f-db4b-5df3-91d5-bd00edaf4d2c",
   "name": "Exa API",
   "what_it_does": "Exa API likely offers an artificial intelligence API for various applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "AI API",
+    "artificial intelligence",
+    "machine learning",
+    "API access",
+    "neural networks",
+    "computer vision",
+    "natural language processing",
+    "AI development"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/24ad748f-db4b-5df3-91d5-bd00edaf4d2c"
 }

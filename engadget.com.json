@@ -1,11 +1,21 @@
 {
   "entity_id": "54a9e8b0-aad0-52af-b36d-62d40451f665",
+  "public_key_id": "54a9e8b0-aad0-52af-b36d-62d40451f665",
   "name": "Engadget",
   "what_it_does": "Engadget is a technology news website providing reviews and coverage of gadgets and consumer electronics.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "gadget reviews",
+    "consumer electronics news",
+    "tech reviews",
+    "product news",
+    "technology reporting",
+    "mobile devices",
+    "gaming hardware",
+    "tech journalism"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/54a9e8b0-aad0-52af-b36d-62d40451f665"
 }

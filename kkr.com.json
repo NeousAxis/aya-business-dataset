@@ -1,11 +1,21 @@
 {
   "entity_id": "29e9b829-65ca-5a74-8799-6249ac81f03d",
+  "public_key_id": "29e9b829-65ca-5a74-8799-6249ac81f03d",
   "name": "KKR",
   "what_it_does": "KKR is a global investment firm managing multiple alternative asset classes, including private equity, credit, and real assets.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Japan",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "private equity investments",
+    "credit investments",
+    "alternative assets",
+    "global investments",
+    "financial firm",
+    "investment strategies",
+    "asset management",
+    "institutional investors"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/29e9b829-65ca-5a74-8799-6249ac81f03d"
 }

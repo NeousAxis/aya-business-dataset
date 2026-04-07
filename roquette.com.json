@@ -1,11 +1,21 @@
 {
   "entity_id": "41d8fa1f-41dd-5654-b9cc-3b4bdb986a2b",
+  "public_key_id": "41d8fa1f-41dd-5654-b9cc-3b4bdb986a2b",
   "name": "Roquette Frères",
   "what_it_does": "Roquette Frères produces plant-based ingredients for food, nutrition, and health markets.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 53.0,
+  "keywords": [
+    "plant-based ingredients",
+    "food ingredients",
+    "nutrition ingredients",
+    "health ingredients",
+    "pea protein",
+    "starch derivatives",
+    "polyols",
+    "plant-based foods"
+  ],
+  "aio_score": 63.0,
   "certificate_url": "https://ai-visionary.com/aya/e/41d8fa1f-41dd-5654-b9cc-3b4bdb986a2b"
 }

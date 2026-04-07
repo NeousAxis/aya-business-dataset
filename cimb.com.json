@@ -1,11 +1,21 @@
 {
   "entity_id": "0d24f54c-44ed-5202-a309-ac94e4bc8460",
+  "public_key_id": "0d24f54c-44ed-5202-a309-ac94e4bc8460",
   "name": "CIMB Group",
   "what_it_does": "CIMB Group is a Southeast Asian bank offering a range of financial services including consumer banking, investment banking, and asset management.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "Southeast Asian banking",
+    "consumer banking",
+    "investment banking",
+    "financial services",
+    "commercial loans",
+    "wealth management",
+    "retail banking",
+    "Islamic banking"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0d24f54c-44ed-5202-a309-ac94e4bc8460"
 }

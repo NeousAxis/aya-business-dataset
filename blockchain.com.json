@@ -1,11 +1,21 @@
 {
   "entity_id": "cb259dd5-491f-5c9e-9024-b5f1de5b1bad",
+  "public_key_id": "cb259dd5-491f-5c9e-9024-b5f1de5b1bad",
   "name": "Blockchain",
   "what_it_does": "Blockchain.com provides a cryptocurrency wallet and exchange platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "cryptocurrency wallets",
+    "crypto exchange",
+    "bitcoin wallets",
+    "blockchain technology",
+    "digital currency",
+    "crypto trading",
+    "cryptocurrency",
+    "blockchain"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cb259dd5-491f-5c9e-9024-b5f1de5b1bad"
 }

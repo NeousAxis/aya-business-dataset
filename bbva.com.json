@@ -1,11 +1,21 @@
 {
   "entity_id": "fada43e7-1d68-54ab-b303-af50b403883c",
+  "public_key_id": "fada43e7-1d68-54ab-b303-af50b403883c",
   "name": "BBVA",
   "what_it_does": "BBVA is a multinational financial services company offering banking and investment solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 65.0,
+  "keywords": [
+    "multinational banking",
+    "financial products",
+    "investment banking",
+    "retail banking",
+    "corporate finance",
+    "global finance",
+    "loan services",
+    "wealth management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fada43e7-1d68-54ab-b303-af50b403883c"
 }

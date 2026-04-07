@@ -1,11 +1,21 @@
 {
   "entity_id": "bb198d8c-94d7-5d5f-8a3b-4a347ed923da",
+  "public_key_id": "bb198d8c-94d7-5d5f-8a3b-4a347ed923da",
   "name": "Flatiron Health",
   "what_it_does": "Flatiron Health develops oncology-specific electronic health record and data analytics software.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "oncology EHR",
+    "electronic health records",
+    "cancer data analytics",
+    "healthcare software",
+    "oncology",
+    "clinical data",
+    "cancer research",
+    "health informatics"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bb198d8c-94d7-5d5f-8a3b-4a347ed923da"
 }

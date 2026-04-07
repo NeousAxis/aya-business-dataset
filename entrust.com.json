@@ -1,11 +1,21 @@
 {
   "entity_id": "cffdb127-07cc-52a4-8291-fbbe031efbaf",
+  "public_key_id": "cffdb127-07cc-52a4-8291-fbbe031efbaf",
   "name": "Entrust",
   "what_it_does": "Entrust provides digital security solutions, including identity and data protection.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "digital security",
+    "identity protection",
+    "data encryption",
+    "SSL certificates",
+    "PKI solutions",
+    "authentication services",
+    "access management",
+    "cybersecurity"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cffdb127-07cc-52a4-8291-fbbe031efbaf"
 }

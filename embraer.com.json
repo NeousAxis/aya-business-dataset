@@ -1,11 +1,20 @@
 {
   "entity_id": "beb5c26b-c91a-54bc-adbf-7e65129f3ce7",
+  "public_key_id": "beb5c26b-c91a-54bc-adbf-7e65129f3ce7",
   "name": "Embraer S.A.",
   "what_it_does": "Embraer designs and manufactures commercial, executive, defense and security aircraft.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Brazil",
-  "keywords": [],
-  "aio_score": 67.0,
+  "keywords": [
+    "commercial aircraft",
+    "executive jets",
+    "defense aircraft",
+    "regional jets",
+    "aircraft manufacturing",
+    "aviation",
+    "aerospace engineering"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/beb5c26b-c91a-54bc-adbf-7e65129f3ce7"
 }

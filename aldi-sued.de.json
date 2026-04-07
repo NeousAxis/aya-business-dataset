@@ -1,11 +1,20 @@
 {
   "entity_id": "50ef92f5-941b-5acc-a715-fdbc98db227e",
+  "public_key_id": "50ef92f5-941b-5acc-a715-fdbc98db227e",
   "name": "ALDI",
   "what_it_does": "ALDI Süd is a German international discount supermarket chain offering a limited assortment of groceries and household goods.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 52.0,
+  "keywords": [
+    "discount supermarket",
+    "grocery retail",
+    "limited assortment",
+    "food products",
+    "household goods",
+    "German retailer",
+    "value shopping"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/50ef92f5-941b-5acc-a715-fdbc98db227e"
 }

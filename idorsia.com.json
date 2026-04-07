@@ -1,11 +1,21 @@
 {
   "entity_id": "83f8f768-8cba-56ac-9070-25908f581e26",
+  "public_key_id": "83f8f768-8cba-56ac-9070-25908f581e26",
   "name": "Idorsia",
   "what_it_does": "Idorsia is a biopharmaceutical company focused on discovering, developing, and commercializing innovative medicines.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 47.0,
+  "keywords": [
+    "pharmaceuticals",
+    "drug discovery",
+    "drug development",
+    "innovative medicines",
+    "biopharmaceuticals",
+    "clinical trials",
+    "therapeutics",
+    "commercialization"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/83f8f768-8cba-56ac-9070-25908f581e26"
 }

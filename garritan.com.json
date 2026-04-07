@@ -1,11 +1,21 @@
 {
   "entity_id": "4da62445-301a-5e61-9f5d-a6fb667ccffa",
+  "public_key_id": "4da62445-301a-5e61-9f5d-a6fb667ccffa",
   "name": "Garritan",
   "what_it_does": "Garritan develops virtual musical instruments software.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 56.0,
+  "keywords": [
+    "virtual instruments",
+    "music creation",
+    "audio production",
+    "music composition",
+    "sound libraries",
+    "VST plugins",
+    "audio engineering",
+    "music education"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4da62445-301a-5e61-9f5d-a6fb667ccffa"
 }

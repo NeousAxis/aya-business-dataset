@@ -1,11 +1,21 @@
 {
   "entity_id": "52a24279-b6d2-5977-b800-f8e71039b1a3",
+  "public_key_id": "52a24279-b6d2-5977-b800-f8e71039b1a3",
   "name": "Publix Super Markets",
   "what_it_does": "Publix Super Markets is a supermarket chain operating in the Southeastern United States.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "supermarket chain",
+    "grocery retail",
+    "grocery stores",
+    "food retail",
+    "southeastern US groceries",
+    "food ",
+    "retail ",
+    "supermarkets"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/52a24279-b6d2-5977-b800-f8e71039b1a3"
 }

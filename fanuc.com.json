@@ -1,11 +1,21 @@
 {
   "entity_id": "1eddbb92-2269-5c92-aab6-5efac25ba5a6",
+  "public_key_id": "1eddbb92-2269-5c92-aab6-5efac25ba5a6",
   "name": "FANUC GLOBAL",
   "what_it_does": "FANUC provides factory automation solutions, including robots, CNC systems, and industrial lasers.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "factory automation",
+    "industrial robots",
+    "CNC systems",
+    "industrial lasers",
+    "robotics",
+    "automation solutions",
+    "manufacturing automation",
+    "factory solutions"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1eddbb92-2269-5c92-aab6-5efac25ba5a6"
 }

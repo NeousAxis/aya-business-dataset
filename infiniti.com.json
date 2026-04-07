@@ -1,11 +1,21 @@
 {
   "entity_id": "f010bb5e-79b1-5c29-a8d7-152cec0dfbde",
+  "public_key_id": "f010bb5e-79b1-5c29-a8d7-152cec0dfbde",
   "name": "INFINITI",
   "what_it_does": "INFINITI is a luxury automobile manufacturer.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "ZZ",
-  "keywords": [],
-  "aio_score": 65.0,
+  "keywords": [
+    "luxury vehicles",
+    "automobiles",
+    "sedans",
+    "SUVs",
+    "crossovers",
+    "vehicle financing",
+    "auto leasing",
+    "automotive technology"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f010bb5e-79b1-5c29-a8d7-152cec0dfbde"
 }

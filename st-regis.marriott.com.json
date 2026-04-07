@@ -1,11 +1,21 @@
 {
   "entity_id": "f2a997bf-d846-5206-9fad-ce3560a38cf2",
+  "public_key_id": "f2a997bf-d846-5206-9fad-ce3560a38cf2",
   "name": "St. Regis Hotels & Resorts",
   "what_it_does": "St. Regis Hotels & Resorts is a luxury hotel brand within Marriott International.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "luxury hotels",
+    "hotel resorts",
+    "upscale accommodations",
+    "Marriott brand",
+    "luxury travel",
+    "hotel experiences",
+    "premium hospitality",
+    "resort destinations"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f2a997bf-d846-5206-9fad-ce3560a38cf2"
 }

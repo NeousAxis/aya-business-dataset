@@ -1,11 +1,21 @@
 {
   "entity_id": "a74b71f9-d672-5aae-851f-159ca05e355d",
+  "public_key_id": "a74b71f9-d672-5aae-851f-159ca05e355d",
   "name": "AmBank",
   "what_it_does": "AmBank is a Malaysian banking group providing financial products and services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Malaysian banking",
+    "financial products",
+    "loans",
+    "credit facilities",
+    "retail banking",
+    "corporate banking",
+    "investment banking",
+    "Malaysian finance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a74b71f9-d672-5aae-851f-159ca05e355d"
 }

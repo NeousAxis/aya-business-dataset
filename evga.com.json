@@ -1,11 +1,21 @@
 {
   "entity_id": "7de5d479-cd3c-58e8-bdf5-c837f85d9bc4",
+  "public_key_id": "7de5d479-cd3c-58e8-bdf5-c837f85d9bc4",
   "name": "EVGA",
   "what_it_does": "EVGA sells computer hardware components like graphics cards and power supplies, primarily targeting gamers and PC enthusiasts.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "computer hardware",
+    "graphics cards",
+    "power supplies",
+    "PC gaming",
+    "gaming hardware",
+    "PC components",
+    "gaming PCs",
+    "hardware components"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7de5d479-cd3c-58e8-bdf5-c837f85d9bc4"
 }

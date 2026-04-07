@@ -1,11 +1,21 @@
 {
   "entity_id": "0e52a1f8-080f-5558-887e-30563f5733ac",
+  "public_key_id": "0e52a1f8-080f-5558-887e-30563f5733ac",
   "name": "TuneIn",
   "what_it_does": "TuneIn is an internet radio aggregator that streams audio from global radio stations and podcasts.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "internet radio",
+    "audio streaming",
+    "radio stations",
+    "podcast aggregator",
+    "live radio",
+    "global radio",
+    "audio content",
+    "streaming audio"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0e52a1f8-080f-5558-887e-30563f5733ac"
 }

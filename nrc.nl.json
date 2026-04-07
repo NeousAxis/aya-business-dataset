@@ -1,11 +1,21 @@
 {
   "entity_id": "c847902f-06f5-53f9-ae3d-91978046697c",
+  "public_key_id": "c847902f-06f5-53f9-ae3d-91978046697c",
   "name": "NRC",
   "what_it_does": "NRC is a Dutch daily newspaper providing news and analysis.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Netherlands",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "Dutch newspapers",
+    "news publications",
+    "current affairs",
+    "Netherlands journalism",
+    "political analysis",
+    "investigative reporting",
+    "daily news",
+    "opinion editorials"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c847902f-06f5-53f9-ae3d-91978046697c"
 }

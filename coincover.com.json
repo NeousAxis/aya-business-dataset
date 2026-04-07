@@ -1,11 +1,21 @@
 {
   "entity_id": "02772580-cdf7-502a-96dc-5c055c6b4796",
+  "public_key_id": "02772580-cdf7-502a-96dc-5c055c6b4796",
   "name": "CoinCover",
   "what_it_does": "CoinCover provides insurance and security solutions for cryptocurrency assets.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "crypto insurance",
+    "digital asset protection",
+    "cryptocurrency security",
+    "cold storage insurance",
+    "theft coverage",
+    "crypto custody",
+    "insurance solutions",
+    "digital asset risk"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/02772580-cdf7-502a-96dc-5c055c6b4796"
 }

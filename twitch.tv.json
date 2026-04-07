@@ -1,11 +1,21 @@
 {
   "entity_id": "9f41f6ef-5aa4-5719-a8a1-ae0021f2fb7f",
+  "public_key_id": "9f41f6ef-5aa4-5719-a8a1-ae0021f2fb7f",
   "name": "Twitch",
   "what_it_does": "Twitch is a live video streaming service primarily for video games.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Mexico",
-  "keywords": [],
-  "aio_score": 59.0,
+  "location": "United States",
+  "keywords": [
+    "live streaming",
+    "video game streaming",
+    "eSports broadcasting",
+    "content creators",
+    "gaming community",
+    "live video",
+    "interactive entertainment",
+    "broadcasting platform"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f41f6ef-5aa4-5719-a8a1-ae0021f2fb7f"
 }

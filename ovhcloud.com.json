@@ -1,11 +1,21 @@
 {
   "entity_id": "ec5520d2-79d1-57b2-9ae6-11bd42c5874a",
+  "public_key_id": "ec5520d2-79d1-57b2-9ae6-11bd42c5874a",
   "name": "OVHcloud",
   "what_it_does": "OVHcloud provides cloud computing infrastructure including servers, storage, and networking.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
-  "keywords": [],
-  "aio_score": 55.0,
+  "keywords": [
+    "cloud",
+    "IaaS",
+    "servers",
+    "storage",
+    "networking",
+    "data centers",
+    "cloud infrastructure",
+    "hosting"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec5520d2-79d1-57b2-9ae6-11bd42c5874a"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "8ebd09c2-6385-5ed3-b591-347b437ca769",
+  "public_key_id": "8ebd09c2-6385-5ed3-b591-347b437ca769",
   "name": "Domino's Pizza",
   "what_it_does": "Domino's Pizza is a pizza delivery chain.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 24.0,
+  "keywords": [
+    "pizza delivery",
+    "pizza chain",
+    "takeaway pizza",
+    "Domino's Pizza",
+    "fast food",
+    "food delivery",
+    "pizza restaurant",
+    "quick-service restaurant"
+  ],
+  "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8ebd09c2-6385-5ed3-b591-347b437ca769"
 }

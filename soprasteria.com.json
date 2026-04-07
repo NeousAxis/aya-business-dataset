@@ -1,11 +1,21 @@
 {
   "entity_id": "f3a4c92b-0577-59ac-8bd6-965043e569d5",
+  "public_key_id": "f3a4c92b-0577-59ac-8bd6-965043e569d5",
   "name": "Sopra Steria",
   "what_it_does": "Sopra Steria provides IT consulting and digital services to businesses and government organizations.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "IT consulting",
+    "digital services",
+    "business transformation",
+    "systems integration",
+    "technology solutions",
+    "outsourcing services",
+    "government IT",
+    "enterprise IT"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f3a4c92b-0577-59ac-8bd6-965043e569d5"
 }

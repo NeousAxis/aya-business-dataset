@@ -1,11 +1,20 @@
 {
   "entity_id": "9171ef6e-58e9-56bb-994f-f40f7e7f1638",
+  "public_key_id": "9171ef6e-58e9-56bb-994f-f40f7e7f1638",
   "name": "DAF Trucks Global",
   "what_it_does": "DAF Trucks manufactures and sells commercial vehicles, primarily trucks.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Netherlands",
-  "keywords": [],
+  "keywords": [
+    "commercial vehicles",
+    "trucks",
+    "transport solutions",
+    "heavy-duty trucks",
+    "long-haul trucks",
+    "distribution trucks",
+    "truck manufacturing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9171ef6e-58e9-56bb-994f-f40f7e7f1638"
 }

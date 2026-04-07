@@ -1,11 +1,21 @@
 {
   "entity_id": "892193d8-1237-5466-939c-433ed76c6237",
+  "public_key_id": "892193d8-1237-5466-939c-433ed76c6237",
   "name": "Chandos Records Classical Music CDs",
   "what_it_does": "Chandos Records produces and distributes classical music recordings.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "classical music",
+    "music CDs",
+    "music recording",
+    "music distribution",
+    "orchestral music",
+    "chamber music",
+    "instrumental music",
+    "vocal music"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/892193d8-1237-5466-939c-433ed76c6237"
 }

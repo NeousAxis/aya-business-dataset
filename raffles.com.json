@@ -1,11 +1,20 @@
 {
   "entity_id": "404dd6c0-c833-589e-91e5-9e1c2cf444b5",
+  "public_key_id": "404dd6c0-c833-589e-91e5-9e1c2cf444b5",
   "name": "Raffles Hotels & Resorts",
   "what_it_does": "Raffles Hotels & Resorts operates a luxury hotel chain with properties around the world.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 69.0,
+  "keywords": [
+    "luxury hotels",
+    "hotel chain",
+    "resorts",
+    "hospitality",
+    "luxury travel",
+    "international hotels",
+    "high-end accommodation"
+  ],
+  "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/404dd6c0-c833-589e-91e5-9e1c2cf444b5"
 }

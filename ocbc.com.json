@@ -1,11 +1,21 @@
 {
   "entity_id": "c5111d9c-6592-500a-a25c-318fa5690aec",
+  "public_key_id": "c5111d9c-6592-500a-a25c-318fa5690aec",
   "name": "OCBC",
   "what_it_does": "OCBC is a Singaporean multinational banking and financial services corporation.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Singapore",
-  "keywords": [],
-  "aio_score": 48.0,
+  "keywords": [
+    "Singaporean banking",
+    "financial services",
+    "banking corporation",
+    "wealth management",
+    "corporate banking",
+    "retail banking",
+    "investment banking",
+    "multinational finance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c5111d9c-6592-500a-a25c-318fa5690aec"
 }

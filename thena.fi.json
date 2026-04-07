@@ -1,11 +1,21 @@
 {
   "entity_id": "3139df2a-5153-5847-bbfe-e0e68d6945f0",
+  "public_key_id": "3139df2a-5153-5847-bbfe-e0e68d6945f0",
   "name": "THENA",
   "what_it_does": "THENA likely provides financial services or banking products in Finland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Finland",
-  "keywords": [],
+  "keywords": [
+    "financial products",
+    "banking",
+    "Finnish finance",
+    "personal banking",
+    "loan products",
+    "investment options",
+    "wealth management",
+    "retail banking"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3139df2a-5153-5847-bbfe-e0e68d6945f0"
 }

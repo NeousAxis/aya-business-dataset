@@ -1,11 +1,20 @@
 {
   "entity_id": "e40c3da3-5360-5d7f-922f-1bebec45b595",
+  "public_key_id": "e40c3da3-5360-5d7f-922f-1bebec45b595",
   "name": "Acquia",
   "what_it_does": "Acquia provides a cloud platform for building, managing, and optimizing digital experiences.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [],
+  "keywords": [
+    "cloud DXP",
+    "Drupal cloud",
+    "content management",
+    "DXP",
+    "digital experience",
+    "headless CMS",
+    "marketing technology"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e40c3da3-5360-5d7f-922f-1bebec45b595"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "6941dddf-c855-5922-af54-841bec645992",
+  "public_key_id": "6941dddf-c855-5922-af54-841bec645992",
   "name": "TP",
   "what_it_does": "TP is likely a manufacturing company.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "manufacturing",
+    "industrial parts",
+    "component manufacturing",
+    "industrial solutions",
+    "OEM components",
+    "precision manufacturing",
+    "custom manufacturing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6941dddf-c855-5922-af54-841bec645992"
 }

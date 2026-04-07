@@ -1,11 +1,20 @@
 {
   "entity_id": "7a68cc27-3920-58cf-abf9-4bbde5026553",
+  "public_key_id": "7a68cc27-3920-58cf-abf9-4bbde5026553",
   "name": "Splio",
   "what_it_does": "Splio offers a customer relationship marketing platform for retailers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "customer relationship management",
+    "CRM",
+    "retail marketing",
+    "loyalty marketing",
+    "customer data",
+    "marketing automation",
+    "retail customer engagement"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7a68cc27-3920-58cf-abf9-4bbde5026553"
 }

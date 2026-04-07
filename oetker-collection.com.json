@@ -1,11 +1,21 @@
 {
   "entity_id": "e59370ce-1b66-5a85-aa5f-9685d14daf64",
+  "public_key_id": "e59370ce-1b66-5a85-aa5f-9685d14daf64",
   "name": "Oetker Collection",
   "what_it_does": "Oetker Collection manages a portfolio of luxury hotels worldwide.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "luxury hotels",
+    "hotel management",
+    "hospitality",
+    "luxury travel",
+    "hotel portfolio",
+    "exclusive hotels",
+    "boutique hotels",
+    "high-end accommodation"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e59370ce-1b66-5a85-aa5f-9685d14daf64"
 }

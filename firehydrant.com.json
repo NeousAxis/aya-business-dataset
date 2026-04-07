@@ -1,11 +1,21 @@
 {
   "entity_id": "80b86394-8513-5547-a100-9729fc83af2d",
+  "public_key_id": "80b86394-8513-5547-a100-9729fc83af2d",
   "name": "FireHydrant",
   "what_it_does": "FireHydrant provides incident management automation software.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "incident response",
+    "incident automation",
+    "site reliability engineering",
+    "SRE tools",
+    "outage management",
+    "incident tracking",
+    "automation software",
+    "alerting"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/80b86394-8513-5547-a100-9729fc83af2d"
 }

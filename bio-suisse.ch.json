@@ -1,11 +1,19 @@
 {
   "entity_id": "438ae41f-5472-5509-b868-7f4015fb33b4",
+  "public_key_id": "438ae41f-5472-5509-b868-7f4015fb33b4",
   "name": "Bio Suisse",
   "what_it_does": "Bio Suisse is the umbrella organization of Swiss organic producers and promotes organic farming.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 44.0,
+  "keywords": [
+    "Swiss organic farming",
+    "organic producers association",
+    "sustainable agriculture promotion",
+    "organic standards",
+    "agricultural policy",
+    "organic certification"
+  ],
+  "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/438ae41f-5472-5509-b868-7f4015fb33b4"
 }

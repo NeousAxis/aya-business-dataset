@@ -1,11 +1,21 @@
 {
   "entity_id": "c9b9d35f-638c-521b-b44c-f5d2998969d5",
+  "public_key_id": "c9b9d35f-638c-521b-b44c-f5d2998969d5",
   "name": "Winamax sports",
   "what_it_does": "Winamax operates an online sports betting and poker platform in France.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "sports betting",
+    "poker",
+    "online gaming",
+    "France gambling",
+    "wagering",
+    "online poker tournaments",
+    "sports odds",
+    "online sportsbook"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c9b9d35f-638c-521b-b44c-f5d2998969d5"
 }

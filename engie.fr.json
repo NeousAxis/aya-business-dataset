@@ -1,11 +1,21 @@
 {
   "entity_id": "b20fd961-a1f0-5617-8012-b8acc1702728",
+  "public_key_id": "b20fd961-a1f0-5617-8012-b8acc1702728",
   "name": "ENGIE France",
   "what_it_does": "ENGIE France appears to be a French news or media outlet.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "French news",
+    "France media",
+    "regional news",
+    "local news",
+    "current affairs",
+    "news publication",
+    "political reporting",
+    "France information"
+  ],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b20fd961-a1f0-5617-8012-b8acc1702728"
 }

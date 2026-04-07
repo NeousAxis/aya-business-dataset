@@ -1,11 +1,21 @@
 {
   "entity_id": "ab203f59-718c-5858-8b56-f67fbecbeafd",
+  "public_key_id": "ab203f59-718c-5858-8b56-f67fbecbeafd",
   "name": "Epiphan Video",
   "what_it_does": "Epiphan Video designs and manufactures video capture, streaming, and recording devices.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "video capture devices",
+    "video streaming encoders",
+    "video recording solutions",
+    "broadcasting equipment",
+    "lecture capture",
+    "live production",
+    "AV hardware",
+    "video production"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab203f59-718c-5858-8b56-f67fbecbeafd"
 }

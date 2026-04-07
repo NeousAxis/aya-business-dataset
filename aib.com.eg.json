@@ -1,11 +1,21 @@
 {
   "entity_id": "ff54f653-2719-502e-9362-3fba74e5521d",
+  "public_key_id": "ff54f653-2719-502e-9362-3fba74e5521d",
   "name": "Arab International Bank",
   "what_it_does": "Arab International Bank provides commercial and investment banking services in Egypt and internationally.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "commercial banking",
+    "investment banking",
+    "Egyptian banking",
+    "international finance",
+    "trade finance",
+    "corporate lending",
+    "project finance",
+    "treasury services"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ff54f653-2719-502e-9362-3fba74e5521d"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "46a13622-f173-5432-a319-c571167b744c",
+  "public_key_id": "46a13622-f173-5432-a319-c571167b744c",
   "name": "crowdspring",
   "what_it_does": "Crowdspring connects businesses with freelance creatives for design services like logo creation and web design.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "freelance design",
+    "logo design",
+    "web design",
+    "graphic design",
+    "crowdsourced design",
+    "creative marketplace",
+    "design contests"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/46a13622-f173-5432-a319-c571167b744c"
 }

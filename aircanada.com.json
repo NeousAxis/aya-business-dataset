@@ -1,11 +1,21 @@
 {
   "entity_id": "5c237b19-93ac-5eea-9b2e-0970cbcc7812",
+  "public_key_id": "5c237b19-93ac-5eea-9b2e-0970cbcc7812",
   "name": "Air Canada",
   "what_it_does": "Air Canada is a major Canadian airline providing passenger and cargo air transportation services.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "airline",
+    "air travel",
+    "passenger flights",
+    "cargo transportation",
+    "Canadian airline",
+    "international flights",
+    "domestic flights",
+    "air freight"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5c237b19-93ac-5eea-9b2e-0970cbcc7812"
 }

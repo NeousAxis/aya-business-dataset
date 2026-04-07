@@ -1,11 +1,21 @@
 {
   "entity_id": "99c27182-3629-5c77-a426-61b807665795",
+  "public_key_id": "99c27182-3629-5c77-a426-61b807665795",
   "name": "Forvis Mazars",
   "what_it_does": "Forvis Mazars is a global professional services firm providing audit, tax, and advisory services.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "audit services",
+    "tax advisory",
+    "financial advisory",
+    "professional services",
+    "global accounting",
+    "risk management",
+    "transaction services",
+    "business consulting"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/99c27182-3629-5c77-a426-61b807665795"
 }

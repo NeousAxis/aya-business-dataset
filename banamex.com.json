@@ -1,11 +1,21 @@
 {
   "entity_id": "4aaca236-7b4a-53cf-9bd7-72c32f9be583",
+  "public_key_id": "4aaca236-7b4a-53cf-9bd7-72c32f9be583",
   "name": "Banamex",
   "what_it_does": "Banamex is a Mexican retail bank offering financial products and services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Mexico",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "Mexican bank",
+    "retail banking",
+    "financial services",
+    "personal loans",
+    "credit cards",
+    "savings accounts",
+    "mortgages",
+    "Mexico finance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4aaca236-7b4a-53cf-9bd7-72c32f9be583"
 }

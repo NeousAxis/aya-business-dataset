@@ -1,11 +1,20 @@
 {
   "entity_id": "85930e39-582d-59e0-8e47-358337b98326",
+  "public_key_id": "85930e39-582d-59e0-8e47-358337b98326",
   "name": "SFS Suomen Standardit",
   "what_it_does": "SFS Suomen Standardit is likely involved in Finnish tourism and transport standardization.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Finland",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "Finnish standards",
+    "tourism standards",
+    "transport standards",
+    "standardization",
+    "SFS standards",
+    "Finnish tourism industry",
+    "Finnish transport industry"
+  ],
+  "aio_score": 73.0,
   "certificate_url": "https://ai-visionary.com/aya/e/85930e39-582d-59e0-8e47-358337b98326"
 }

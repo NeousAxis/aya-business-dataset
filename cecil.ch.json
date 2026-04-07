@@ -1,11 +1,21 @@
 {
   "entity_id": "b481f6d8-1253-5718-8056-f142db27a92a",
+  "public_key_id": "b481f6d8-1253-5718-8056-f142db27a92a",
   "name": "CECIL Online-Shop (Schweiz)",
   "what_it_does": "Cecil.ch is an online retailer selling women's fashion in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "womens fashion",
+    "clothing retail",
+    "Swiss e-commerce",
+    "casual wear",
+    "womens apparel",
+    "fashion tops",
+    "denim",
+    "outerwear"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b481f6d8-1253-5718-8056-f142db27a92a"
 }

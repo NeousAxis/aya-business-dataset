@@ -1,11 +1,21 @@
 {
   "entity_id": "760f22ab-d861-5df6-8fff-d0f30bc9df6b",
+  "public_key_id": "760f22ab-d861-5df6-8fff-d0f30bc9df6b",
   "name": "Yubico Home",
   "what_it_does": "Yubico manufactures hardware authentication security keys.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "security keys",
+    "hardware authentication",
+    "two-factor authentication",
+    "identity verification",
+    "cybersecurity",
+    "authentication hardware",
+    "security tokens",
+    "phishing protection"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/760f22ab-d861-5df6-8fff-d0f30bc9df6b"
 }

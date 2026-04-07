@@ -1,11 +1,20 @@
 {
   "entity_id": "624bd52b-15cd-57f2-b101-bdae23d3eb21",
+  "public_key_id": "624bd52b-15cd-57f2-b101-bdae23d3eb21",
   "name": "General Mills",
   "what_it_does": "General Mills manufactures and markets branded consumer foods.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "branded foods",
+    "consumer foods",
+    "packaged foods",
+    "breakfast cereals",
+    "baking products",
+    "refrigerated dough",
+    "snack foods"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/624bd52b-15cd-57f2-b101-bdae23d3eb21"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "60a545b1-9b09-5776-9f9b-36d43ebdf947",
+  "public_key_id": "60a545b1-9b09-5776-9f9b-36d43ebdf947",
   "name": "SSENSE",
   "what_it_does": "SSENSE is an online retailer selling designer clothing and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Canada",
-  "keywords": [],
-  "aio_score": 53.0,
+  "keywords": [
+    "Designer clothing",
+    "Luxury fashion",
+    "High-end apparel",
+    "Online retail",
+    "Fashion accessories",
+    "E-commerce",
+    "Clothing sales",
+    "Luxury goods"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/60a545b1-9b09-5776-9f9b-36d43ebdf947"
 }

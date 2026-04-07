@@ -1,10 +1,11 @@
 {
   "entity_id": "bfb2b914-f8a8-5889-99bb-c96b1a095f34",
+  "public_key_id": "bfb2b914-f8a8-5889-99bb-c96b1a095f34",
   "name": "Twilio",
   "what_it_does": "Twilio provides a cloud communications platform for building messaging, voice, and video applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
+  "location": "United States",
   "keywords": [
     "cloud communication",
     "communication APIs",

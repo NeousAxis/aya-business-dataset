@@ -1,11 +1,20 @@
 {
   "entity_id": "5881db9e-34db-5931-896f-fcd7f821a162",
+  "public_key_id": "5881db9e-34db-5931-896f-fcd7f821a162",
   "name": "Nana",
   "what_it_does": "Nana likely provides an online grocery delivery service in Saudi Arabia.",
   "for_who": "Businesses and professionals.",
   "category": "Non détecté",
   "location": "Saudi Arabia",
-  "keywords": [],
-  "aio_score": 55.0,
+  "keywords": [
+    "grocery delivery",
+    "online groceries",
+    "food ordering",
+    "home delivery",
+    "retail",
+    "saudi arabia",
+    "same-day delivery"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5881db9e-34db-5931-896f-fcd7f821a162"
 }

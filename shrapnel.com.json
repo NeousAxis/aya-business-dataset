@@ -1,11 +1,21 @@
 {
   "entity_id": "ba9ca720-80ec-5993-bdf7-465bb286c5e4",
+  "public_key_id": "ba9ca720-80ec-5993-bdf7-465bb286c5e4",
   "name": "SHRAPNEL",
   "what_it_does": "Shrapnel appears to be related to an online retail business.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "retail products",
+    "ecommerce merchandise",
+    "online shopping",
+    "consumer goods",
+    "direct sales",
+    "online retail",
+    "goods",
+    "sales"
+  ],
   "aio_score": 23.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ba9ca720-80ec-5993-bdf7-465bb286c5e4"
 }

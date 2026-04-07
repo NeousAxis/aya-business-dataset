@@ -1,11 +1,20 @@
 {
   "entity_id": "48a2ce4d-211d-578b-9ed4-4faab741540a",
+  "public_key_id": "48a2ce4d-211d-578b-9ed4-4faab741540a",
   "name": "LUKSO",
   "what_it_does": "LUKSO is building a blockchain infrastructure for the fashion and lifestyle industries.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "blockchain infrastructure",
+    "fashion blockchain",
+    "lifestyle blockchain",
+    "digital fashion",
+    "NFTs",
+    "crypto",
+    "web3"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/48a2ce4d-211d-578b-9ed4-4faab741540a"
 }

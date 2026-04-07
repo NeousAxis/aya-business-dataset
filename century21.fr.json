@@ -1,11 +1,21 @@
 {
   "entity_id": "80e999e1-d549-5b84-a4f7-77efd4f7b706",
+  "public_key_id": "80e999e1-d549-5b84-a4f7-77efd4f7b706",
   "name": "Agences Immobilières CENTURY 21",
   "what_it_does": "Century 21 France is a real estate agency franchise.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "real estate agency",
+    "property sales",
+    "rental properties",
+    "real estate listings",
+    "French real estate",
+    "residential properties",
+    "commercial properties",
+    "property management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/80e999e1-d549-5b84-a4f7-77efd4f7b706"
 }

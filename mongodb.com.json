@@ -1,11 +1,21 @@
 {
   "entity_id": "1caf2a04-4abb-5129-893f-fbe8097ad1cf",
+  "public_key_id": "1caf2a04-4abb-5129-893f-fbe8097ad1cf",
   "name": "MongoDB",
   "what_it_does": "MongoDB develops and provides a NoSQL document database platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "location": "United States",
+  "keywords": [
+    "NoSQL database",
+    "Document database",
+    "Big data",
+    "Database management",
+    "Scalable database",
+    "Cloud database",
+    "Data storage",
+    "Agile data"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1caf2a04-4abb-5129-893f-fbe8097ad1cf"
 }

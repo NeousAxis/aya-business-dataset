@@ -1,11 +1,21 @@
 {
   "entity_id": "3de267d4-a055-59b5-b5aa-dd459b28d88e",
+  "public_key_id": "3de267d4-a055-59b5-b5aa-dd459b28d88e",
   "name": "INDITEX",
   "what_it_does": "Inditex is a multinational clothing retailer, known for brands like Zara.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "AF",
-  "keywords": [],
+  "keywords": [
+    "clothing retail",
+    "fashion retailer",
+    "apparel sales",
+    "Zara clothing",
+    "fast fashion",
+    "textile industry",
+    "retail clothing",
+    "fashion apparel"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3de267d4-a055-59b5-b5aa-dd459b28d88e"
 }

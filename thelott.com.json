@@ -1,11 +1,21 @@
 {
   "entity_id": "1ce93560-48bf-5c2a-b720-95e5e6eb1f2c",
+  "public_key_id": "1ce93560-48bf-5c2a-b720-95e5e6eb1f2c",
   "name": "the Lott",
   "what_it_does": "The Lott operates lottery games in Australia.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 53.0,
+  "keywords": [
+    "lottery games",
+    "draw games",
+    "instant scratch tickets",
+    "Australian lottery",
+    "wagering",
+    "chance games",
+    "prize payouts",
+    "lottery retailers"
+  ],
+  "aio_score": 75.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1ce93560-48bf-5c2a-b720-95e5e6eb1f2c"
 }

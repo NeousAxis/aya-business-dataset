@@ -1,11 +1,21 @@
 {
   "entity_id": "63b2cdf3-2494-5472-ae8b-ea3e9e9dfb2e",
+  "public_key_id": "63b2cdf3-2494-5472-ae8b-ea3e9e9dfb2e",
   "name": "DP World",
   "what_it_does": "DP World is a global port operator and logistics company.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "port operator",
+    "global logistics",
+    "supply chain",
+    "maritime shipping",
+    "cargo handling",
+    "terminal operations",
+    "freight forwarding",
+    "container shipping"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/63b2cdf3-2494-5472-ae8b-ea3e9e9dfb2e"
 }

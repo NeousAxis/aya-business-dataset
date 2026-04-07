@@ -1,11 +1,20 @@
 {
   "entity_id": "141aa2b6-a447-5fdb-b4ab-fc1266166993",
+  "public_key_id": "141aa2b6-a447-5fdb-b4ab-fc1266166993",
   "name": "Lordstown",
   "what_it_does": "Lordstown Motors (likely, based on the domain) potentially provides transportation services or sells vehicles in/near Lordstown, OH.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "electric vehicles",
+    "automotive",
+    "EV manufacturing",
+    "vehicle sales",
+    "transportation",
+    "automotive industry",
+    "electric trucks"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/141aa2b6-a447-5fdb-b4ab-fc1266166993"
 }

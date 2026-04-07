@@ -1,11 +1,21 @@
 {
   "entity_id": "90158961-1af4-542e-97c8-00bfba7b597e",
+  "public_key_id": "90158961-1af4-542e-97c8-00bfba7b597e",
   "name": "Platzi",
   "what_it_does": "Platzi is an online education platform offering courses in technology and digital skills.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "technology courses",
+    "digital skills training",
+    "online learning",
+    "software development",
+    "design courses",
+    "marketing courses",
+    "programming tutorials",
+    "e-learning platform"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/90158961-1af4-542e-97c8-00bfba7b597e"
 }

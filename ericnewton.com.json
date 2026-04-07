@@ -1,11 +1,20 @@
 {
   "entity_id": "8983b368-e639-5350-8c43-1b5cfc74f99f",
+  "public_key_id": "8983b368-e639-5350-8c43-1b5cfc74f99f",
   "name": "ENE Group",
   "what_it_does": "ENE Group likely provides real estate services, based on the domain name and sector.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 69.0,
+  "keywords": [
+    "real estate",
+    "property management",
+    "real estate investment",
+    "property sales",
+    "residential properties",
+    "commercial properties",
+    "real estate services"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8983b368-e639-5350-8c43-1b5cfc74f99f"
 }

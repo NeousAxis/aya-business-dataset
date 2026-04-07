@@ -1,11 +1,21 @@
 {
   "entity_id": "6c550559-04d4-5728-91ae-c2caddfb4377",
+  "public_key_id": "6c550559-04d4-5728-91ae-c2caddfb4377",
   "name": "Ciena Corporation",
   "what_it_does": "Ciena Corporation provides networking systems, services, and software to telecommunications providers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "telecommunications networking",
+    "optical networking",
+    "network infrastructure",
+    "telecom equipment",
+    "data transmission",
+    "optical transport",
+    "wavelength division multiplexing",
+    "packet networking"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6c550559-04d4-5728-91ae-c2caddfb4377"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "cf0a09ee-9af4-57d1-a169-ef0940e144b8",
+  "public_key_id": "cf0a09ee-9af4-57d1-a169-ef0940e144b8",
   "name": "Wix.com",
   "what_it_does": "Wix.com is a platform that allows users to build websites using drag-and-drop tools.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [],
-  "aio_score": 77.0,
+  "location": "Israel",
+  "keywords": [
+    "website builder",
+    "drag-and-drop website",
+    "DIY website",
+    "website creation",
+    "small business websites",
+    "web design tools",
+    "hosted websites"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cf0a09ee-9af4-57d1-a169-ef0940e144b8"
 }

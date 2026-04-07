@@ -1,11 +1,21 @@
 {
   "entity_id": "380bb7e7-1866-5df8-b9da-612fd73f1e9c",
+  "public_key_id": "380bb7e7-1866-5df8-b9da-612fd73f1e9c",
   "name": "Vanderbilt University",
   "what_it_does": "Vanderbilt University is a private research university in Nashville, Tennessee.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "private university",
+    "research university",
+    "higher education",
+    "Nashville university",
+    "Tennessee university",
+    "academic programs",
+    "undergraduate studies",
+    "graduate studies"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/380bb7e7-1866-5df8-b9da-612fd73f1e9c"
 }

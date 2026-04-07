@@ -1,11 +1,20 @@
 {
   "entity_id": "b4ae37cc-d11e-501c-a9e5-8270233579bd",
+  "public_key_id": "b4ae37cc-d11e-501c-a9e5-8270233579bd",
   "name": "Boralex",
   "what_it_does": "Boralex is a power company focused on renewable energy production.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Canada",
-  "keywords": [],
+  "keywords": [
+    "renewable power generation",
+    "wind energy",
+    "solar energy",
+    "hydroelectric power",
+    "energy storage",
+    "clean energy projects",
+    "power plants"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b4ae37cc-d11e-501c-a9e5-8270233579bd"
 }

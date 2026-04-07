@@ -1,11 +1,21 @@
 {
   "entity_id": "47a566bc-99ed-57fa-8c8f-06c854118248",
+  "public_key_id": "47a566bc-99ed-57fa-8c8f-06c854118248",
   "name": "Takeda Pharmaceutical Company Limited",
   "what_it_does": "Takeda Pharmaceutical Company Limited develops and markets pharmaceutical products.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Japan",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "pharmaceutical products",
+    "drug development",
+    "prescription drugs",
+    "oncology drugs",
+    "gastrointestinal drugs",
+    "rare disease treatments",
+    "pharmaceuticals",
+    "prescription medication"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/47a566bc-99ed-57fa-8c8f-06c854118248"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "ae2f6b1d-0ace-52b6-a99a-bd15d0aae87d",
+  "public_key_id": "ae2f6b1d-0ace-52b6-a99a-bd15d0aae87d",
   "name": "Square",
   "what_it_does": "Square (now Block, Inc.) provides payment processing and financial services for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "payment processing",
+    "financial services",
+    "point of sale",
+    "POS systems",
+    "merchant accounts",
+    "small business payments",
+    "credit card processing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ae2f6b1d-0ace-52b6-a99a-bd15d0aae87d"
 }

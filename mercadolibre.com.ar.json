@@ -1,11 +1,21 @@
 {
   "entity_id": "b62f87cd-1862-5da5-af05-a83bceab8810",
+  "public_key_id": "b62f87cd-1862-5da5-af05-a83bceab8810",
   "name": "Mercado Libre",
   "what_it_does": "Mercado Libre operates an online marketplace for buying and selling goods in Latin America.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Argentina",
-  "keywords": [],
-  "aio_score": 55.0,
+  "keywords": [
+    "online marketplace",
+    "e-commerce",
+    "Latin America",
+    "online shopping",
+    "product sales",
+    "retail platform",
+    "e-commerce platform",
+    "online auctions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b62f87cd-1862-5da5-af05-a83bceab8810"
 }

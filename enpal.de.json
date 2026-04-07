@@ -1,11 +1,21 @@
 {
   "entity_id": "3f7687a8-d553-5c8b-9039-8756b5e39a83",
+  "public_key_id": "3f7687a8-d553-5c8b-9039-8756b5e39a83",
   "name": "Enpal",
   "what_it_does": "Enpal offers solar panel installation and energy solutions for homeowners in Germany.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "solar panel installation",
+    "residential solar",
+    "home energy",
+    "German homeowners",
+    "renewable energy systems",
+    "solar energy",
+    "energy transition",
+    "photovoltaics"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3f7687a8-d553-5c8b-9039-8756b5e39a83"
 }

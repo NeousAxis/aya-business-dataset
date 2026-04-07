@@ -1,11 +1,20 @@
 {
   "entity_id": "f0bf8110-09c2-513e-bd17-d09e175b11ad",
+  "public_key_id": "f0bf8110-09c2-513e-bd17-d09e175b11ad",
   "name": "AB InBev",
   "what_it_does": "AB InBev is a multinational brewing company that produces and distributes beer.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "beer production",
+    "brewing industry",
+    "alcoholic beverages",
+    "beer distribution",
+    "global beer market",
+    "malt beverages",
+    "lager beer"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f0bf8110-09c2-513e-bd17-d09e175b11ad"
 }

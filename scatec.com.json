@@ -1,11 +1,21 @@
 {
   "entity_id": "5580bfe6-3da9-565a-baf7-ac47031abb72",
+  "public_key_id": "5580bfe6-3da9-565a-baf7-ac47031abb72",
   "name": "Scatec Group",
   "what_it_does": "Scatec Group develops, builds, owns, and operates renewable energy power plants.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Norway",
-  "keywords": [],
+  "keywords": [
+    "renewable energy",
+    "solar power plants",
+    "hydropower plants",
+    "wind power",
+    "power generation",
+    "energy infrastructure",
+    "Scatec",
+    "clean energy"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5580bfe6-3da9-565a-baf7-ac47031abb72"
 }

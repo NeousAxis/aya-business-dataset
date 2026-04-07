@@ -1,11 +1,21 @@
 {
   "entity_id": "e9136c04-a15d-5fe6-9c84-d6f77c8ff5df",
+  "public_key_id": "e9136c04-a15d-5fe6-9c84-d6f77c8ff5df",
   "name": "SWI swissinfo.ch",
   "what_it_does": "SWI swissinfo.ch provides news and information about Switzerland in multiple languages.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "Swiss news",
+    "international news",
+    "Switzerland",
+    "multi-language news",
+    "Swiss politics",
+    "Swiss culture",
+    "Swiss economy",
+    "expatriate news"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e9136c04-a15d-5fe6-9c84-d6f77c8ff5df"
 }

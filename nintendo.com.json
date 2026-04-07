@@ -1,11 +1,20 @@
 {
   "entity_id": "abbcb0cf-9cfb-5c1c-a66e-1a5f22b9efc4",
+  "public_key_id": "abbcb0cf-9cfb-5c1c-a66e-1a5f22b9efc4",
   "name": "Nintendo of Europe",
   "what_it_does": "Nintendo of Europe is a subsidiary of Nintendo that sells and markets video game consoles and software.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
-  "location": "Global",
-  "keywords": [],
+  "location": "Japan",
+  "keywords": [
+    "video game consoles",
+    "video games",
+    "game software",
+    "nintendo switch",
+    "gaming hardware",
+    "game distribution",
+    "european market"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/abbcb0cf-9cfb-5c1c-a66e-1a5f22b9efc4"
 }

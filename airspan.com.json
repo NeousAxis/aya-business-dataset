@@ -1,11 +1,21 @@
 {
   "entity_id": "22aa11f2-d6a0-5122-aaa0-7bb44ec9c279",
+  "public_key_id": "22aa11f2-d6a0-5122-aaa0-7bb44ec9c279",
   "name": "Airspan",
   "what_it_does": "Airspan provides 4G and 5G network infrastructure solutions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Poland",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "4G infrastructure",
+    "5G infrastructure",
+    "wireless networks",
+    "telecommunications equipment",
+    "network solutions",
+    "cellular base stations",
+    "small cells",
+    "wireless broadband"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/22aa11f2-d6a0-5122-aaa0-7bb44ec9c279"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "d567592f-f737-58be-83d2-c4bbe5bea303",
+  "public_key_id": "d567592f-f737-58be-83d2-c4bbe5bea303",
   "name": "HEIG-VD",
   "what_it_does": "HEIG-VD is a Swiss university of applied sciences and arts in the canton of Vaud.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Swiss university",
+    "applied sciences",
+    "higher education",
+    "Vaud canton",
+    "engineering degrees",
+    "research programs",
+    "technical training"
+  ],
   "aio_score": 26.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d567592f-f737-58be-83d2-c4bbe5bea303"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "58aa6c5c-40f3-5b16-8c0c-06e56c6d0440",
+  "public_key_id": "58aa6c5c-40f3-5b16-8c0c-06e56c6d0440",
   "name": "MedusaJS",
   "what_it_does": "MedusaJS is an open-source headless commerce platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "headless commerce",
+    "open-source commerce",
+    "e-commerce API",
+    "composable commerce",
+    "developer tools",
+    "API-first commerce",
+    "Node.js commerce",
+    "e-commerce backend"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/58aa6c5c-40f3-5b16-8c0c-06e56c6d0440"
 }

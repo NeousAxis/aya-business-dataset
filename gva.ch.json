@@ -1,11 +1,21 @@
 {
   "entity_id": "ad8d75c4-b017-5638-a74e-100c8ea65127",
+  "public_key_id": "ad8d75c4-b017-5638-a74e-100c8ea65127",
   "name": "Genève Aéroport",
   "what_it_does": "Genève Aéroport is the international airport serving Geneva, Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Geneva airport",
+    "Swiss airport",
+    "international airport",
+    "air travel",
+    "flight services",
+    "airport infrastructure",
+    "aviation hub",
+    "passenger transportation"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ad8d75c4-b017-5638-a74e-100c8ea65127"
 }

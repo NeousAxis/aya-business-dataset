@@ -1,11 +1,21 @@
 {
   "entity_id": "b032a0e7-e1e3-548c-b1ce-31d850a5f4a4",
+  "public_key_id": "b032a0e7-e1e3-548c-b1ce-31d850a5f4a4",
   "name": "Select Group",
   "what_it_does": "Select Group is a real estate development and investment company.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Arab Emirates",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "real estate development",
+    "property investment",
+    "residential properties",
+    "commercial properties",
+    "luxury properties",
+    "Dubai real estate",
+    "property management",
+    "investment properties"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b032a0e7-e1e3-548c-b1ce-31d850a5f4a4"
 }

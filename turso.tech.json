@@ -1,11 +1,20 @@
 {
   "entity_id": "b58912c6-fdeb-514d-9909-0d9689cf97b5",
+  "public_key_id": "b58912c6-fdeb-514d-9909-0d9689cf97b5",
   "name": "Turso",
   "what_it_does": "Turso provides a globally distributed, SQLite-compatible database service.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "SQLite database",
+    "edge database",
+    "globally distributed database",
+    "database",
+    "serverless database",
+    "database replication",
+    "low-latency data access"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b58912c6-fdeb-514d-9909-0d9689cf97b5"
 }

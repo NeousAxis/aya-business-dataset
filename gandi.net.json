@@ -1,11 +1,20 @@
 {
   "entity_id": "ac6020e4-0a37-573d-8328-f72f23397548",
+  "public_key_id": "ac6020e4-0a37-573d-8328-f72f23397548",
   "name": "Gandi.net",
   "what_it_does": "Gandi.net offers domain name registration, web hosting, and related services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "Domain name registration",
+    "Web hosting",
+    "SSL certificates",
+    "Domain services",
+    "Cloud hosting",
+    "DNS management",
+    "Website security"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ac6020e4-0a37-573d-8328-f72f23397548"
 }

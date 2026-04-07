@@ -1,11 +1,21 @@
 {
   "entity_id": "30b685a1-7f00-5807-9ff9-d6557df9a436",
+  "public_key_id": "30b685a1-7f00-5807-9ff9-d6557df9a436",
   "name": "Gymshark",
   "what_it_does": "Gymshark is a direct-to-consumer online retailer of fitness apparel and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "fitness apparel",
+    "activewear",
+    "gym clothing",
+    "e-commerce retailer",
+    "direct-to-consumer",
+    "athletic wear",
+    "workout clothes",
+    "fitness accessories"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/30b685a1-7f00-5807-9ff9-d6557df9a436"
 }

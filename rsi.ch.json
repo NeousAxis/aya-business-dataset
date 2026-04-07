@@ -1,11 +1,21 @@
 {
   "entity_id": "ee79ea26-0288-5ea5-8644-f4638f8b035d",
+  "public_key_id": "ee79ea26-0288-5ea5-8644-f4638f8b035d",
   "name": "RSI",
   "what_it_does": "RSI is a Swiss public broadcasting organization providing television and radio services in Italian.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Swiss broadcasting",
+    "Italian television",
+    "Italian radio",
+    "public broadcasting",
+    "news programming",
+    "entertainment",
+    "Italian content",
+    "Swiss media"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ee79ea26-0288-5ea5-8644-f4638f8b035d"
 }

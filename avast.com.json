@@ -1,11 +1,20 @@
 {
   "entity_id": "00c3f860-8171-58da-a693-83c5d71316aa",
+  "public_key_id": "00c3f860-8171-58da-a693-83c5d71316aa",
   "name": "Avast",
   "what_it_does": "Avast develops and distributes cybersecurity software, including antivirus products.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 53.0,
+  "keywords": [
+    "antivirus",
+    "cybersecurity",
+    "internet security",
+    "malware protection",
+    "endpoint security",
+    "data protection",
+    "security tools"
+  ],
+  "aio_score": 65.0,
   "certificate_url": "https://ai-visionary.com/aya/e/00c3f860-8171-58da-a693-83c5d71316aa"
 }

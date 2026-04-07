@@ -1,11 +1,21 @@
 {
   "entity_id": "e1fad57c-958e-5675-b943-f040c7847533",
+  "public_key_id": "e1fad57c-958e-5675-b943-f040c7847533",
   "name": "Vedantu",
   "what_it_does": "Vedantu is an online tutoring platform offering live interactive classes for students in India.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "live online tutoring",
+    "interactive classes",
+    "K-12 education",
+    "Indian education",
+    "online learning",
+    "e-learning platform",
+    "personalized learning",
+    "STEM education"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e1fad57c-958e-5675-b943-f040c7847533"
 }

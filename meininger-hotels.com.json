@@ -1,11 +1,21 @@
 {
   "entity_id": "0c4fc1bc-4ffa-5f92-b5d7-999a65546511",
+  "public_key_id": "0c4fc1bc-4ffa-5f92-b5d7-999a65546511",
   "name": "MEININGER Hotels",
   "what_it_does": "MEININGER Hotels is a hotel chain offering budget-friendly accommodations, primarily targeting young travelers and groups.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "budget hotels",
+    "youth hostels",
+    "group accommodation",
+    "city breaks",
+    "hotel chain",
+    "travel accommodation",
+    "European hotels",
+    "affordable lodging"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0c4fc1bc-4ffa-5f92-b5d7-999a65546511"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "cabd4987-14e9-5c8e-b612-0fe5d80ab660",
+  "public_key_id": "cabd4987-14e9-5c8e-b612-0fe5d80ab660",
   "name": "Leader in Engineering and IT Services",
   "what_it_does": "Alten provides engineering and technology consulting services to various industries.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "France",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "engineering services",
+    "IT consulting",
+    "technology consulting",
+    "R&D services",
+    "outsourcing",
+    "engineering solutions",
+    "product development"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cabd4987-14e9-5c8e-b612-0fe5d80ab660"
 }

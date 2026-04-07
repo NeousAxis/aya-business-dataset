@@ -1,11 +1,21 @@
 {
   "entity_id": "9bd76fb6-aac2-58df-b1ca-a0690ea97069",
+  "public_key_id": "9bd76fb6-aac2-58df-b1ca-a0690ea97069",
   "name": "Schindler U.S.",
   "what_it_does": "Schindler U.S. manufactures, installs, and services elevators, escalators, and moving walks.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "elevators",
+    "escalators",
+    "moving walks",
+    "Schindler U.S.",
+    "vertical transportation",
+    "building transportation",
+    "elevator maintenance",
+    "escalator installation"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9bd76fb6-aac2-58df-b1ca-a0690ea97069"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "f7e116f9-4cf5-5007-8cdb-e1c71a1bfb3f",
+  "public_key_id": "f7e116f9-4cf5-5007-8cdb-e1c71a1bfb3f",
   "name": "DigitalOcean",
   "what_it_does": "DigitalOcean provides cloud computing services for developers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "cloud computing",
+    "developer tools",
+    "virtual servers",
+    "cloud infrastructure",
+    "web hosting",
+    "cloud storage",
+    "application deployment",
+    "cloud solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f7e116f9-4cf5-5007-8cdb-e1c71a1bfb3f"
 }

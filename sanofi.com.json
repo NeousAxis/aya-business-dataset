@@ -1,11 +1,20 @@
 {
   "entity_id": "89866e43-bef9-5613-8fc8-b246141b568c",
+  "public_key_id": "89866e43-bef9-5613-8fc8-b246141b568c",
   "name": "Sanofi",
   "what_it_does": "Sanofi develops and manufactures pharmaceutical drugs and vaccines.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "pharmaceutical drugs",
+    "vaccine development",
+    "healthcare products",
+    "prescription drugs",
+    "global pharmaceuticals",
+    "pharmaceutical research",
+    "immunization"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/89866e43-bef9-5613-8fc8-b246141b568c"
 }

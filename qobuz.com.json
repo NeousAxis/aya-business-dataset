@@ -1,11 +1,21 @@
 {
   "entity_id": "4565bbaf-30a8-5b74-9fec-d5aa62dbb167",
+  "public_key_id": "4565bbaf-30a8-5b74-9fec-d5aa62dbb167",
   "name": "Qobuz",
   "what_it_does": "Qobuz is a subscription-based music streaming and download service offering high-resolution audio.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "music streaming",
+    "high-resolution audio",
+    "music downloads",
+    "music subscription",
+    "audiophile music",
+    "lossless audio",
+    "music platform",
+    "music store"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4565bbaf-30a8-5b74-9fec-d5aa62dbb167"
 }

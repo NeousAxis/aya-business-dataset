@@ -1,11 +1,21 @@
 {
   "entity_id": "010985c9-134a-5a1e-a7aa-23fc825d37cf",
+  "public_key_id": "010985c9-134a-5a1e-a7aa-23fc825d37cf",
   "name": "Audiomack",
   "what_it_does": "Audiomack is a music streaming and discovery platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "music streaming",
+    "music discovery",
+    "audio platform",
+    "independent artists",
+    "hip-hop music",
+    "R&B music",
+    "music distribution",
+    "free music"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/010985c9-134a-5a1e-a7aa-23fc825d37cf"
 }

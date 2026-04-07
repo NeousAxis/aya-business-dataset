@@ -1,11 +1,21 @@
 {
   "entity_id": "d70e5343-1f9e-5acd-acd6-c7e26cc5f047",
+  "public_key_id": "d70e5343-1f9e-5acd-acd6-c7e26cc5f047",
   "name": "Université de Strasbourg",
   "what_it_does": "Université de Strasbourg is a public research university located in Strasbourg, France.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "French university",
+    "public research",
+    "higher education",
+    "Strasbourg",
+    "academic research",
+    "doctoral programs",
+    "master's degrees",
+    "undergraduate studies"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d70e5343-1f9e-5acd-acd6-c7e26cc5f047"
 }

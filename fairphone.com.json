@@ -1,11 +1,21 @@
 {
   "entity_id": "3746bfd9-2dc6-5dc8-806e-4e0d61eecc8e",
+  "public_key_id": "3746bfd9-2dc6-5dc8-806e-4e0d61eecc8e",
   "name": "Fairphone Shop",
   "what_it_does": "Fairphone sells modular and sustainable smartphones designed for longevity and repairability.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "modular smartphones",
+    "sustainable phones",
+    "repairable phones",
+    "eco-friendly electronics",
+    "ethical sourcing",
+    "electronics",
+    "mobile devices",
+    "long-lasting phones"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3746bfd9-2dc6-5dc8-806e-4e0d61eecc8e"
 }

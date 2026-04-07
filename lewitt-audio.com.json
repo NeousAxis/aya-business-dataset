@@ -1,11 +1,21 @@
 {
   "entity_id": "1aaa2e05-38bf-5edf-a11c-e7423bfe2cc3",
+  "public_key_id": "1aaa2e05-38bf-5edf-a11c-e7423bfe2cc3",
   "name": "LEWITT",
   "what_it_does": "LEWITT designs and manufactures microphones and audio equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Austria",
-  "keywords": [],
+  "keywords": [
+    "microphones",
+    "audio equipment",
+    "studio microphones",
+    "recording equipment",
+    "live sound",
+    "microphone manufacturing",
+    "audio gear",
+    "condenser microphones"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1aaa2e05-38bf-5edf-a11c-e7423bfe2cc3"
 }

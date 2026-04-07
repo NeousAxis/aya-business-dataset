@@ -1,11 +1,21 @@
 {
   "entity_id": "30aad902-b16f-520a-a354-4e96a9aab160",
+  "public_key_id": "30aad902-b16f-520a-a354-4e96a9aab160",
   "name": "Obwalden",
   "what_it_does": "Obwalden promotes tourism and provides transportation information for the Swiss canton of Obwalden.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Swiss tourism",
+    "Obwalden canton",
+    "travel information",
+    "transportation",
+    "hiking trails",
+    "ski resorts",
+    "Swiss Alps",
+    "mountain tourism"
+  ],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/30aad902-b16f-520a-a354-4e96a9aab160"
 }

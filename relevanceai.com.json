@@ -1,11 +1,21 @@
 {
   "entity_id": "3993d8f8-666b-54cf-88c3-7e312fb2a4cb",
+  "public_key_id": "3993d8f8-666b-54cf-88c3-7e312fb2a4cb",
   "name": "Relevance AI",
   "what_it_does": "Relevance AI provides an AI platform for building and deploying search and recommendation systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "AI search",
+    "AI recommendations",
+    "vector search",
+    "similarity search",
+    "machine learning",
+    "neural search",
+    "AI platform",
+    "recommendation engines"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3993d8f8-666b-54cf-88c3-7e312fb2a4cb"
 }

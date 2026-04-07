@@ -1,11 +1,21 @@
 {
   "entity_id": "2edb1efa-c477-5a53-80bb-b22382aa3cc7",
+  "public_key_id": "2edb1efa-c477-5a53-80bb-b22382aa3cc7",
   "name": "Lombard Asset Finance",
   "what_it_does": "Lombard Asset Finance provides asset-based lending and leasing solutions to businesses in the UK.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "asset finance",
+    "equipment leasing",
+    "asset-based lending",
+    "business finance",
+    "UK lending",
+    "equipment finance",
+    "leasing solutions",
+    "capital equipment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2edb1efa-c477-5a53-80bb-b22382aa3cc7"
 }

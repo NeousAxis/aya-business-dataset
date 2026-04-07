@@ -1,11 +1,21 @@
 {
   "entity_id": "7bc8ab76-87d3-5fac-a09a-5e86bcbb9944",
+  "public_key_id": "7bc8ab76-87d3-5fac-a09a-5e86bcbb9944",
   "name": "Fluor",
   "what_it_does": "Fluor provides engineering, procurement, and construction services for various industries.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "engineering procurement",
+    "construction services",
+    "industrial construction",
+    "EPC projects",
+    "Fluor projects",
+    "project management",
+    "infrastructure projects",
+    "capital projects"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7bc8ab76-87d3-5fac-a09a-5e86bcbb9944"
 }

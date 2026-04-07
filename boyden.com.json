@@ -1,11 +1,20 @@
 {
   "entity_id": "26adbc08-2721-520a-883f-17890bff01a9",
+  "public_key_id": "26adbc08-2721-520a-883f-17890bff01a9",
   "name": "Boyden",
   "what_it_does": "Boyden is an executive search firm.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "executive search",
+    "leadership recruitment",
+    "talent acquisition",
+    "executive hiring",
+    "recruiting firms",
+    "executive staffing",
+    "headhunting"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/26adbc08-2721-520a-883f-17890bff01a9"
 }

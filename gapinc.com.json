@@ -1,11 +1,21 @@
 {
   "entity_id": "69c5fca6-47e3-52f0-9354-2b4ad19438a5",
+  "public_key_id": "69c5fca6-47e3-52f0-9354-2b4ad19438a5",
   "name": "Gap Inc.",
   "what_it_does": "Gap Inc. is a global apparel retailer with brands including Gap, Old Navy, Banana Republic, and Athleta.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "apparel retail",
+    "clothing brands",
+    "global fashion",
+    "men's apparel",
+    "women's apparel",
+    "kid's clothing",
+    "Old Navy",
+    "Athleta"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/69c5fca6-47e3-52f0-9354-2b4ad19438a5"
 }

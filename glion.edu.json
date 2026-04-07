@@ -1,11 +1,20 @@
 {
   "entity_id": "787ff85e-abda-5a70-bf41-269a39eeef95",
+  "public_key_id": "787ff85e-abda-5a70-bf41-269a39eeef95",
   "name": "Glion",
   "what_it_does": "Glion Institute of Higher Education offers bachelor's and master's degrees in hospitality management.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 56.0,
+  "keywords": [
+    "hospitality education",
+    "hotel management degrees",
+    "tourism management",
+    "luxury hospitality",
+    "Swiss hospitality school",
+    "bachelor's degree",
+    "master's degree"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/787ff85e-abda-5a70-bf41-269a39eeef95"
 }

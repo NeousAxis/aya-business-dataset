@@ -1,11 +1,20 @@
 {
   "entity_id": "93a94f46-4651-53d4-ade1-d75444828dc0",
+  "public_key_id": "93a94f46-4651-53d4-ade1-d75444828dc0",
   "name": "Biotest AG",
   "what_it_does": "Biotest AG develops and manufactures plasma protein products and biotherapeutic drugs.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "plasma protein products",
+    "biotherapeutic drugs",
+    "hematology products",
+    "immunoglobulin therapy",
+    "clinical immunology",
+    "intensive care medicine",
+    "plasma fractionation"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/93a94f46-4651-53d4-ade1-d75444828dc0"
 }

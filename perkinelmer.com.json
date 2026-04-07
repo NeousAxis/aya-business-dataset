@@ -1,11 +1,21 @@
 {
   "entity_id": "f4215c86-1368-5065-9f01-85d0cb263aa0",
+  "public_key_id": "f4215c86-1368-5065-9f01-85d0cb263aa0",
   "name": "PerkinElmer",
   "what_it_does": "PerkinElmer provides analytical instruments, reagents, and services to the diagnostics, research, and applied markets.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "analytical instruments",
+    "laboratory reagents",
+    "diagnostics solutions",
+    "research tools",
+    "applied markets",
+    "environmental analysis",
+    "life sciences",
+    "detection technologies"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f4215c86-1368-5065-9f01-85d0cb263aa0"
 }

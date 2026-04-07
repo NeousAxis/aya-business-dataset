@@ -1,17 +1,12 @@
 {
   "entity_id": "f4bbbde8-5520-448b-8dc7-78a86af2e0ce",
-  "name": "Association Éclore | Transition écologique",
-  "what_it_does": "Association Éclore is a consultancy in Switzerland specializing in collective imagination, social and environmental foresight.",
+  "public_key_id": "f4bbbde8-5520-448b-8dc7-78a86af2e0ce",
+  "name": "Association Éclore",
+  "what_it_does": "services_entreprises providing ré(ge)nère app - plateforme d'accompagnement sur la responsabilité sociale et environnementale (rse) des entreprises suisses., les rencontres de la transition sont des a",
   "for_who": "Entreprises, Communes, Administrations, Habitants.",
-  "category": "Bureau Conseil en Imagination Collective et Prospective Sociale & Environnementale",
+  "category": "Conseil & Services Pro",
   "location": "Switzerland",
-  "keywords": [
-    "collective imagination",
-    "prospective",
-    "social",
-    "environmental",
-    "consultancy"
-  ],
-  "aio_score": 77.0,
+  "keywords": [],
+  "aio_score": 89.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f4bbbde8-5520-448b-8dc7-78a86af2e0ce"
 }

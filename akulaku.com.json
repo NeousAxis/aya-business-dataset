@@ -1,11 +1,20 @@
 {
   "entity_id": "6e56edca-78d4-551c-a35e-e21cc09bedbc",
+  "public_key_id": "6e56edca-78d4-551c-a35e-e21cc09bedbc",
   "name": "Teknologi Finansial Akulaku",
   "what_it_does": "Teknologi Finansial Akulaku offers a buy now, pay later platform and online lending services primarily in Southeast Asia.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "buy now pay later",
+    "BNPL",
+    "online lending",
+    "consumer finance",
+    "Southeast Asia finance",
+    "e-commerce financing",
+    "installment payments"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6e56edca-78d4-551c-a35e-e21cc09bedbc"
 }

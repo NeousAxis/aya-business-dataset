@@ -1,11 +1,20 @@
 {
   "entity_id": "b896ac82-efdd-5ea7-b970-122750bfe586",
+  "public_key_id": "b896ac82-efdd-5ea7-b970-122750bfe586",
   "name": "British Land",
   "what_it_does": "British Land is a commercial property development and investment company.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "commercial property",
+    "property investment",
+    "real estate development",
+    "retail spaces",
+    "office buildings",
+    "London real estate",
+    "property portfolio"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b896ac82-efdd-5ea7-b970-122750bfe586"
 }

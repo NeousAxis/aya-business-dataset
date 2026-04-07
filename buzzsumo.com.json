@@ -1,11 +1,20 @@
 {
   "entity_id": "eca47cc5-367a-5c03-b6b3-56267eeaad01",
+  "public_key_id": "eca47cc5-367a-5c03-b6b3-56267eeaad01",
   "name": "BuzzSumo",
   "what_it_does": "BuzzSumo provides content marketing and social media analytics tools.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "content analysis",
+    "social media metrics",
+    "marketing intelligence",
+    "content discovery",
+    "influencer research",
+    "keyword analysis",
+    "trending topics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eca47cc5-367a-5c03-b6b3-56267eeaad01"
 }

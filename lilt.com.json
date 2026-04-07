@@ -1,11 +1,21 @@
 {
   "entity_id": "815d2c7a-b316-52c7-9886-d61d544af491",
+  "public_key_id": "815d2c7a-b316-52c7-9886-d61d544af491",
   "name": "Lilt",
   "what_it_does": "Lilt provides AI-powered translation software and services for enterprises.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 50.0,
+  "keywords": [
+    "AI translation",
+    "machine translation",
+    "language localization",
+    "enterprise translation",
+    "translation management",
+    "global content",
+    "multilingual content",
+    "neural machine translation"
+  ],
+  "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/815d2c7a-b316-52c7-9886-d61d544af491"
 }

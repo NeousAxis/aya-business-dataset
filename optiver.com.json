@@ -1,11 +1,21 @@
 {
   "entity_id": "1b8b2bcb-33d7-5c06-b45d-312ccf560457",
+  "public_key_id": "1b8b2bcb-33d7-5c06-b45d-312ccf560457",
   "name": "Optiver",
   "what_it_does": "Optiver is a proprietary trading firm specializing in market making and arbitrage.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "proprietary trading",
+    "market making",
+    "arbitrage",
+    "financial trading",
+    "options trading",
+    "derivatives trading",
+    "algorithmic trading",
+    "financial markets"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1b8b2bcb-33d7-5c06-b45d-312ccf560457"
 }

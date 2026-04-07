@@ -1,11 +1,20 @@
 {
   "entity_id": "309ae507-85b0-5790-8f27-56e09870c5bc",
+  "public_key_id": "309ae507-85b0-5790-8f27-56e09870c5bc",
   "name": "Latest news, sport and opinion from the Guardian",
   "what_it_does": "The Guardian is a British news website providing news, sport, and opinion.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "UK news",
+    "British news",
+    "sport news",
+    "opinion journalism",
+    "current affairs",
+    "world news",
+    "The Guardian"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/309ae507-85b0-5790-8f27-56e09870c5bc"
 }

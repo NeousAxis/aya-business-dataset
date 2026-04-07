@@ -1,11 +1,21 @@
 {
   "entity_id": "9769266b-e165-54e9-a110-8179e94c811c",
+  "public_key_id": "9769266b-e165-54e9-a110-8179e94c811c",
   "name": "Inspur",
   "what_it_does": "Inspur likely provides IT solutions and infrastructure for the tourism industry in the French market.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "China",
-  "keywords": [],
+  "keywords": [
+    "tourism IT solutions",
+    "French tourism market",
+    "IT infrastructure",
+    "tourism technology",
+    "travel solutions",
+    "hospitality technology",
+    "French IT",
+    "travel infrastructure"
+  ],
   "aio_score": 29.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9769266b-e165-54e9-a110-8179e94c811c"
 }

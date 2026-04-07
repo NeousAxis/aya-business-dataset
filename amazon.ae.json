@@ -1,11 +1,20 @@
 {
   "entity_id": "0acb5da0-35d9-53d3-8855-65a0e0fdf521",
+  "public_key_id": "0acb5da0-35d9-53d3-8855-65a0e0fdf521",
   "name": "Shop Online in UAE",
   "what_it_does": "Amazon.ae is the United Arab Emirates-based online marketplace for Amazon, selling a wide range of products.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "online shopping",
+    "UAE marketplace",
+    "Amazon UAE",
+    "e-commerce",
+    "consumer goods",
+    "retail",
+    "Middle East e-commerce"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0acb5da0-35d9-53d3-8855-65a0e0fdf521"
 }

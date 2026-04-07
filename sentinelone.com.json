@@ -1,11 +1,21 @@
 {
   "entity_id": "5ca0cd99-75f7-5fa5-892c-b205fd6e393a",
+  "public_key_id": "5ca0cd99-75f7-5fa5-892c-b205fd6e393a",
   "name": "SentinelOne",
   "what_it_does": "SentinelOne provides an autonomous cybersecurity platform for endpoint protection.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Japan",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "endpoint protection",
+    "cybersecurity platform",
+    "autonomous security",
+    "threat detection",
+    "incident response",
+    "antivirus",
+    "endpoint detection and response",
+    "cyber threat prevention"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5ca0cd99-75f7-5fa5-892c-b205fd6e393a"
 }

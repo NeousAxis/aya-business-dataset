@@ -1,11 +1,21 @@
 {
   "entity_id": "025f3662-5b0b-597f-b8cb-b75537391817",
+  "public_key_id": "025f3662-5b0b-597f-b8cb-b75537391817",
   "name": "Genting Group",
   "what_it_does": "Genting Group is a multinational corporation involved in gaming, hospitality, entertainment, and plantations.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "gaming",
+    "hospitality",
+    "entertainment",
+    "plantations",
+    "casino resorts",
+    "leisure",
+    "resort development",
+    "theme parks"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/025f3662-5b0b-597f-b8cb-b75537391817"
 }

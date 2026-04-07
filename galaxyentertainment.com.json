@@ -1,11 +1,21 @@
 {
   "entity_id": "a33647ef-ac0f-5912-b1e3-9efac70f5316",
+  "public_key_id": "a33647ef-ac0f-5912-b1e3-9efac70f5316",
   "name": "Galaxy Entertainment",
   "what_it_does": "Galaxy Entertainment Group develops and operates casinos and resorts in Macau.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "casino resorts",
+    "Macau casinos",
+    "gaming",
+    "hospitality",
+    "resort development",
+    "integrated resorts",
+    "casino entertainment",
+    "Macau entertainment"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a33647ef-ac0f-5912-b1e3-9efac70f5316"
 }

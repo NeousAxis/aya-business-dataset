@@ -1,11 +1,21 @@
 {
   "entity_id": "57788d46-3c76-58bc-a57b-c16747c19adc",
+  "public_key_id": "57788d46-3c76-58bc-a57b-c16747c19adc",
   "name": "Corporate and Retail Banking",
   "what_it_does": "Blom Bank provides a range of personal and business banking services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "personal banking",
+    "business banking",
+    "retail banking",
+    "financial services",
+    "loans",
+    "deposits",
+    "bank accounts",
+    "corporate finance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/57788d46-3c76-58bc-a57b-c16747c19adc"
 }

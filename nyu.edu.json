@@ -1,11 +1,21 @@
 {
   "entity_id": "47d82d9e-207d-5987-a295-8a14766e1402",
+  "public_key_id": "47d82d9e-207d-5987-a295-8a14766e1402",
   "name": "New York University",
   "what_it_does": "New York University is a private research university offering undergraduate, graduate, and professional programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "higher education",
+    "university",
+    "research university",
+    "undergraduate programs",
+    "graduate programs",
+    "professional programs",
+    "academic research",
+    "private university"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/47d82d9e-207d-5987-a295-8a14766e1402"
 }

@@ -1,11 +1,19 @@
 {
   "entity_id": "e9f69811-3985-5fe4-8b52-343ce6b8a03c",
+  "public_key_id": "e9f69811-3985-5fe4-8b52-343ce6b8a03c",
   "name": "Challenges, l’actualité de l’économie",
   "what_it_does": "Challenges.fr is a French business and economic news publication.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "French economy",
+    "French business",
+    "economic news",
+    "finance publication",
+    "market analysis",
+    "business journals"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e9f69811-3985-5fe4-8b52-343ce6b8a03c"
 }

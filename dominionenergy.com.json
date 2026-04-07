@@ -1,11 +1,21 @@
 {
   "entity_id": "35c1833d-72c2-5137-bc7f-d2ffbc0647f0",
+  "public_key_id": "35c1833d-72c2-5137-bc7f-d2ffbc0647f0",
   "name": "Dominion Energy",
   "what_it_does": "Dominion Energy is a company that generates and distributes electricity and natural gas.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "electricity generation",
+    "natural gas distribution",
+    "energy provider",
+    "power generation",
+    "utilities",
+    "energy distribution",
+    "Dominion Energy",
+    "electric utility"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/35c1833d-72c2-5137-bc7f-d2ffbc0647f0"
 }

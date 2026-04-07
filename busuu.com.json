@@ -1,11 +1,21 @@
 {
   "entity_id": "2d0d41b0-7384-5e9a-9548-4a597a7a3490",
+  "public_key_id": "2d0d41b0-7384-5e9a-9548-4a597a7a3490",
   "name": "Busuu",
   "what_it_does": "Busuu provides online language learning courses and community interaction.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "language learning",
+    "online courses",
+    "language education",
+    "language community",
+    "vocabulary training",
+    "grammar lessons",
+    "interactive learning",
+    "foreign languages"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2d0d41b0-7384-5e9a-9548-4a597a7a3490"
 }

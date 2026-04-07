@@ -1,11 +1,20 @@
 {
   "entity_id": "518a6c4a-4870-5f36-8dda-c2be5ba8376f",
+  "public_key_id": "518a6c4a-4870-5f36-8dda-c2be5ba8376f",
   "name": "Wiz",
   "what_it_does": "Wiz provides a cloud security platform to identify and remediate risks.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "cloud security",
+    "risk remediation",
+    "vulnerability management",
+    "cybersecurity posture",
+    "cloud threat detection",
+    "security platform",
+    "Wiz"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/518a6c4a-4870-5f36-8dda-c2be5ba8376f"
 }

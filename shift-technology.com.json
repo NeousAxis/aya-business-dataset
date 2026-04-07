@@ -1,11 +1,21 @@
 {
   "entity_id": "db308c49-cdab-51fb-9224-20b9bafb7e53",
+  "public_key_id": "db308c49-cdab-51fb-9224-20b9bafb7e53",
   "name": "Shift Technology",
   "what_it_does": "Shift Technology develops AI-powered fraud detection and claims automation software for the insurance industry.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "insurance fraud detection",
+    "AI claims automation",
+    "fraud analytics",
+    "insurance claims processing",
+    "machine learning",
+    "insurance technology",
+    "claims fraud",
+    "AI powered insurance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/db308c49-cdab-51fb-9224-20b9bafb7e53"
 }

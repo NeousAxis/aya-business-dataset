@@ -1,11 +1,21 @@
 {
   "entity_id": "2d5657a0-e30d-54e5-b73e-251abf1f1d1b",
+  "public_key_id": "2d5657a0-e30d-54e5-b73e-251abf1f1d1b",
   "name": "Worldpay",
   "what_it_does": "Worldpay provides payment processing services for businesses globally.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "payment processing services",
+    "global payments",
+    "merchant accounts",
+    "e-commerce payments",
+    "point-of-sale payments",
+    "Worldpay merchants",
+    "payment gateway",
+    "card processing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2d5657a0-e30d-54e5-b73e-251abf1f1d1b"
 }

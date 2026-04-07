@@ -1,11 +1,21 @@
 {
   "entity_id": "3dbb8ad1-b950-5e35-9440-5376b898f5b8",
+  "public_key_id": "3dbb8ad1-b950-5e35-9440-5376b898f5b8",
   "name": "Flyability Confined Space Inspection Drones",
   "what_it_does": "Flyability manufactures drones for inspecting confined spaces.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "confined space drones",
+    "inspection drones",
+    "drone technology",
+    "remote visual inspection",
+    "industrial inspection",
+    "robotic inspection",
+    "indoor drones",
+    "drone services"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3dbb8ad1-b950-5e35-9440-5376b898f5b8"
 }

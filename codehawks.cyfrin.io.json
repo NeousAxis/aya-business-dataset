@@ -1,11 +1,19 @@
 {
   "entity_id": "3627ef1b-f2dc-5bbe-bc48-9df4dc19a833",
+  "public_key_id": "3627ef1b-f2dc-5bbe-bc48-9df4dc19a833",
   "name": "Cyfrin CodeHawks",
   "what_it_does": "Cyfrin CodeHawks offers educational programs and community for Web3 security.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Web3 security education",
+    "smart contract security",
+    "blockchain security training",
+    "security community",
+    "web3 development",
+    "cybersecurity training"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3627ef1b-f2dc-5bbe-bc48-9df4dc19a833"
 }

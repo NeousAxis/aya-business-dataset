@@ -1,11 +1,20 @@
 {
   "entity_id": "dc77ee6f-9320-57f0-a7e3-7f7b3ea154e3",
+  "public_key_id": "dc77ee6f-9320-57f0-a7e3-7f7b3ea154e3",
   "name": "OMRON Robotics",
   "what_it_does": "OMRON Robotics provides industrial automation solutions including robots and control systems.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "industrial robots",
+    "automation systems",
+    "robotics",
+    "control systems",
+    "factory automation",
+    "manufacturing solutions",
+    "robotic arms"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dc77ee6f-9320-57f0-a7e3-7f7b3ea154e3"
 }

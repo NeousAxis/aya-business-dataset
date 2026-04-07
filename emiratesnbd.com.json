@@ -1,11 +1,21 @@
 {
   "entity_id": "94c60bf3-c626-5a25-8208-672efc787a18",
+  "public_key_id": "94c60bf3-c626-5a25-8208-672efc787a18",
   "name": "Emirates NBD",
   "what_it_does": "Emirates NBD is a banking group that offers various financial services (inferred from domain and sector).",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "retail banking",
+    "corporate banking",
+    "investment banking",
+    "financial services",
+    "loans",
+    "credit cards",
+    "wealth management",
+    "banking group"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/94c60bf3-c626-5a25-8208-672efc787a18"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "75804bcc-3ad1-5c73-9a84-cee584b2513f",
+  "public_key_id": "75804bcc-3ad1-5c73-9a84-cee584b2513f",
   "name": "ธนาคารกรุงศรีอยุธยา จำกัด",
   "what_it_does": "ธนาคารกรุงศรีอยุธยา จำกัด (Krungsri) is a commercial bank in Thailand.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Thailand",
-  "keywords": [],
-  "aio_score": 52.0,
+  "keywords": [
+    "Thai banking",
+    "financial services",
+    "commercial bank",
+    "loans",
+    "deposits",
+    "foreign exchange",
+    "banking Thailand",
+    "Krungsri"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/75804bcc-3ad1-5c73-9a84-cee584b2513f"
 }

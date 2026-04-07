@@ -1,11 +1,21 @@
 {
   "entity_id": "224e4172-26b2-5319-ae4f-e70de06582c5",
+  "public_key_id": "224e4172-26b2-5319-ae4f-e70de06582c5",
   "name": "Home Rabobank Group",
   "what_it_does": "Rabobank is a cooperative Dutch bank focused on the food and agriculture sectors.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Dutch bank",
+    "cooperative banking",
+    "food sector",
+    "agriculture sector",
+    "rural banking",
+    "agribusiness",
+    "farm loans",
+    "agricultural finance"
+  ],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/224e4172-26b2-5319-ae4f-e70de06582c5"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "411f910b-fdad-5544-be90-1e654b3b216e",
+  "public_key_id": "411f910b-fdad-5544-be90-1e654b3b216e",
   "name": "nicsell",
   "what_it_does": "Nicsell likely provides online courses or resources related to sales and marketing.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "sales training",
+    "marketing courses",
+    "sales skills",
+    "marketing education",
+    "sales resources",
+    "marketing training",
+    "business courses",
+    "sales strategies"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/411f910b-fdad-5544-be90-1e654b3b216e"
 }

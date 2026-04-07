@@ -1,11 +1,21 @@
 {
   "entity_id": "5ee78ebb-ea2c-5806-9ce2-a7f041564ed2",
+  "public_key_id": "5ee78ebb-ea2c-5806-9ce2-a7f041564ed2",
   "name": "Mammut",
   "what_it_does": "Mammut Sports Group AG manufactures and sells mountaineering and outdoor equipment and apparel.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "mountaineering equipment",
+    "outdoor apparel",
+    "climbing gear",
+    "hiking equipment",
+    "sports equipment",
+    "outdoor clothing",
+    "mountaineering gear",
+    "backpacking equipment"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5ee78ebb-ea2c-5806-9ce2-a7f041564ed2"
 }

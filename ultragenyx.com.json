@@ -1,11 +1,19 @@
 {
   "entity_id": "ce1c8268-78ba-5ba1-8c2d-fb4de6b3a022",
+  "public_key_id": "ce1c8268-78ba-5ba1-8c2d-fb4de6b3a022",
   "name": "Ultragenyx",
   "what_it_does": "Ultragenyx develops therapies for rare and ultra-rare genetic diseases.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "rare disease therapeutics",
+    "genetic disorders",
+    "biopharmaceutical research",
+    "enzyme replacement therapy",
+    "metabolic diseases",
+    "orphan drugs"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ce1c8268-78ba-5ba1-8c2d-fb4de6b3a022"
 }

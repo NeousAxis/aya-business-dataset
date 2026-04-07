@@ -1,11 +1,21 @@
 {
   "entity_id": "7c51b19d-aea5-5c7f-afbf-676492902040",
+  "public_key_id": "7c51b19d-aea5-5c7f-afbf-676492902040",
   "name": "Rollbar",
   "what_it_does": "Rollbar provides error tracking and monitoring tools for software developers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "error tracking",
+    "error monitoring",
+    "software debugging",
+    "developer tools",
+    "error reporting",
+    "application monitoring",
+    "bug tracking",
+    "code error"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7c51b19d-aea5-5c7f-afbf-676492902040"
 }

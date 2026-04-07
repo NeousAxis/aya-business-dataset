@@ -1,11 +1,21 @@
 {
   "entity_id": "7777dffa-2719-5715-9d25-a1d5d7bbeb31",
+  "public_key_id": "7777dffa-2719-5715-9d25-a1d5d7bbeb31",
   "name": "Hays",
   "what_it_does": "Hays is a global professional recruiting group specializing in placing skilled personnel in permanent, temporary, and contract positions.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Belgium",
-  "keywords": [],
+  "keywords": [
+    "professional recruitment",
+    "specialist recruitment",
+    "permanent placement",
+    "temporary staffing",
+    "contract jobs",
+    "skilled personnel",
+    "global recruitment",
+    "executive search"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7777dffa-2719-5715-9d25-a1d5d7bbeb31"
 }

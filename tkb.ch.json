@@ -1,11 +1,21 @@
 {
   "entity_id": "e16ca570-6e86-594f-9508-22b1de62d796",
+  "public_key_id": "e16ca570-6e86-594f-9508-22b1de62d796",
   "name": "Fürs ganze Leben",
   "what_it_does": "Tkb.ch likely provides banking and financial services in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "banking",
+    "financial services",
+    "Swiss bank",
+    "retail banking",
+    "private banking",
+    "mortgages",
+    "investment",
+    "TKB"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e16ca570-6e86-594f-9508-22b1de62d796"
 }

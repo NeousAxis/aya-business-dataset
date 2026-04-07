@@ -1,11 +1,21 @@
 {
   "entity_id": "6310b369-825e-5cc5-af01-8b9b33fb4cba",
+  "public_key_id": "6310b369-825e-5cc5-af01-8b9b33fb4cba",
   "name": "Copper CRM Inc.",
   "what_it_does": "Copper CRM Inc. offers a customer relationship management (CRM) platform designed for Google Workspace users.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "CRM",
+    "customer relationship",
+    "Google Workspace",
+    "sales management",
+    "lead tracking",
+    "contact management",
+    "sales automation",
+    "pipeline visualization"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6310b369-825e-5cc5-af01-8b9b33fb4cba"
 }

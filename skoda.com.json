@@ -1,11 +1,21 @@
 {
   "entity_id": "b8f2a7fc-4e75-584d-b462-f9f033976299",
+  "public_key_id": "b8f2a7fc-4e75-584d-b462-f9f033976299",
   "name": "The Skoda Family Blog",
   "what_it_does": "The Skoda Family Blog is a blog by Skoda that likely offers car reviews and lifestyle content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Skoda blog",
+    "car reviews",
+    "automotive lifestyle",
+    "family cars",
+    "driving tips",
+    "car news",
+    "Skoda models",
+    "car culture"
+  ],
   "aio_score": 23.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b8f2a7fc-4e75-584d-b462-f9f033976299"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "769d678f-f954-5df0-8926-ae88bc716cb0",
+  "public_key_id": "769d678f-f954-5df0-8926-ae88bc716cb0",
   "name": "Linguee",
   "what_it_does": "Linguee provides a dictionary and search engine for translations between languages.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "translation dictionary",
+    "language translation",
+    "bilingual dictionary",
+    "contextual translation",
+    "language search",
+    "translation search engine",
+    "multilingual tool"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/769d678f-f954-5df0-8926-ae88bc716cb0"
 }

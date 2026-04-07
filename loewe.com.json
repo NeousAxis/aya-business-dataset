@@ -1,11 +1,21 @@
 {
   "entity_id": "dac61c8a-3eb6-53ae-9c80-391279dfe3e3",
+  "public_key_id": "dac61c8a-3eb6-53ae-9c80-391279dfe3e3",
   "name": "Loewe",
   "what_it_does": "Loewe sells consumer electronics, including televisions and audio equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "consumer electronics",
+    "televisions",
+    "audio equipment",
+    "premium TVs",
+    "sound systems",
+    "home entertainment",
+    "TV sets",
+    "audio products"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dac61c8a-3eb6-53ae-9c80-391279dfe3e3"
 }

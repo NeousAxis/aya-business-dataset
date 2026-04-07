@@ -1,11 +1,21 @@
 {
   "entity_id": "d1cef533-4407-5eee-9034-f44aae2a8283",
-  "name": "AI Chat, Reimagined",
+  "public_key_id": "d1cef533-4407-5eee-9034-f44aae2a8283",
+  "name": "Character AI",
   "what_it_does": "Character.ai provides a platform for users to create and interact with AI-powered characters.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "AI characters",
+    "character bots",
+    "conversational AI",
+    "AI storytelling",
+    "interactive AI",
+    "virtual companions",
+    "AI roleplay",
+    "personalized AI"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d1cef533-4407-5eee-9034-f44aae2a8283"
 }

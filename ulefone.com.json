@@ -1,11 +1,21 @@
 {
   "entity_id": "f7c1de81-32db-5c71-aefb-233a4844ce11",
+  "public_key_id": "f7c1de81-32db-5c71-aefb-233a4844ce11",
   "name": "Ulefone",
   "what_it_does": "Ulefone manufactures rugged smartphones and related accessories.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Rugged smartphones",
+    "Waterproof phones",
+    "Shockproof phones",
+    "Outdoor phones",
+    "Durable phones",
+    "Android smartphones",
+    "Mobile accessories",
+    "Extreme environment phones"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f7c1de81-32db-5c71-aefb-233a4844ce11"
 }

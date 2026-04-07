@@ -1,11 +1,21 @@
 {
   "entity_id": "7655a850-d653-584e-ae1c-a3da136e1de9",
+  "public_key_id": "7655a850-d653-584e-ae1c-a3da136e1de9",
   "name": "Sweep",
   "what_it_does": "Sweep provides carbon accounting software to help businesses track and reduce their emissions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "carbon accounting",
+    "emissions tracking",
+    "carbon reduction",
+    "sustainability software",
+    "environmental reporting",
+    "ESG data",
+    "corporate sustainability",
+    "carbon management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7655a850-d653-584e-ae1c-a3da136e1de9"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "cbc74597-4872-5916-9bce-2d382edd6317",
+  "public_key_id": "cbc74597-4872-5916-9bce-2d382edd6317",
   "name": "Enjin",
   "what_it_does": "Enjin provides a platform for creating and managing non-fungible tokens (NFTs) and blockchain gaming communities.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "NFTs",
+    "blockchain gaming",
+    "crypto communities",
+    "digital assets",
+    "blockchain development",
+    "gaming platform",
+    "crypto collectibles",
+    "web3 games"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cbc74597-4872-5916-9bce-2d382edd6317"
 }

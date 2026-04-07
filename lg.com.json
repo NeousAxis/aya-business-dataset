@@ -1,11 +1,21 @@
 {
   "entity_id": "6cb2e14c-dc7c-522c-9102-27d35bc91643",
+  "public_key_id": "6cb2e14c-dc7c-522c-9102-27d35bc91643",
   "name": "LG Electronics CH_DE",
   "what_it_does": "LG Electronics CH_DE manufactures and sells a variety of consumer electronics, appliances, and mobile devices in Switzerland and Germany.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "consumer electronics",
+    "home appliances",
+    "mobile devices",
+    "TV",
+    "audio",
+    "Switzerland",
+    "electronics",
+    "televisions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6cb2e14c-dc7c-522c-9102-27d35bc91643"
 }

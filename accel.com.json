@@ -1,11 +1,19 @@
 {
   "entity_id": "f42d88a8-fe1d-5477-971e-b554ac031d0b",
+  "public_key_id": "f42d88a8-fe1d-5477-971e-b554ac031d0b",
   "name": "Accel",
   "what_it_does": "Accel is a venture capital firm that invests in technology companies.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "venture capital",
+    "tech investments",
+    "early-stage funding",
+    "growth equity",
+    "startup investments",
+    "technology sector"
+  ],
   "aio_score": 22.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f42d88a8-fe1d-5477-971e-b554ac031d0b"
 }

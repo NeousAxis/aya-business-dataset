@@ -1,11 +1,20 @@
 {
   "entity_id": "6b00ab7d-c57c-5959-be5b-eb074391e7f1",
+  "public_key_id": "6b00ab7d-c57c-5959-be5b-eb074391e7f1",
   "name": "SEEK",
   "what_it_does": "SEEK operates an online employment marketplace for job seekers and employers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Singapore",
-  "keywords": [],
-  "aio_score": 73.0,
+  "keywords": [
+    "job marketplace",
+    "job board",
+    "online recruitment",
+    "employment website",
+    "job advertising",
+    "career opportunities",
+    "australian jobs"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6b00ab7d-c57c-5959-be5b-eb074391e7f1"
 }

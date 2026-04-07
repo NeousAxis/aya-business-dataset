@@ -1,11 +1,21 @@
 {
   "entity_id": "d024d03f-8138-570b-b115-26e9df6a474f",
+  "public_key_id": "d024d03f-8138-570b-b115-26e9df6a474f",
   "name": "University of Exeter",
   "what_it_does": "The University of Exeter is a public research university located in Exeter, Devon, South West England.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 73.0,
+  "keywords": [
+    "research university",
+    "higher education",
+    "undergraduate programs",
+    "graduate programs",
+    "UK university",
+    "South West England",
+    "Exeter",
+    "academic research"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d024d03f-8138-570b-b115-26e9df6a474f"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "1670115c-7fdb-5737-979f-94c53949e4d2",
+  "public_key_id": "1670115c-7fdb-5737-979f-94c53949e4d2",
   "name": "SOBHA LIMITED",
   "what_it_does": "SOBHA LIMITED is a real estate development company.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "India",
-  "keywords": [],
-  "aio_score": 63.0,
+  "keywords": [
+    "real estate development",
+    "property development",
+    "residential construction",
+    "commercial construction",
+    "real estate",
+    "construction",
+    "luxury homes",
+    "property sales"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1670115c-7fdb-5737-979f-94c53949e4d2"
 }

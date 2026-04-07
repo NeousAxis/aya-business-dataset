@@ -1,11 +1,21 @@
 {
   "entity_id": "c72dec35-d716-534e-957f-03e87111eb5d",
+  "public_key_id": "c72dec35-d716-534e-957f-03e87111eb5d",
   "name": "Nedbank",
   "what_it_does": "Nedbank provides a range of banking and financial services to individuals and businesses in South Africa.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "South Africa",
-  "keywords": [],
-  "aio_score": 48.0,
+  "keywords": [
+    "banking",
+    "financial services",
+    "retail banking",
+    "corporate banking",
+    "loans",
+    "investment",
+    "South Africa banking",
+    "personal finance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c72dec35-d716-534e-957f-03e87111eb5d"
 }

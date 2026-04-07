@@ -1,11 +1,21 @@
 {
   "entity_id": "15f193c0-a095-50d8-bb08-8d3e0db2d8c6",
+  "public_key_id": "15f193c0-a095-50d8-bb08-8d3e0db2d8c6",
   "name": "Sekoia",
   "what_it_does": "Sekoia provides a threat intelligence platform for cybersecurity defense.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "threat intelligence",
+    "cybersecurity platform",
+    "cyber threat analysis",
+    "security defense",
+    "threat detection",
+    "cybersecurity intelligence",
+    "vulnerability management",
+    "security operations"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/15f193c0-a095-50d8-bb08-8d3e0db2d8c6"
 }

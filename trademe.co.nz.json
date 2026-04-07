@@ -1,11 +1,20 @@
 {
   "entity_id": "f4efffb2-ed1f-5d4e-b758-c687121beaeb",
+  "public_key_id": "f4efffb2-ed1f-5d4e-b758-c687121beaeb",
   "name": "Trade Me",
   "what_it_does": "Trade Me is a New Zealand online marketplace for auctions and classified advertisements.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "New Zealand",
-  "keywords": [],
+  "keywords": [
+    "Trade Me auctions",
+    "classified ads NZ",
+    "New Zealand marketplace",
+    "online trading",
+    "second-hand goods",
+    "ecommerce NZ",
+    "consumer goods"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f4efffb2-ed1f-5d4e-b758-c687121beaeb"
 }

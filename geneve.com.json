@@ -1,11 +1,21 @@
 {
   "entity_id": "ddc43fa4-8fda-5dfc-9dfd-3cd59649e4b2",
+  "public_key_id": "ddc43fa4-8fda-5dfc-9dfd-3cd59649e4b2",
   "name": "Visit Geneva",
   "what_it_does": "geneve.com promotes tourism in Geneva, Switzerland, offering travel information, booking options, and event listings.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "Geneva tourism",
+    "Switzerland travel",
+    "hotel booking",
+    "event listings",
+    "tourist information",
+    "Geneva attractions",
+    "vacation planning",
+    "travel packages"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ddc43fa4-8fda-5dfc-9dfd-3cd59649e4b2"
 }

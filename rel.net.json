@@ -1,11 +1,20 @@
 {
   "entity_id": "9b7f787c-5718-598a-9d41-5aa682eca2cb",
+  "public_key_id": "9b7f787c-5718-598a-9d41-5aa682eca2cb",
   "name": "REL Acoustics Ltd.",
   "what_it_does": "REL Acoustics manufactures and sells subwoofers for home theater and audio systems.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "subwoofers",
+    "home theater audio",
+    "audio systems",
+    "bass speakers",
+    "high-end audio",
+    "speaker systems",
+    "sound reinforcement"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9b7f787c-5718-598a-9d41-5aa682eca2cb"
 }

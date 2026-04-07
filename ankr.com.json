@@ -1,11 +1,21 @@
 {
   "entity_id": "c03f581a-ce2a-5c5a-a3b4-3f7215444ded",
+  "public_key_id": "c03f581a-ce2a-5c5a-a3b4-3f7215444ded",
   "name": "Ankr",
   "what_it_does": "Ankr provides a decentralized infrastructure platform for Web3 development and staking.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "Web3 infrastructure",
+    "decentralized infrastructure",
+    "blockchain staking",
+    "node infrastructure",
+    "blockchain nodes",
+    "Web3 development",
+    "staking services",
+    "distributed computing"
+  ],
+  "aio_score": 66.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c03f581a-ce2a-5c5a-a3b4-3f7215444ded"
 }

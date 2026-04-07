@@ -1,11 +1,21 @@
 {
   "entity_id": "0e41bd7b-54d4-5465-9fb8-19a5d24ab331",
+  "public_key_id": "0e41bd7b-54d4-5465-9fb8-19a5d24ab331",
   "name": "Aermec",
   "what_it_does": "Aermec manufactures air conditioning, heating, and ventilation systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "air conditioning",
+    "heating systems",
+    "ventilation systems",
+    "HVAC",
+    "climate control",
+    "cooling systems",
+    "heating equipment",
+    "air conditioning units"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0e41bd7b-54d4-5465-9fb8-19a5d24ab331"
 }

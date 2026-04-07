@@ -1,11 +1,20 @@
 {
   "entity_id": "9f9039b9-57e6-5a7c-8017-c8d6560db6db",
+  "public_key_id": "9f9039b9-57e6-5a7c-8017-c8d6560db6db",
   "name": "Moniepoint Inc",
   "what_it_does": "Moniepoint provides banking solutions for businesses, including payment processing and business management tools.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "banking solutions",
+    "payment processing",
+    "business accounts",
+    "financial services",
+    "merchant services",
+    "small businesses",
+    "financial technology"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f9039b9-57e6-5a7c-8017-c8d6560db6db"
 }

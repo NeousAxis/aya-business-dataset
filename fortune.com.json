@@ -1,11 +1,21 @@
 {
   "entity_id": "e50bf6e7-7946-500e-a417-111181adc4f5",
+  "public_key_id": "e50bf6e7-7946-500e-a417-111181adc4f5",
   "name": "FORTUNE",
   "what_it_does": "Fortune is a business magazine that publishes articles, rankings, and analyses of companies and industries.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "business news",
+    "financial analysis",
+    "company rankings",
+    "industry trends",
+    "executive profiles",
+    "investment strategies",
+    "market analysis",
+    "global economy"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e50bf6e7-7946-500e-a417-111181adc4f5"
 }

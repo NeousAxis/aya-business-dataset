@@ -1,11 +1,20 @@
 {
   "entity_id": "1f6d087c-3ee8-5ed5-a4af-4c42c345cb44",
-  "name": "FranÃ§ais",
+  "public_key_id": "1f6d087c-3ee8-5ed5-a4af-4c42c345cb44",
+  "name": "Innergex",
   "what_it_does": "Innergex is an independent renewable power producer focused on hydroelectric, wind, and solar energy.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
-  "location": "United States",
-  "keywords": [],
+  "location": "Canada",
+  "keywords": [
+    "renewable energy",
+    "hydroelectric power",
+    "wind energy",
+    "solar energy",
+    "independent power producer",
+    "clean energy",
+    "sustainable energy"
+  ],
   "aio_score": 24.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1f6d087c-3ee8-5ed5-a4af-4c42c345cb44"
 }

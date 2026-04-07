@@ -1,11 +1,20 @@
 {
   "entity_id": "5a84c10c-cf7a-53ac-a8f5-79aad42febfd",
+  "public_key_id": "5a84c10c-cf7a-53ac-a8f5-79aad42febfd",
   "name": "Buildkite",
   "what_it_does": "Buildkite offers a continuous integration and continuous delivery platform that allows users to run pipelines on their own infrastructure.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "continuous integration",
+    "continuous delivery",
+    "CI/CD",
+    "software pipelines",
+    "build automation",
+    "testing automation",
+    "deployment pipelines"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5a84c10c-cf7a-53ac-a8f5-79aad42febfd"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "1b64c30b-c825-5573-a881-c3b2ee653332",
+  "public_key_id": "1b64c30b-c825-5573-a881-c3b2ee653332",
   "name": "Okta",
   "what_it_does": "Okta provides identity management and access control solutions for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "identity",
+    "access",
+    "IAM",
+    "SSO",
+    "authentication",
+    "authorization",
+    "MFA",
+    "workforce identity"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1b64c30b-c825-5573-a881-c3b2ee653332"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "3fa67977-9bf5-5083-ab04-fd3e38b71510",
+  "public_key_id": "3fa67977-9bf5-5083-ab04-fd3e38b71510",
   "name": "HARIBO",
   "what_it_does": "HARIBO manufactures and sells gummy candies and other confectionery products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
-  "keywords": [],
+  "keywords": [
+    "gummy candies",
+    "confectionery",
+    "candy production",
+    "sweets",
+    "jelly sweets",
+    "sugar confectionery",
+    "snack foods"
+  ],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3fa67977-9bf5-5083-ab04-fd3e38b71510"
 }

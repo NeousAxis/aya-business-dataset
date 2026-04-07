@@ -1,11 +1,20 @@
 {
   "entity_id": "86848fd9-03b4-5555-8584-48c43f81aa57",
+  "public_key_id": "86848fd9-03b4-5555-8584-48c43f81aa57",
   "name": "Tavus",
   "what_it_does": "Tavus provides a platform for generating personalized videos using AI.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "personalized videos",
+    "AI video generation",
+    "video personalization",
+    "marketing videos",
+    "sales videos",
+    "AI video marketing",
+    "video creation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/86848fd9-03b4-5555-8584-48c43f81aa57"
 }

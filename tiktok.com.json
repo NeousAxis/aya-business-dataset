@@ -1,11 +1,21 @@
 {
   "entity_id": "abb14990-a47d-5d94-81ea-a28f824c538b",
+  "public_key_id": "abb14990-a47d-5d94-81ea-a28f824c538b",
   "name": "TikTok",
   "what_it_does": "TikTok is a social media platform for creating and sharing short-form videos.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
-  "location": "Global",
-  "keywords": [],
+  "location": "China",
+  "keywords": [
+    "short videos",
+    "social media",
+    "user-generated content",
+    "mobile video sharing",
+    "video trends",
+    "content creation",
+    "viral videos",
+    "video community"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/abb14990-a47d-5d94-81ea-a28f824c538b"
 }

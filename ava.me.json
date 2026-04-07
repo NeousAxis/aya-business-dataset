@@ -1,11 +1,21 @@
 {
   "entity_id": "b5cc3c74-51f3-5e30-bf2a-4f70136012a0",
+  "public_key_id": "b5cc3c74-51f3-5e30-bf2a-4f70136012a0",
   "name": "Ava",
   "what_it_does": "Ava provides real-time captioning services for deaf and hard-of-hearing individuals.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "real-time captioning",
+    "accessibility solutions",
+    "deaf services",
+    "hard-of-hearing",
+    "captioning services",
+    "communication assistance",
+    "speech-to-text",
+    "assisted communication"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b5cc3c74-51f3-5e30-bf2a-4f70136012a0"
 }

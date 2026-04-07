@@ -1,11 +1,20 @@
 {
   "entity_id": "8a12cfa8-2ff5-5c1e-865d-36070f2ee18c",
-  "name": "CrÃ©dit Agricole",
+  "public_key_id": "8a12cfa8-2ff5-5c1e-865d-36070f2ee18c",
+  "name": "Crédit Agricole",
   "what_it_does": "Crédit Agricole is a French international banking group and financial institution.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "french banking",
+    "international banking",
+    "financial services",
+    "retail banking",
+    "corporate banking",
+    "investment banking",
+    "asset"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8a12cfa8-2ff5-5c1e-865d-36070f2ee18c"
 }

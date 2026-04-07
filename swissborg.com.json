@@ -1,11 +1,21 @@
 {
   "entity_id": "72f2bc0b-0fc5-53a1-9a88-3eadb3488845",
+  "public_key_id": "72f2bc0b-0fc5-53a1-9a88-3eadb3488845",
   "name": "SwissBorg",
   "what_it_does": "SwissBorg offers a cryptocurrency exchange and wealth management platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "cryptocurrency exchange",
+    "digital assets",
+    "wealth management",
+    "bitcoin",
+    "crypto investments",
+    "blockchain finance",
+    "crypto wallets",
+    "tokenized assets"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/72f2bc0b-0fc5-53a1-9a88-3eadb3488845"
 }

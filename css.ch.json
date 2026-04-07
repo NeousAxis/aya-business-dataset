@@ -1,11 +1,21 @@
 {
   "entity_id": "2227c4f8-d1ab-502d-beb2-37959df99abe",
+  "public_key_id": "2227c4f8-d1ab-502d-beb2-37959df99abe",
   "name": "CSS",
   "what_it_does": "CSS provides media and communication services (inferred from domain).",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "media",
+    "communication",
+    "press distribution",
+    "news transmission",
+    "media services",
+    "communication networks",
+    "content delivery",
+    "broadcast media"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2227c4f8-d1ab-502d-beb2-37959df99abe"
 }

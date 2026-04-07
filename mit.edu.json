@@ -1,11 +1,20 @@
 {
   "entity_id": "00d3eb8c-9f82-5d32-9b5a-1320201965ea",
+  "public_key_id": "00d3eb8c-9f82-5d32-9b5a-1320201965ea",
   "name": "MIT",
   "what_it_does": "MIT is a research university offering undergraduate and graduate programs across a wide range of disciplines.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 47.0,
+  "keywords": [
+    "research university",
+    "higher education",
+    "graduate programs",
+    "undergraduate programs",
+    "engineering research",
+    "scientific research",
+    "technology education"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/00d3eb8c-9f82-5d32-9b5a-1320201965ea"
 }

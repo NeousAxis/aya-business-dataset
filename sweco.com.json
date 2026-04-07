@@ -1,11 +1,21 @@
 {
   "entity_id": "98cb0456-6585-5b2d-bc4f-82e25a519068",
+  "public_key_id": "98cb0456-6585-5b2d-bc4f-82e25a519068",
   "name": "Sweco",
   "what_it_does": "Sweco is a European engineering and architecture consultancy company.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "engineering consultancy",
+    "architecture consultancy",
+    "sustainable engineering",
+    "urban planning",
+    "infrastructure development",
+    "environmental engineering",
+    "construction management",
+    "European engineering"
+  ],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/98cb0456-6585-5b2d-bc4f-82e25a519068"
 }

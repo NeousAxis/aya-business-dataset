@@ -1,11 +1,21 @@
 {
   "entity_id": "d08425cb-87a6-5622-be56-f60489813375",
+  "public_key_id": "d08425cb-87a6-5622-be56-f60489813375",
   "name": "Khadas.com",
   "what_it_does": "Khadas.com sells single-board computers and related accessories.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Hong Kong",
-  "keywords": [],
-  "aio_score": 63.0,
+  "keywords": [
+    "single-board computers",
+    "embedded systems",
+    "DIY electronics",
+    "Khadas boards",
+    "development boards",
+    "computer accessories",
+    "open source hardware",
+    "SBC devices"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d08425cb-87a6-5622-be56-f60489813375"
 }

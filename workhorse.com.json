@@ -1,11 +1,20 @@
 {
   "entity_id": "1c3508a9-218e-5377-820a-7e7ce4a6e64a",
+  "public_key_id": "1c3508a9-218e-5377-820a-7e7ce4a6e64a",
   "name": "Workhorse",
   "what_it_does": "Workhorse Group designs and manufactures electric vehicles and aircraft.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "electric vehicles",
+    "electric aircraft",
+    "last mile delivery",
+    "ev trucks",
+    "electric vans",
+    "commercial evs",
+    "zero emission vehicles"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1c3508a9-218e-5377-820a-7e7ce4a6e64a"
 }

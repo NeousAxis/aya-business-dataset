@@ -1,11 +1,21 @@
 {
   "entity_id": "9b227d32-1a4e-5144-94d0-15bc96bbcab5",
+  "public_key_id": "9b227d32-1a4e-5144-94d0-15bc96bbcab5",
   "name": "The world's best hospital",
   "what_it_does": "Mayo Clinic is a non-profit academic medical center focused on clinical practice, education, and research.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "academic medical center",
+    "clinical practice",
+    "medical education",
+    "medical research",
+    "healthcare",
+    "patient care",
+    "medical institution",
+    "hospital"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9b227d32-1a4e-5144-94d0-15bc96bbcab5"
 }

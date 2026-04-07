@@ -1,11 +1,21 @@
 {
   "entity_id": "c66137f4-c0ad-5c7c-bd8c-06e29e1733c5",
+  "public_key_id": "c66137f4-c0ad-5c7c-bd8c-06e29e1733c5",
   "name": "Saudi Arabian Mining Company (Maaden)",
   "what_it_does": "Ma'aden is a Saudi Arabian mining company focused on mineral extraction and processing.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 42.0,
+  "keywords": [
+    "mining",
+    "mineral extraction",
+    "mineral processing",
+    "Saudi Arabian mining",
+    "Ma'aden",
+    "phosphate",
+    "aluminum",
+    "gold mining"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c66137f4-c0ad-5c7c-bd8c-06e29e1733c5"
 }

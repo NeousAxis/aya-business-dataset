@@ -1,11 +1,20 @@
 {
   "entity_id": "231e9e0b-ab8c-5030-8f91-842dec3625d4",
+  "public_key_id": "231e9e0b-ab8c-5030-8f91-842dec3625d4",
   "name": "Le Figaro",
   "what_it_does": "Le Figaro is a French daily newspaper.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
-  "keywords": [],
-  "aio_score": 73.0,
+  "keywords": [
+    "French newspaper",
+    "daily news",
+    "French press",
+    "current events",
+    "news publishing",
+    "France news",
+    "political news"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/231e9e0b-ab8c-5030-8f91-842dec3625d4"
 }

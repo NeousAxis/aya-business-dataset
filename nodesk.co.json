@@ -1,11 +1,21 @@
 {
   "entity_id": "71193df1-ace8-59a9-9b34-485c284c63fd",
+  "public_key_id": "71193df1-ace8-59a9-9b34-485c284c63fd",
   "name": "NoDesk",
   "what_it_does": "NoDesk likely provides content or resources related to remote work or digital nomadism.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "remote work",
+    "digital nomad",
+    "location independent",
+    "remote jobs",
+    "freelance resources",
+    "work from anywhere",
+    "telecommuting",
+    "virtual work"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/71193df1-ace8-59a9-9b34-485c284c63fd"
 }

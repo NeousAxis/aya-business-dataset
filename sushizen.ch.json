@@ -1,11 +1,21 @@
 {
   "entity_id": "e10533a8-9c20-54a0-98c9-df1a3e98a283",
+  "public_key_id": "e10533a8-9c20-54a0-98c9-df1a3e98a283",
   "name": "SushiZen",
   "what_it_does": "SushiZen is an online retailer selling sushi in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "sushi",
+    "Japanese cuisine",
+    "sushi delivery",
+    "online food retailer",
+    "Switzerland",
+    "takeaway sushi",
+    "sushi ingredients",
+    "prepared sushi"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e10533a8-9c20-54a0-98c9-df1a3e98a283"
 }

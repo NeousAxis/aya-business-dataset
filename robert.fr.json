@@ -1,11 +1,21 @@
 {
   "entity_id": "b67630b1-fa28-5c67-afc6-ad3ae3be2ba8",
+  "public_key_id": "b67630b1-fa28-5c67-afc6-ad3ae3be2ba8",
   "name": "Groupe ROBERT",
   "what_it_does": "Groupe ROBERT manufactures and distributes industrial bakery equipment.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Italy",
-  "keywords": [],
+  "keywords": [
+    "bakery equipment",
+    "industrial bakery",
+    "food processing equipment",
+    "bakery solutions",
+    "dough processing",
+    "bakery automation",
+    "bread production",
+    "bakery machinery"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b67630b1-fa28-5c67-afc6-ad3ae3be2ba8"
 }

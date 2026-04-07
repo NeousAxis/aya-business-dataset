@@ -1,11 +1,21 @@
 {
   "entity_id": "39ce2b4f-065b-5b39-9fcf-712342c64e2e",
+  "public_key_id": "39ce2b4f-065b-5b39-9fcf-712342c64e2e",
   "name": "Tamedia Publications romandes S.A.",
   "what_it_does": "Tamedia Publications romandes S.A. publishes the Tribune de Genève and other French-language newspapers and magazines in Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "French newspapers",
+    "Swiss media",
+    "news publication",
+    "Geneva news",
+    "French-language press",
+    "magazine publishing",
+    "local news",
+    "regional media"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/39ce2b4f-065b-5b39-9fcf-712342c64e2e"
 }

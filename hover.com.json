@@ -1,11 +1,20 @@
 {
   "entity_id": "096a0b04-70c8-5656-ad22-6fe4f2b85dc6",
+  "public_key_id": "096a0b04-70c8-5656-ad22-6fe4f2b85dc6",
   "name": "Buy Domains &amp; Email At Hover.com",
   "what_it_does": "Hover provides domain name registration and email hosting services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "domain registration",
+    "domain names",
+    "email hosting",
+    "webmail",
+    "domain privacy",
+    "DNS management",
+    "domain transfer"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/096a0b04-70c8-5656-ad22-6fe4f2b85dc6"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "c5462c62-dda8-5557-81fb-24f27db030c8",
+  "public_key_id": "c5462c62-dda8-5557-81fb-24f27db030c8",
   "name": "Tempus",
   "what_it_does": "Tempus offers data-driven precision medicine to help doctors personalize cancer treatments.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "precision medicine",
+    "cancer treatment",
+    "genomic sequencing",
+    "molecular data",
+    "clinical data",
+    "oncology",
+    "personalized medicine",
+    "cancer diagnostics"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c5462c62-dda8-5557-81fb-24f27db030c8"
 }

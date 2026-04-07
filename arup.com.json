@@ -1,11 +1,20 @@
 {
   "entity_id": "33a0b231-3f07-5f8b-b823-6b3532329c36",
+  "public_key_id": "33a0b231-3f07-5f8b-b823-6b3532329c36",
   "name": "Arup",
   "what_it_does": "Arup provides engineering, design, and consulting services for the built environment.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "engineering design",
+    "built environment",
+    "infrastructure projects",
+    "sustainable design",
+    "urban planning",
+    "transportation engineering",
+    "structural engineering"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/33a0b231-3f07-5f8b-b823-6b3532329c36"
 }

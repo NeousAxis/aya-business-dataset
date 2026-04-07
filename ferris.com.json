@@ -1,11 +1,20 @@
 {
   "entity_id": "8e809947-e0ef-5c03-8852-97e4e1f539a9",
+  "public_key_id": "8e809947-e0ef-5c03-8852-97e4e1f539a9",
   "name": "About • Technology & Humanity",
   "what_it_does": "Ferris.com appears to be a blog or publication covering the intersection of technology and humanity.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "technology and humanity",
+    "technology ethics",
+    "future of technology",
+    "social impact of technology",
+    "technology criticism",
+    "digital culture",
+    "internet culture"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8e809947-e0ef-5c03-8852-97e4e1f539a9"
 }

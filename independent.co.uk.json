@@ -1,11 +1,21 @@
 {
   "entity_id": "8a06847b-48ef-52c8-9f19-dc8df47bec45",
+  "public_key_id": "8a06847b-48ef-52c8-9f19-dc8df47bec45",
   "name": "The Independent",
   "what_it_does": "The Independent is a British online newspaper providing news and current affairs coverage.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "British news",
+    "current affairs",
+    "UK news",
+    "world news",
+    "political reporting",
+    "news publishing",
+    "investigative journalism",
+    "international news"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8a06847b-48ef-52c8-9f19-dc8df47bec45"
 }

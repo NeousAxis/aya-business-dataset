@@ -1,11 +1,21 @@
 {
   "entity_id": "12a975b2-c626-5f91-bbdd-aa9454b33e57",
+  "public_key_id": "12a975b2-c626-5f91-bbdd-aa9454b33e57",
   "name": "Mosaic",
   "what_it_does": "Mosaic is likely a media company providing creative content and digital storytelling services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "creative content",
+    "digital storytelling",
+    "media production",
+    "content creation",
+    "video production",
+    "film production",
+    "branded content",
+    "advertising campaigns"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/12a975b2-c626-5f91-bbdd-aa9454b33e57"
 }

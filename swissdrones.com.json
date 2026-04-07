@@ -1,11 +1,21 @@
 {
   "entity_id": "241c5dac-a052-5707-91d2-91af15d250cc",
+  "public_key_id": "241c5dac-a052-5707-91d2-91af15d250cc",
   "name": "SwissDrones Long-Range VTOL",
   "what_it_does": "SwissDrones manufactures long-range vertical take-off and landing unmanned aerial vehicles.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "VTOL",
+    "unmanned aerial vehicles",
+    "drones",
+    "long-range",
+    "aerial surveillance",
+    "inspection drones",
+    "industrial drones",
+    "aerial data acquisition"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/241c5dac-a052-5707-91d2-91af15d250cc"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "ced22e18-0909-55f9-a734-79a754026172",
+  "public_key_id": "ced22e18-0909-55f9-a734-79a754026172",
   "name": "ThredUp",
   "what_it_does": "ThredUp operates an online marketplace for buying and selling secondhand clothing and accessories.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 63.0,
+  "keywords": [
+    "secondhand clothing",
+    "used apparel",
+    "consignment fashion",
+    "resale marketplace",
+    "pre-owned clothes",
+    "women's fashion",
+    "thrifting"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ced22e18-0909-55f9-a734-79a754026172"
 }

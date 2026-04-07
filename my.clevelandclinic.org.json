@@ -1,11 +1,21 @@
 {
   "entity_id": "b128af94-6296-5a86-9732-98d14cc31adb",
+  "public_key_id": "b128af94-6296-5a86-9732-98d14cc31adb",
   "name": "Cleveland Clinic",
   "what_it_does": "Cleveland Clinic is a non-profit academic medical center providing healthcare services.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Spain",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "academic medical center",
+    "healthcare",
+    "medical treatment",
+    "clinical research",
+    "hospital",
+    "patient care",
+    "disease management",
+    "medical services"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b128af94-6296-5a86-9732-98d14cc31adb"
 }

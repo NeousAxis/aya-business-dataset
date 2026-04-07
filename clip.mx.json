@@ -1,11 +1,20 @@
 {
   "entity_id": "a49a4cca-9bd1-5f96-99b9-eaeb0953baa4",
+  "public_key_id": "a49a4cca-9bd1-5f96-99b9-eaeb0953baa4",
   "name": "Clip",
   "what_it_does": "Clip (Mexico) provides a mobile point-of-sale (mPOS) system for businesses.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Mexico",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "mobile point-of-sale",
+    "mPOS systems",
+    "payment processing",
+    "merchant services",
+    "small business payments",
+    "Mexico payments",
+    "card readers"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a49a4cca-9bd1-5f96-99b9-eaeb0953baa4"
 }

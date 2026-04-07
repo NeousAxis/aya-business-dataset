@@ -1,7 +1,8 @@
 {
-  "entity_id": "518c5a88-7ab9-5f7c-bb0b-637d1a938fb7",
+  "entity_id": "63404cf1-57a8-57d3-83d3-cda58399db27",
+  "public_key_id": "63404cf1-57a8-57d3-83d3-cda58399db27",
   "name": "KPMG",
-  "what_it_does": "KPMG is a multinational professional services network providing audit, tax and advisory services.",
+  "what_it_does": "KPMG is a global professional services firm providing audit, tax, and advisory services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
@@ -11,10 +12,10 @@
     "advisory services",
     "professional services",
     "financial auditing",
-    "risk management",
-    "kpmg global",
-    "business consulting"
+    "regulatory compliance",
+    "risk advisory",
+    "financial statements"
   ],
-  "aio_score": 72.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/518c5a88-7ab9-5f7c-bb0b-637d1a938fb7"
+  "aio_score": 50.0,
+  "certificate_url": "https://ai-visionary.com/aya/e/63404cf1-57a8-57d3-83d3-cda58399db27"
 }

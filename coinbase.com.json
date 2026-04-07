@@ -1,11 +1,21 @@
 {
   "entity_id": "1c1e7670-bfe6-50d7-a013-5accf081b813",
+  "public_key_id": "1c1e7670-bfe6-50d7-a013-5accf081b813",
   "name": "Coinbase",
   "what_it_does": "Coinbase operates a cryptocurrency exchange platform.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "cryptocurrency exchange",
+    "digital currency trading",
+    "bitcoin exchange",
+    "ethereum exchange",
+    "crypto assets",
+    "digital wallets",
+    "blockchain assets",
+    "crypto trading platform"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1c1e7670-bfe6-50d7-a013-5accf081b813"
 }

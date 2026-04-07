@@ -1,11 +1,20 @@
 {
   "entity_id": "50491e19-2288-5c02-afcd-23654f11adc5",
+  "public_key_id": "50491e19-2288-5c02-afcd-23654f11adc5",
   "name": "RADO® Uhren Deutschland",
   "what_it_does": "RADO® Uhren Deutschland sells Rado brand watches in Germany.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Rado watches",
+    "German retail",
+    "luxury watches",
+    "timepieces",
+    "watch sales",
+    "ceramic watches",
+    "German market"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/50491e19-2288-5c02-afcd-23654f11adc5"
 }

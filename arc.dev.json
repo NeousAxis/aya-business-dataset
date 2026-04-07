@@ -1,11 +1,21 @@
 {
   "entity_id": "ea7653fe-35c7-5515-89f1-ca4821a52f27",
+  "public_key_id": "ea7653fe-35c7-5515-89f1-ca4821a52f27",
   "name": "Arc",
   "what_it_does": "Arc provides a web browser built for developers.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "web browser for developers",
+    "developer tools",
+    "browser extensions",
+    "code debugging",
+    "web development",
+    "developer workflow",
+    "Arc browser",
+    "developer productivity"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ea7653fe-35c7-5515-89f1-ca4821a52f27"
 }

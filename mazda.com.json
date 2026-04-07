@@ -1,11 +1,20 @@
 {
   "entity_id": "9611f283-b5f0-5ed7-9312-920b183b5550",
-  "name": "MAZDA MOTOR CORPORATION GLOBAL WEBSITE",
+  "public_key_id": "9611f283-b5f0-5ed7-9312-920b183b5550",
+  "name": "Mazda",
   "what_it_does": "Mazda Motor Corporation manufactures and sells automobiles globally.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "automobile manufacturing",
+    "car sales",
+    "vehicle engineering",
+    "automotive industry",
+    "global auto market",
+    "passenger vehicles",
+    "motor vehicles"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9611f283-b5f0-5ed7-9312-920b183b5550"
 }

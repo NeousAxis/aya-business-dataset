@@ -1,11 +1,21 @@
 {
   "entity_id": "0ff22008-58ac-511b-a97c-23d490c9e345",
+  "public_key_id": "0ff22008-58ac-511b-a97c-23d490c9e345",
   "name": "finder.com",
   "what_it_does": "Finder.com is a comparison website for financial products and services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Australia",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "financial comparison",
+    "product comparison",
+    "personal finance",
+    "credit cards",
+    "loans",
+    "insurance",
+    "financial products",
+    "banking comparison"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0ff22008-58ac-511b-a97c-23d490c9e345"
 }

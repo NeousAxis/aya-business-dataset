@@ -1,11 +1,20 @@
 {
   "entity_id": "f68938d0-7e67-58cc-84a6-52ba7f725f0f",
+  "public_key_id": "f68938d0-7e67-58cc-84a6-52ba7f725f0f",
   "name": "Gun.io",
   "what_it_does": "Gun.io connects companies with freelance software developers.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "freelance developers",
+    "software engineers",
+    "developer staffing",
+    "technical talent",
+    "remote developers",
+    "developer marketplace",
+    "IT staffing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f68938d0-7e67-58cc-84a6-52ba7f725f0f"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "defc45b2-5e2a-5baf-910c-67d1c41f269d",
+  "public_key_id": "defc45b2-5e2a-5baf-910c-67d1c41f269d",
   "name": "Balderton",
   "what_it_does": "Balderton Capital is a venture capital firm that invests in technology companies.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "venture capital",
+    "technology investments",
+    "SaaS funding",
+    "early-stage startups",
+    "growth equity",
+    "European VC",
+    "tech sector",
+    "investment firm"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/defc45b2-5e2a-5baf-910c-67d1c41f269d"
 }

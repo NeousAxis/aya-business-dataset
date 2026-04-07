@@ -1,11 +1,20 @@
 {
   "entity_id": "694490f9-d7f3-59f6-bebb-c3f6dd78eb7f",
+  "public_key_id": "694490f9-d7f3-59f6-bebb-c3f6dd78eb7f",
   "name": "Trouver les meilleurs Freelances sur Malt",
   "what_it_does": "Malt is a platform connecting freelancers with companies for project-based work.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "freelance marketplace",
+    "project-based work",
+    "freelance talent",
+    "IT freelancers",
+    "digital freelancers",
+    "recruitment platform",
+    "independent contractors"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/694490f9-d7f3-59f6-bebb-c3f6dd78eb7f"
 }

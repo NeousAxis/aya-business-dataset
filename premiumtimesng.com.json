@@ -1,11 +1,21 @@
 {
   "entity_id": "ed481bf0-b5aa-568b-bfaf-5900e5412fe8",
+  "public_key_id": "ed481bf0-b5aa-568b-bfaf-5900e5412fe8",
   "name": "Premium Times",
   "what_it_does": "Premium Times is a Nigerian news organization providing investigative journalism and reporting.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "Nigerian news",
+    "investigative journalism",
+    "political reporting",
+    "current events",
+    "Nigerian media",
+    "African news",
+    "news organization",
+    "Nigerian affairs"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ed481bf0-b5aa-568b-bfaf-5900e5412fe8"
 }

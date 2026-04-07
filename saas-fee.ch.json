@@ -1,11 +1,20 @@
 {
   "entity_id": "f2e3860c-779a-5593-86d1-004566423b04",
+  "public_key_id": "f2e3860c-779a-5593-86d1-004566423b04",
   "name": "Saas-Fee/Saastal",
   "what_it_does": "Saas-Fee/Saastal promotes and manages tourism activities in the Saas-Fee region of Switzerland.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Saas-Fee",
+    "Swiss Alps tourism",
+    "holiday destination",
+    "ski resort",
+    "mountain activities",
+    "Switzerland travel",
+    "valley tourism"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f2e3860c-779a-5593-86d1-004566423b04"
 }

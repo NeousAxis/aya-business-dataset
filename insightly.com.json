@@ -1,11 +1,21 @@
 {
   "entity_id": "fca6d3d1-9bcf-5c06-b3d8-c6d2416311e8",
+  "public_key_id": "fca6d3d1-9bcf-5c06-b3d8-c6d2416311e8",
   "name": "Insightly",
   "what_it_does": "Insightly offers a CRM platform designed for small businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "CRM",
+    "small business CRM",
+    "sales automation",
+    "customer relationship",
+    "lead management",
+    "contact",
+    "marketing",
+    "CRM platform"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fca6d3d1-9bcf-5c06-b3d8-c6d2416311e8"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "d9eac1e7-70dd-5e4d-a222-bc929a27f4c8",
+  "public_key_id": "d9eac1e7-70dd-5e4d-a222-bc929a27f4c8",
   "name": "HackerRank",
   "what_it_does": "HackerRank provides a platform for coding challenges and technical skill assessment.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "coding challenges",
+    "technical assessment",
+    "developer skills",
+    "coding skills",
+    "hiring platform",
+    "programming skills",
+    "recruitment platform"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d9eac1e7-70dd-5e4d-a222-bc929a27f4c8"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "686ba2cc-38f8-568a-99a1-363b9677c94b",
+  "public_key_id": "686ba2cc-38f8-568a-99a1-363b9677c94b",
   "name": "ClickHouse",
   "what_it_does": "ClickHouse is an open-source column-oriented database management system.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "location": "United States",
+  "keywords": [
+    "column-oriented database",
+    "database management system",
+    "data warehousing",
+    "big data",
+    "data analytics",
+    "open-source database",
+    "real-time analytics",
+    "OLAP database"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/686ba2cc-38f8-568a-99a1-363b9677c94b"
 }

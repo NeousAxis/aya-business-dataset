@@ -1,11 +1,21 @@
 {
   "entity_id": "87ecc880-72e0-5721-b5b8-7722be202856",
+  "public_key_id": "87ecc880-72e0-5721-b5b8-7722be202856",
   "name": "Your best choice",
   "what_it_does": "Bystronic manufactures machines and systems for sheet metal processing.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "sheet metal processing",
+    "laser cutting machines",
+    "bending machines",
+    "automation systems",
+    "metal fabrication",
+    "cutting machinery",
+    "sheet metal machinery",
+    "metalworking solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/87ecc880-72e0-5721-b5b8-7722be202856"
 }

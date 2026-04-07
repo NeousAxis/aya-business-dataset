@@ -1,11 +1,20 @@
 {
   "entity_id": "aedf07f8-7544-5735-aeae-75ab3f309752",
+  "public_key_id": "aedf07f8-7544-5735-aeae-75ab3f309752",
   "name": "Dangote Industries Limited",
   "what_it_does": "Dangote Industries is a diversified conglomerate involved in manufacturing of commodities like cement, sugar, flour, and salt.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "cement manufacturing",
+    "sugar refining",
+    "flour milling",
+    "commodity manufacturing",
+    "African manufacturing",
+    "consumer goods",
+    "industrial manufacturing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aedf07f8-7544-5735-aeae-75ab3f309752"
 }

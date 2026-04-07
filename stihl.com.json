@@ -1,11 +1,21 @@
 {
   "entity_id": "1b6331dc-4903-5d1a-952a-f8987accd145",
+  "public_key_id": "1b6331dc-4903-5d1a-952a-f8987accd145",
   "name": "STIHL Vertriebszentrale AG & Co. KG",
   "what_it_does": "STIHL Vertriebszentrale AG & Co. KG distributes STIHL power tools and equipment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "STIHL power tools",
+    "power equipment distribution",
+    "forestry tools",
+    "gardening tools",
+    "landscaping equipment",
+    "chainsaws",
+    "outdoor power tools",
+    "arboriculture equipment"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1b6331dc-4903-5d1a-952a-f8987accd145"
 }

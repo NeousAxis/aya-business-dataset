@@ -1,11 +1,21 @@
 {
   "entity_id": "88d3594e-1938-5cbb-a9f2-453df7da94ca",
+  "public_key_id": "88d3594e-1938-5cbb-a9f2-453df7da94ca",
   "name": "Webuild Group",
   "what_it_does": "Webuild Group likely produces media content or facilitates communication through IT solutions.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Italy",
-  "keywords": [],
+  "keywords": [
+    "media production",
+    "IT communication",
+    "communication infrastructure",
+    "enterprise communication",
+    "technical communication",
+    "content creation",
+    "information dissemination",
+    "digital transformation"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/88d3594e-1938-5cbb-a9f2-453df7da94ca"
 }

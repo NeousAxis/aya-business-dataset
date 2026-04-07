@@ -1,11 +1,21 @@
 {
   "entity_id": "63baf6b9-2b09-5a9b-bb91-6f0c53bc2aea",
+  "public_key_id": "63baf6b9-2b09-5a9b-bb91-6f0c53bc2aea",
   "name": "Vector",
   "what_it_does": "Vector is a high-performance observability data pipeline.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "observability pipeline",
+    "data pipeline",
+    "log aggregation",
+    "metrics collection",
+    "event processing",
+    "high-performance data",
+    "data routing",
+    "telemetry data"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/63baf6b9-2b09-5a9b-bb91-6f0c53bc2aea"
 }

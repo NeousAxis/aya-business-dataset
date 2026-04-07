@@ -1,11 +1,21 @@
 {
   "entity_id": "8ba22471-e51e-5aaa-ba35-9d414b9ce07b",
-  "name": "Rive â the interactive experience engine",
+  "public_key_id": "8ba22471-e51e-5aaa-ba35-9d414b9ce07b",
+  "name": "Rive — the interactive experience engine",
   "what_it_does": "Rive is a platform for creating and deploying interactive vector graphics for applications and websites.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "interactive vector graphics",
+    "animation authoring",
+    "application design",
+    "motion design",
+    "UI animation",
+    "game design",
+    "real-time graphics",
+    "vector-based animation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8ba22471-e51e-5aaa-ba35-9d414b9ce07b"
 }

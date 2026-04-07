@@ -1,11 +1,21 @@
 {
   "entity_id": "04ca220f-c9df-5cd2-b783-ae2932b82fe8",
+  "public_key_id": "04ca220f-c9df-5cd2-b783-ae2932b82fe8",
   "name": "零一万物-AI2.0大模型技术和应用的全球公司（01.AI）",
   "what_it_does": "01.AI is a global company focused on developing and applying AI 2.0 large language model technology.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "large language models",
+    "AI 2.0",
+    "artificial intelligence",
+    "natural language processing",
+    "AI applications",
+    "generative AI",
+    "machine learning",
+    "AI research"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/04ca220f-c9df-5cd2-b783-ae2932b82fe8"
 }

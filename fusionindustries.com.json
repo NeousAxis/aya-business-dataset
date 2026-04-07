@@ -1,11 +1,21 @@
 {
   "entity_id": "7ba44dca-23fb-57c4-b4e2-aafc9e79d1ac",
+  "public_key_id": "7ba44dca-23fb-57c4-b4e2-aafc9e79d1ac",
   "name": "Fusion Industries",
   "what_it_does": "Fusion Industries likely provides industrial training and educational programs, given the name and education sector.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "industrial training",
+    "vocational education",
+    "technical skills",
+    "hands-on training",
+    "workforce development",
+    "manufacturing skills",
+    "equipment operation",
+    "safety training"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7ba44dca-23fb-57c4-b4e2-aafc9e79d1ac"
 }

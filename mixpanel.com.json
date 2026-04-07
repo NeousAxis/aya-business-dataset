@@ -1,11 +1,20 @@
 {
   "entity_id": "1a3dab73-6433-5d7e-8102-b82ca1db5937",
+  "public_key_id": "1a3dab73-6433-5d7e-8102-b82ca1db5937",
   "name": "Mixpanel",
   "what_it_does": "Mixpanel provides a product analytics platform for tracking user behavior.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "product analytics",
+    "user behavior",
+    "data analytics",
+    "event tracking",
+    "mobile analytics",
+    "web analytics",
+    "customer journey"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1a3dab73-6433-5d7e-8102-b82ca1db5937"
 }

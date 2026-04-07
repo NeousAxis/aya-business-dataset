@@ -1,11 +1,21 @@
 {
   "entity_id": "c89efc67-5508-5903-9d79-355ee3c3c079",
+  "public_key_id": "c89efc67-5508-5903-9d79-355ee3c3c079",
   "name": "HUG",
   "what_it_does": "HUG is the Geneva University Hospitals, providing medical care, research, and teaching.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "university hospitals",
+    "medical care",
+    "healthcare",
+    "medical research",
+    "geneva hospitals",
+    "hospital network",
+    "medical teaching",
+    "clinical "
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c89efc67-5508-5903-9d79-355ee3c3c079"
 }

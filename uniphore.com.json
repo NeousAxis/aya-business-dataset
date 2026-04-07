@@ -1,11 +1,21 @@
 {
   "entity_id": "a1f558f4-90d0-5fda-9fe1-9d11e8fb0fb5",
+  "public_key_id": "a1f558f4-90d0-5fda-9fe1-9d11e8fb0fb5",
   "name": "ActionIQ",
   "what_it_does": "ActionIQ likely offers software or services related to unified customer data and insights.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 56.0,
+  "keywords": [
+    "customer data",
+    "unified profiles",
+    "customer insights",
+    "marketing analytics",
+    "data-driven marketing",
+    "audience segmentation",
+    "personalized experiences",
+    "customer engagement"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a1f558f4-90d0-5fda-9fe1-9d11e8fb0fb5"
 }

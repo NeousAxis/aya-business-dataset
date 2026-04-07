@@ -1,11 +1,21 @@
 {
   "entity_id": "f50d510f-fa92-5cd7-b315-c8954750afd4",
+  "public_key_id": "f50d510f-fa92-5cd7-b315-c8954750afd4",
   "name": "Exmark",
   "what_it_does": "Exmark manufactures professional-grade lawn mowers and other turf management equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "professional lawn mowers",
+    "turf equipment",
+    "commercial mowing",
+    "landscape maintenance",
+    "lawn care",
+    "groundskeeping equipment",
+    "zero-turn mowers",
+    "lawn mower parts"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f50d510f-fa92-5cd7-b315-c8954750afd4"
 }

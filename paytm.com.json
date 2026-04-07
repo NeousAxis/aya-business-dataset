@@ -1,11 +1,21 @@
 {
   "entity_id": "9e2a80f8-a3c5-5542-84ef-48cf0e82936c",
+  "public_key_id": "9e2a80f8-a3c5-5542-84ef-48cf0e82936c",
   "name": "Paytm",
   "what_it_does": "Paytm offers a digital payment and financial services platform in India.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "India",
-  "keywords": [],
-  "aio_score": 54.0,
+  "keywords": [
+    "digital payments",
+    "mobile wallet",
+    "financial services",
+    "Indian fintech",
+    "payment gateway",
+    "e-commerce payments",
+    "money transfer",
+    "digital banking"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9e2a80f8-a3c5-5542-84ef-48cf0e82936c"
 }

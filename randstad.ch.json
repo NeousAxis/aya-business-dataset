@@ -1,11 +1,21 @@
 {
   "entity_id": "d780833a-51cc-531c-a339-46eacc6136b6",
+  "public_key_id": "d780833a-51cc-531c-a339-46eacc6136b6",
   "name": "Randstad",
   "what_it_does": "Randstad provides staffing and recruitment services in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "Swiss staffing",
+    "recruitment agency",
+    "temporary staffing",
+    "permanent placement",
+    "human resources",
+    "job placement",
+    "employment solutions",
+    "Switzerland jobs"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d780833a-51cc-531c-a339-46eacc6136b6"
 }

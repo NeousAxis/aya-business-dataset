@@ -1,11 +1,21 @@
 {
   "entity_id": "ab9f4afc-bf6d-5690-b225-0e388d5f5a00",
+  "public_key_id": "ab9f4afc-bf6d-5690-b225-0e388d5f5a00",
   "name": "Fortive",
   "what_it_does": "Fortive manufactures professional instrumentation and industrial technologies.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "professional instrumentation",
+    "industrial technologies",
+    "test and measurement",
+    "precision technologies",
+    "sensing technologies",
+    "product realization",
+    "medical instruments",
+    "environmental monitoring"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab9f4afc-bf6d-5690-b225-0e388d5f5a00"
 }

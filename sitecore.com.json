@@ -1,5 +1,6 @@
 {
   "entity_id": "5715e7ea-920a-5901-910a-13de7309c98b",
+  "public_key_id": "5715e7ea-920a-5901-910a-13de7309c98b",
   "name": "Sitecore",
   "what_it_does": "Sitecore provides a digital experience platform for managing content and customer interactions.",
   "for_who": "Businesses and developers.",
@@ -14,6 +15,6 @@
     "Digital experience platform",
     "Customer data management"
   ],
-  "aio_score": 76.0,
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5715e7ea-920a-5901-910a-13de7309c98b"
 }

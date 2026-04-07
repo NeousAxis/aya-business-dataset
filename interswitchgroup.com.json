@@ -1,11 +1,21 @@
 {
   "entity_id": "1236b55b-325f-5528-a0be-0dcf51583f20",
+  "public_key_id": "1236b55b-325f-5528-a0be-0dcf51583f20",
   "name": "Interswitch",
   "what_it_does": "Interswitch is an Africa-focused integrated digital payment and commerce company.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "African payments",
+    "digital commerce",
+    "payment gateway",
+    "fintech",
+    "transaction processing",
+    "card payments",
+    "mobile payments",
+    "e-commerce payments"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1236b55b-325f-5528-a0be-0dcf51583f20"
 }

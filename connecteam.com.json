@@ -1,11 +1,21 @@
 {
   "entity_id": "c6519ed0-d864-52cb-8f43-ef2ebb628b9d",
+  "public_key_id": "c6519ed0-d864-52cb-8f43-ef2ebb628b9d",
   "name": "Connecteam",
   "what_it_does": "Connecteam provides an all-in-one mobile app for managing and communicating with deskless employees.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Australia",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "deskless employee management",
+    "mobile workforce",
+    "employee communication",
+    "team collaboration",
+    "mobile app",
+    "field employee",
+    "workforce solution",
+    "employee scheduling"
+  ],
+  "aio_score": 74.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c6519ed0-d864-52cb-8f43-ef2ebb628b9d"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "01f67a89-58bb-5fb4-be14-f82209b00042",
+  "public_key_id": "01f67a89-58bb-5fb4-be14-f82209b00042",
   "name": "LAPP",
   "what_it_does": "LAPP manufactures cables, connectors, and industrial cabling solutions.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 41.0,
+  "keywords": [
+    "industrial cables",
+    "cable connectors",
+    "industrial cabling",
+    "cable solutions",
+    "automation cables",
+    "electrical connectors",
+    "wiring systems",
+    "cable accessories"
+  ],
+  "aio_score": 23.0,
   "certificate_url": "https://ai-visionary.com/aya/e/01f67a89-58bb-5fb4-be14-f82209b00042"
 }

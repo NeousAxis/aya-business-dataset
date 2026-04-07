@@ -1,11 +1,21 @@
 {
   "entity_id": "557d8958-0f4e-562e-8d6b-be7bfd6f95ba",
+  "public_key_id": "557d8958-0f4e-562e-8d6b-be7bfd6f95ba",
   "name": "South China Morning Post",
   "what_it_does": "South China Morning Post is a Hong Kong-based English-language newspaper.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Hong Kong",
-  "keywords": [],
-  "aio_score": 65.0,
+  "keywords": [
+    "Hong Kong newspaper",
+    "English-language newspaper",
+    "news publication",
+    "current affairs",
+    "Asian news",
+    "Hong Kong news",
+    "global news",
+    "international news"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/557d8958-0f4e-562e-8d6b-be7bfd6f95ba"
 }

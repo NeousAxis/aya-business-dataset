@@ -1,11 +1,21 @@
 {
   "entity_id": "15dbc61b-08a8-5a07-bdb9-dec4a2e2f059",
+  "public_key_id": "15dbc61b-08a8-5a07-bdb9-dec4a2e2f059",
   "name": "LSEG Data & Analytics",
   "what_it_does": "LSEG Data & Analytics provides financial markets data, analytics, and risk intelligence.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "China",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "financial data",
+    "financial analytics",
+    "risk intelligence",
+    "market data",
+    "investment data",
+    "data solutions",
+    "financial markets",
+    "economic indicators"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/15dbc61b-08a8-5a07-bdb9-dec4a2e2f059"
 }

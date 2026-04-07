@@ -1,11 +1,20 @@
 {
   "entity_id": "6c5aaa3f-a011-576b-bab7-a58c1215e788",
+  "public_key_id": "6c5aaa3f-a011-576b-bab7-a58c1215e788",
   "name": "Advancing Science for Life",
   "what_it_does": "Boston Scientific develops and manufactures medical devices used in interventional medical specialties.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "medical devices",
+    "interventional cardiology",
+    "endoscopy",
+    "neuromodulation",
+    "urology",
+    "peripheral interventions",
+    "medical technologies"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6c5aaa3f-a011-576b-bab7-a58c1215e788"
 }

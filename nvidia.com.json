@@ -1,11 +1,21 @@
 {
   "entity_id": "d67e2ced-b17f-57b0-a583-f9dbd2305e47",
+  "public_key_id": "d67e2ced-b17f-57b0-a583-f9dbd2305e47",
   "name": "NVIDIA",
   "what_it_does": "NVIDIA designs and manufactures graphics processing units (GPUs) and other integrated circuits for various industries.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
-  "location": "Germany",
-  "keywords": [],
-  "aio_score": 78.0,
+  "location": "United States",
+  "keywords": [
+    "GPUs",
+    "graphics cards",
+    "integrated circuits",
+    "gaming",
+    "artificial intelligence",
+    "data centers",
+    "professional visualization",
+    "automotive"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d67e2ced-b17f-57b0-a583-f9dbd2305e47"
 }

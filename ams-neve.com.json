@@ -1,11 +1,21 @@
 {
   "entity_id": "6a1c7819-e3e3-5aaf-ba5b-19fe6983dcc3",
+  "public_key_id": "6a1c7819-e3e3-5aaf-ba5b-19fe6983dcc3",
   "name": "Neve",
   "what_it_does": "AMS Neve designs and manufactures professional audio mixing consoles and equipment.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "audio mixing consoles",
+    "professional audio equipment",
+    "recording studio gear",
+    "broadcast equipment",
+    "audio processing",
+    "analog consoles",
+    "digital consoles",
+    "sound engineering"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6a1c7819-e3e3-5aaf-ba5b-19fe6983dcc3"
 }

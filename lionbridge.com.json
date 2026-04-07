@@ -1,11 +1,20 @@
 {
   "entity_id": "e5f2d2d4-af99-57a8-b98e-8c1e92252a7b",
+  "public_key_id": "e5f2d2d4-af99-57a8-b98e-8c1e92252a7b",
   "name": "Lionbridge",
   "what_it_does": "Lionbridge provides translation and localization services.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "China",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "translation",
+    "localization",
+    "language translation",
+    "global content",
+    "multilingual content",
+    "language ",
+    "interpretation"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e5f2d2d4-af99-57a8-b98e-8c1e92252a7b"
 }

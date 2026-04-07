@@ -1,11 +1,21 @@
 {
   "entity_id": "ec7e3857-9d11-566f-a97e-5d67a0dd6fa8",
+  "public_key_id": "ec7e3857-9d11-566f-a97e-5d67a0dd6fa8",
   "name": "Meezanbank",
   "what_it_does": "Meezan Bank is an Islamic bank providing financial services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Islamic banking",
+    "Sharia-compliant finance",
+    "retail banking",
+    "corporate banking",
+    "investment banking",
+    "financial products",
+    "Pakistan banking",
+    "halal finance"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec7e3857-9d11-566f-a97e-5d67a0dd6fa8"
 }

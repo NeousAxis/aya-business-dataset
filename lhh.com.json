@@ -1,11 +1,21 @@
 {
   "entity_id": "f4ae2ec3-3bb6-50ca-abeb-f5d6675aceb9",
+  "public_key_id": "f4ae2ec3-3bb6-50ca-abeb-f5d6675aceb9",
   "name": "LHH",
   "what_it_does": "LHH is a global career transition and outplacement services provider.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "career transition",
+    "outplacement",
+    "career",
+    "talent",
+    "workforce",
+    "HR",
+    "job search",
+    "leadership development"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f4ae2ec3-3bb6-50ca-abeb-f5d6675aceb9"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "63ba1da3-00a8-5756-b59d-4de9a09f11a7",
+  "public_key_id": "63ba1da3-00a8-5756-b59d-4de9a09f11a7",
   "name": "Revlon",
   "what_it_does": "Revlon manufactures and sells cosmetics, skincare, fragrance, and personal care products.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "cosmetics",
+    "skincare",
+    "fragrances",
+    "personal care",
+    "beauty products",
+    "makeup",
+    "cosmetic retail",
+    "beauty industry"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/63ba1da3-00a8-5756-b59d-4de9a09f11a7"
 }

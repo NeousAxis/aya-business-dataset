@@ -1,11 +1,20 @@
 {
   "entity_id": "4a966a4b-e426-5dbd-80dd-bd29db6ba389",
+  "public_key_id": "4a966a4b-e426-5dbd-80dd-bd29db6ba389",
   "name": "Wesfarmers",
   "what_it_does": "Wesfarmers is a diversified Australian conglomerate with interests in retail, chemicals, and industrial products.",
   "for_who": "Businesses and professionals.",
-  "category": "Industrie & Manufacturing",
+  "category": "E-commerce & Retail",
   "location": "Australia",
-  "keywords": [],
+  "keywords": [
+    "retail conglomerate",
+    "Australian retail",
+    "chemicals",
+    "industrial products",
+    "hardware stores",
+    "department stores",
+    "home improvement"
+  ],
   "aio_score": 38.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a966a4b-e426-5dbd-80dd-bd29db6ba389"
 }

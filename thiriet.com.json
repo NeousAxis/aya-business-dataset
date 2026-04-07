@@ -1,11 +1,20 @@
 {
   "entity_id": "7be54f53-cb0e-54f0-97f3-b06c6962ec78",
+  "public_key_id": "7be54f53-cb0e-54f0-97f3-b06c6962ec78",
   "name": "Livraison de surgelés et retrait magasins Thiriet",
   "what_it_does": "Thiriet delivers frozen food and has physical stores for pickup.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 55.0,
+  "keywords": [
+    "frozen food",
+    "frozen meals",
+    "food delivery",
+    "Thiriet",
+    "frozen grocery",
+    "home delivery",
+    "ready meals"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7be54f53-cb0e-54f0-97f3-b06c6962ec78"
 }

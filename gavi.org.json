@@ -1,11 +1,21 @@
 {
   "entity_id": "ab185845-21a2-5dd6-9504-ffd9a850b39a",
+  "public_key_id": "ab185845-21a2-5dd6-9504-ffd9a850b39a",
   "name": "Gavi, the Vaccine Alliance",
   "what_it_does": "Gavi, the Vaccine Alliance works to improve access to vaccines in developing countries.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "vaccine access",
+    "immunization programs",
+    "global health",
+    "developing countries",
+    "vaccine distribution",
+    "childhood immunization",
+    "public health initiatives",
+    "international aid"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab185845-21a2-5dd6-9504-ffd9a850b39a"
 }

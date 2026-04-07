@@ -1,11 +1,21 @@
 {
   "entity_id": "4ff8618f-c660-5e86-9fd1-2af6e8925616",
+  "public_key_id": "4ff8618f-c660-5e86-9fd1-2af6e8925616",
   "name": "Varsity Tutors",
   "what_it_does": "Varsity Tutors connects students with tutors for in-person and online tutoring services.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "private tutoring",
+    "academic tutoring",
+    "test preparation",
+    "K-12 tutoring",
+    "college tutoring",
+    "online instruction",
+    "in-home tutoring",
+    "subject matter experts"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4ff8618f-c660-5e86-9fd1-2af6e8925616"
 }

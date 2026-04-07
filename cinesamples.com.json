@@ -1,11 +1,21 @@
 {
   "entity_id": "8889d227-b72d-5270-9949-6107adc7ee8b",
+  "public_key_id": "8889d227-b72d-5270-9949-6107adc7ee8b",
   "name": "Cinesamples",
   "what_it_does": "Cinesamples creates and sells virtual instrument sample libraries for film, TV, and game composers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "virtual instruments",
+    "sample libraries",
+    "film composers",
+    "TV composers",
+    "game composers",
+    "sound design",
+    "audio production",
+    "music production"
+  ],
   "aio_score": 31.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8889d227-b72d-5270-9949-6107adc7ee8b"
 }

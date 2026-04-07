@@ -1,11 +1,21 @@
 {
   "entity_id": "1ec8cb21-dbea-5ff5-832e-b3b208e000bd",
+  "public_key_id": "1ec8cb21-dbea-5ff5-832e-b3b208e000bd",
   "name": "Knorr-Bremse Group",
   "what_it_does": "Knorr-Bremse manufactures braking systems and supplies for rail and commercial vehicles.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "braking systems",
+    "rail vehicles",
+    "commercial vehicles",
+    "vehicle components",
+    "pneumatic systems",
+    "vehicle safety",
+    "Knorr-Bremse",
+    "truck brakes"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1ec8cb21-dbea-5ff5-832e-b3b208e000bd"
 }

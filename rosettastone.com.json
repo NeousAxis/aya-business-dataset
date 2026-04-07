@@ -1,11 +1,21 @@
 {
   "entity_id": "c88e7c22-6c33-595e-a131-0f657561c524",
+  "public_key_id": "c88e7c22-6c33-595e-a131-0f657561c524",
   "name": "Rosetta Stone",
   "what_it_does": "Rosetta Stone provides language learning software and online courses.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 67.0,
+  "keywords": [
+    "language courses",
+    "language learning",
+    "e-learning",
+    "language education",
+    "speech recognition",
+    "language software",
+    "subscription learning",
+    "foreign languages"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c88e7c22-6c33-595e-a131-0f657561c524"
 }

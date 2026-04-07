@@ -1,11 +1,21 @@
 {
   "entity_id": "409c556f-eca7-5fe0-9275-548777950140",
-  "name": "å®æ ç§æâå¨çåè¶³æºå¨äººè¡ä¸å¼åè",
+  "public_key_id": "409c556f-eca7-5fe0-9275-548777950140",
+  "name": "å®æ ç§æ—å¨çåè¶³æºå¨äººè¡ä¸å¼åè",
   "what_it_does": "Unitree Robotics designs and manufactures quadruped robots.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "China",
-  "keywords": [],
+  "keywords": [
+    "quadruped robots",
+    "robotics",
+    "legged robots",
+    "robot design",
+    "robot manufacture",
+    "AI robotics",
+    "robot platforms",
+    "research robots"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/409c556f-eca7-5fe0-9275-548777950140"
 }

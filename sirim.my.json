@@ -1,11 +1,20 @@
 {
   "entity_id": "4ef5fa4e-2a06-5ee2-829e-b14b790c65ed",
+  "public_key_id": "4ef5fa4e-2a06-5ee2-829e-b14b790c65ed",
   "name": "SIRIM Berhad",
   "what_it_does": "SIRIM Berhad provides standards and industrial research services in Malaysia.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "industrial research",
+    "standards development",
+    "testing certification",
+    "quality assurance",
+    "malaysia",
+    "manufacturing support",
+    "product certification"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4ef5fa4e-2a06-5ee2-829e-b14b790c65ed"
 }

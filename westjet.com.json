@@ -1,11 +1,21 @@
 {
   "entity_id": "409663a5-551c-5215-919d-69ff2d1b4fea",
+  "public_key_id": "409663a5-551c-5215-919d-69ff2d1b4fea",
   "name": "Flights and vacation packages",
   "what_it_does": "Westjet provides air transportation services and vacation packages.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Canada",
-  "keywords": [],
+  "keywords": [
+    "air travel",
+    "vacation packages",
+    "flight booking",
+    "airline tickets",
+    "travel deals",
+    "vacation planning",
+    "air transportation",
+    "flights"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/409663a5-551c-5215-919d-69ff2d1b4fea"
 }

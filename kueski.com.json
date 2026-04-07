@@ -1,11 +1,21 @@
 {
   "entity_id": "96a6b85e-1bd8-5bce-9898-be9264386853",
+  "public_key_id": "96a6b85e-1bd8-5bce-9898-be9264386853",
   "name": "Kueski",
   "what_it_does": "Kueski provides online personal loans to users in Mexico.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "personal loans Mexico",
+    "online loans",
+    "microloans",
+    "financial services Mexico",
+    "consumer lending",
+    "Kueski loans",
+    "credit services",
+    "unsecured loans"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/96a6b85e-1bd8-5bce-9898-be9264386853"
 }

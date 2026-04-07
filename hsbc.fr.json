@@ -1,11 +1,21 @@
 {
   "entity_id": "5b115ecc-e972-564a-b11f-4d8bd43c4154",
+  "public_key_id": "5b115ecc-e972-564a-b11f-4d8bd43c4154",
   "name": "HSBC en France",
   "what_it_does": "HSBC France offers a range of banking and financial services to individuals and businesses in France.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "French banking",
+    "financial services France",
+    "retail banking",
+    "commercial banking",
+    "investment banking",
+    "wealth management",
+    "personal finance",
+    "HSBC"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5b115ecc-e972-564a-b11f-4d8bd43c4154"
 }

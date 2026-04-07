@@ -1,11 +1,20 @@
 {
   "entity_id": "1ea572b6-0814-5ff9-af1a-e2814733ebbc",
+  "public_key_id": "1ea572b6-0814-5ff9-af1a-e2814733ebbc",
   "name": "Olo Flywheel Explainer_2025.08",
   "what_it_does": "Olo provides a digital ordering platform for restaurants.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "Singapore banking",
+    "multinational finance",
+    "banking services",
+    "financial corporation",
+    "investment banking",
+    "retail banking",
+    "corporate finance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1ea572b6-0814-5ff9-af1a-e2814733ebbc"
 }

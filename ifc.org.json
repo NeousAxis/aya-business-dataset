@@ -1,11 +1,21 @@
 {
   "entity_id": "2afa62dc-730b-53dd-97ff-182bf6c984ff",
+  "public_key_id": "2afa62dc-730b-53dd-97ff-182bf6c984ff",
   "name": "International Finance Corporation (IFC)",
   "what_it_does": "The IFC provides investment, advisory, and asset-management services to encourage private sector development in developing countries.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "investment",
+    "private sector development",
+    "emerging markets",
+    "financial advisory",
+    "asset management",
+    "development finance",
+    "global finance",
+    "sustainable investment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2afa62dc-730b-53dd-97ff-182bf6c984ff"
 }

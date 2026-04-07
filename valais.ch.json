@@ -1,11 +1,21 @@
 {
   "entity_id": "78ba1eb1-2477-5d42-9d89-c7a61608f2c4",
+  "public_key_id": "78ba1eb1-2477-5d42-9d89-c7a61608f2c4",
   "name": "Valais/Wallis Promotion",
   "what_it_does": "Valais/Wallis Promotion is the tourism board for the Valais/Wallis region of Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "Swiss tourism",
+    "Valais region",
+    "Wallis region",
+    "mountain tourism",
+    "ski resorts",
+    "hiking trails",
+    "Swiss Alps",
+    "regional promotion"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/78ba1eb1-2477-5d42-9d89-c7a61608f2c4"
 }

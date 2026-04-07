@@ -1,11 +1,21 @@
 {
   "entity_id": "74296f6a-fd9a-5fce-95e9-a93dc68b9cf0",
+  "public_key_id": "74296f6a-fd9a-5fce-95e9-a93dc68b9cf0",
   "name": "Comptes bancaires gratuits et rémunérés",
   "what_it_does": "Sumeria provides free and interest-bearing bank accounts.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "free bank accounts",
+    "interest-bearing accounts",
+    "retail banking",
+    "financial transactions",
+    "payment processing",
+    "mobile banking",
+    "personal finance",
+    "banking services"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/74296f6a-fd9a-5fce-95e9-a93dc68b9cf0"
 }

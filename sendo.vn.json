@@ -1,11 +1,21 @@
 {
   "entity_id": "a0cad1c7-2589-55f4-a049-fc0a8b926c0f",
+  "public_key_id": "a0cad1c7-2589-55f4-a049-fc0a8b926c0f",
   "name": "FPT Sendo Farm",
   "what_it_does": "Sendo Farm (Vietnam) likely provides media content about agriculture.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "agricultural media",
+    "farming content",
+    "Vietnam agriculture",
+    "rural content",
+    "farming practices",
+    "agriculture news",
+    "farm information",
+    "crop cultivation"
+  ],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a0cad1c7-2589-55f4-a049-fc0a8b926c0f"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "eb5a015c-f9a9-5c44-aac0-e88ebbdfd43d",
+  "public_key_id": "eb5a015c-f9a9-5c44-aac0-e88ebbdfd43d",
   "name": "Montres Breguet",
   "what_it_does": "Montres Breguet manufactures and sells luxury watches.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "luxury timepieces",
+    "swiss watches",
+    "haute horlogerie",
+    "mechanical watches",
+    "watchmaking",
+    "luxury watch retailer",
+    "fine watches"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eb5a015c-f9a9-5c44-aac0-e88ebbdfd43d"
 }

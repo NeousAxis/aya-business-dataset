@@ -1,11 +1,21 @@
 {
   "entity_id": "7423dc21-994e-5a94-94ed-e880b5bde4b8",
+  "public_key_id": "7423dc21-994e-5a94-94ed-e880b5bde4b8",
   "name": "GE Companies",
   "what_it_does": "GE Companies (General Electric) manufactures a variety of industrial products and provides related services.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "China",
-  "keywords": [],
+  "keywords": [
+    "industrial products",
+    "aviation equipment",
+    "power generation",
+    "renewable energy",
+    "healthcare ",
+    "engineering ",
+    "industrial manufacturing",
+    "energy solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7423dc21-994e-5a94-94ed-e880b5bde4b8"
 }

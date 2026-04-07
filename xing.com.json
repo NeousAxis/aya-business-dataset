@@ -1,11 +1,21 @@
 {
   "entity_id": "7a4139eb-072d-5b33-8ea8-e84366df4cd6",
+  "public_key_id": "7a4139eb-072d-5b33-8ea8-e84366df4cd6",
   "name": "XING",
   "what_it_does": "XING is a professional networking platform primarily used in German-speaking countries.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 55.0,
+  "keywords": [
+    "professional networking",
+    "career platform",
+    "job search",
+    "business network",
+    "German speaking countries",
+    "professional profiles",
+    "recruiting",
+    "social network"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7a4139eb-072d-5b33-8ea8-e84366df4cd6"
 }

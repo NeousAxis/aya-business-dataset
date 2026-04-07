@@ -1,11 +1,21 @@
 {
   "entity_id": "e387caf5-c2b8-5eb8-b5dc-096418ead274",
+  "public_key_id": "e387caf5-c2b8-5eb8-b5dc-096418ead274",
   "name": "Chubb in der Schweiz",
   "what_it_does": "Chubb in der Schweiz (Switzerland) offers property and casualty insurance products.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "property insurance",
+    "casualty insurance",
+    "commercial insurance",
+    "risk management",
+    "Swiss insurance",
+    "accident insurance",
+    "liability coverage",
+    "insurance products"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e387caf5-c2b8-5eb8-b5dc-096418ead274"
 }

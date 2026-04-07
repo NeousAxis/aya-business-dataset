@@ -1,11 +1,21 @@
 {
   "entity_id": "7cfb83f1-0723-5d33-a014-6843a7468b83",
+  "public_key_id": "7cfb83f1-0723-5d33-a014-6843a7468b83",
   "name": "MoMo",
   "what_it_does": "MoMo is a mobile e-wallet and payment application in Vietnam.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Vietnam",
-  "keywords": [],
+  "keywords": [
+    "mobile e-wallet",
+    "payment application",
+    "digital payments",
+    "Vietnam fintech",
+    "mobile money",
+    "financial transactions",
+    "e-payments",
+    "electronic wallet"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7cfb83f1-0723-5d33-a014-6843a7468b83"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "35e84eec-2337-54d9-be19-51a6cababda0",
+  "public_key_id": "35e84eec-2337-54d9-be19-51a6cababda0",
   "name": "Bank med banktjänster och försäkring",
   "what_it_does": "Swedbank provides banking and insurance services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Sweden",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "Swedish banking",
+    "insurance products",
+    "personal finance",
+    "corporate banking",
+    "mortgages",
+    "savings accounts",
+    "investment advice",
+    "loan products"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/35e84eec-2337-54d9-be19-51a6cababda0"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "a825665d-6dac-57c4-8ae1-924c37538208",
+  "public_key_id": "a825665d-6dac-57c4-8ae1-924c37538208",
   "name": "SafetyCulture",
   "what_it_does": "SafetyCulture provides a platform for safety inspections and workplace safety management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "safety inspections",
+    "workplace safety",
+    "hazard reporting",
+    "incident management",
+    "audit checklists",
+    "mobile inspections",
+    "safety management systems"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a825665d-6dac-57c4-8ae1-924c37538208"
 }

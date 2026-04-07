@@ -1,11 +1,20 @@
 {
   "entity_id": "9f05c2fb-b0ef-5072-8f1f-cd4f03d3d17b",
+  "public_key_id": "9f05c2fb-b0ef-5072-8f1f-cd4f03d3d17b",
   "name": "JWX",
   "what_it_does": "JWX likely provides technology and SaaS solutions based on the 'jwx' domain.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "jwx",
+    "domain solutions",
+    "technology",
+    "cloud solutions",
+    "enterprise solutions",
+    "cloud services",
+    "it infrastructure"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9f05c2fb-b0ef-5072-8f1f-cd4f03d3d17b"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "82ed4d98-5dea-53f7-92e5-e8f747e69662",
+  "public_key_id": "82ed4d98-5dea-53f7-92e5-e8f747e69662",
   "name": "BlackBerry",
   "what_it_does": "BlackBerry provides cybersecurity software and services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "cybersecurity",
+    "security software",
+    "endpoint security",
+    "data protection",
+    "mobile security",
+    "security services",
+    "threat prevention",
+    "cyber defense"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/82ed4d98-5dea-53f7-92e5-e8f747e69662"
 }

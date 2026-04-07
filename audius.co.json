@@ -1,11 +1,21 @@
 {
   "entity_id": "088771d6-8520-5097-85af-e9362817e5a9",
+  "public_key_id": "088771d6-8520-5097-85af-e9362817e5a9",
   "name": "Audius",
   "what_it_does": "Audius is a decentralized music streaming protocol and platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 27.0,
+  "keywords": [
+    "decentralized music",
+    "blockchain music",
+    "music protocol",
+    "independent musicians",
+    "crypto music",
+    "music streaming platform",
+    "web3 music",
+    "artist monetization"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/088771d6-8520-5097-85af-e9362817e5a9"
 }

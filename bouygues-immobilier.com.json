@@ -1,11 +1,20 @@
 {
   "entity_id": "b3689951-d302-52aa-bfd6-ee7f6932ffde",
+  "public_key_id": "b3689951-d302-52aa-bfd6-ee7f6932ffde",
   "name": "Bouygues Immobilier",
   "what_it_does": "Bouygues Immobilier develops and manages residential, commercial, and urban development real estate projects.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 67.0,
+  "keywords": [
+    "residential real estate development",
+    "commercial property",
+    "urban planning",
+    "property management",
+    "real estate investment",
+    "housing development",
+    "office spaces"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b3689951-d302-52aa-bfd6-ee7f6932ffde"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "d9631e9b-fb0a-5bce-b28b-1762de18fb54",
+  "public_key_id": "d9631e9b-fb0a-5bce-b28b-1762de18fb54",
   "name": "Saleor Commerce",
   "what_it_does": "Saleor Commerce is an open-source headless e-commerce platform for building online storefronts.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "headless commerce",
+    "open-source e-commerce",
+    "API-first e-commerce",
+    "e-commerce storefronts",
+    "composable commerce",
+    "custom e-commerce",
+    "e-commerce platform",
+    "API-driven commerce"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d9631e9b-fb0a-5bce-b28b-1762de18fb54"
 }

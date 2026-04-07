@@ -1,11 +1,20 @@
 {
   "entity_id": "0c02de99-ba29-5a33-ad38-1ab81ffad72d",
+  "public_key_id": "0c02de99-ba29-5a33-ad38-1ab81ffad72d",
   "name": "OMV Aktiengesellschaft",
   "what_it_does": "OMV is an integrated oil, gas, and chemical company.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "data collection",
+    "data management",
+    "data analysis",
+    "low-connectivity",
+    "mobile data",
+    "field data",
+    "remote data"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0c02de99-ba29-5a33-ad38-1ab81ffad72d"
 }

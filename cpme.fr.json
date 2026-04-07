@@ -1,11 +1,21 @@
 {
   "entity_id": "178feeef-1a75-5276-8b44-7a3dd7237003",
+  "public_key_id": "178feeef-1a75-5276-8b44-7a3dd7237003",
   "name": "CPME",
   "what_it_does": "CPME (Confédération des PME) is an advocacy group representing small and medium-sized enterprises in France.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "SME advocacy",
+    "French SMEs",
+    "employer federation",
+    "business representation",
+    "economic policy",
+    "small and medium enterprises",
+    "France economy",
+    "business support"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/178feeef-1a75-5276-8b44-7a3dd7237003"
 }

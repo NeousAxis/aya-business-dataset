@@ -1,11 +1,21 @@
 {
   "entity_id": "ec58bf98-8cbc-557d-8958-ce1e6373811d",
+  "public_key_id": "ec58bf98-8cbc-557d-8958-ce1e6373811d",
   "name": "Circle",
   "what_it_does": "Circle provides payment and treasury infrastructure for digital businesses, focusing on stablecoins like USDC.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "stablecoins",
+    "USDC",
+    "digital payments",
+    "treasury infrastructure",
+    "crypto finance",
+    "blockchain payments",
+    "digital currency",
+    "payment rails"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ec58bf98-8cbc-557d-8958-ce1e6373811d"
 }

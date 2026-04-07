@@ -1,11 +1,21 @@
 {
   "entity_id": "175bc7b0-c772-54a9-a72c-0f4ec8985919",
+  "public_key_id": "175bc7b0-c772-54a9-a72c-0f4ec8985919",
   "name": "Eleven-labs",
   "what_it_does": "Eleven-labs likely provides technology and SaaS services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 71.0,
+  "keywords": [
+    "voice cloning",
+    "speech synthesis",
+    "AI voice",
+    "text to speech",
+    "audio generation",
+    "realistic voice",
+    "synthetic voices",
+    "AI audio"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/175bc7b0-c772-54a9-a72c-0f4ec8985919"
 }

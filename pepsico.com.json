@@ -1,11 +1,20 @@
 {
   "entity_id": "fb056f7f-5ba1-5287-8741-6ec51aeaec24",
+  "public_key_id": "fb056f7f-5ba1-5287-8741-6ec51aeaec24",
   "name": "PepsiCo",
   "what_it_does": "PepsiCo manufactures, markets, and distributes beverages and snack foods.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Mexico",
-  "keywords": [],
+  "keywords": [
+    "beverages",
+    "snack foods",
+    "food manufacturing",
+    "global food market",
+    "soft drinks",
+    "salty snacks",
+    "packaged foods"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fb056f7f-5ba1-5287-8741-6ec51aeaec24"
 }

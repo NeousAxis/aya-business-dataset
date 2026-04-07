@@ -1,11 +1,21 @@
 {
   "entity_id": "7793ae37-59c0-54d9-90b4-727d19bb09e0",
+  "public_key_id": "7793ae37-59c0-54d9-90b4-727d19bb09e0",
   "name": "Coinsquare",
   "what_it_does": "Coinsquare operates a cryptocurrency exchange platform for buying, selling, and trading digital assets.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Canada",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "cryptocurrency exchange",
+    "digital asset trading",
+    "crypto marketplace",
+    "bitcoin exchange",
+    "etherium exchange",
+    "blockchain assets",
+    "crypto investments",
+    "Canadian crypto"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7793ae37-59c0-54d9-90b4-727d19bb09e0"
 }

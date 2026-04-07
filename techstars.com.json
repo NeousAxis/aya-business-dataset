@@ -1,11 +1,21 @@
 {
   "entity_id": "e4127c83-d85d-5b15-937f-e667449dab29",
+  "public_key_id": "e4127c83-d85d-5b15-937f-e667449dab29",
   "name": "Techstars",
   "what_it_does": "Techstars is a startup accelerator and venture capital firm.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 51.0,
+  "keywords": [
+    "startup accelerator",
+    "venture capital",
+    "seed funding",
+    "early-stage startups",
+    "mentorship programs",
+    "startup investments",
+    "entrepreneurship",
+    "startup ecosystem"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e4127c83-d85d-5b15-937f-e667449dab29"
 }

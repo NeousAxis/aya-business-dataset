@@ -1,11 +1,21 @@
 {
   "entity_id": "33ba52bb-364c-520b-ba60-ea7e71bde3f6",
+  "public_key_id": "33ba52bb-364c-520b-ba60-ea7e71bde3f6",
   "name": "KAYAK",
   "what_it_does": "KAYAK is a travel search engine that allows users to compare prices on flights, hotels, and rental cars.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Spain",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "travel search",
+    "flight comparison",
+    "hotel search",
+    "rental car comparison",
+    "travel booking",
+    "vacation planning",
+    "travel deals",
+    "accommodation search"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/33ba52bb-364c-520b-ba60-ea7e71bde3f6"
 }

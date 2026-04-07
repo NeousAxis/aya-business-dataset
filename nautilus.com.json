@@ -1,11 +1,21 @@
 {
   "entity_id": "633e4517-c945-56cd-a393-35180886bb94",
+  "public_key_id": "633e4517-c945-56cd-a393-35180886bb94",
   "name": "Nautilus",
   "what_it_does": "Nautilus sells home fitness equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 51.0,
+  "keywords": [
+    "home fitness equipment",
+    "exercise machines",
+    "cardio equipment",
+    "strength training",
+    "in-home workouts",
+    "fitness gear",
+    "consumer fitness",
+    "weight training"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/633e4517-c945-56cd-a393-35180886bb94"
 }

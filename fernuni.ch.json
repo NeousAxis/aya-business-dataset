@@ -1,11 +1,21 @@
 {
   "entity_id": "8f5316a5-242e-5189-8f10-3663cd461a28",
+  "public_key_id": "8f5316a5-242e-5189-8f10-3663cd461a28",
   "name": "FernUni Schweiz ·",
   "what_it_does": "FernUni Schweiz is a Swiss distance learning university.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "distance learning",
+    "Swiss university",
+    "remote education",
+    "online courses",
+    "adult education",
+    "academic programs",
+    "university degree",
+    "e-learning"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8f5316a5-242e-5189-8f10-3663cd461a28"
 }

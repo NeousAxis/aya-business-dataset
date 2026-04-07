@@ -1,11 +1,20 @@
 {
   "entity_id": "2dfb54d6-8ebf-57bc-8421-acc82abfe647",
+  "public_key_id": "2dfb54d6-8ebf-57bc-8421-acc82abfe647",
   "name": "Internetportal Kanton Bern",
   "what_it_does": "The Canton of Bern provides online information and services for residents and businesses in the canton.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Bern canton",
+    "government information",
+    "resident information",
+    "local affairs",
+    "cantonal services",
+    "public administration",
+    "Switzerland government"
+  ],
   "aio_score": 27.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2dfb54d6-8ebf-57bc-8421-acc82abfe647"
 }

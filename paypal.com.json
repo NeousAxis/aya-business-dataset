@@ -1,11 +1,21 @@
 {
   "entity_id": "018b9829-53a4-5fca-8bb6-ac7d28c0298c",
+  "public_key_id": "018b9829-53a4-5fca-8bb6-ac7d28c0298c",
   "name": "PayPal",
   "what_it_does": "PayPal provides online payment solutions for individuals and businesses to send and receive money electronically.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 73.0,
+  "keywords": [
+    "payment processing",
+    "electronic payments",
+    "money transfers",
+    "e-commerce payments",
+    "peer-to-peer payments",
+    "merchant accounts",
+    "payment gateway",
+    "digital wallet"
+  ],
+  "aio_score": 77.0,
   "certificate_url": "https://ai-visionary.com/aya/e/018b9829-53a4-5fca-8bb6-ac7d28c0298c"
 }

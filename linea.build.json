@@ -1,11 +1,20 @@
 {
   "entity_id": "1eb93a04-5196-5753-806d-c1374f770b6d",
+  "public_key_id": "1eb93a04-5196-5753-806d-c1374f770b6d",
   "name": "Linea",
   "what_it_does": "Linea is building a developer-friendly zkEVM rollup network.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "zkEVM rollup",
+    "layer 2 scaling",
+    "Ethereum scaling",
+    "developer tools",
+    "blockchain infrastructure",
+    "zero-knowledge proofs",
+    "Web3 development"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1eb93a04-5196-5753-806d-c1374f770b6d"
 }

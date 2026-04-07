@@ -1,11 +1,21 @@
 {
   "entity_id": "016b07d6-01e1-5822-9163-66f0e3384fbd",
+  "public_key_id": "016b07d6-01e1-5822-9163-66f0e3384fbd",
   "name": "SingleStore",
   "what_it_does": "SingleStore offers a distributed SQL database for real-time data processing.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 78.0,
+  "keywords": [
+    "distributed SQL database",
+    "real-time data",
+    "data processing",
+    "SQL database",
+    "data analytics",
+    "cloud database",
+    "data warehousing",
+    "transactional database"
+  ],
+  "aio_score": 71.0,
   "certificate_url": "https://ai-visionary.com/aya/e/016b07d6-01e1-5822-9163-66f0e3384fbd"
 }

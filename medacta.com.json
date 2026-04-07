@@ -1,11 +1,21 @@
 {
   "entity_id": "d7963e13-566a-57b1-af3a-f4af2345889e",
+  "public_key_id": "d7963e13-566a-57b1-af3a-f4af2345889e",
   "name": "Medacta Corporate",
   "what_it_does": "Medacta designs, manufactures, and distributes orthopedic implants and surgical instruments.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "orthopedic implants",
+    "surgical instruments",
+    "hip replacements",
+    "knee replacements",
+    "spine surgery",
+    "orthopedic devices",
+    "medical devices",
+    "surgical solutions"
+  ],
   "aio_score": 33.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d7963e13-566a-57b1-af3a-f4af2345889e"
 }

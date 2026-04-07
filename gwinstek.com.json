@@ -1,11 +1,21 @@
 {
   "entity_id": "e0184431-2440-59e6-b859-8c4a46aad872",
+  "public_key_id": "e0184431-2440-59e6-b859-8c4a46aad872",
   "name": "Gwinstek",
   "what_it_does": "Gwinstek manufactures electronic test and measurement instruments like oscilloscopes and signal generators.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "electronic instruments",
+    "oscilloscopes",
+    "signal generators",
+    "test equipment",
+    "measurement devices",
+    "electronic testing",
+    "laboratory equipment",
+    "power supplies"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e0184431-2440-59e6-b859-8c4a46aad872"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "813eecf7-4e20-5582-96f2-c0e5ae241d84",
+  "public_key_id": "813eecf7-4e20-5582-96f2-c0e5ae241d84",
   "name": "startupticker.ch News Startupticker.ch",
   "what_it_does": "Startupticker.ch provides news and information about startups in Switzerland.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Swiss startups",
+    "startup news",
+    "venture capital",
+    "innovation ecosystem",
+    "startup funding",
+    "Swiss business",
+    "startup events",
+    "entrepreneurship"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/813eecf7-4e20-5582-96f2-c0e5ae241d84"
 }

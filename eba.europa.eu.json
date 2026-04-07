@@ -1,11 +1,19 @@
 {
   "entity_id": "8b58dc13-3293-545b-a0e6-a035f63d5dc8",
+  "public_key_id": "8b58dc13-3293-545b-a0e6-a035f63d5dc8",
   "name": "European Banking Authority",
   "what_it_does": "The European Banking Authority (EBA) regulates and supervises the banking sector across the European Union.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "EU banking regulation",
+    "banking supervision",
+    "European Union financial institutions",
+    "banking sector oversight",
+    "EU financial stability",
+    "banking regulatory framework"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8b58dc13-3293-545b-a0e6-a035f63d5dc8"
 }

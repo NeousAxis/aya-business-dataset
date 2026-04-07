@@ -1,11 +1,21 @@
 {
   "entity_id": "bf8d04a0-e5bd-5622-8b34-10cf78414a71",
+  "public_key_id": "bf8d04a0-e5bd-5622-8b34-10cf78414a71",
   "name": "HelloFresh® Meal Kits",
   "what_it_does": "HelloFresh provides meal kits with pre-portioned ingredients and recipes delivered to customers' homes.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Belgium",
-  "keywords": [],
+  "keywords": [
+    "meal kits",
+    "recipe boxes",
+    "home cooking",
+    "food delivery",
+    "pre-portioned ingredients",
+    "dinner recipes",
+    "subscription food",
+    "weekly meals"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bf8d04a0-e5bd-5622-8b34-10cf78414a71"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "a6d942a2-c62c-529b-94c7-11b1ae4fa469",
+  "public_key_id": "a6d942a2-c62c-529b-94c7-11b1ae4fa469",
   "name": "ScuolaNormaleSuperiore",
   "what_it_does": "Scuola Normale Superiore is a public university in Italy offering undergraduate and postgraduate education.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Italy",
-  "keywords": [],
+  "keywords": [
+    "university education",
+    "higher education",
+    "undergraduate studies",
+    "postgraduate studies",
+    "Italian university",
+    "research university",
+    "academic research",
+    "Florence education"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a6d942a2-c62c-529b-94c7-11b1ae4fa469"
 }

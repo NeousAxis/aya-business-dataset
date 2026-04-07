@@ -1,11 +1,20 @@
 {
   "entity_id": "07a9bcea-6a70-56d6-b814-764753e091d1",
+  "public_key_id": "07a9bcea-6a70-56d6-b814-764753e091d1",
   "name": "Grundfos",
   "what_it_does": "Grundfos likely provides media and communication.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "financial group",
+    "global banking",
+    "trust banking",
+    "securities",
+    "investment banking",
+    "japanese finance",
+    "corporate finance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/07a9bcea-6a70-56d6-b814-764753e091d1"
 }

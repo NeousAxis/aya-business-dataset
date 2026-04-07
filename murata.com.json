@@ -1,11 +1,21 @@
 {
   "entity_id": "4c90274d-bfca-5798-b8bf-db67fd6a675c",
+  "public_key_id": "4c90274d-bfca-5798-b8bf-db67fd6a675c",
   "name": "Murata Manufacturing Co., Ltd.",
   "what_it_does": "Murata Manufacturing Co., Ltd. manufactures electronic components and solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "China",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "electronic components",
+    "passive components",
+    "ceramic capacitors",
+    "inductors",
+    "sensors",
+    "power supplies",
+    "EMC filters",
+    "electronic solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4c90274d-bfca-5798-b8bf-db67fd6a675c"
 }

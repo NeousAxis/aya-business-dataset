@@ -1,11 +1,21 @@
 {
   "entity_id": "febe2e17-7eb6-5727-a0e9-e2f995eade63",
+  "public_key_id": "febe2e17-7eb6-5727-a0e9-e2f995eade63",
   "name": "Gogoro",
   "what_it_does": "Gogoro manufactures electric scooters and battery-swapping infrastructure.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "India",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "electric scooters",
+    "battery swapping",
+    "urban mobility",
+    "sustainable transport",
+    "electric vehicles",
+    "scooter sharing",
+    "EV infrastructure",
+    "smart scooters"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/febe2e17-7eb6-5727-a0e9-e2f995eade63"
 }

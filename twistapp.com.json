@@ -1,11 +1,20 @@
 {
   "entity_id": "b1484532-2e87-5481-89c7-d22ee7dac1c6",
+  "public_key_id": "b1484532-2e87-5481-89c7-d22ee7dac1c6",
   "name": "Twist",
   "what_it_does": "Twist is a channel-based team communication platform competing with Slack.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Brazil",
-  "keywords": [],
+  "keywords": [
+    "team communication",
+    "channel-based messaging",
+    "workplace collaboration",
+    "asynchronous communication",
+    "remote teams",
+    "project collaboration",
+    "messaging"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b1484532-2e87-5481-89c7-d22ee7dac1c6"
 }

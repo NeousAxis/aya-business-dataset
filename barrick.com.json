@@ -1,11 +1,21 @@
 {
   "entity_id": "660c21f3-fe62-502f-845a-7a84e72566ef",
+  "public_key_id": "660c21f3-fe62-502f-845a-7a84e72566ef",
   "name": "Barrick Mining Corporation",
   "what_it_does": "Barrick Gold Corporation is a gold and copper mining company.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
-  "location": "Global",
-  "keywords": [],
+  "location": "Canada",
+  "keywords": [
+    "gold mining",
+    "copper mining",
+    "resource extraction",
+    "precious metals",
+    "mining operations",
+    "gold production",
+    "copper production",
+    "mineral exploration"
+  ],
   "aio_score": 46.0,
   "certificate_url": "https://ai-visionary.com/aya/e/660c21f3-fe62-502f-845a-7a84e72566ef"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "648203dd-670f-5458-8aea-560dd02b4009",
+  "public_key_id": "648203dd-670f-5458-8aea-560dd02b4009",
   "name": "Amplitude",
   "what_it_does": "Amplitude provides a product analytics platform for understanding user behavior.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 68.0,
+  "keywords": [
+    "product analytics",
+    "user behavior analysis",
+    "mobile analytics",
+    "customer journey",
+    "marketing analytics",
+    "behavioral analytics",
+    "conversion optimization",
+    "digital insights"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/648203dd-670f-5458-8aea-560dd02b4009"
 }

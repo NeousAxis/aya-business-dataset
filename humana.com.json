@@ -1,11 +1,21 @@
 {
   "entity_id": "70158b48-0d25-5ce5-b3a0-2a9f2b4c00d8",
-  "name": "Live your best life with a Humana Medicare plan",
+  "public_key_id": "70158b48-0d25-5ce5-b3a0-2a9f2b4c00d8",
+  "name": "Humana",
   "what_it_does": "Humana sells Medicare plans in the United States.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "Medicare plans",
+    "health insurance",
+    "senior healthcare",
+    "health plans",
+    "insurance",
+    "healthcare coverage",
+    "Medicare Advantage",
+    "prescription drug plans"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/70158b48-0d25-5ce5-b3a0-2a9f2b4c00d8"
 }

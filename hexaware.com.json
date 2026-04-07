@@ -1,11 +1,20 @@
 {
   "entity_id": "a14dbc15-2238-54af-a80d-46e5c19ad04a",
+  "public_key_id": "a14dbc15-2238-54af-a80d-46e5c19ad04a",
   "name": "Hexaware Technologies",
   "what_it_does": "Hexaware Technologies is an IT services company specializing in digital transformation and automation.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "IT automation",
+    "IT transformation",
+    "application modernization",
+    "cloud solutions",
+    "infrastructure management",
+    "managed IT",
+    "IT consulting"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a14dbc15-2238-54af-a80d-46e5c19ad04a"
 }

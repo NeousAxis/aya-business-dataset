@@ -1,11 +1,21 @@
 {
   "entity_id": "6087313f-7c59-51c2-855f-6d02e9a038a0",
+  "public_key_id": "6087313f-7c59-51c2-855f-6d02e9a038a0",
   "name": "B. Braun Sharing Expertise",
   "what_it_does": "B. Braun manufactures and distributes medical and pharmaceutical products and services.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Indonesia",
-  "keywords": [],
+  "keywords": [
+    "medical products",
+    "pharmaceutical products",
+    "healthcare products",
+    "medical devices",
+    "infusion therapy",
+    "surgical products",
+    "wound management",
+    "clinical nutrition"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6087313f-7c59-51c2-855f-6d02e9a038a0"
 }

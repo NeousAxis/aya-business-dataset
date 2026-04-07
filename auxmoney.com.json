@@ -1,11 +1,21 @@
 {
   "entity_id": "39fc68ec-3abd-5807-965b-9433d553fe17",
+  "public_key_id": "39fc68ec-3abd-5807-965b-9433d553fe17",
   "name": "auxmoney",
   "what_it_does": "auxmoney is a peer-to-peer lending platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "peer-to-peer lending",
+    "P2P loans",
+    "personal finance",
+    "credit marketplace",
+    "loan origination",
+    "alternative lending",
+    "borrowing",
+    "investing"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/39fc68ec-3abd-5807-965b-9433d553fe17"
 }

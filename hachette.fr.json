@@ -1,11 +1,21 @@
 {
   "entity_id": "35631946-61dc-579d-b244-7652bcf1c3f6",
+  "public_key_id": "35631946-61dc-579d-b244-7652bcf1c3f6",
   "name": "Vos envies de lecture commencent ici",
   "what_it_does": "Hachette.fr is a French website for purchasing books from the Hachette publishing group.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "book sales",
+    "French books",
+    "publisher website",
+    "literary works",
+    "fiction",
+    "non-fiction",
+    "French literature",
+    "book purchases"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/35631946-61dc-579d-b244-7652bcf1c3f6"
 }

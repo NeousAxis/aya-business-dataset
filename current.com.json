@@ -1,11 +1,20 @@
 {
   "entity_id": "16e6fab2-8026-5e5c-bcae-1ccb1e26ff6e",
+  "public_key_id": "16e6fab2-8026-5e5c-bcae-1ccb1e26ff6e",
   "name": "Current",
   "what_it_does": "Current offers a mobile banking platform with a focus on financial services for young adults and families.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "mobile banking",
+    "financial inclusion",
+    "debit cards",
+    "youth banking",
+    "family finance",
+    "personal finance",
+    "banking services"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/16e6fab2-8026-5e5c-bcae-1ccb1e26ff6e"
 }

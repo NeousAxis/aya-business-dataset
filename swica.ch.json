@@ -1,11 +1,21 @@
 {
   "entity_id": "5b8c00ae-1cea-54db-baf8-41fd8261b0f9",
+  "public_key_id": "5b8c00ae-1cea-54db-baf8-41fd8261b0f9",
   "name": "SWICA",
   "what_it_does": "SWICA offers health insurance and related services in Switzerland.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "Swiss health insurance",
+    "healthcare coverage",
+    "accident insurance",
+    "daily allowance insurance",
+    "supplementary insurance",
+    "health promotion",
+    "Switzerland healthcare",
+    "insurance plans"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5b8c00ae-1cea-54db-baf8-41fd8261b0f9"
 }

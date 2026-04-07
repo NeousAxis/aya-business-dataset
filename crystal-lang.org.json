@@ -1,11 +1,20 @@
 {
   "entity_id": "202bedc7-92ac-58ec-b7d3-57beb1b383be",
+  "public_key_id": "202bedc7-92ac-58ec-b7d3-57beb1b383be",
   "name": "Crystal Language",
   "what_it_does": "Crystal-lang.org hosts the website and resources for the Crystal programming language.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "Crystal programming language",
+    "programming resources",
+    "open source language",
+    "developer community",
+    "software development",
+    "programming tutorials",
+    "code documentation"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/202bedc7-92ac-58ec-b7d3-57beb1b383be"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "a74df33c-1ace-5057-afef-30e62f4b4a66",
+  "public_key_id": "a74df33c-1ace-5057-afef-30e62f4b4a66",
   "name": "The Ordinary",
   "what_it_does": "The Ordinary sells affordable skincare products.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Canada",
-  "keywords": [],
+  "keywords": [
+    "skincare",
+    "affordable skincare",
+    "cosmetics",
+    "beauty products",
+    "topical treatments",
+    "facial serums",
+    "skin solutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a74df33c-1ace-5057-afef-30e62f4b4a66"
 }

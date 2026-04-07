@@ -1,11 +1,21 @@
 {
   "entity_id": "5f5a3e6e-afed-5130-8edd-acf7994c6ac8",
+  "public_key_id": "5f5a3e6e-afed-5130-8edd-acf7994c6ac8",
   "name": "CIBC",
   "what_it_does": "CIBC (Canadian Imperial Bank of Commerce) is a multinational banking and financial services company.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Canada",
-  "keywords": [],
+  "keywords": [
+    "banking",
+    "financial services",
+    "Canadian bank",
+    "personal banking",
+    "commercial banking",
+    "wealth management",
+    "investment banking",
+    "financial institutions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5f5a3e6e-afed-5130-8edd-acf7994c6ac8"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "44830187-be35-5238-8f37-d2c258637280",
+  "public_key_id": "44830187-be35-5238-8f37-d2c258637280",
   "name": "Syngenta",
   "what_it_does": "Syngenta develops and sells seeds and crop protection products.",
-  "for_who": "Media professionals and audiences.",
-  "category": "Media & Communication",
+  "for_who": "Businesses and professionals.",
+  "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "seeds",
+    "crop protection",
+    "agricultural products",
+    "agrochemicals",
+    "farming",
+    "seed breeding",
+    "crop science",
+    "sustainable agriculture"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/44830187-be35-5238-8f37-d2c258637280"
 }

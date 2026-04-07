@@ -1,11 +1,21 @@
 {
   "entity_id": "abc8b649-47f8-5eac-bf3e-cd8460b64802",
+  "public_key_id": "abc8b649-47f8-5eac-bf3e-cd8460b64802",
   "name": "First Solar",
   "what_it_does": "First Solar manufactures thin-film solar panels.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "thin film solar panels",
+    "solar energy",
+    "photovoltaic modules",
+    "renewable energy",
+    "solar power generation",
+    "solar panel manufacturing",
+    "clean energy",
+    "solar technology"
+  ],
   "aio_score": 41.0,
   "certificate_url": "https://ai-visionary.com/aya/e/abc8b649-47f8-5eac-bf3e-cd8460b64802"
 }

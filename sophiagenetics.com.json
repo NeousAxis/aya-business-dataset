@@ -1,11 +1,21 @@
 {
   "entity_id": "3e91a87c-d493-56c7-ae46-cf81aafeead4",
+  "public_key_id": "3e91a87c-d493-56c7-ae46-cf81aafeead4",
   "name": "SOPHiA GENETICS",
   "what_it_does": "SOPHiA GENETICS analyzes genomic data to help healthcare providers diagnose and treat diseases.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "genomic data analysis",
+    "disease diagnostics",
+    "genomic medicine",
+    "clinical genomics",
+    "healthcare analytics",
+    "cancer diagnostics",
+    "data-driven medicine",
+    "genetics"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3e91a87c-d493-56c7-ae46-cf81aafeead4"
 }

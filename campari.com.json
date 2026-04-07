@@ -1,11 +1,21 @@
 {
   "entity_id": "88968a11-f8cf-5367-93c5-79ad8646330f",
+  "public_key_id": "88968a11-f8cf-5367-93c5-79ad8646330f",
   "name": "campari",
   "what_it_does": "Campari produces and distributes alcoholic beverages, particularly Campari.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "alcoholic beverages",
+    "Campari",
+    "liqueur production",
+    "spirit distribution",
+    "aperitif",
+    "Italian spirits",
+    "Campari Group",
+    "alcoholic drinks"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/88968a11-f8cf-5367-93c5-79ad8646330f"
 }

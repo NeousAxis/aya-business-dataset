@@ -1,11 +1,19 @@
 {
   "entity_id": "fe280087-db3b-5884-a01c-0885422ace6c",
+  "public_key_id": "fe280087-db3b-5884-a01c-0885422ace6c",
   "name": "Brigad",
   "what_it_does": "Brigad.co likely provides on-demand staffing solutions for the hospitality industry.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "hospitality staffing",
+    "on-demand staffing",
+    "temporary workers",
+    "restaurant staffing",
+    "hotel staffing",
+    "event staffing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fe280087-db3b-5884-a01c-0885422ace6c"
 }

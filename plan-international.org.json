@@ -1,11 +1,21 @@
 {
   "entity_id": "eebe2eb6-336c-5530-ae05-ce0f0e6a3d06",
+  "public_key_id": "eebe2eb6-336c-5530-ae05-ce0f0e6a3d06",
   "name": "Plan International",
   "what_it_does": "Plan International is a development and humanitarian organization that advances children's rights and equality for girls.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 73.0,
+  "keywords": [
+    "children's rights",
+    "girls' equality",
+    "international development",
+    "humanitarian aid",
+    "child protection",
+    "global poverty",
+    "community development",
+    "gender equality"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eebe2eb6-336c-5530-ae05-ce0f0e6a3d06"
 }

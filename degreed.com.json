@@ -1,11 +1,20 @@
 {
   "entity_id": "4a51f09f-2906-5afb-afc2-de00d8edb6ae",
+  "public_key_id": "4a51f09f-2906-5afb-afc2-de00d8edb6ae",
   "name": "Degreed",
   "what_it_does": "Degreed offers a platform for skills development and learning experiences.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "skills development",
+    "learning experiences",
+    "talent development",
+    "skill tracking",
+    "employee learning",
+    "career development",
+    "learning platform"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4a51f09f-2906-5afb-afc2-de00d8edb6ae"
 }

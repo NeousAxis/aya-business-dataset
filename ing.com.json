@@ -1,11 +1,21 @@
 {
   "entity_id": "005bb20e-568d-5eef-894d-da065908308f",
+  "public_key_id": "005bb20e-568d-5eef-894d-da065908308f",
   "name": "ING global company website",
   "what_it_does": "ING provides financial services including banking, investments, life insurance and retirement services for both private and corporate customers.",
   "for_who": "Businesses and professionals.",
   "category": "Conseil & Services Pro",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 48.0,
+  "keywords": [
+    "banking",
+    "investments",
+    "life insurance",
+    "retirement services",
+    "personal finance",
+    "corporate banking",
+    "mortgages",
+    "wealth"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/005bb20e-568d-5eef-894d-da065908308f"
 }

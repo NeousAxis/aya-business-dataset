@@ -1,11 +1,21 @@
 {
   "entity_id": "a275571e-9c00-56a5-b55b-5adfccfb971d",
+  "public_key_id": "a275571e-9c00-56a5-b55b-5adfccfb971d",
   "name": "Agrial",
   "what_it_does": "Agrial is likely a media and communication company involved in agricultural news and information.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "agricultural media",
+    "farming news",
+    "agricultural information",
+    "crop updates",
+    "livestock reports",
+    "agribusiness",
+    "rural affairs",
+    "agricultural sector"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a275571e-9c00-56a5-b55b-5adfccfb971d"
 }

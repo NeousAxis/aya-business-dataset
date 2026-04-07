@@ -1,11 +1,21 @@
 {
   "entity_id": "bd0fa421-a962-50c9-acdf-9a27cf927753",
+  "public_key_id": "bd0fa421-a962-50c9-acdf-9a27cf927753",
   "name": "KEYENCE CORPORATION OF AMERICA",
   "what_it_does": "KEYENCE CORPORATION OF AMERICA manufactures sensors, measuring systems, laser markers, microscopes, and machine vision systems.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Czech Republic",
-  "keywords": [],
-  "aio_score": 54.0,
+  "keywords": [
+    "sensors",
+    "measuring instruments",
+    "laser markers",
+    "microscopes",
+    "machine vision",
+    "industrial automation",
+    "optical ",
+    "vision systems"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bd0fa421-a962-50c9-acdf-9a27cf927753"
 }

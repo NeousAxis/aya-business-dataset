@@ -1,11 +1,21 @@
 {
   "entity_id": "186d61b8-64df-5f07-860a-6ee24ff8b2a6",
+  "public_key_id": "186d61b8-64df-5f07-860a-6ee24ff8b2a6",
   "name": "Kaiser Permanente",
   "what_it_does": "Kaiser Permanente is an American integrated managed care consortium.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 52.0,
+  "keywords": [
+    "managed healthcare",
+    "integrated health system",
+    "health insurance",
+    "medical care",
+    "hospital network",
+    "preventive medicine",
+    "US healthcare",
+    "health plans"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/186d61b8-64df-5f07-860a-6ee24ff8b2a6"
 }

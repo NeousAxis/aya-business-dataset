@@ -1,11 +1,21 @@
 {
   "entity_id": "70f3eac2-6aa2-5d0f-9ddc-437e2fb6cf3b",
+  "public_key_id": "70f3eac2-6aa2-5d0f-9ddc-437e2fb6cf3b",
   "name": "Wells Fargo Financial Services & Support",
   "what_it_does": "Wells Fargo is a major US bank providing retail banking, mortgage, and investment services.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "retail banking",
+    "mortgage lending",
+    "investment services",
+    "financial products",
+    "consumer banking",
+    "commercial banking",
+    "wealth ",
+    "banking services"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/70f3eac2-6aa2-5d0f-9ddc-437e2fb6cf3b"
 }

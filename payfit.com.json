@@ -1,11 +1,21 @@
 {
   "entity_id": "d68671ca-5f4a-5041-95c3-dd7efde48d68",
+  "public_key_id": "d68671ca-5f4a-5041-95c3-dd7efde48d68",
   "name": "PayFit",
   "what_it_does": "PayFit provides a cloud-based payroll and HR management solution for small and medium-sized businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 73.0,
+  "keywords": [
+    "cloud payroll",
+    "HR automation",
+    "SMB payroll",
+    "payroll processing",
+    "HR software",
+    "absence management",
+    "expense reports",
+    "French payroll"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d68671ca-5f4a-5041-95c3-dd7efde48d68"
 }

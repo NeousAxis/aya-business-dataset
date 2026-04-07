@@ -1,11 +1,21 @@
 {
   "entity_id": "c5bb5fe2-30d9-5843-87d4-c108b079bfef",
+  "public_key_id": "c5bb5fe2-30d9-5843-87d4-c108b079bfef",
   "name": "Book a holiday in Switzerland",
   "what_it_does": "Switzerland Travel Centre is a travel agency specializing in holidays and travel arrangements in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "Switzerland holidays",
+    "Swiss travel packages",
+    "holiday booking",
+    "Switzerland tourism",
+    "travel agency",
+    "Swiss Alps tours",
+    "rail travel Switzerland",
+    "custom travel itineraries"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c5bb5fe2-30d9-5843-87d4-c108b079bfef"
 }

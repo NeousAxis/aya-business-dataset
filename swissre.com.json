@@ -1,11 +1,21 @@
 {
   "entity_id": "57bfd09d-a6ea-5beb-b59e-1714cabf9045",
+  "public_key_id": "57bfd09d-a6ea-5beb-b59e-1714cabf9045",
   "name": "Swiss Re Group",
   "what_it_does": "Swiss Re Group is a reinsurance company.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "reinsurance",
+    "risk transfer",
+    "insurance solutions",
+    "wholesale insurance",
+    "global reinsurance",
+    "property reinsurance",
+    "casualty reinsurance",
+    "life reinsurance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/57bfd09d-a6ea-5beb-b59e-1714cabf9045"
 }

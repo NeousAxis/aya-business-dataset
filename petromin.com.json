@@ -1,11 +1,21 @@
 {
   "entity_id": "13ef3209-24ab-53b3-bc49-9c77f492935d",
+  "public_key_id": "13ef3209-24ab-53b3-bc49-9c77f492935d",
   "name": "About Petromin Corporation",
   "what_it_does": "Petromin is a Saudi Arabian company focused on the petroleum industry, including lubricants and automotive services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Saudi Arabia",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "lubricant manufacturing",
+    "automotive lubricants",
+    "petroleum products",
+    "Saudi Arabian oil",
+    "fuel distribution",
+    "car maintenance",
+    "industrial oils",
+    "aviation fuels"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/13ef3209-24ab-53b3-bc49-9c77f492935d"
 }

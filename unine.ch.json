@@ -1,11 +1,21 @@
 {
   "entity_id": "e85845d5-53f9-583d-aba6-74147a3d3547",
+  "public_key_id": "e85845d5-53f9-583d-aba6-74147a3d3547",
   "name": "Université de Neuchâtel",
   "what_it_does": "Université de Neuchâtel is a public research university located in Neuchâtel, Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Swiss university",
+    "research university",
+    "higher education",
+    "Neuchâtel",
+    "academic research",
+    "university programs",
+    "bachelor degrees",
+    "master degrees"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e85845d5-53f9-583d-aba6-74147a3d3547"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "a9cdbfbd-3e10-5c30-8c05-9d18dc41460d",
+  "public_key_id": "a9cdbfbd-3e10-5c30-8c05-9d18dc41460d",
   "name": "Qlik Talend Cloud",
   "what_it_does": "Talend provides a data integration and management platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "data integration",
+    "data management",
+    "cloud data",
+    "ETL",
+    "data governance",
+    "data quality",
+    "data pipelines",
+    "cloud integration"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a9cdbfbd-3e10-5c30-8c05-9d18dc41460d"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "171d853b-fe9c-5aee-8098-f60c4e17def2",
+  "public_key_id": "171d853b-fe9c-5aee-8098-f60c4e17def2",
   "name": "Promod",
   "what_it_does": "Promod sells women's apparel and accessories online and in retail stores.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
-  "keywords": [],
-  "aio_score": 54.0,
+  "keywords": [
+    "women's apparel",
+    "fashion retail",
+    "clothing store",
+    "women's clothing",
+    "fashion accessories",
+    "online fashion",
+    "retail clothing",
+    "contemporary fashion"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/171d853b-fe9c-5aee-8098-f60c4e17def2"
 }

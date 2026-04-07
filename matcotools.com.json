@@ -1,11 +1,20 @@
 {
   "entity_id": "3c78fbda-8456-54fd-80cf-dbec45ba23ab",
+  "public_key_id": "3c78fbda-8456-54fd-80cf-dbec45ba23ab",
   "name": "Automotive Tools for Mechanics & Technicians",
   "what_it_does": "Matco Tools manufactures and distributes professional-grade automotive tools and equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "automotive tools",
+    "mechanic tools",
+    "auto repair equipment",
+    "professional tools",
+    "tool distribution",
+    "automotive technicians",
+    "garage equipment"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3c78fbda-8456-54fd-80cf-dbec45ba23ab"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "206c06ec-a569-5320-a8cb-f31b1c561285",
+  "public_key_id": "206c06ec-a569-5320-a8cb-f31b1c561285",
   "name": "The New Yorker",
   "what_it_does": "The New Yorker publishes a weekly magazine featuring journalism, essays, fiction, and cultural commentary.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "weekly magazine",
+    "journalism",
+    "essays",
+    "fiction",
+    "cultural criticism",
+    "literary magazine",
+    "New York City",
+    "news publication"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/206c06ec-a569-5320-a8cb-f31b1c561285"
 }

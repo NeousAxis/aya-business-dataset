@@ -1,11 +1,21 @@
 {
   "entity_id": "6e4ee329-69e4-55ec-93f4-ab5c9d7bd071",
+  "public_key_id": "6e4ee329-69e4-55ec-93f4-ab5c9d7bd071",
   "name": "Api3",
   "what_it_does": "API3 builds decentralized APIs (dAPIs) for blockchain applications.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "decentralized APIs",
+    "dAPIs",
+    "blockchain oracles",
+    "Web3 data feeds",
+    "API marketplace",
+    "blockchain applications",
+    "decentralized data",
+    "API3"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6e4ee329-69e4-55ec-93f4-ab5c9d7bd071"
 }

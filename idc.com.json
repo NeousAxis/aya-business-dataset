@@ -1,11 +1,21 @@
 {
   "entity_id": "8d0b3c64-58e5-5b0c-9f40-147bfb02df55",
+  "public_key_id": "8d0b3c64-58e5-5b0c-9f40-147bfb02df55",
   "name": "IDC",
   "what_it_does": "IDC provides market intelligence, advisory services, and events for the information technology, telecommunications, and consumer technology markets.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "market intelligence",
+    "IT market research",
+    "technology advisory",
+    "telecom market analysis",
+    "industry trends",
+    "market forecasts",
+    "competitive intelligence",
+    "IT events"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8d0b3c64-58e5-5b0c-9f40-147bfb02df55"
 }

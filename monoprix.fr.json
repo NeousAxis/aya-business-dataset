@@ -1,11 +1,21 @@
 {
   "entity_id": "ff907ecd-7518-5857-a2e3-589c3346c5c8",
+  "public_key_id": "ff907ecd-7518-5857-a2e3-589c3346c5c8",
   "name": "MONOPRIX",
   "what_it_does": "Monoprix is a French retail chain selling groceries, clothing, and household goods.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "French retail",
+    "grocery stores",
+    "clothing retail",
+    "household goods",
+    "department store",
+    "consumer goods",
+    "French supermarket",
+    "urban retail"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ff907ecd-7518-5857-a2e3-589c3346c5c8"
 }

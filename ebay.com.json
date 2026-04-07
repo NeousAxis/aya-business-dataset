@@ -1,19 +1,21 @@
 {
-  "entity_id": "3ec75f08-52d9-5817-a04f-4dba8987948b",
-  "name": "eBay",
-  "what_it_does": "eBay is an online marketplace where people and businesses buy and sell a wide variety of goods and services.",
+  "entity_id": "78f0580c-401b-5a0f-a09c-a87d44982ffa",
+  "public_key_id": "78f0580c-401b-5a0f-a09c-a87d44982ffa",
+  "name": "eBay Stores",
+  "what_it_does": "eBay Stores provides an online marketplace platform for buying and selling a wide range of goods and services.",
   "for_who": "Businesses and professionals.",
-  "category": "Luxe & Mode",
-  "location": "Canada",
+  "category": "E-commerce & Retail",
+  "location": "Global",
   "keywords": [
     "online marketplace",
-    "auctions",
-    "ecommerce platform",
+    "e-commerce",
     "consumer goods",
+    "auction platform",
     "collectibles",
-    "secondhand goods",
-    "online sales"
+    "used goods",
+    "retail sales",
+    "online auctions"
   ],
-  "aio_score": 50.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/3ec75f08-52d9-5817-a04f-4dba8987948b"
+  "aio_score": 32.0,
+  "certificate_url": "https://ai-visionary.com/aya/e/78f0580c-401b-5a0f-a09c-a87d44982ffa"
 }

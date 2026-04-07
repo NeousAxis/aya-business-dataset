@@ -1,11 +1,21 @@
 {
   "entity_id": "119a0750-043f-5601-810e-369d3548a83b",
+  "public_key_id": "119a0750-043f-5601-810e-369d3548a83b",
   "name": "Robertet",
   "what_it_does": "Robertet creates fragrances and flavors using natural raw materials.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [],
-  "aio_score": 51.0,
+  "keywords": [
+    "fragrances",
+    "flavors",
+    "natural raw materials",
+    "perfumery",
+    "flavor ingredients",
+    "essential oils",
+    "fragrance compounds",
+    "natural extracts"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/119a0750-043f-5601-810e-369d3548a83b"
 }

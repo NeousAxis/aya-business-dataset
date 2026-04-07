@@ -1,11 +1,21 @@
 {
   "entity_id": "7b403f12-197b-598d-87b5-f61313c0755c",
+  "public_key_id": "7b403f12-197b-598d-87b5-f61313c0755c",
   "name": "Quest Nutrition",
   "what_it_does": "Quest Nutrition produces protein bars, chips, and other protein-enriched snacks.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "protein bars",
+    "protein chips",
+    "protein snacks",
+    "nutritional snacks",
+    "healthy snacks",
+    "fitness foods",
+    "low carb snacks",
+    "protein supplements"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7b403f12-197b-598d-87b5-f61313c0755c"
 }

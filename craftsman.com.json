@@ -1,11 +1,21 @@
 {
   "entity_id": "cc1abf5a-d43b-5bc2-bfb3-46d1173cc573",
+  "public_key_id": "cc1abf5a-d43b-5bc2-bfb3-46d1173cc573",
   "name": "CRAFTSMAN® Home",
   "what_it_does": "CRAFTSMAN manufactures and sells tools, equipment, and storage solutions for home improvement and construction.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "tools",
+    "equipment",
+    "home improvement",
+    "construction",
+    "lawn and garden",
+    "tool storage",
+    "power tools",
+    "hand tools"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cc1abf5a-d43b-5bc2-bfb3-46d1173cc573"
 }

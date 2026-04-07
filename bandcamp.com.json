@@ -1,11 +1,21 @@
 {
   "entity_id": "14acca8f-5167-5e29-ba97-ddf527667345",
+  "public_key_id": "14acca8f-5167-5e29-ba97-ddf527667345",
   "name": "Bandcamp",
   "what_it_does": "Bandcamp is an online music store and platform for independent artists.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
-  "location": "Global",
-  "keywords": [],
+  "location": "United States",
+  "keywords": [
+    "independent music",
+    "music sales",
+    "artist platform",
+    "music streaming",
+    "digital music distribution",
+    "fan engagement",
+    "music marketplace",
+    "indie artists"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/14acca8f-5167-5e29-ba97-ddf527667345"
 }

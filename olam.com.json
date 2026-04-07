@@ -1,11 +1,20 @@
 {
   "entity_id": "8936db5c-4101-5436-9428-2fd165dfe274",
+  "public_key_id": "8936db5c-4101-5436-9428-2fd165dfe274",
   "name": "Grupo OLAM",
   "what_it_does": "Grupo OLAM likely offers SaaS solutions, possibly related to operations management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "SaaS",
+    "operations",
+    "operations automation",
+    "logistics optimization",
+    "supply chain",
+    "process enhancement",
+    "resource allocation"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8936db5c-4101-5436-9428-2fd165dfe274"
 }

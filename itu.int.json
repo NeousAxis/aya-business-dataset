@@ -1,11 +1,20 @@
 {
   "entity_id": "5a28d293-ecc3-5c74-8f48-7d5f8254a324",
+  "public_key_id": "5a28d293-ecc3-5c74-8f48-7d5f8254a324",
   "name": "ITU",
   "what_it_does": "ITU is the International Telecommunication Union, a United Nations agency that regulates international telecommunications.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "international telecommunications",
+    "telecommunication standards",
+    "radio spectrum",
+    "satellite orbits",
+    "global connectivity",
+    "information communication",
+    "UN agency"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5a28d293-ecc3-5c74-8f48-7d5f8254a324"
 }

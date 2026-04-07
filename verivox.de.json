@@ -1,11 +1,20 @@
 {
   "entity_id": "0215a2a2-63d4-5c2b-bd86-a061ab05034d",
+  "public_key_id": "0215a2a2-63d4-5c2b-bd86-a061ab05034d",
   "name": "Verivox GmbH",
   "what_it_does": "Verivox GmbH operates a comparison portal for energy, telecommunications, and insurance products in Germany.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "comparison portal",
+    "energy tariffs",
+    "telecommunications rates",
+    "insurance rates",
+    "price comparison",
+    "German market",
+    "consumer contracts"
+  ],
+  "aio_score": 67.0,
   "certificate_url": "https://ai-visionary.com/aya/e/0215a2a2-63d4-5c2b-bd86-a061ab05034d"
 }

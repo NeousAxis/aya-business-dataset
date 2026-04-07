@@ -1,11 +1,21 @@
 {
   "entity_id": "f446317a-03e8-571a-846f-5b238e650ef1",
+  "public_key_id": "f446317a-03e8-571a-846f-5b238e650ef1",
   "name": "Kering",
   "what_it_does": "Kering is a luxury group that owns brands in fashion, leather goods, jewelry, and watches.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "luxury fashion",
+    "leather goods",
+    "jewelry brands",
+    "watch brands",
+    "Kering brands",
+    "luxury retail",
+    "high-end fashion",
+    "luxury accessories"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f446317a-03e8-571a-846f-5b238e650ef1"
 }

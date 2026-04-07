@@ -1,11 +1,21 @@
 {
   "entity_id": "374925d5-0d56-5b03-a526-ce50766f7aa6",
+  "public_key_id": "374925d5-0d56-5b03-a526-ce50766f7aa6",
   "name": "Zalando",
   "what_it_does": "Zalando is a European online retailer specializing in fashion, shoes, and accessories.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Belgium",
-  "keywords": [],
+  "keywords": [
+    "fashion retail",
+    "shoe retail",
+    "apparel retail",
+    "European retail",
+    "e-commerce fashion",
+    "online clothing",
+    "fashion e-commerce",
+    "clothing marketplace"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/374925d5-0d56-5b03-a526-ce50766f7aa6"
 }

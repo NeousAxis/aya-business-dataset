@@ -1,11 +1,20 @@
 {
   "entity_id": "dd4f2fd6-a861-5eb2-bb44-752ef3087645",
+  "public_key_id": "dd4f2fd6-a861-5eb2-bb44-752ef3087645",
   "name": "StreamYard",
   "what_it_does": "StreamYard is a live streaming studio in your browser, enabling users to easily create and broadcast professional live streams.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "live streams",
+    "broadcast studio",
+    "browser-based streaming",
+    "live video production",
+    "video interviews",
+    "screen sharing",
+    "social media live"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dd4f2fd6-a861-5eb2-bb44-752ef3087645"
 }

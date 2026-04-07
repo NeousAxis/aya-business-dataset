@@ -1,11 +1,21 @@
 {
   "entity_id": "c20f1aaf-bed8-57a2-9874-6324b6bf81a2",
+  "public_key_id": "c20f1aaf-bed8-57a2-9874-6324b6bf81a2",
   "name": "NNAISENSE",
   "what_it_does": "NNAISENSE is an AI research company focused on developing artificial general intelligence.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 26.0,
+  "keywords": [
+    "artificial intelligence research",
+    "AGI development",
+    "AI algorithms",
+    "machine learning",
+    "neural networks",
+    "AI research",
+    "general intelligence",
+    "cognitive systems"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c20f1aaf-bed8-57a2-9874-6324b6bf81a2"
 }

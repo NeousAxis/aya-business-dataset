@@ -1,11 +1,20 @@
 {
   "entity_id": "9d7dad05-666f-5826-805b-42bedd01791d",
+  "public_key_id": "9d7dad05-666f-5826-805b-42bedd01791d",
   "name": "Telia",
   "what_it_does": "Telia is a Swedish telecommunications company providing mobile, broadband, and television services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Sweden",
-  "keywords": [],
-  "aio_score": 52.0,
+  "keywords": [
+    "Swedish telecom",
+    "mobile services",
+    "broadband internet",
+    "television services",
+    "telecommunications equipment",
+    "Nordic region telecom",
+    "communication services"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9d7dad05-666f-5826-805b-42bedd01791d"
 }

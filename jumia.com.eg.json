@@ -1,11 +1,20 @@
 {
   "entity_id": "4b30f825-8bb2-53bd-b7d0-8c153b257776",
+  "public_key_id": "4b30f825-8bb2-53bd-b7d0-8c153b257776",
   "name": "Jumia",
   "what_it_does": "Jumia operates an online marketplace for various consumer goods in Africa.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "EG",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "african e-commerce",
+    "consumer goods marketplace",
+    "retail products",
+    "electronics sales",
+    "fashion retail",
+    "home appliances",
+    "online shopping Africa"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4b30f825-8bb2-53bd-b7d0-8c153b257776"
 }

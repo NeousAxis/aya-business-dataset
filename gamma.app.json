@@ -1,11 +1,21 @@
 {
   "entity_id": "ead99591-a6d2-5eec-961d-ee3ff4114281",
+  "public_key_id": "ead99591-a6d2-5eec-961d-ee3ff4114281",
   "name": "Gamma",
   "what_it_does": "Gamma is a presentation software platform for creating visually engaging content.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Brazil",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "presentation creation",
+    "visual content",
+    "presentation software",
+    "engaging presentations",
+    "slide design",
+    "content creation tools",
+    "interactive presentations",
+    "modern presentation platform"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ead99591-a6d2-5eec-961d-ee3ff4114281"
 }

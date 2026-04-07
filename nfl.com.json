@@ -1,11 +1,20 @@
 {
   "entity_id": "146e4b31-51bc-56f7-9eb0-436130cad821",
-  "name": "Official Site of the National Football League",
+  "public_key_id": "146e4b31-51bc-56f7-9eb0-436130cad821",
+  "name": "NFL",
   "what_it_does": "The NFL is the professional American football league in the United States.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
-  "location": "Global",
-  "keywords": [],
+  "location": "United States",
+  "keywords": [
+    "American football",
+    "National Football League",
+    "sports league",
+    "professional football",
+    "US sports",
+    "football games",
+    "NFL teams"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/146e4b31-51bc-56f7-9eb0-436130cad821"
 }

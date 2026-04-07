@@ -1,11 +1,21 @@
 {
   "entity_id": "c02732d0-4dba-5266-b93c-5d9c7e694084",
+  "public_key_id": "c02732d0-4dba-5266-b93c-5d9c7e694084",
   "name": "Compex",
   "what_it_does": "Compex likely sells electronic components or related products online.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "electronic components",
+    "semiconductors",
+    "embedded systems",
+    "PCBA manufacturing",
+    "electronic manufacturing services",
+    "electronic design",
+    "circuit boards",
+    "component sourcing"
+  ],
+  "aio_score": 67.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c02732d0-4dba-5266-b93c-5d9c7e694084"
 }

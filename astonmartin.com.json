@@ -1,11 +1,21 @@
 {
   "entity_id": "29bfe4f1-0b4a-5ced-9517-74eaeb34ab64",
+  "public_key_id": "29bfe4f1-0b4a-5ced-9517-74eaeb34ab64",
   "name": "Country Selector",
   "what_it_does": "Aston Martin manufactures luxury sports cars.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Australia",
-  "keywords": [],
+  "keywords": [
+    "luxury sports cars",
+    "high-performance vehicles",
+    "automotive engineering",
+    "grand tourers",
+    "British automobiles",
+    "sports car manufacturing",
+    "car design",
+    "automotive industry"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/29bfe4f1-0b4a-5ced-9517-74eaeb34ab64"
 }

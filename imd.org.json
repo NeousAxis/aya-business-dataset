@@ -1,11 +1,21 @@
 {
   "entity_id": "8b79753b-2cf6-5fe8-bf90-a0b0b39f8e19",
+  "public_key_id": "8b79753b-2cf6-5fe8-bf90-a0b0b39f8e19",
   "name": "Imd",
   "what_it_does": "IMD is a business school that offers executive education programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "executive education",
+    "business school",
+    "leadership development",
+    "MBA programs",
+    "management training",
+    "corporate training",
+    "business courses",
+    "Switzerland"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8b79753b-2cf6-5fe8-bf90-a0b0b39f8e19"
 }

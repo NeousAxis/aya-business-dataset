@@ -1,11 +1,20 @@
 {
   "entity_id": "d893d500-d13f-563f-8e8d-93c00d7f00bf",
+  "public_key_id": "d893d500-d13f-563f-8e8d-93c00d7f00bf",
   "name": "Automate Sales and Marketing Workflows in Minutes.",
   "what_it_does": "Airtop.ai offers software for automating sales and marketing processes.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "sales automation",
+    "marketing automation",
+    "lead generation",
+    "CRM automation",
+    "email sequences",
+    "workflow automation",
+    "marketing campaigns"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d893d500-d13f-563f-8e8d-93c00d7f00bf"
 }

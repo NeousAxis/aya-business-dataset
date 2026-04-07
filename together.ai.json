@@ -1,11 +1,19 @@
 {
   "entity_id": "29f3cf27-278b-5313-a97e-4c1d1ab20804",
+  "public_key_id": "29f3cf27-278b-5313-a97e-4c1d1ab20804",
   "name": "Together AI",
   "what_it_does": "Together AI likely offers solutions related to artificial intelligence.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
-  "location": "Global",
-  "keywords": [],
-  "aio_score": 75.0,
+  "location": "United States",
+  "keywords": [
+    "artificial intelligence",
+    "AI solutions",
+    "machine learning",
+    "AI development",
+    "neural networks",
+    "AI infrastructure"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/29f3cf27-278b-5313-a97e-4c1d1ab20804"
 }

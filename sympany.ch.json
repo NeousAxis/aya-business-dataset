@@ -1,11 +1,19 @@
 {
   "entity_id": "26e0f32e-10c2-52b0-a118-cf861ef7cb89",
+  "public_key_id": "26e0f32e-10c2-52b0-a118-cf861ef7cb89",
   "name": "Sympany",
   "what_it_does": "Sympany is a Swiss health insurance provider.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "Swiss health insurance",
+    "healthcare coverage",
+    "medical insurance",
+    "health plans",
+    "insurance policies",
+    "Swiss healthcare system"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/26e0f32e-10c2-52b0-a118-cf861ef7cb89"
 }

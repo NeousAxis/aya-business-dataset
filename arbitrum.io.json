@@ -1,11 +1,21 @@
 {
   "entity_id": "1779f302-1d37-574b-b166-d002e5d74a25",
+  "public_key_id": "1779f302-1d37-574b-b166-d002e5d74a25",
   "name": "Arbitrum",
   "what_it_does": "Arbitrum is a layer-2 scaling solution for Ethereum that increases transaction speed and reduces costs.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "layer-2 scaling",
+    "Ethereum scaling",
+    "blockchain transactions",
+    "transaction speed",
+    "transaction costs",
+    "crypto scaling",
+    "DeFi",
+    "smart contracts"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1779f302-1d37-574b-b166-d002e5d74a25"
 }

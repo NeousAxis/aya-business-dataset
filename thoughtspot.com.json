@@ -1,11 +1,21 @@
 {
   "entity_id": "bafde847-6ac8-5a65-9e4d-33bf39df57e4",
+  "public_key_id": "bafde847-6ac8-5a65-9e4d-33bf39df57e4",
   "name": "ThoughtSpot, Inc.",
   "what_it_does": "ThoughtSpot provides a search and AI-driven analytics platform for business intelligence.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "business intelligence",
+    "search analytics",
+    "AI analytics",
+    "data visualization",
+    "enterprise analytics",
+    "search-driven BI",
+    "business data",
+    "data insights"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bafde847-6ac8-5a65-9e4d-33bf39df57e4"
 }

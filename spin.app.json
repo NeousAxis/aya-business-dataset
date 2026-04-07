@@ -1,11 +1,20 @@
 {
   "entity_id": "58298d08-d61e-552b-89d7-e5fa7cd7e585",
+  "public_key_id": "58298d08-d61e-552b-89d7-e5fa7cd7e585",
   "name": "Spin",
   "what_it_does": "Spin provides shared electric scooter services.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "electric scooters",
+    "scooter sharing",
+    "micromobility",
+    "urban transportation",
+    "last-mile transit",
+    "dockless scooters",
+    "scooter rentals"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/58298d08-d61e-552b-89d7-e5fa7cd7e585"
 }

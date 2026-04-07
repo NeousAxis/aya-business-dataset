@@ -1,11 +1,21 @@
 {
   "entity_id": "fe04a492-10df-5528-a0a3-be63585f8651",
+  "public_key_id": "fe04a492-10df-5528-a0a3-be63585f8651",
   "name": "Telenet",
   "what_it_does": "Telenet provides cable television, internet, and mobile phone services.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 64.0,
+  "keywords": [
+    "cable television",
+    "internet access",
+    "mobile phone",
+    "telecommunications",
+    "TV subscriptions",
+    "internet provider",
+    "Belgium telecom",
+    "fixed telephony"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fe04a492-10df-5528-a0a3-be63585f8651"
 }

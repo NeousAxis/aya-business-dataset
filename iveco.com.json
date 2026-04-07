@@ -1,11 +1,20 @@
 {
   "entity_id": "4480781e-3041-5def-9880-6f192992eee9",
+  "public_key_id": "4480781e-3041-5def-9880-6f192992eee9",
   "name": "IVECO",
   "what_it_does": "IVECO is a manufacturer of commercial vehicles.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 22.0,
+  "keywords": [
+    "commercial vehicles",
+    "trucks",
+    "buses",
+    "vans",
+    "diesel engines",
+    "alternative fuel vehicles",
+    "heavy-duty vehicles"
+  ],
+  "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/4480781e-3041-5def-9880-6f192992eee9"
 }

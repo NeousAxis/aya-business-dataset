@@ -1,11 +1,21 @@
 {
   "entity_id": "584d8a05-2a88-50d9-84dd-3b7cc5c30038",
+  "public_key_id": "584d8a05-2a88-50d9-84dd-3b7cc5c30038",
   "name": "Klienci indywidualni",
   "what_it_does": "BNP Paribas Poland provides financial services to individual clients.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Poland",
-  "keywords": [],
+  "keywords": [
+    "Polish retail banking",
+    "personal finance",
+    "banking Poland",
+    "financial products",
+    "loan offers",
+    "mortgages",
+    "credit cards",
+    "investment products"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/584d8a05-2a88-50d9-84dd-3b7cc5c30038"
 }

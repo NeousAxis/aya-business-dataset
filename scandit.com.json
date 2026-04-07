@@ -1,11 +1,21 @@
 {
   "entity_id": "58e7ff51-1890-5b53-aa17-489b44cfb7fc",
+  "public_key_id": "58e7ff51-1890-5b53-aa17-489b44cfb7fc",
   "name": "Scandit",
   "what_it_does": "Scandit provides computer vision and barcode scanning software for mobile devices and other platforms.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "barcode scanning",
+    "computer vision",
+    "mobile data capture",
+    "SDK",
+    "image recognition",
+    "Scandit",
+    "barcode reader",
+    "data capture"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/58e7ff51-1890-5b53-aa17-489b44cfb7fc"
 }

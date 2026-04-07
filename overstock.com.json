@@ -1,11 +1,21 @@
 {
   "entity_id": "41aeeca3-c461-5987-bbd9-1660c47cd2c6",
+  "public_key_id": "41aeeca3-c461-5987-bbd9-1660c47cd2c6",
   "name": "Overstock",
   "what_it_does": "Overstock is an online retailer selling furniture, home decor, and other goods.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "furniture retail",
+    "home decor",
+    "online marketplace",
+    "discount goods",
+    "home furnishings",
+    "overstock",
+    "online shopping",
+    "home goods"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/41aeeca3-c461-5987-bbd9-1660c47cd2c6"
 }

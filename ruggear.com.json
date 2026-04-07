@@ -1,11 +1,21 @@
 {
   "entity_id": "3fada111-e98c-59a2-b2d4-f2dd480e2886",
+  "public_key_id": "3fada111-e98c-59a2-b2d4-f2dd480e2886",
   "name": "Rugged phones and devices",
   "what_it_does": "RugGear sells ruggedized mobile phones and devices designed for harsh environments.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "rugged phones",
+    "ruggedized smartphones",
+    "durable mobile devices",
+    "outdoor phones",
+    "industrial phones",
+    "waterproof phones",
+    "shockproof phones",
+    "RugGear devices"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3fada111-e98c-59a2-b2d4-f2dd480e2886"
 }

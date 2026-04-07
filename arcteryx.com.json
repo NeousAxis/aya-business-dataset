@@ -1,11 +1,20 @@
 {
   "entity_id": "bc188648-fbdd-52d3-9e33-a74253467b8f",
+  "public_key_id": "bc188648-fbdd-52d3-9e33-a74253467b8f",
   "name": "Arc'teryx Switzerland",
   "what_it_does": "Arc'teryx Switzerland sells outdoor apparel and equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Austria",
-  "keywords": [],
+  "keywords": [
+    "outdoor apparel",
+    "hiking gear",
+    "climbing equipment",
+    "Switzerland",
+    "performance clothing",
+    "outdoor recreation",
+    "technical outerwear"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bc188648-fbdd-52d3-9e33-a74253467b8f"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "bc3b2591-ffac-59d7-992b-62862627f93b",
+  "public_key_id": "bc3b2591-ffac-59d7-992b-62862627f93b",
   "name": "Lesaffre",
   "what_it_does": "Lesaffre develops and produces yeast and fermentation solutions for baking, food taste and pleasure, healthcare and biotechnology.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 56.0,
+  "keywords": [
+    "yeast",
+    "fermentation",
+    "baking ingredients",
+    "food cultures",
+    "food taste",
+    "healthcare solutions",
+    "biotechnology",
+    "baking solutions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bc3b2591-ffac-59d7-992b-62862627f93b"
 }

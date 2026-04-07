@@ -1,11 +1,21 @@
 {
   "entity_id": "3472cd6b-c7d5-55f0-98e4-50782a5cba7b",
+  "public_key_id": "3472cd6b-c7d5-55f0-98e4-50782a5cba7b",
   "name": "Microland",
   "what_it_does": "Microland provides digital transformation services and infrastructure management.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "India",
-  "keywords": [],
+  "keywords": [
+    "infrastructure management",
+    "digital transformation",
+    "IT infrastructure",
+    "cloud infrastructure",
+    "network solutions",
+    "managed services",
+    "IT consulting",
+    "system integration"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3472cd6b-c7d5-55f0-98e4-50782a5cba7b"
 }

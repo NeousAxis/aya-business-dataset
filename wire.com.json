@@ -1,11 +1,20 @@
 {
   "entity_id": "aa443b4f-bcb5-54e1-917c-1d55b59b7d76",
+  "public_key_id": "aa443b4f-bcb5-54e1-917c-1d55b59b7d76",
   "name": "Wire",
   "what_it_does": "Wire provides an end-to-end encrypted communication platform for secure messaging, calling, and collaboration.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "encrypted messaging",
+    "secure communication",
+    "calling",
+    "team collaboration",
+    "end-to-end encryption",
+    "privacy software",
+    "secure conferencing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aa443b4f-bcb5-54e1-917c-1d55b59b7d76"
 }

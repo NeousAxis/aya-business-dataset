@@ -1,11 +1,21 @@
 {
   "entity_id": "3fcd9d7e-bf4e-5427-b46c-c57faf85e6c1",
+  "public_key_id": "3fcd9d7e-bf4e-5427-b46c-c57faf85e6c1",
   "name": "ti&m AG",
   "what_it_does": "ti&m AG provides consulting, engineering, and implementation services for technology projects.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Technology Implementation",
+    "Engineering Expertise",
+    "IT Project Development",
+    "Custom Application Development",
+    "Software Integration",
+    "Digital Transformation",
+    "IT Solutions",
+    "Tech Projects"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3fcd9d7e-bf4e-5427-b46c-c57faf85e6c1"
 }

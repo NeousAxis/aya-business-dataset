@@ -1,11 +1,20 @@
 {
   "entity_id": "86099a6a-0f99-5dfb-bf0f-b0439f3a6cc5",
+  "public_key_id": "86099a6a-0f99-5dfb-bf0f-b0439f3a6cc5",
   "name": "Blockdaemon",
   "what_it_does": "Blockdaemon provides blockchain infrastructure for deploying and managing nodes.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "blockchain infrastructure",
+    "node deployment",
+    "node management",
+    "blockchain nodes",
+    "staking infrastructure",
+    "Web3 infrastructure",
+    "blockchain-as-a-service"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/86099a6a-0f99-5dfb-bf0f-b0439f3a6cc5"
 }

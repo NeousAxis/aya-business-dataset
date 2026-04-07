@@ -1,11 +1,21 @@
 {
   "entity_id": "766a8ee7-fd09-5bac-9d8f-bcb9524ca419",
+  "public_key_id": "766a8ee7-fd09-5bac-9d8f-bcb9524ca419",
   "name": "Dein Online Lotto mit Bestnoten in Deutschland",
   "what_it_does": "Lottoland operates an online lottery betting platform.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Ireland",
-  "keywords": [],
+  "keywords": [
+    "online lottery betting",
+    "lottery platform",
+    "gambling",
+    "lottery tickets",
+    "online betting",
+    "prize payouts",
+    "random number games",
+    "Germany lottery"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/766a8ee7-fd09-5bac-9d8f-bcb9524ca419"
 }

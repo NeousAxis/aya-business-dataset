@@ -1,11 +1,21 @@
 {
   "entity_id": "30868cd7-4176-5256-a2c8-0b56f9317c64",
+  "public_key_id": "30868cd7-4176-5256-a2c8-0b56f9317c64",
   "name": "Expeditors",
   "what_it_does": "Expeditors International of Washington provides global logistics and freight forwarding services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "global logistics",
+    "freight forwarding",
+    "supply chain",
+    "international shipping",
+    "customs brokerage",
+    "transportation",
+    "cargo",
+    "supply chain management"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/30868cd7-4176-5256-a2c8-0b56f9317c64"
 }

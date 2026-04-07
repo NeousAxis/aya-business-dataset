@@ -1,11 +1,21 @@
 {
   "entity_id": "9d82e9ed-bad2-50b5-ac4c-6bb8d404556a",
+  "public_key_id": "9d82e9ed-bad2-50b5-ac4c-6bb8d404556a",
   "name": "Hiltl",
   "what_it_does": "Hiltl is a vegetarian restaurant chain and catering service based in Zurich, Switzerland.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "vegetarian restaurant",
+    "Zurich catering",
+    "meatless cuisine",
+    "plant-based meals",
+    "Swiss restaurants",
+    "vegetarian buffet",
+    "takeaway food",
+    "vegan options"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9d82e9ed-bad2-50b5-ac4c-6bb8d404556a"
 }

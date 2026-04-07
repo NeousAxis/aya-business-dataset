@@ -1,11 +1,20 @@
 {
   "entity_id": "af304c73-badf-5421-ad7e-fae4354fac04",
+  "public_key_id": "af304c73-badf-5421-ad7e-fae4354fac04",
   "name": "Meraas",
   "what_it_does": "Meraas is a Dubai-based holding company with interests in real estate, retail, leisure, and hospitality.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Dubai real estate",
+    "property development",
+    "retail properties",
+    "leisure destinations",
+    "hospitality sector",
+    "urban development",
+    "mixed-use projects"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/af304c73-badf-5421-ad7e-fae4354fac04"
 }

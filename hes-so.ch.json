@@ -1,11 +1,20 @@
 {
   "entity_id": "c190b8a4-f763-519b-9c74-ec6999661dd4",
+  "public_key_id": "c190b8a4-f763-519b-9c74-ec6999661dd4",
   "name": "HES-SO",
   "what_it_does": "HES-SO is the University of Applied Sciences and Arts Western Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "applied sciences",
+    "arts university",
+    "western Switzerland education",
+    "higher education",
+    "vocational training",
+    "research institution",
+    "swiss university"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c190b8a4-f763-519b-9c74-ec6999661dd4"
 }

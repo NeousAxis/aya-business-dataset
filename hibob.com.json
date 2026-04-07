@@ -1,11 +1,21 @@
 {
   "entity_id": "bf2b9364-a073-5e66-bafa-c24042ea3aa1",
+  "public_key_id": "bf2b9364-a073-5e66-bafa-c24042ea3aa1",
   "name": "Bob",
   "what_it_does": "Hibob provides a human resources information system (HRIS) platform for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "HRIS",
+    "human resources",
+    "HR",
+    "employee experience",
+    "people management",
+    "HR data",
+    "HR analytics",
+    "workforce management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bf2b9364-a073-5e66-bafa-c24042ea3aa1"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "2d7d9633-fb5b-51e0-9089-d435c2db051f",
+  "public_key_id": "2d7d9633-fb5b-51e0-9089-d435c2db051f",
   "name": "Descope",
   "what_it_does": "Descope provides a platform for user authentication and authorization.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "user authentication",
+    "authorization",
+    "identity management",
+    "passwordless authentication",
+    "developer tools",
+    "user security",
+    "access control",
+    "customer identity"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2d7d9633-fb5b-51e0-9089-d435c2db051f"
 }

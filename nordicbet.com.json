@@ -1,11 +1,21 @@
 {
   "entity_id": "e802efc9-d1c7-521c-a715-37603cb88259",
+  "public_key_id": "e802efc9-d1c7-521c-a715-37603cb88259",
   "name": "Nordicbet",
   "what_it_does": "Nordicbet is an online gambling company offering sports betting, casino games, and poker.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "sports betting",
+    "casino games",
+    "poker",
+    "online gambling",
+    "online casino",
+    "Nordic betting",
+    "gambling",
+    "wagering"
+  ],
   "aio_score": 45.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e802efc9-d1c7-521c-a715-37603cb88259"
 }

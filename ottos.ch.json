@@ -1,20 +1,21 @@
 {
-  "entity_id": "47559f98-f172-5673-90db-f8e51c349a5f",
-  "name": "Ottos",
-  "what_it_does": "Ottos is a Swiss retail company selling a variety of products including clothing, electronics, and household goods.",
+  "entity_id": "8d4aad04-94e4-5b7c-b0fe-99849f511d0a",
+  "public_key_id": "8d4aad04-94e4-5b7c-b0fe-99849f511d0a",
+  "name": "OTTO’S",
+  "what_it_does": "OTTO’S is a discount retailer selling a variety of products including clothing, household goods, and electronics.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
   "keywords": [
     "discount retailer",
+    "clothing",
+    "household goods",
+    "electronics",
     "Swiss retail",
+    "variety products",
     "consumer goods",
-    "variety store",
-    "household products",
-    "budget shopping",
-    "non-food retail",
-    "value retailer"
+    "affordable products"
   ],
-  "aio_score": 39.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/47559f98-f172-5673-90db-f8e51c349a5f"
+  "aio_score": 50.0,
+  "certificate_url": "https://ai-visionary.com/aya/e/8d4aad04-94e4-5b7c-b0fe-99849f511d0a"
 }

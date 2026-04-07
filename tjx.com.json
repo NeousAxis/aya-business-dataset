@@ -1,11 +1,21 @@
 {
   "entity_id": "5879804b-2b1a-561c-8f8f-9c4e75ceef55",
+  "public_key_id": "5879804b-2b1a-561c-8f8f-9c4e75ceef55",
   "name": "Tjx",
   "what_it_does": "Tjx.com likely offers educational programs and training.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "educational programs",
+    "training courses",
+    "professional development",
+    "learning resources",
+    "skill development",
+    "e-learning",
+    "tjx",
+    "corporate learning"
+  ],
   "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5879804b-2b1a-561c-8f8f-9c4e75ceef55"
 }

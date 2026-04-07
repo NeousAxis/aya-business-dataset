@@ -1,11 +1,20 @@
 {
   "entity_id": "2fa54f75-1776-5845-8f36-1a44061146a9",
+  "public_key_id": "2fa54f75-1776-5845-8f36-1a44061146a9",
   "name": "Arweave",
   "what_it_does": "Arweave is a decentralized storage network offering permanent and low-cost data storage.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "decentralized storage",
+    "permanent storage",
+    "blockchain storage",
+    "data archiving",
+    "distributed ledger",
+    "data permanence",
+    "low-cost storage"
+  ],
   "aio_score": 34.0,
   "certificate_url": "https://ai-visionary.com/aya/e/2fa54f75-1776-5845-8f36-1a44061146a9"
 }

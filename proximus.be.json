@@ -1,11 +1,21 @@
 {
   "entity_id": "ee79a79e-4e1f-5bac-9ec8-6f03438ec750",
+  "public_key_id": "ee79a79e-4e1f-5bac-9ec8-6f03438ec750",
   "name": "Proximus",
   "what_it_does": "Proximus provides telecommunications services, including internet, television, and mobile, to residential and business customers in Belgium.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Belgium",
-  "keywords": [],
-  "aio_score": 79.0,
+  "keywords": [
+    "telecommunications",
+    "internet access",
+    "television services",
+    "mobile network",
+    "fixed line",
+    "residential telecom",
+    "business telecom",
+    "Belgian telecom"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ee79a79e-4e1f-5bac-9ec8-6f03438ec750"
 }

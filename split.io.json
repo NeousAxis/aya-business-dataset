@@ -1,11 +1,20 @@
 {
   "entity_id": "f4e2d789-6bb2-560e-b59d-ae8441488af5",
+  "public_key_id": "f4e2d789-6bb2-560e-b59d-ae8441488af5",
   "name": "Split.io",
   "what_it_does": "Split.io offers a feature flag and experimentation platform for software development.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "feature flags",
+    "experimentation",
+    "A/B testing",
+    "software releases",
+    "continuous delivery",
+    "software development",
+    "product experimentation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f4e2d789-6bb2-560e-b59d-ae8441488af5"
 }

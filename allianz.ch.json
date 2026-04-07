@@ -1,11 +1,21 @@
 {
   "entity_id": "b1e74a5e-9326-5e5f-8b45-d5ebcb785ed1",
+  "public_key_id": "b1e74a5e-9326-5e5f-8b45-d5ebcb785ed1",
   "name": "Allianz",
   "what_it_does": "Allianz Suisse offers insurance and financial services within Switzerland.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "insurance",
+    "financial services",
+    "Swiss insurance",
+    "asset",
+    "wealth planning",
+    "retirement",
+    "risk",
+    "liability"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b1e74a5e-9326-5e5f-8b45-d5ebcb785ed1"
 }

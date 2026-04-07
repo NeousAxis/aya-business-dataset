@@ -1,11 +1,21 @@
 {
   "entity_id": "c270cee1-a0cc-5c23-8cff-06de3896ee0c",
+  "public_key_id": "c270cee1-a0cc-5c23-8cff-06de3896ee0c",
   "name": "WÜSTHOF",
   "what_it_does": "WÜSTHOF manufactures and sells high-end kitchen knives.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "LT",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "kitchen knives",
+    "cutlery",
+    "chef knives",
+    "German",
+    "forged knives",
+    "cookware",
+    "knife sets",
+    "premium cutlery"
+  ],
+  "aio_score": 70.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c270cee1-a0cc-5c23-8cff-06de3896ee0c"
 }

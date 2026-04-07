@@ -1,11 +1,20 @@
 {
   "entity_id": "82c2799e-3dcc-5cfc-ac50-621ffbd5b808",
+  "public_key_id": "82c2799e-3dcc-5cfc-ac50-621ffbd5b808",
   "name": "Universität Basel",
   "what_it_does": "Universität Basel is a university located in Basel, Switzerland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "higher education",
+    "university",
+    "research institution",
+    "Swiss university",
+    "academic programs",
+    "scientific research",
+    "Basel"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/82c2799e-3dcc-5cfc-ac50-621ffbd5b808"
 }

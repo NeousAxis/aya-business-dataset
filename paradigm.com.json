@@ -1,11 +1,21 @@
 {
   "entity_id": "6b21f68d-126c-5bc6-806d-8e7a701c1a16",
+  "public_key_id": "6b21f68d-126c-5bc6-806d-8e7a701c1a16",
   "name": "Crafted in Canada",
   "what_it_does": "Paradigm sells audio speakers and related equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "audio speakers",
+    "hi-fi",
+    "loudspeakers",
+    "Canadian",
+    "home audio",
+    "sound",
+    "audio equipment",
+    "speaker systems"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6b21f68d-126c-5bc6-806d-8e7a701c1a16"
 }

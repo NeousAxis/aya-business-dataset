@@ -1,11 +1,21 @@
 {
   "entity_id": "ad5f9cf7-9996-5d87-af45-93ebd731f271",
+  "public_key_id": "ad5f9cf7-9996-5d87-af45-93ebd731f271",
   "name": "Phantom",
   "what_it_does": "Phantom is a cryptocurrency wallet for the Solana blockchain.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Solana wallet",
+    "crypto wallet",
+    "cryptocurrency storage",
+    "Solana blockchain",
+    "Web3 wallet",
+    "digital asset management",
+    "DeFi",
+    "NFT wallet"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ad5f9cf7-9996-5d87-af45-93ebd731f271"
 }

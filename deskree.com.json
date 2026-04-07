@@ -1,11 +1,21 @@
 {
   "entity_id": "26109293-add6-5847-9669-9a84bdea43f4",
+  "public_key_id": "26109293-add6-5847-9669-9a84bdea43f4",
   "name": "Deskree",
   "what_it_does": "Deskree is likely a platform for building and managing web applications, possibly a low-code or no-code solution.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "web application development",
+    "low-code",
+    "no-code",
+    "application builder",
+    "visual development",
+    "web apps",
+    "SaaS platform",
+    "drag-and-drop interface"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/26109293-add6-5847-9669-9a84bdea43f4"
 }

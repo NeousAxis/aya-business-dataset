@@ -1,11 +1,20 @@
 {
   "entity_id": "057472ae-501f-568a-8a94-188ab76a4dbf",
+  "public_key_id": "057472ae-501f-568a-8a94-188ab76a4dbf",
   "name": "AkzoNobel",
   "what_it_does": "AkzoNobel manufactures paints, coatings, and specialty chemicals.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 55.0,
+  "keywords": [
+    "paints",
+    "coatings",
+    "specialty chemicals",
+    "industrial coatings",
+    "decorative paints",
+    "surface protection",
+    "chemical manufacturing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/057472ae-501f-568a-8a94-188ab76a4dbf"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "5a133544-c24d-55ab-b328-16b129a77db0",
+  "public_key_id": "5a133544-c24d-55ab-b328-16b129a77db0",
   "name": "MANN+HUMMEL",
   "what_it_does": "MANN+HUMMEL develops, manufactures, and sells filtration products for automotive and industrial applications.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 58.0,
+  "keywords": [
+    "filtration products",
+    "automotive filters",
+    "industrial filtration",
+    "air filters",
+    "liquid filters",
+    "cabin air filters",
+    "oil filters",
+    "filter elements"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5a133544-c24d-55ab-b328-16b129a77db0"
 }

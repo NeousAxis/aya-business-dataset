@@ -1,11 +1,20 @@
 {
   "entity_id": "5132fda7-d374-54dc-b0e3-08957b08e7c0",
+  "public_key_id": "5132fda7-d374-54dc-b0e3-08957b08e7c0",
   "name": "Risely",
   "what_it_does": "Risely is likely an e-commerce platform selling items related to personal care or grooming.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "grooming products",
+    "personal care",
+    "e-commerce",
+    "men's grooming",
+    "beauty products",
+    "skincare",
+    "cosmetics"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5132fda7-d374-54dc-b0e3-08957b08e7c0"
 }

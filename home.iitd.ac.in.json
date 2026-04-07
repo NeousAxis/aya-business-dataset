@@ -1,11 +1,21 @@
 {
   "entity_id": "d311ebf7-bfd4-55f6-93b3-edbf423dc98c",
+  "public_key_id": "d311ebf7-bfd4-55f6-93b3-edbf423dc98c",
   "name": "Home Page",
   "what_it_does": "Home IITD is the official website for the Indian Institute of Technology Delhi.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "India",
-  "keywords": [],
+  "keywords": [
+    "indian institute of technology",
+    "engineering education",
+    "technical education",
+    "research institute",
+    "science programs",
+    "technology programs",
+    "delhi university",
+    "IIT Delhi"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d311ebf7-bfd4-55f6-93b3-edbf423dc98c"
 }

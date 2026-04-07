@@ -1,11 +1,21 @@
 {
   "entity_id": "ab09c369-4901-570d-a083-3dc5c285b1c4",
+  "public_key_id": "ab09c369-4901-570d-a083-3dc5c285b1c4",
   "name": "DNV",
   "what_it_does": "DNV provides risk management and quality assurance services across various industries.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 75.0,
+  "keywords": [
+    "risk management",
+    "quality assurance",
+    "inspection services",
+    "testing",
+    "certification",
+    "maritime",
+    "energy sector",
+    "supply chain assurance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ab09c369-4901-570d-a083-3dc5c285b1c4"
 }

@@ -1,5 +1,6 @@
 {
   "entity_id": "3b3f046e-4284-545f-9c5a-68ecfc66a070",
+  "public_key_id": "3b3f046e-4284-545f-9c5a-68ecfc66a070",
   "name": "Fenty Beauty",
   "what_it_does": "Fenty Beauty is a cosmetics brand founded by Rihanna.",
   "for_who": "Businesses and professionals.",
@@ -15,6 +16,6 @@
     "inclusive beauty",
     "beauty retail"
   ],
-  "aio_score": 79.0,
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3b3f046e-4284-545f-9c5a-68ecfc66a070"
 }

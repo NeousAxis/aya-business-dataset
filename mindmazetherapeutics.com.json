@@ -1,11 +1,20 @@
 {
   "entity_id": "466e879b-3a76-5d71-b8b3-bd0603c9cc8f",
+  "public_key_id": "466e879b-3a76-5d71-b8b3-bd0603c9cc8f",
   "name": "MindMaze Therapeutics",
   "what_it_does": "MindMaze Therapeutics develops digital therapeutics for neurological conditions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 73.0,
+  "keywords": [
+    "neurological conditions",
+    "digital therapeutics",
+    "brain injuries",
+    "rehabilitation",
+    "neurorehabilitation",
+    "therapeutic games",
+    "medical devices"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/466e879b-3a76-5d71-b8b3-bd0603c9cc8f"
 }

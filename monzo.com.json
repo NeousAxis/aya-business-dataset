@@ -1,11 +1,21 @@
 {
   "entity_id": "c442b475-76e3-59e3-b0d2-2071b9eb0cae",
+  "public_key_id": "c442b475-76e3-59e3-b0d2-2071b9eb0cae",
   "name": "Monzo Bank",
   "what_it_does": "Monzo Bank is a digital-only bank based in the United Kingdom.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "digital bank",
+    "mobile banking",
+    "UK banking",
+    "financial services",
+    "personal banking",
+    "current accounts",
+    "banking app",
+    "fintech bank"
+  ],
+  "aio_score": 42.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c442b475-76e3-59e3-b0d2-2071b9eb0cae"
 }

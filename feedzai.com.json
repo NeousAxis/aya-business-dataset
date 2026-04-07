@@ -1,11 +1,21 @@
 {
   "entity_id": "cf6142a9-8fde-5112-bb9c-c22329915466",
+  "public_key_id": "cf6142a9-8fde-5112-bb9c-c22329915466",
   "name": "Feedzai",
   "what_it_does": "Feedzai offers a risk management platform that uses AI to detect and prevent financial crime.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Brazil",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "fraud prevention",
+    "risk scoring",
+    "financial crime",
+    "AI",
+    "machine learning",
+    "payment security",
+    "transaction monitoring",
+    "anti-money laundering"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cf6142a9-8fde-5112-bb9c-c22329915466"
 }

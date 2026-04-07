@@ -1,11 +1,21 @@
 {
   "entity_id": "3234ad4a-53cd-5d88-b99f-d368ed499883",
+  "public_key_id": "3234ad4a-53cd-5d88-b99f-d368ed499883",
   "name": "Müller Handels GmbH &amp; Co. KG",
   "what_it_does": "Müller Handels GmbH & Co. KG operates a chain of drugstores in Germany selling beauty, household, and healthcare products.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "drugstore",
+    "beauty products",
+    "household goods",
+    "healthcare products",
+    "German retail",
+    "cosmetics",
+    "personal care",
+    "pharmacy"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3234ad4a-53cd-5d88-b99f-d368ed499883"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "5c3b30e3-3b6b-5a21-8f53-2ac3afcddfe7",
+  "public_key_id": "5c3b30e3-3b6b-5a21-8f53-2ac3afcddfe7",
   "name": "Bilanz",
   "what_it_does": "Bilanz is a Swiss business and finance magazine.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "swiss business magazine",
+    "finance news",
+    "business analysis",
+    "investment strategies",
+    "swiss economy",
+    "financial reporting",
+    "business journalism",
+    "stock market"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5c3b30e3-3b6b-5a21-8f53-2ac3afcddfe7"
 }

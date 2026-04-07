@@ -1,11 +1,21 @@
 {
   "entity_id": "1b624274-0858-5c34-a3df-3f188acd794d",
+  "public_key_id": "1b624274-0858-5c34-a3df-3f188acd794d",
   "name": "SHL Schweizerische Hotelfachschule Luzern",
   "what_it_does": "SHL Schweizerische Hotelfachschule Luzern is a hotel management school in Switzerland providing hospitality education and training.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "hotel school",
+    "hospitality education",
+    "hotel management",
+    "culinary arts",
+    "tourism training",
+    "Swiss hospitality",
+    "hotel operations",
+    "restaurant courses"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1b624274-0858-5c34-a3df-3f188acd794d"
 }

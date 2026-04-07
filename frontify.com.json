@@ -1,11 +1,21 @@
 {
   "entity_id": "dd700196-a4c6-536d-81b2-08bde71fa010",
+  "public_key_id": "dd700196-a4c6-536d-81b2-08bde71fa010",
   "name": "Frontify",
   "what_it_does": "Frontify provides a brand management platform that enables companies to create, manage, and share their brand assets.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "brand management",
+    "brand guidelines",
+    "digital asset",
+    "brand governance",
+    "creative collaboration",
+    "brand portal",
+    "brand style guide",
+    "brand consistency"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/dd700196-a4c6-536d-81b2-08bde71fa010"
 }

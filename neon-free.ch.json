@@ -1,11 +1,20 @@
 {
   "entity_id": "c944610e-9f01-5425-9386-096812544249",
+  "public_key_id": "c944610e-9f01-5425-9386-096812544249",
   "name": "neon",
   "what_it_does": "Neon provides a free mobile banking application in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 47.0,
+  "keywords": [
+    "mobile banking",
+    "digital banking",
+    "personal finance",
+    "payment processing",
+    "banking app",
+    "Switzerland banking",
+    "mobile payments"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c944610e-9f01-5425-9386-096812544249"
 }

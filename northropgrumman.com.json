@@ -1,11 +1,21 @@
 {
   "entity_id": "db547f0b-5233-5c44-9f23-251beabf7682",
+  "public_key_id": "db547f0b-5233-5c44-9f23-251beabf7682",
   "name": "Northrop Grumman",
   "what_it_does": "Northrop Grumman is an aerospace and defense technology company that designs and manufactures advanced systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "aerospace",
+    "defense",
+    "defense systems",
+    "military technology",
+    "advanced systems",
+    "government contractors",
+    "defense electronics",
+    "national security"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/db547f0b-5233-5c44-9f23-251beabf7682"
 }

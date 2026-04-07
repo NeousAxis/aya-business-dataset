@@ -1,11 +1,20 @@
 {
   "entity_id": "83073cfa-bb9f-56a0-974a-d2261d49f811",
+  "public_key_id": "83073cfa-bb9f-56a0-974a-d2261d49f811",
   "name": "Alexion",
   "what_it_does": "Alexion Pharmaceuticals develops and commercializes therapies for rare diseases.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "rare diseases",
+    "pharmaceuticals",
+    "therapeutics",
+    "biopharmaceutical",
+    "drug development",
+    "specialty medicine",
+    "orphan drugs"
+  ],
+  "aio_score": 56.0,
   "certificate_url": "https://ai-visionary.com/aya/e/83073cfa-bb9f-56a0-974a-d2261d49f811"
 }

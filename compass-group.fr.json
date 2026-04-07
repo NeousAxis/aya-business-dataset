@@ -1,11 +1,21 @@
 {
   "entity_id": "8045c3f9-c87a-52b2-b6f8-0c03221774ef",
+  "public_key_id": "8045c3f9-c87a-52b2-b6f8-0c03221774ef",
   "name": "Compass Group France",
   "what_it_does": "Compass Group France provides contract catering and support services to businesses and organizations in France.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "contract catering",
+    "food services",
+    "institutional catering",
+    "French catering",
+    "business catering",
+    "event catering",
+    "catering support",
+    "on-site restaurants"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8045c3f9-c87a-52b2-b6f8-0c03221774ef"
 }

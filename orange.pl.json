@@ -1,11 +1,21 @@
 {
   "entity_id": "6cff9587-e3b7-5077-999e-0182e8552f9b",
+  "public_key_id": "6cff9587-e3b7-5077-999e-0182e8552f9b",
   "name": "Orange Polska",
   "what_it_does": "Orange Polska provides telecommunications services including mobile, fixed-line, and internet access in Poland.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Poland",
-  "keywords": [],
+  "keywords": [
+    "telecommunications",
+    "mobile network",
+    "fixed-line",
+    "internet access",
+    "Poland telecom",
+    "voice over IP",
+    "data transmission",
+    "fiber optics"
+  ],
   "aio_score": 49.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6cff9587-e3b7-5077-999e-0182e8552f9b"
 }

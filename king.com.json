@@ -1,11 +1,21 @@
 {
   "entity_id": "06cb76c4-e8bb-5975-88e6-1a2c99ae2565",
+  "public_key_id": "06cb76c4-e8bb-5975-88e6-1a2c99ae2565",
   "name": "Play the Most Popular & Fun Games Online!",
   "what_it_does": "King.com develops and publishes online and mobile casual games.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "casual games",
+    "mobile games",
+    "puzzle games",
+    "social games",
+    "online games",
+    "gaming",
+    "mobile gaming",
+    "browser games"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/06cb76c4-e8bb-5975-88e6-1a2c99ae2565"
 }

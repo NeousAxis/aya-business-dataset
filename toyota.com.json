@@ -1,11 +1,21 @@
 {
   "entity_id": "871d4bf9-5f0e-5a01-b4c7-877e18b038a7",
+  "public_key_id": "871d4bf9-5f0e-5a01-b4c7-877e18b038a7",
   "name": "Toyota Official Site",
   "what_it_does": "Toyota manufactures and sells automobiles, trucks, and related parts and services.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
-  "location": "United States",
-  "keywords": [],
-  "aio_score": 62.0,
+  "location": "Japan",
+  "keywords": [
+    "automobile manufacturing",
+    "truck sales",
+    "automotive parts",
+    "vehicle repair",
+    "car dealership",
+    "auto financing",
+    "vehicle sales",
+    "automotive engineering"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/871d4bf9-5f0e-5a01-b4c7-877e18b038a7"
 }

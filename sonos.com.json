@@ -1,11 +1,21 @@
 {
   "entity_id": "a9b7b38f-b656-53bf-b35c-80010016315d",
+  "public_key_id": "a9b7b38f-b656-53bf-b35c-80010016315d",
   "name": "Sonos",
   "what_it_does": "Sonos designs and manufactures wireless multi-room audio systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "wireless speakers",
+    "multi-room audio",
+    "home sound systems",
+    "audio equipment",
+    "music streaming",
+    "smart speakers",
+    "home entertainment",
+    "audio technology"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a9b7b38f-b656-53bf-b35c-80010016315d"
 }

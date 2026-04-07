@@ -1,11 +1,20 @@
 {
   "entity_id": "78cfabce-61d2-541e-94aa-15d4ab5ac94e",
+  "public_key_id": "78cfabce-61d2-541e-94aa-15d4ab5ac94e",
   "name": "GreenGeeks",
   "what_it_does": "GreenGeeks provides web hosting services using renewable energy.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "renewable energy hosting",
+    "eco-friendly web hosting",
+    "green web hosting",
+    "sustainable servers",
+    "website hosting",
+    "environmentally friendly",
+    "carbon neutral hosting"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/78cfabce-61d2-541e-94aa-15d4ab5ac94e"
 }

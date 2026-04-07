@@ -1,11 +1,21 @@
 {
   "entity_id": "b4a7b45b-cf8a-5d8a-a2a3-69509bf31322",
+  "public_key_id": "b4a7b45b-cf8a-5d8a-a2a3-69509bf31322",
   "name": "Menarini Group",
   "what_it_does": "Menarini Group researches, develops, manufactures, and commercializes pharmaceutical products.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "pharmaceutical research",
+    "drug development",
+    "prescription medications",
+    "healthcare products",
+    "pharmaceutical manufacturing",
+    "global pharma",
+    "therapeutic drugs",
+    "medical treatments"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b4a7b45b-cf8a-5d8a-a2a3-69509bf31322"
 }

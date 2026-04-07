@@ -1,11 +1,21 @@
 {
   "entity_id": "a458cbc7-7318-50d0-bf1d-fd6523aa152d",
+  "public_key_id": "a458cbc7-7318-50d0-bf1d-fd6523aa152d",
   "name": "Ornikar",
   "what_it_does": "Ornikar is a French online driving school offering theory and practical lessons.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "driving school",
+    "driver education",
+    "online learning",
+    "French driving license",
+    "practical driving lessons",
+    "theory tests",
+    "road safety",
+    "learner drivers"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a458cbc7-7318-50d0-bf1d-fd6523aa152d"
 }

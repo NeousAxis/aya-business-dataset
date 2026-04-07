@@ -1,11 +1,21 @@
 {
   "entity_id": "03d941a9-6eb8-54f7-b2a8-ae5bbc53b01f",
+  "public_key_id": "03d941a9-6eb8-54f7-b2a8-ae5bbc53b01f",
   "name": "stc KSA",
   "what_it_does": "stc KSA is a Saudi Arabian telecommunications company.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 51.0,
+  "keywords": [
+    "telecommunications",
+    "mobile network",
+    "Saudi Arabia",
+    "internet provider",
+    "fixed lines",
+    "telecom",
+    "digital services",
+    "Saudi telecom"
+  ],
+  "aio_score": 71.0,
   "certificate_url": "https://ai-visionary.com/aya/e/03d941a9-6eb8-54f7-b2a8-ae5bbc53b01f"
 }

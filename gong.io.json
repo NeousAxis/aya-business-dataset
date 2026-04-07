@@ -1,11 +1,21 @@
 {
   "entity_id": "9612c188-e6f8-5071-80f6-00585a487e00",
+  "public_key_id": "9612c188-e6f8-5071-80f6-00585a487e00",
   "name": "Gong",
   "what_it_does": "Gong provides a revenue intelligence platform using AI to analyze sales interactions.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Germany",
-  "keywords": [],
-  "aio_score": 76.0,
+  "keywords": [
+    "revenue intelligence",
+    "sales analytics",
+    "AI sales",
+    "sales platform",
+    "conversation intelligence",
+    "sales performance",
+    "sales coaching",
+    "sales interactions"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9612c188-e6f8-5071-80f6-00585a487e00"
 }

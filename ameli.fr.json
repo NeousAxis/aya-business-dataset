@@ -1,11 +1,21 @@
 {
   "entity_id": "ea033fa8-5fa3-5e2b-88a6-d34ea01c99a2",
+  "public_key_id": "ea033fa8-5fa3-5e2b-88a6-d34ea01c99a2",
   "name": "ameli, le site de l’Assurance Maladie en ligne",
   "what_it_does": "Ameli.fr is the online platform for the French national health insurance system.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "French health insurance",
+    "national healthcare",
+    "healthcare access",
+    "medical information",
+    "insurance claims",
+    "patient portal",
+    "French healthcare system",
+    "health insurance benefits"
+  ],
   "aio_score": 47.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ea033fa8-5fa3-5e2b-88a6-d34ea01c99a2"
 }

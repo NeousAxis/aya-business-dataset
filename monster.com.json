@@ -1,11 +1,21 @@
 {
   "entity_id": "e767de99-7ba7-550e-bc08-b398e5cee066",
+  "public_key_id": "e767de99-7ba7-550e-bc08-b398e5cee066",
   "name": "Monster",
   "what_it_does": "Monster is an online job board.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Luxembourg",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "job postings",
+    "job search",
+    "recruitment",
+    "career",
+    "employment",
+    "job listings",
+    "resume database",
+    "job board"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e767de99-7ba7-550e-bc08-b398e5cee066"
 }

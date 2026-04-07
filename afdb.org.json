@@ -1,11 +1,21 @@
 {
   "entity_id": "a59e11b6-5236-50fc-868b-eb6b66e476e9",
+  "public_key_id": "a59e11b6-5236-50fc-868b-eb6b66e476e9",
   "name": "African Development Bank Group",
   "what_it_does": "The African Development Bank Group provides financing for sustainable development projects in Africa.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Portugal",
-  "keywords": [],
+  "keywords": [
+    "development finance",
+    "african development",
+    "sustainable development",
+    "infrastructure projects",
+    "financial aid",
+    "africa",
+    "development bank",
+    "poverty reduction"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a59e11b6-5236-50fc-868b-eb6b66e476e9"
 }

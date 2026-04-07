@@ -1,11 +1,20 @@
 {
   "entity_id": "7331ba9d-59e8-56fe-b369-fd756bde1612",
+  "public_key_id": "7331ba9d-59e8-56fe-b369-fd756bde1612",
   "name": "Dynaudio",
   "what_it_does": "Dynaudio manufactures high-end loudspeakers for home and professional use.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "high-end loudspeakers",
+    "audio speakers",
+    "professional audio",
+    "home audio",
+    "speaker manufacturing",
+    "audio equipment",
+    "loudspeaker systems"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/7331ba9d-59e8-56fe-b369-fd756bde1612"
 }

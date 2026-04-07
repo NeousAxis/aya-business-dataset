@@ -1,11 +1,20 @@
 {
   "entity_id": "e6e8d9af-dbbb-5904-bf0a-973d771d1a1d",
+  "public_key_id": "e6e8d9af-dbbb-5904-bf0a-973d771d1a1d",
   "name": "Juro",
   "what_it_does": "Juro provides a contract automation platform.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "contract automation",
+    "contract lifecycle",
+    "legal contracts",
+    "contract workflows",
+    "legal document",
+    "legal operations",
+    "contract lifecycle automation"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e6e8d9af-dbbb-5904-bf0a-973d771d1a1d"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "b92deed7-0b75-56d7-a058-0c1c9ac1b340",
+  "public_key_id": "b92deed7-0b75-56d7-a058-0c1c9ac1b340",
   "name": "Tập đoàn FPT",
   "what_it_does": "Tập đoàn FPT is a Vietnamese technology conglomerate providing IT services and education.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Vietnam",
-  "keywords": [],
+  "keywords": [
+    "Vietnamese IT",
+    "IT education",
+    "technology conglomerate",
+    "systems integration",
+    "software outsourcing",
+    "technology solutions",
+    "Vietnamese education"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b92deed7-0b75-56d7-a058-0c1c9ac1b340"
 }

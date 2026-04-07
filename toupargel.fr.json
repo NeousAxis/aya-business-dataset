@@ -1,11 +1,21 @@
 {
   "entity_id": "eb07b8ed-ec9a-53fc-bd97-af43e2eb75c7",
+  "public_key_id": "eb07b8ed-ec9a-53fc-bd97-af43e2eb75c7",
   "name": "Toupargel",
   "what_it_does": "Toupargel is a French company that delivers frozen food directly to consumers.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "France",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "Frozen Food Delivery",
+    "Home Delivery Groceries",
+    "French Food Retailer",
+    "Frozen Meals",
+    "Direct to Consumer Food",
+    "Convenience Food",
+    "Chilled Goods",
+    "France Food"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eb07b8ed-ec9a-53fc-bd97-af43e2eb75c7"
 }

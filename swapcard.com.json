@@ -1,11 +1,21 @@
 {
   "entity_id": "cf95bae9-8046-5dcb-8561-e3e13b32a383",
+  "public_key_id": "cf95bae9-8046-5dcb-8561-e3e13b32a383",
   "name": "Swapcard",
   "what_it_does": "Swapcard provides an event and meeting platform with features for networking and engagement.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "France",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "event platform",
+    "meeting platform",
+    "event networking",
+    "event engagement",
+    "virtual events",
+    "hybrid events",
+    "event technology",
+    "event matchmaking"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cf95bae9-8046-5dcb-8561-e3e13b32a383"
 }

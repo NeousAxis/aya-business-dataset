@@ -1,11 +1,21 @@
 {
   "entity_id": "8549234f-ffad-5b70-b59d-155d88bc5971",
+  "public_key_id": "8549234f-ffad-5b70-b59d-155d88bc5971",
   "name": "Glassnode",
   "what_it_does": "Glassnode provides on-chain analytics and data for blockchain and cryptocurrency markets.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "on-chain analytics",
+    "blockchain data",
+    "cryptocurrency market data",
+    "digital asset analysis",
+    "bitcoin metrics",
+    "ethereum analytics",
+    "crypto data insights",
+    "blockchain intelligence"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8549234f-ffad-5b70-b59d-155d88bc5971"
 }

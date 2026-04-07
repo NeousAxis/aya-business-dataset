@@ -1,11 +1,21 @@
 {
   "entity_id": "084f97e6-c63f-5720-bf06-1e98052ea883",
+  "public_key_id": "084f97e6-c63f-5720-bf06-1e98052ea883",
   "name": "Swissmedic",
   "what_it_does": "Swissmedic is the Swiss agency for the authorization and supervision of therapeutic products.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 45.0,
+  "keywords": [
+    "Swiss therapeutic products",
+    "pharmaceutical regulation",
+    "drug authorization",
+    "medical device approval",
+    "clinical trials",
+    "drug safety",
+    "health product supervision",
+    "therapeutic product licensing"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/084f97e6-c63f-5720-bf06-1e98052ea883"
 }

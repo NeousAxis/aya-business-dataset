@@ -1,11 +1,20 @@
 {
   "entity_id": "9eb27f28-00de-5a21-9aa9-1f001cf50943",
+  "public_key_id": "9eb27f28-00de-5a21-9aa9-1f001cf50943",
   "name": "Trigkey",
   "what_it_does": "Trigkey sells mini PCs and related computer hardware directly to consumers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 51.0,
+  "keywords": [
+    "mini PCs",
+    "computer hardware",
+    "desktop computers",
+    "direct sales",
+    "consumer electronics",
+    "PC gaming",
+    "home office equipment"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9eb27f28-00de-5a21-9aa9-1f001cf50943"
 }

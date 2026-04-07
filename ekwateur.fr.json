@@ -1,11 +1,21 @@
 {
   "entity_id": "f642dccc-5c96-556c-ba37-398f4bb4f19b",
+  "public_key_id": "f642dccc-5c96-556c-ba37-398f4bb4f19b",
   "name": "Ekwateur",
   "what_it_does": "Ekwateur sells renewable energy and provides energy management services directly to consumers.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "France",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "renewable energy",
+    "electricity",
+    "gas",
+    "energy supplier",
+    "green energy",
+    "sustainable energy",
+    "energy retail",
+    "solar energy"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f642dccc-5c96-556c-ba37-398f4bb4f19b"
 }

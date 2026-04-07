@@ -1,11 +1,21 @@
 {
   "entity_id": "b41f7ebc-b404-5ddb-ab5e-36fa95fc44fd",
+  "public_key_id": "b41f7ebc-b404-5ddb-ab5e-36fa95fc44fd",
   "name": "Lösungsanbieter TRUMPF",
   "what_it_does": "TRUMPF provides solutions, likely in the form of news or media, related to their industry: manufacturing and laser technology.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "Manufacturing Solutions",
+    "Laser Technology",
+    "Industrial Lasers",
+    "Fabrication Equipment",
+    "Sheet Metal Processing",
+    "Laser Cutting",
+    "Laser Welding",
+    "Industrial Manufacturing"
+  ],
   "aio_score": 48.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b41f7ebc-b404-5ddb-ab5e-36fa95fc44fd"
 }

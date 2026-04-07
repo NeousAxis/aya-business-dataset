@@ -1,11 +1,21 @@
 {
   "entity_id": "a30d82d8-973d-5502-bb6d-3a4ffe0de432",
+  "public_key_id": "a30d82d8-973d-5502-bb6d-3a4ffe0de432",
   "name": "Cyfrin Solodit",
   "what_it_does": "Cyfrin Solodit offers smart contract security auditing services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "smart contract audit",
+    "blockchain security",
+    "Solidity audit",
+    "Web3 security",
+    "decentralized application security",
+    "cryptocurrency security",
+    "smart contract vulnerability",
+    "blockchain code review"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a30d82d8-973d-5502-bb6d-3a4ffe0de432"
 }

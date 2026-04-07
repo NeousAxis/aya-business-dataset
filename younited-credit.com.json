@@ -1,11 +1,21 @@
 {
   "entity_id": "d7d04a77-6459-541c-a573-b5503a2ce7bc",
+  "public_key_id": "d7d04a77-6459-541c-a573-b5503a2ce7bc",
   "name": "Réponse immédiate",
   "what_it_does": "Younited Credit offers online personal loans and consumer credit solutions.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "personal loans",
+    "consumer credit",
+    "loan origination",
+    "fintech lending",
+    "unsecured loans",
+    "online lending",
+    "credit solutions",
+    "borrowing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d7d04a77-6459-541c-a573-b5503a2ce7bc"
 }

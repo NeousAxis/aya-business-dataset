@@ -1,11 +1,21 @@
 {
   "entity_id": "d7ecba9c-ea8b-5635-a759-96ec3c3d622c",
+  "public_key_id": "d7ecba9c-ea8b-5635-a759-96ec3c3d622c",
   "name": "SALOMON",
   "what_it_does": "SALOMON sells outdoor sports equipment, including footwear, apparel, and gear.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 60.0,
+  "keywords": [
+    "outdoor equipment",
+    "sports footwear",
+    "trail running shoes",
+    "ski equipment",
+    "hiking gear",
+    "outdoor apparel",
+    "mountain sports",
+    "sports gear"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d7ecba9c-ea8b-5635-a759-96ec3c3d622c"
 }

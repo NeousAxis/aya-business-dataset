@@ -1,11 +1,20 @@
 {
   "entity_id": "07a3b094-a8aa-55ae-a004-73fb1e74608d",
+  "public_key_id": "07a3b094-a8aa-55ae-a004-73fb1e74608d",
   "name": "Colt Technology Services",
   "what_it_does": "Colt Technology Services provides high-bandwidth networking and connectivity solutions for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "high-bandwidth networking",
+    "connectivity solutions",
+    "enterprise networking",
+    "network infrastructure",
+    "data transmission",
+    "global network",
+    "business internet"
+  ],
+  "aio_score": 67.0,
   "certificate_url": "https://ai-visionary.com/aya/e/07a3b094-a8aa-55ae-a004-73fb1e74608d"
 }

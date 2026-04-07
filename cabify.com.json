@@ -1,11 +1,20 @@
 {
   "entity_id": "f1ed3020-9b73-5532-88ff-9d8fd31b4e02",
+  "public_key_id": "f1ed3020-9b73-5532-88ff-9d8fd31b4e02",
   "name": "Cabify",
   "what_it_does": "Cabify provides ride-hailing services as an alternative to taxis.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Argentina",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "ride hailing",
+    "taxi alternative",
+    "private car hire",
+    "urban transport",
+    "ground transportation",
+    "mobility solutions",
+    "passenger transport"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f1ed3020-9b73-5532-88ff-9d8fd31b4e02"
 }

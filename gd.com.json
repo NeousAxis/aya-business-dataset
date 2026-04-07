@@ -1,11 +1,21 @@
 {
   "entity_id": "088fef62-9ac6-5ac4-a161-71792a716138",
+  "public_key_id": "088fef62-9ac6-5ac4-a161-71792a716138",
   "name": "General Dynamics",
   "what_it_does": "General Dynamics is an aerospace and defense company manufacturing military equipment and systems.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 42.0,
+  "keywords": [
+    "aerospace manufacturing",
+    "defense systems",
+    "military equipment",
+    "government contracting",
+    "defense contractor",
+    "weapon systems",
+    "aerospace defense",
+    "military technology"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/088fef62-9ac6-5ac4-a161-71792a716138"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "3d0fd715-9a0c-542f-8dc6-ebc2765c69ed",
+  "public_key_id": "3d0fd715-9a0c-542f-8dc6-ebc2765c69ed",
   "name": "23andMe International",
   "what_it_does": "23andMe provides direct-to-consumer genetic testing services.",
   "for_who": "Healthcare professionals and patients.",
   "category": "Healthcare & Pharma",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "DNA testing",
+    "genetic testing",
+    "ancestry analysis",
+    "health reports",
+    "personalized medicine",
+    "genetic research",
+    "direct-to-consumer",
+    "genomics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3d0fd715-9a0c-542f-8dc6-ebc2765c69ed"
 }

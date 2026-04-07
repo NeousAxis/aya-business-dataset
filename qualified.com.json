@@ -1,11 +1,21 @@
 {
   "entity_id": "a1e4740d-7844-54fd-b698-ec69f1d2f0cf",
+  "public_key_id": "a1e4740d-7844-54fd-b698-ec69f1d2f0cf",
   "name": "Piper the AI SDR Agent",
   "what_it_does": "Qualified.com provides an AI-powered sales development representative (SDR) agent to qualify website leads.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "AI sales agent",
+    "lead qualification",
+    "website lead capture",
+    "SDR automation",
+    "sales development",
+    "B2B lead generation",
+    "artificial intelligence",
+    "customer engagement"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/a1e4740d-7844-54fd-b698-ec69f1d2f0cf"
 }

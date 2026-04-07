@@ -1,11 +1,20 @@
 {
   "entity_id": "d40593a0-3b57-5e27-8ca8-2795e71fcc95",
+  "public_key_id": "d40593a0-3b57-5e27-8ca8-2795e71fcc95",
   "name": "Comment accéder à mon espace client ?",
   "what_it_does": "AG2R La Mondiale provides insurance and financial services to individuals and businesses in France.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "France",
-  "keywords": [],
-  "aio_score": 70.0,
+  "keywords": [
+    "insurance",
+    "financial services",
+    "French insurance",
+    "health insurance",
+    "retirement planning",
+    "property insurance",
+    "French finance"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/d40593a0-3b57-5e27-8ca8-2795e71fcc95"
 }

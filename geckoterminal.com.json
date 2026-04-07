@@ -1,11 +1,21 @@
 {
   "entity_id": "f805b3bd-62c1-5e3a-8326-fe238d9fea9e",
+  "public_key_id": "f805b3bd-62c1-5e3a-8326-fe238d9fea9e",
   "name": "GeckoTerminal",
   "what_it_does": "GeckoTerminal provides real-time data and charts for decentralized finance (DeFi) trading pairs.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Taiwan",
-  "keywords": [],
+  "keywords": [
+    "DeFi data",
+    "crypto charts",
+    "trading pairs",
+    "real-time data",
+    "decentralized finance",
+    "token prices",
+    "liquidity pools",
+    "crypto analytics"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f805b3bd-62c1-5e3a-8326-fe238d9fea9e"
 }

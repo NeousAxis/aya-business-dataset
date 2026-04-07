@@ -1,11 +1,21 @@
 {
   "entity_id": "cc5aa939-9355-5b4a-beb7-7c6faed3107f",
+  "public_key_id": "cc5aa939-9355-5b4a-beb7-7c6faed3107f",
   "name": "Å»abka",
   "what_it_does": "Żabka is a chain of convenience stores in Poland.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Poland",
-  "keywords": [],
-  "aio_score": 59.0,
+  "keywords": [
+    "convenience stores",
+    "retail chain",
+    "Polish retail",
+    "grocery retail",
+    "food retail",
+    "convenience goods",
+    "quick shopping",
+    "neighbourhood stores"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/cc5aa939-9355-5b4a-beb7-7c6faed3107f"
 }

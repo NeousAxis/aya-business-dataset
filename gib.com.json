@@ -1,11 +1,20 @@
 {
   "entity_id": "5fa5d711-c672-5e20-b6ab-ab6eece51a90",
+  "public_key_id": "5fa5d711-c672-5e20-b6ab-ab6eece51a90",
   "name": "Gulf International Bank",
   "what_it_does": "Gulf International Bank provides corporate and investment banking services in the Middle East and internationally.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "corporate banking",
+    "investment banking",
+    "Middle East banking",
+    "project finance",
+    "trade finance",
+    "financial advisory",
+    "international banking"
+  ],
   "aio_score": 36.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5fa5d711-c672-5e20-b6ab-ab6eece51a90"
 }

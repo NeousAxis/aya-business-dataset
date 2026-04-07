@@ -1,11 +1,21 @@
 {
   "entity_id": "18d0b84d-f978-5fe2-b960-258911816383",
+  "public_key_id": "18d0b84d-f978-5fe2-b960-258911816383",
   "name": "Advantech",
   "what_it_does": "Advantech manufactures industrial automation and embedded computing systems.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Spain",
-  "keywords": [],
-  "aio_score": 53.0,
+  "keywords": [
+    "industrial automation",
+    "embedded computing",
+    "industrial PCs",
+    "automation solutions",
+    "edge computing",
+    "machine vision",
+    "IoT solutions",
+    "industrial motherboards"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/18d0b84d-f978-5fe2-b960-258911816383"
 }

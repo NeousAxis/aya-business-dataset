@@ -1,11 +1,20 @@
 {
   "entity_id": "f39a8a46-d683-5259-8fe7-09153f297984",
+  "public_key_id": "f39a8a46-d683-5259-8fe7-09153f297984",
   "name": "Capgemini",
   "what_it_does": "Capgemini is a multinational corporation that provides consulting, technology, and outsourcing services.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "IT consulting",
+    "systems integration",
+    "outsourcing",
+    "technology implementation",
+    "business consulting",
+    "IT services",
+    "global consulting"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f39a8a46-d683-5259-8fe7-09153f297984"
 }

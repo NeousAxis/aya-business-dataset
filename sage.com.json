@@ -1,11 +1,21 @@
 {
   "entity_id": "712059bc-1b42-5a52-aec2-4f20a9140941",
+  "public_key_id": "712059bc-1b42-5a52-aec2-4f20a9140941",
   "name": "Sage",
   "what_it_does": "Sage is a global enterprise resource planning (ERP) software company serving small to medium sized businesses.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Canada",
-  "keywords": [],
-  "aio_score": 61.0,
+  "keywords": [
+    "ERP",
+    "Enterprise Resource Planning",
+    "SMB ERP",
+    "Accounting ",
+    "Financial ",
+    "Supply Chain",
+    "Business ",
+    "Manufacturing "
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/712059bc-1b42-5a52-aec2-4f20a9140941"
 }

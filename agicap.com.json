@@ -1,11 +1,21 @@
 {
   "entity_id": "29a0d572-a89b-538f-aa68-6b5cea183817",
+  "public_key_id": "29a0d572-a89b-538f-aa68-6b5cea183817",
   "name": "Cash flow management software",
   "what_it_does": "Agicap provides cash flow management software for businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "cash flow forecasting",
+    "budgeting tools",
+    "financial planning",
+    "cash management",
+    "SaaS",
+    "business finance",
+    "expense tracking",
+    "real-time analytics"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/29a0d572-a89b-538f-aa68-6b5cea183817"
 }

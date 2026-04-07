@@ -1,11 +1,20 @@
 {
   "entity_id": "413c1dbd-16cb-592c-aabf-f0c6565617dd",
+  "public_key_id": "413c1dbd-16cb-592c-aabf-f0c6565617dd",
   "name": "Lindt & Sprüngli",
   "what_it_does": "Lindt & Sprüngli manufactures and sells chocolate confectionery products worldwide.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Netherlands",
-  "keywords": [],
-  "aio_score": 49.0,
+  "keywords": [
+    "chocolate confectionery",
+    "chocolate products",
+    "premium chocolate",
+    "global chocolate brand",
+    "gourmet chocolate",
+    "chocolate gifts",
+    "seasonal chocolate"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/413c1dbd-16cb-592c-aabf-f0c6565617dd"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "1fd40fad-483e-5bcf-8869-0fe443bf52cc",
+  "public_key_id": "1fd40fad-483e-5bcf-8869-0fe443bf52cc",
   "name": "True Wealth AG",
   "what_it_does": "True Wealth AG provides wealth management and financial advisory services in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Switzerland",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "wealth ",
+    "financial advisory",
+    "asset allocation",
+    "investment ",
+    "portfolio ",
+    "Swiss finance",
+    "financial planning"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/1fd40fad-483e-5bcf-8869-0fe443bf52cc"
 }

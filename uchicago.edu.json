@@ -1,11 +1,21 @@
 {
   "entity_id": "5d8502c2-7467-5e0d-8298-2cc71306115e",
+  "public_key_id": "5d8502c2-7467-5e0d-8298-2cc71306115e",
   "name": "The University of Chicago",
   "what_it_does": "The University of Chicago is a private research university offering undergraduate and graduate programs.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "private research university",
+    "higher education",
+    "Chicago university",
+    "US education",
+    "undergraduate programs",
+    "graduate programs",
+    "academic research",
+    "scientific research"
+  ],
   "aio_score": 44.0,
   "certificate_url": "https://ai-visionary.com/aya/e/5d8502c2-7467-5e0d-8298-2cc71306115e"
 }

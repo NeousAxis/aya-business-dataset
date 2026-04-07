@@ -1,11 +1,20 @@
 {
   "entity_id": "731fe467-6075-5392-b2aa-efe972399727",
+  "public_key_id": "731fe467-6075-5392-b2aa-efe972399727",
   "name": "OpenAI",
   "what_it_does": "OpenAI researches and develops artificial intelligence technologies and models.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "India",
-  "keywords": [],
+  "location": "United States",
+  "keywords": [
+    "artificial intelligence",
+    "AI research",
+    "machine learning",
+    "AI models",
+    "generative AI",
+    "natural language processing",
+    "AI development"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/731fe467-6075-5392-b2aa-efe972399727"
 }

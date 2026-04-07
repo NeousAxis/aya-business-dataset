@@ -1,11 +1,21 @@
 {
   "entity_id": "487d5d94-a4d7-5dcd-9583-cdc9f8296da6",
+  "public_key_id": "487d5d94-a4d7-5dcd-9583-cdc9f8296da6",
   "name": "Mural",
   "what_it_does": "Mural provides a digital workspace for visual collaboration and brainstorming.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "visual collaboration",
+    "digital workspace",
+    "remote teamwork",
+    "brainstorming tools",
+    "agile meetings",
+    "online whiteboarding",
+    "interactive workshops",
+    "distributed teams"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/487d5d94-a4d7-5dcd-9583-cdc9f8296da6"
 }

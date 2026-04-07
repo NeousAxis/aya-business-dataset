@@ -1,11 +1,21 @@
 {
   "entity_id": "43c36f4b-9f73-5bc3-83b6-ec1ee5362696",
+  "public_key_id": "43c36f4b-9f73-5bc3-83b6-ec1ee5362696",
   "name": "University of St Andrews",
   "what_it_does": "The University of St Andrews is a higher education institution based in Scotland.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
-  "keywords": [],
-  "aio_score": 63.0,
+  "keywords": [
+    "higher education",
+    "university",
+    "Scottish university",
+    "academic research",
+    "undergraduate programs",
+    "postgraduate programs",
+    "student education",
+    "research institution"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/43c36f4b-9f73-5bc3-83b6-ec1ee5362696"
 }

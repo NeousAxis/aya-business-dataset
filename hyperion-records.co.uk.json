@@ -1,11 +1,21 @@
 {
   "entity_id": "ca26bd33-6535-562b-a1b1-90654faf2b33",
+  "public_key_id": "ca26bd33-6535-562b-a1b1-90654faf2b33",
   "name": "Hyperion Records Ltd",
   "what_it_does": "Hyperion Records Ltd records and distributes classical music albums.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "United Kingdom",
-  "keywords": [],
+  "keywords": [
+    "classical music",
+    "music recording",
+    "classical albums",
+    "music distribution",
+    "classical music label",
+    "choral music",
+    "orchestral recordings",
+    "historical recordings"
+  ],
   "aio_score": 39.0,
   "certificate_url": "https://ai-visionary.com/aya/e/ca26bd33-6535-562b-a1b1-90654faf2b33"
 }

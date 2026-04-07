@@ -1,11 +1,21 @@
 {
   "entity_id": "93109782-1f62-5fc7-affc-8fa8083a93f1",
-  "name": "Official site of Paris Saint-Germain",
+  "public_key_id": "93109782-1f62-5fc7-affc-8fa8083a93f1",
+  "name": "Paris Saint-Germain",
   "what_it_does": "Official site of Paris Saint-Germain provides news, information, and merchandise related to the Paris Saint-Germain football club.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "France",
-  "keywords": [],
+  "keywords": [
+    "Paris Saint-Germain news",
+    "PSG football",
+    "French football league",
+    "Soccer merchandise",
+    "PSG official store",
+    "Football club",
+    "Soccer news",
+    "Ligue 1"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/93109782-1f62-5fc7-affc-8fa8083a93f1"
 }

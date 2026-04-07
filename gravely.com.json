@@ -1,11 +1,20 @@
 {
   "entity_id": "fb4a604e-c201-54e8-b460-24bfdd9a983c",
+  "public_key_id": "fb4a604e-c201-54e8-b460-24bfdd9a983c",
   "name": "Gravely Lawn Mowers",
   "what_it_does": "Gravely Lawn Mowers sells and services commercial and residential lawn mowers and outdoor power equipment.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "commercial lawn mowers",
+    "residential lawn mowers",
+    "outdoor power equipment",
+    "lawn mower parts",
+    "lawn mower repair",
+    "landscaping equipment",
+    "turf equipment"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/fb4a604e-c201-54e8-b460-24bfdd9a983c"
 }

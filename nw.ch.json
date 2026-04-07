@@ -1,11 +1,21 @@
 {
   "entity_id": "3d287267-89ff-5710-b92e-cf524a9dfb74",
+  "public_key_id": "3d287267-89ff-5710-b92e-cf524a9dfb74",
   "name": "Kanton Nidwalden Online",
   "what_it_does": "Kanton Nidwalden Online provides official information and services for the canton of Nidwalden in Switzerland.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Switzerland",
-  "keywords": [],
+  "keywords": [
+    "canton information",
+    "Nidwalden tourism",
+    "Swiss region",
+    "government services",
+    "local attractions",
+    "public administration",
+    "regional information",
+    "Switzerland"
+  ],
   "aio_score": 32.0,
   "certificate_url": "https://ai-visionary.com/aya/e/3d287267-89ff-5710-b92e-cf524a9dfb74"
 }

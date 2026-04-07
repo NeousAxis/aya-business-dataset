@@ -1,11 +1,21 @@
 {
   "entity_id": "aeae7ae6-912f-5567-af61-4bd33a51e18a",
+  "public_key_id": "aeae7ae6-912f-5567-af61-4bd33a51e18a",
   "name": "La mission French Tech",
   "what_it_does": "La French Tech is a French government initiative promoting the growth of French startups.",
   "for_who": "Businesses and professionals.",
   "category": "Administration & Public",
   "location": "France",
-  "keywords": [],
-  "aio_score": 62.0,
+  "keywords": [
+    "French startups",
+    "government initiative",
+    "startup growth",
+    "tech ecosystem",
+    "innovation promotion",
+    "venture capital",
+    "French technology",
+    "startup funding"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/aeae7ae6-912f-5567-af61-4bd33a51e18a"
 }

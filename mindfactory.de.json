@@ -1,11 +1,21 @@
 {
   "entity_id": "f733365b-b462-5b2a-a055-cf6d9ccf3997",
+  "public_key_id": "f733365b-b462-5b2a-a055-cf6d9ccf3997",
   "name": "Mindfactory",
   "what_it_does": "Mindfactory is a German online retailer specializing in computer hardware and electronics.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "computer components",
+    "PC hardware",
+    "gaming PCs",
+    "electronics retailer",
+    "German e-commerce",
+    "DIY PC",
+    "hardware components",
+    "desktop parts"
+  ],
   "aio_score": 30.0,
   "certificate_url": "https://ai-visionary.com/aya/e/f733365b-b462-5b2a-a055-cf6d9ccf3997"
 }

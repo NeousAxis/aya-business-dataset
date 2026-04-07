@@ -1,11 +1,21 @@
 {
   "entity_id": "717c7046-ad59-557a-ae5b-d752cbb4184f",
+  "public_key_id": "717c7046-ad59-557a-ae5b-d752cbb4184f",
   "name": "Certina watches",
   "what_it_does": "Certina manufactures and sells Swiss-made watches.",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Belgium",
-  "keywords": [],
+  "keywords": [
+    "Swiss-made watches",
+    "luxury watches",
+    "timepieces",
+    "watch retailer",
+    "watch manufacturer",
+    "Certina watches",
+    "wristwatches",
+    "Swiss watches"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/717c7046-ad59-557a-ae5b-d752cbb4184f"
 }

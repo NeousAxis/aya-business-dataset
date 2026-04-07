@@ -1,19 +1,20 @@
 {
-  "entity_id": "7695761b-4095-5d94-9fdf-44143626805c",
-  "name": "Axis",
-  "what_it_does": "Axis Communications develops and sells network cameras, video encoders, and related security solutions.",
+  "entity_id": "b661e0bf-a49f-546f-8384-15a085809d46",
+  "public_key_id": "b661e0bf-a49f-546f-8384-15a085809d46",
+  "name": "Axis Communications",
+  "what_it_does": "Axis Communications develops and sells network cameras, encoders, and related security equipment.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
-  "location": "Global",
+  "location": "Switzerland",
   "keywords": [
     "network cameras",
-    "video encoders",
-    "security systems",
     "video surveillance",
-    "access control",
-    "audio systems",
-    "video analytics"
+    "IP cameras",
+    "security systems",
+    "video encoders",
+    "security cameras",
+    "access control"
   ],
   "aio_score": 50.0,
-  "certificate_url": "https://ai-visionary.com/aya/e/7695761b-4095-5d94-9fdf-44143626805c"
+  "certificate_url": "https://ai-visionary.com/aya/e/b661e0bf-a49f-546f-8384-15a085809d46"
 }

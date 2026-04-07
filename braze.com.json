@@ -1,11 +1,21 @@
 {
   "entity_id": "25ffd375-1de1-5419-a86b-806f7b024f72",
+  "public_key_id": "25ffd375-1de1-5419-a86b-806f7b024f72",
   "name": "Braze Customer Engagement Platform",
   "what_it_does": "Braze provides a customer engagement platform for messaging and marketing automation.",
   "for_who": "Media professionals and audiences.",
   "category": "Media & Communication",
   "location": "United States",
-  "keywords": [],
+  "keywords": [
+    "customer engagement",
+    "marketing automation",
+    "messaging",
+    "cross-channel marketing",
+    "mobile marketing",
+    "push notifications",
+    "in-app messaging",
+    "email marketing"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/25ffd375-1de1-5419-a86b-806f7b024f72"
 }

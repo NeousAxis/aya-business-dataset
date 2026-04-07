@@ -1,11 +1,21 @@
 {
   "entity_id": "e353210a-7acf-5beb-94e4-aadd9228a88e",
+  "public_key_id": "e353210a-7acf-5beb-94e4-aadd9228a88e",
   "name": "Lytics",
   "what_it_does": "Lytics provides a customer data platform (CDP) for marketing personalization.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "customer data platform",
+    "CDP",
+    "marketing personalization",
+    "data analytics",
+    "customer segmentation",
+    "marketing automation",
+    "data management",
+    "customer insights"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e353210a-7acf-5beb-94e4-aadd9228a88e"
 }

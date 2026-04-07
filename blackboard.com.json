@@ -1,11 +1,21 @@
 {
   "entity_id": "9d55c0f6-01c9-5346-8ca5-17c5706646a4",
+  "public_key_id": "9d55c0f6-01c9-5346-8ca5-17c5706646a4",
   "name": "Blackboard",
   "what_it_does": "Blackboard provides a learning management system for educational institutions.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "learning management system",
+    "education tech",
+    "e-learning",
+    "course management",
+    "Blackboard LMS",
+    "educational institution tools",
+    "online education",
+    "academic software"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/9d55c0f6-01c9-5346-8ca5-17c5706646a4"
 }

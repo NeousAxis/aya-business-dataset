@@ -1,11 +1,21 @@
 {
   "entity_id": "8b84f977-ed53-515c-a81c-214202fab3ff",
+  "public_key_id": "8b84f977-ed53-515c-a81c-214202fab3ff",
   "name": "7shifts",
   "what_it_does": "7shifts provides employee scheduling and time clock software for the restaurant industry.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "restaurant scheduling",
+    "employee time clock",
+    "labor management",
+    "restaurant workforce",
+    "shift scheduling",
+    "time tracking",
+    "restaurant operations",
+    "staff management"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/8b84f977-ed53-515c-a81c-214202fab3ff"
 }

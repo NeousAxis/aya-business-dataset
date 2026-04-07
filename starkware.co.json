@@ -1,11 +1,21 @@
 {
   "entity_id": "49434ddf-e267-5543-a3be-3d35770a5e3f",
+  "public_key_id": "49434ddf-e267-5543-a3be-3d35770a5e3f",
   "name": "StarkWare",
   "what_it_does": "StarkWare develops technology for scaling blockchain applications using zero-knowledge proofs.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 56.0,
+  "keywords": [
+    "zero-knowledge proofs",
+    "blockchain scaling",
+    "cryptography",
+    "STARK technology",
+    "blockchain applications",
+    "layer-2 scaling",
+    "validity proofs",
+    "zk-STARKs"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/49434ddf-e267-5543-a3be-3d35770a5e3f"
 }

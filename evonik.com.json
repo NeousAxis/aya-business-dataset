@@ -1,11 +1,21 @@
 {
   "entity_id": "bffca3ee-2e64-5a3d-82c5-1871e8347153",
+  "public_key_id": "bffca3ee-2e64-5a3d-82c5-1871e8347153",
   "name": "Evonik",
   "what_it_does": "Evonik manufactures specialty chemicals for various industries.",
   "for_who": "Businesses and professionals.",
   "category": "Industrie & Manufacturing",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "specialty chemicals",
+    "chemical manufacturing",
+    "performance materials",
+    "chemical additives",
+    "nutrition & care",
+    "smart materials",
+    "coating additives",
+    "chemical solutions"
+  ],
   "aio_score": 43.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bffca3ee-2e64-5a3d-82c5-1871e8347153"
 }

@@ -1,11 +1,20 @@
 {
   "entity_id": "263d9440-8fc4-5a5c-91a0-b56aa771c26b",
+  "public_key_id": "263d9440-8fc4-5a5c-91a0-b56aa771c26b",
   "name": "Webflow",
   "what_it_does": "Webflow is a no-code platform for designing and building websites.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "United States",
-  "keywords": [],
-  "aio_score": 80.0,
+  "keywords": [
+    "no-code platform",
+    "website builder",
+    "visual website design",
+    "web development",
+    "responsive design",
+    "website hosting",
+    "drag and drop builder"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/263d9440-8fc4-5a5c-91a0-b56aa771c26b"
 }

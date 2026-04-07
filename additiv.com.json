@@ -1,11 +1,20 @@
 {
   "entity_id": "bd6d7ff4-5d2b-59bb-a376-aaaa675bb0de",
+  "public_key_id": "bd6d7ff4-5d2b-59bb-a376-aaaa675bb0de",
   "name": "additiv",
   "what_it_does": "Additiv provides wealth management technology and solutions to financial institutions.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 57.0,
+  "keywords": [
+    "wealth advisory",
+    "financial institutions",
+    "wealth",
+    "robo advisory",
+    "client engagement",
+    "investment management",
+    "financial planning"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/bd6d7ff4-5d2b-59bb-a376-aaaa675bb0de"
 }

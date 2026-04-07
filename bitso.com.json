@@ -1,11 +1,20 @@
 {
   "entity_id": "b6ffc9f9-3859-5b6d-b7c4-2efe9a668ab8",
+  "public_key_id": "b6ffc9f9-3859-5b6d-b7c4-2efe9a668ab8",
   "name": "Bitso",
   "what_it_does": "Bitso is a cryptocurrency exchange primarily serving Latin American markets.",
   "for_who": "Businesses and professionals.",
   "category": "Finance & Banque",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "Latin American crypto exchange",
+    "bitcoin trading",
+    "ethereum trading",
+    "cryptocurrency",
+    "digital assets",
+    "financial inclusion",
+    "remittances"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b6ffc9f9-3859-5b6d-b7c4-2efe9a668ab8"
 }

@@ -1,11 +1,21 @@
 {
   "entity_id": "e5b05b76-0930-5100-8a82-d5bd416f393b",
+  "public_key_id": "e5b05b76-0930-5100-8a82-d5bd416f393b",
   "name": "St. Moritz",
   "what_it_does": "St. Moritz likely provides information and booking services related to the St. Moritz resort area, possibly including restaurants and food.",
   "for_who": "Businesses and professionals.",
   "category": "Restauration & Alimentation",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "St. Moritz resort",
+    "Swiss Alps tourism",
+    "ski resort information",
+    "hotel booking",
+    "vacation packages",
+    "mountain travel",
+    "luxury travel",
+    "alpine activities"
+  ],
   "aio_score": 37.0,
   "certificate_url": "https://ai-visionary.com/aya/e/e5b05b76-0930-5100-8a82-d5bd416f393b"
 }

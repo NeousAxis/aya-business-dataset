@@ -1,11 +1,21 @@
 {
   "entity_id": "6a18576b-aac8-5bc2-bb6c-cd25b1f1fce1",
+  "public_key_id": "6a18576b-aac8-5bc2-bb6c-cd25b1f1fce1",
   "name": "gluestack",
   "what_it_does": "Gluestack (likely, given the luxury/fashion sector association, but domain indicates tech) might be a platform connecting fashion brands with suppliers or customers.",
   "for_who": "Businesses and professionals.",
   "category": "Luxe & Mode",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "fashion connection",
+    "luxury networking",
+    "brand collaboration",
+    "style integration",
+    "gluestack tech",
+    "e-commerce enablement",
+    "retail connectivity",
+    "designer partnership"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6a18576b-aac8-5bc2-bb6c-cd25b1f1fce1"
 }

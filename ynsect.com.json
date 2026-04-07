@@ -1,11 +1,21 @@
 {
   "entity_id": "02e4ab8f-618c-5ecf-abb1-7f8f866ef938",
+  "public_key_id": "02e4ab8f-618c-5ecf-abb1-7f8f866ef938",
   "name": "Ynsect",
   "what_it_does": "Ynsect farms insects to produce protein and other ingredients for animal feed and pet food.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "France",
-  "keywords": [],
-  "aio_score": 77.0,
+  "keywords": [
+    "insect protein",
+    "animal feed ingredients",
+    "pet food ingredients",
+    "insect farming",
+    "alternative protein",
+    "livestock feed",
+    "sustainable agriculture",
+    "entomophagy"
+  ],
+  "aio_score": 61.0,
   "certificate_url": "https://ai-visionary.com/aya/e/02e4ab8f-618c-5ecf-abb1-7f8f866ef938"
 }

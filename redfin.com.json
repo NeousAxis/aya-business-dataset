@@ -1,11 +1,20 @@
 {
   "entity_id": "b9bfcb56-ceb0-58b5-966b-c27c233f854a",
+  "public_key_id": "b9bfcb56-ceb0-58b5-966b-c27c233f854a",
   "name": "Redfin",
   "what_it_does": "Redfin is a real estate brokerage that uses technology to help people buy and sell homes.",
   "for_who": "Businesses and professionals.",
   "category": "Immobilier",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "web browser",
+    "open source",
+    "internet privacy",
+    "firefox",
+    "internet security",
+    "developer tools",
+    "browser extensions"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/b9bfcb56-ceb0-58b5-966b-c27c233f854a"
 }

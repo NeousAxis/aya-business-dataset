@@ -1,11 +1,21 @@
 {
   "entity_id": "eb790e2b-f456-5f19-b64b-6e929fa39fb1",
+  "public_key_id": "eb790e2b-f456-5f19-b64b-6e929fa39fb1",
   "name": "Beautiful Business & Accounting Software",
   "what_it_does": "Xero provides cloud-based accounting software for small businesses.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Canada",
-  "keywords": [],
+  "keywords": [
+    "accounting software",
+    "small accounting",
+    "cloud accounting",
+    "invoicing",
+    "bookkeeping",
+    "financial reporting",
+    "cloud-based",
+    "SME accounting"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/eb790e2b-f456-5f19-b64b-6e929fa39fb1"
 }

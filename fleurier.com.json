@@ -1,11 +1,21 @@
 {
   "entity_id": "afd3d782-2d1e-5c4d-8c50-5b164be5ab6d",
+  "public_key_id": "afd3d782-2d1e-5c4d-8c50-5b164be5ab6d",
   "name": "fleurier.com est en vente",
   "what_it_does": "fleurier.com is a domain name for sale, potentially for a business related to education or training in Fleurier.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "domain name",
+    "Fleurier",
+    "education domain",
+    "training domain",
+    "premium domain",
+    "brandable domain",
+    "short domain",
+    "website domain"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/afd3d782-2d1e-5c4d-8c50-5b164be5ab6d"
 }

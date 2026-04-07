@@ -1,11 +1,21 @@
 {
   "entity_id": "697cb5db-ff65-5f34-8899-68791c97ddf2",
+  "public_key_id": "697cb5db-ff65-5f34-8899-68791c97ddf2",
   "name": "Kit",
   "what_it_does": "Kit.com allowed users to create and share curated collections of products (service is now offline).",
   "for_who": "Businesses and professionals.",
   "category": "E-commerce & Retail",
   "location": "Global",
-  "keywords": [],
+  "keywords": [
+    "curated product collections",
+    "product recommendations",
+    "affiliate marketing",
+    "social shopping",
+    "e-commerce",
+    "online retail",
+    "product curation",
+    "shopping"
+  ],
   "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/697cb5db-ff65-5f34-8899-68791c97ddf2"
 }

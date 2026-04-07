@@ -1,11 +1,21 @@
 {
   "entity_id": "053622fc-f875-5177-9d7b-4cfc28a067ea",
+  "public_key_id": "053622fc-f875-5177-9d7b-4cfc28a067ea",
   "name": "Toshiba America",
   "what_it_does": "Toshiba America likely provides tourism and transport-related products.",
   "for_who": "Businesses and professionals.",
   "category": "Tourisme & Transport",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 55.0,
+  "keywords": [
+    "electrical equipment",
+    "electronic components",
+    "power systems",
+    "industrial products",
+    "consumer electronics",
+    "energy solutions",
+    "infrastructure projects",
+    "imaging products"
+  ],
+  "aio_score": 50.0,
   "certificate_url": "https://ai-visionary.com/aya/e/053622fc-f875-5177-9d7b-4cfc28a067ea"
 }

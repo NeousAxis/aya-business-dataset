@@ -1,11 +1,21 @@
 {
   "entity_id": "c1efd713-3c5a-5880-840f-7772059db8f5",
+  "public_key_id": "c1efd713-3c5a-5880-840f-7772059db8f5",
   "name": "Payoneer",
   "what_it_does": "Payoneer provides a global payment platform that enables businesses to send and receive cross-border payments.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "India",
-  "keywords": [],
-  "aio_score": 74.0,
+  "keywords": [
+    "cross-border payments",
+    "global payments",
+    "international money transfer",
+    "business payments",
+    "multi-currency accounts",
+    "payment processing",
+    "international transactions",
+    "global commerce"
+  ],
+  "aio_score": 69.0,
   "certificate_url": "https://ai-visionary.com/aya/e/c1efd713-3c5a-5880-840f-7772059db8f5"
 }

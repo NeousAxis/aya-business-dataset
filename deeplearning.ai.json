@@ -1,11 +1,21 @@
 {
   "entity_id": "41c47dac-d100-5555-b1d8-24b719bd50f4",
-  "name": "Start or Advance Your Career in AI",
+  "public_key_id": "41c47dac-d100-5555-b1d8-24b719bd50f4",
+  "name": "DeepLearning.AI",
   "what_it_does": "Deeplearning.ai provides online courses and educational resources focused on artificial intelligence and deep learning.",
   "for_who": "Businesses and developers.",
   "category": "Technology & SaaS",
   "location": "Global",
-  "keywords": [],
-  "aio_score": 72.0,
+  "keywords": [
+    "AI education",
+    "deep learning courses",
+    "machine learning",
+    "artificial intelligence",
+    "online learning",
+    "AI training",
+    "neural networks",
+    "AI certification"
+  ],
+  "aio_score": 69.0,
   "certificate_url": "https://ai-visionary.com/aya/e/41c47dac-d100-5555-b1d8-24b719bd50f4"
 }

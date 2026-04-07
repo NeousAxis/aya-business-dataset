@@ -1,11 +1,21 @@
 {
   "entity_id": "6c026029-d23c-5bb3-b57a-3f5d6ef73a72",
+  "public_key_id": "6c026029-d23c-5bb3-b57a-3f5d6ef73a72",
   "name": "Universität Bonn",
   "what_it_does": "Universität Bonn is a German public research university.",
   "for_who": "Students, educators, and institutions.",
   "category": "Education & Training",
   "location": "Germany",
-  "keywords": [],
+  "keywords": [
+    "German university",
+    "research university",
+    "higher education",
+    "academic programs",
+    "scientific research",
+    "university studies",
+    "Bonn education",
+    "graduate programs"
+  ],
   "aio_score": 35.0,
   "certificate_url": "https://ai-visionary.com/aya/e/6c026029-d23c-5bb3-b57a-3f5d6ef73a72"
 }

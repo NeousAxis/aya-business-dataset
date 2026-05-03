@@ -1,0 +1,12 @@
+{
+  "entity_id": "f7622e46-19b4-5a9c-9039-8c3038250941",
+  "public_key_id": "f7622e46-19b4-5a9c-9039-8c3038250941",
+  "name": "Vaccination Info Service",
+  "what_it_does": "Provides api, menu, service.",
+  "for_who": "Healthcare professionals and patients.",
+  "category": "Healthcare & Pharma",
+  "location": "France",
+  "keywords": [],
+  "aio_score": 50,
+  "certificate_url": "https://ai-visionary.com/aya/e/f7622e46-19b4-5a9c-9039-8c3038250941"
+}

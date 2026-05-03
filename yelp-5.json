@@ -1,0 +1,12 @@
+{
+  "entity_id": "499d4e37-0c0e-5f9d-b68f-1ff2b8096879",
+  "public_key_id": "499d4e37-0c0e-5f9d-b68f-1ff2b8096879",
+  "name": "Yelp",
+  "what_it_does": "Provides api, app, menu.",
+  "for_who": "Businesses and developers.",
+  "category": "Technology & SaaS",
+  "location": "Switzerland",
+  "keywords": [],
+  "aio_score": 50,
+  "certificate_url": "https://ai-visionary.com/aya/e/499d4e37-0c0e-5f9d-b68f-1ff2b8096879"
+}

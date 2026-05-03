@@ -1,0 +1,12 @@
+{
+  "entity_id": "778ec7d2-63b1-52d4-885c-4e78b17871ad",
+  "public_key_id": "778ec7d2-63b1-52d4-885c-4e78b17871ad",
+  "name": "Host1",
+  "what_it_does": "Provides api, app, service.",
+  "for_who": "Businesses and developers.",
+  "category": "Technology & SaaS",
+  "location": "Norway",
+  "keywords": [],
+  "aio_score": 40,
+  "certificate_url": "https://ai-visionary.com/aya/e/778ec7d2-63b1-52d4-885c-4e78b17871ad"
+}

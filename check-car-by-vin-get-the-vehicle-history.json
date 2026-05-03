@@ -1,0 +1,12 @@
+{
+  "entity_id": "51418ab3-a9d9-5811-ba12-e3c6e5d9766c",
+  "public_key_id": "51418ab3-a9d9-5811-ba12-e3c6e5d9766c",
+  "name": "Check car by VIN & get the vehicle history",
+  "what_it_does": "Provides service.",
+  "for_who": "Businesses and professionals.",
+  "category": "Finance & Banque",
+  "location": "Canada",
+  "keywords": [],
+  "aio_score": 50,
+  "certificate_url": "https://ai-visionary.com/aya/e/51418ab3-a9d9-5811-ba12-e3c6e5d9766c"
+}

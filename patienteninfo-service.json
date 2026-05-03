@@ -1,0 +1,12 @@
+{
+  "entity_id": "3c9452a9-faf0-5068-a57e-d513f59051e2",
+  "public_key_id": "3c9452a9-faf0-5068-a57e-d513f59051e2",
+  "name": "PatientenInfo-Service",
+  "what_it_does": "Provides service.",
+  "for_who": "Healthcare professionals and patients.",
+  "category": "Healthcare & Pharma",
+  "location": "Germany",
+  "keywords": [],
+  "aio_score": 22,
+  "certificate_url": "https://ai-visionary.com/aya/e/3c9452a9-faf0-5068-a57e-d513f59051e2"
+}

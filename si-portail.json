@@ -1,0 +1,12 @@
+{
+  "entity_id": "7d46cdbe-d33f-5fa5-8602-8bfc6f381266",
+  "public_key_id": "7d46cdbe-d33f-5fa5-8602-8bfc6f381266",
+  "name": "SI-Portail",
+  "what_it_does": "Provides api, service.",
+  "for_who": "Healthcare professionals and patients.",
+  "category": "Healthcare & Pharma",
+  "location": "France",
+  "keywords": [],
+  "aio_score": 50,
+  "certificate_url": "https://ai-visionary.com/aya/e/7d46cdbe-d33f-5fa5-8602-8bfc6f381266"
+}

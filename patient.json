@@ -1,0 +1,12 @@
+{
+  "entity_id": "a7c85b8c-4cc9-595a-8c30-eda03721480c",
+  "public_key_id": "a7c85b8c-4cc9-595a-8c30-eda03721480c",
+  "name": "Patient",
+  "what_it_does": "Provides api, app, product.",
+  "for_who": "Healthcare professionals and patients.",
+  "category": "Healthcare & Pharma",
+  "location": "Global",
+  "keywords": [],
+  "aio_score": 50,
+  "certificate_url": "https://ai-visionary.com/aya/e/a7c85b8c-4cc9-595a-8c30-eda03721480c"
+}

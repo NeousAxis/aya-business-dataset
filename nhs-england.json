@@ -1,0 +1,12 @@
+{
+  "entity_id": "b8c5f655-1e64-5282-b24a-cef9370e49fa",
+  "public_key_id": "b8c5f655-1e64-5282-b24a-cef9370e49fa",
+  "name": "NHS England",
+  "what_it_does": "Provides api, app, menu.",
+  "for_who": "Healthcare professionals and patients.",
+  "category": "Healthcare & Pharma",
+  "location": "United Kingdom",
+  "keywords": [],
+  "aio_score": 50,
+  "certificate_url": "https://ai-visionary.com/aya/e/b8c5f655-1e64-5282-b24a-cef9370e49fa"
+}

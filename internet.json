@@ -1,0 +1,12 @@
+{
+  "entity_id": "2abbd7be-e107-5a3e-84f6-d8d9720c930b",
+  "public_key_id": "2abbd7be-e107-5a3e-84f6-d8d9720c930b",
+  "name": "Internet",
+  "what_it_does": "Provides api, app, produit.",
+  "for_who": "Healthcare professionals and patients.",
+  "category": "Healthcare & Pharma",
+  "location": "Belgium",
+  "keywords": [],
+  "aio_score": 50,
+  "certificate_url": "https://ai-visionary.com/aya/e/2abbd7be-e107-5a3e-84f6-d8d9720c930b"
+}

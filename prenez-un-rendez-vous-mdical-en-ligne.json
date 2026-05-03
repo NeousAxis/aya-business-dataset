@@ -1,0 +1,12 @@
+{
+  "entity_id": "fc04a25e-6283-5a0d-a501-2ef5eab2e7ac",
+  "public_key_id": "fc04a25e-6283-5a0d-a501-2ef5eab2e7ac",
+  "name": "Prenez un rendez-vous médical en ligne",
+  "what_it_does": "Provides api, app, application.",
+  "for_who": "Healthcare professionals and patients.",
+  "category": "Healthcare & Pharma",
+  "location": "Germany",
+  "keywords": [],
+  "aio_score": 50,
+  "certificate_url": "https://ai-visionary.com/aya/e/fc04a25e-6283-5a0d-a501-2ef5eab2e7ac"
+}

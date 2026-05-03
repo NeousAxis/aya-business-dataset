@@ -1,0 +1,12 @@
+{
+  "entity_id": "2b7b2a1c-bf08-59d2-88b0-e5caa8b0dd4b",
+  "public_key_id": "2b7b2a1c-bf08-59d2-88b0-e5caa8b0dd4b",
+  "name": "Zahnärztliche Mitteilungen",
+  "what_it_does": "Provides api, app, menu.",
+  "for_who": "Healthcare professionals and patients.",
+  "category": "Healthcare & Pharma",
+  "location": "Germany",
+  "keywords": [],
+  "aio_score": 50,
+  "certificate_url": "https://ai-visionary.com/aya/e/2b7b2a1c-bf08-59d2-88b0-e5caa8b0dd4b"
+}

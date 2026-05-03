@@ -1,0 +1,12 @@
+{
+  "entity_id": "bd5e48ef-984e-5a5e-a834-ff762f859f37",
+  "public_key_id": "bd5e48ef-984e-5a5e-a834-ff762f859f37",
+  "name": "NHS 111",
+  "what_it_does": "Provides app, service, services.",
+  "for_who": "Healthcare professionals and patients.",
+  "category": "Healthcare & Pharma",
+  "location": "United Kingdom",
+  "keywords": [],
+  "aio_score": 36,
+  "certificate_url": "https://ai-visionary.com/aya/e/bd5e48ef-984e-5a5e-a834-ff762f859f37"
+}

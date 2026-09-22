@@ -1,10 +1,10 @@
 # AYA Business Dataset
 
-Open data on **367,013 businesses** worldwide, each scored for AI readability
+Open data on **367,012 businesses** worldwide, each scored for AI readability
 (AIO score 0-100) by the [AYA Registry](https://ai-visionary.xyz/aya), operated by
 [AI Visionary](https://ai-visionary.xyz) from Geneva, Switzerland.
 
-Snapshot of 29 August 2026. 9 entities are ASR-certified, 207 countries are represented.
+Snapshot of 29 August 2026. 8 entities are ASR-certified, 207 countries are represented.
 
 ## Files
 
